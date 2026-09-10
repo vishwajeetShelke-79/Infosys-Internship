@@ -1,0 +1,1001 @@
+Record_ID,Date,Time,Zone,Area,Mobility_Demand,Trip_Count,Weather_Condition,Available_Vehicles,Delay_Minutes,Mode_of_Transportation,Latitude,Longitude,Possible_Reason
+3,2025-01-01,09:00:00,North,Malleshwaram,250,186,Sunny,110,13.8,Bus,13.00113,77.563268,Normal operating conditions
+2,2025-01-01,14:00:00,West,Nagarbhavi,128,114,Rainy,230,9.2,Car,12.952878,77.514841,Normal operating conditions
+1,2025-01-01,17:00:00,Central,Shivajinagar,256,230,Cloudy,116,6.3,Car,12.99122,77.600067,Normal operating conditions
+4,2025-01-01,19:00:00,Central,Shivajinagar,288,219,Cloudy,170,10.5,Bike,12.980078,77.604341,Normal operating conditions
+8,2025-01-02,16:00:00,North,Malleshwaram,181,149,Windy,198,0.0,Car,13.000589,77.564596,Normal operating conditions
+6,2025-01-02,17:00:00,South,Koramangala,211,158,Sunny,207,10.7,Car,12.932031,77.630102,Normal operating conditions
+7,2025-01-02,20:00:00,West,Rajajinagar,188,151,Sunny,208,15.9,Bike,12.996353,77.554195,Normal operating conditions
+5,2025-01-02,21:00:00,South,HSR Layout,257,218,Sunny,221,0.0,Metro,12.913934,77.64398,Normal operating conditions
+9,2025-01-03,17:00:00,West,Rajajinagar,267,222,Sunny,197,6.6,Bus,12.988286,77.551411,Normal operating conditions
+11,2025-01-03,19:00:00,Central,Richmond Town,258,210,Sunny,199,5.5,Car,12.963152,77.602607,Normal operating conditions
+12,2025-01-03,19:00:00,North,Hebbal,245,211,Rainy,210,8.0,Bike,13.030405,77.598822,Normal operating conditions
+10,2025-01-03,21:00:00,North,Malleshwaram,167,146,Sunny,147,7.3,Car,12.997776,77.561489,Normal operating conditions
+15,2025-01-04,08:00:00,South,Koramangala,252,222,Cloudy,207,9.0,Bike,12.931218,77.622595,Normal operating conditions
+16,2025-01-04,10:00:00,North,Yelahanka,217,178,Rainy,209,0.0,Scooter,13.100759,77.595918,Normal operating conditions
+13,2025-01-04,14:00:00,West,Rajajinagar,118,98,Cloudy,168,8.0,Car,12.990266,77.553942,Normal operating conditions
+14,2025-01-04,21:00:00,West,Nagarbhavi,198,151,Windy,200,11.8,Bus,12.95755,77.505062,Normal operating conditions
+20,2025-01-05,06:00:00,North,Hebbal,188,157,Sunny,205,10.6,Bus,13.040032,77.592122,Normal operating conditions
+18,2025-01-05,10:00:00,Central,Shivajinagar,235,215,Cloudy,136,10.3,Car,12.982851,77.609268,Normal operating conditions
+19,2025-01-05,16:00:00,North,Hebbal,215,187,Sunny,139,9.4,Metro,13.033202,77.593016,Normal operating conditions
+17,2025-01-05,19:00:00,North,Yelahanka,177,139,Windy,164,11.7,Car,13.095985,77.592295,Normal operating conditions
+24,2025-01-06,08:00:00,North,Malleshwaram,272,223,Rainy,168,7.6,Scooter,13.001386,77.566204,Normal operating conditions
+22,2025-01-06,08:00:00,South,Jayanagar,306,263,Sunny,215,9.4,Metro,12.935002,77.594651,Normal operating conditions
+21,2025-01-06,09:00:00,Central,Richmond Town,300,261,Sunny,101,9.8,Scooter,12.963692,77.594401,Normal operating conditions
+23,2025-01-06,16:00:00,East,Marathahalli,235,183,Cloudy,219,7.3,Scooter,12.964386,77.695045,Normal operating conditions
+26,2025-01-07,12:00:00,North,Hebbal,143,104,Cloudy,96,9.0,Bike,13.034904,77.599463,Normal operating conditions
+27,2025-01-07,16:00:00,North,Yelahanka,207,170,Sunny,121,3.6,Metro,13.105914,77.598651,Normal operating conditions
+25,2025-01-07,21:00:00,North,Hebbal,181,165,Sunny,93,13.6,Car,13.036962,77.596627,Normal operating conditions
+28,2025-01-07,21:00:00,North,Malleshwaram,189,144,Sunny,223,10.8,Car,12.998327,77.569861,Normal operating conditions
+30,2025-01-08,06:00:00,Central,MG Road,227,184,Cloudy,102,7.7,Scooter,12.979153,77.610043,Normal operating conditions
+31,2025-01-08,08:00:00,East,Whitefield,319,280,Cloudy,145,6.9,Bike,12.971927,77.74754,Normal operating conditions
+29,2025-01-08,18:00:00,West,Rajajinagar,205,170,Sunny,107,4.9,Bus,12.991396,77.557834,Normal operating conditions
+32,2025-01-08,19:00:00,West,Vijayanagar,223,173,Rainy,189,5.7,Scooter,12.974062,77.542555,Normal operating conditions
+36,2025-01-09,07:00:00,East,Indiranagar,268,215,Windy,174,11.8,Bike,12.981418,77.641135,Normal operating conditions
+34,2025-01-09,10:00:00,North,Yelahanka,212,175,Cloudy,173,12.7,Bus,13.102491,77.59796,Normal operating conditions
+33,2025-01-09,14:00:00,West,Rajajinagar,110,83,Sunny,178,5.6,Bike,12.995821,77.548246,Normal operating conditions
+35,2025-01-09,21:00:00,North,Hebbal,174,154,Cloudy,160,6.5,Car,13.041585,77.592426,Normal operating conditions
+37,2025-01-10,08:00:00,East,Indiranagar,328,250,Sunny,227,7.4,Metro,12.977412,77.646416,Normal operating conditions
+39,2025-01-10,08:00:00,West,Rajajinagar,201,149,Sunny,157,8.5,Car,12.989914,77.55422,Normal operating conditions
+38,2025-01-10,17:00:00,West,Nagarbhavi,299,249,Rainy,144,4.4,Metro,12.960822,77.505647,Normal operating conditions
+40,2025-01-10,19:00:00,North,Hebbal,208,180,Sunny,181,10.7,Bike,13.040271,77.599297,Normal operating conditions
+43,2025-01-11,06:00:00,South,HSR Layout,207,162,Sunny,95,7.9,Bike,12.906394,77.635295,Normal operating conditions
+42,2025-01-11,10:00:00,South,Koramangala,252,225,Sunny,195,6.5,Metro,12.930528,77.618796,Normal operating conditions
+41,2025-01-11,17:00:00,East,Marathahalli,253,197,Sunny,106,5.7,Bike,12.954458,77.700952,Normal operating conditions
+44,2025-01-11,18:00:00,Central,Richmond Town,240,188,Foggy,179,11.1,Car,12.955445,77.595952,Normal operating conditions
+45,2025-01-12,06:00:00,North,Malleshwaram,163,137,Windy,170,6.4,Car,13.007075,77.56892,Normal operating conditions
+48,2025-01-12,10:00:00,South,Jayanagar,279,217,Rainy,121,7.2,Metro,12.926351,77.597887,Normal operating conditions
+47,2025-01-12,12:00:00,South,HSR Layout,173,155,Sunny,201,7.6,Metro,12.910637,77.638217,Normal operating conditions
+46,2025-01-12,19:00:00,West,Rajajinagar,243,217,Windy,185,14.3,Bus,12.992162,77.548656,Normal operating conditions
+49,2025-01-13,06:00:00,North,Yelahanka,188,143,Cloudy,177,11.2,Car,13.097571,77.592284,Normal operating conditions
+50,2025-01-13,08:00:00,Central,Richmond Town,285,207,Cloudy,120,13.4,Bike,12.961831,77.600307,Normal operating conditions
+52,2025-01-13,14:00:00,West,Vijayanagar,114,100,Sunny,151,16.3,Metro,12.966052,77.544842,Normal operating conditions
+51,2025-01-13,19:00:00,West,Rajajinagar,172,125,Foggy,167,6.8,Car,12.988051,77.553392,Normal operating conditions
+55,2025-01-14,08:00:00,North,Yelahanka,246,218,Windy,112,12.4,Metro,13.095557,77.601927,Normal operating conditions
+54,2025-01-14,09:00:00,North,Yelahanka,247,205,Sunny,160,9.4,Scooter,13.10185,77.594381,Normal operating conditions
+56,2025-01-14,10:00:00,West,Vijayanagar,138,120,Sunny,223,4.4,Car,12.974156,77.547975,Normal operating conditions
+53,2025-01-14,17:00:00,East,Indiranagar,283,242,Sunny,228,16.1,Scooter,12.979664,77.637646,Normal operating conditions
+58,2025-01-15,08:00:00,East,Marathahalli,237,204,Windy,192,12.8,Car,12.960379,77.703398,Normal operating conditions
+59,2025-01-15,10:00:00,South,Koramangala,186,148,Sunny,141,6.6,Car,12.933177,77.624802,Normal operating conditions
+60,2025-01-15,17:00:00,North,Malleshwaram,252,191,Rainy,169,3.8,Bus,13.006743,77.566133,Normal operating conditions
+57,2025-01-15,19:00:00,South,Koramangala,242,177,Foggy,210,6.2,Bike,12.934373,77.628246,Normal operating conditions
+63,2025-01-16,06:00:00,East,Marathahalli,207,173,Cloudy,168,2.1,Bike,12.960649,77.691631,Normal operating conditions
+61,2025-01-16,06:00:00,North,Hebbal,152,131,Foggy,223,13.8,Bus,13.031582,77.597188,Normal operating conditions
+62,2025-01-16,07:00:00,Central,Richmond Town,293,254,Sunny,229,2.6,Scooter,12.962265,77.598958,Normal operating conditions
+64,2025-01-16,17:00:00,North,Yelahanka,218,199,Rainy,130,8.1,Car,13.10507,77.600142,Normal operating conditions
+67,2025-01-17,12:00:00,South,Jayanagar,201,152,Sunny,189,11.9,Metro,12.932326,77.590977,Normal operating conditions
+68,2025-01-17,14:00:00,Central,Richmond Town,221,167,Sunny,227,8.9,Bus,12.956905,77.601369,Normal operating conditions
+66,2025-01-17,19:00:00,Central,Richmond Town,329,296,Rainy,131,13.2,Car,12.965673,77.602856,Normal operating conditions
+65,2025-01-17,20:00:00,Central,MG Road,300,232,Sunny,230,10.8,Scooter,12.973414,77.60815,Normal operating conditions
+71,2025-01-18,09:00:00,East,Marathahalli,283,231,Sunny,173,6.5,Car,12.962458,77.699188,Normal operating conditions
+70,2025-01-18,12:00:00,Central,Richmond Town,192,147,Sunny,167,6.6,Bike,12.956484,77.594344,Normal operating conditions
+69,2025-01-18,12:00:00,West,Vijayanagar,137,99,Cloudy,131,3.6,Scooter,12.969831,77.546498,Normal operating conditions
+72,2025-01-18,18:00:00,Central,Shivajinagar,387,306,Sunny,120,5.3,Metro,12.98779,77.609421,Normal operating conditions
+74,2025-01-19,07:00:00,North,Malleshwaram,266,235,Sunny,112,7.2,Metro,12.997537,77.566429,Normal operating conditions
+75,2025-01-19,08:00:00,South,HSR Layout,264,220,Sunny,219,9.1,Scooter,12.912639,77.637292,Normal operating conditions
+76,2025-01-19,14:00:00,South,Jayanagar,168,148,Sunny,140,4.4,Bus,12.934544,77.591569,Normal operating conditions
+73,2025-01-19,17:00:00,North,Hebbal,210,180,Sunny,181,11.2,Car,13.035673,77.600622,Normal operating conditions
+78,2025-01-20,08:00:00,West,Rajajinagar,212,171,Cloudy,122,15.1,Scooter,12.991289,77.555927,Normal operating conditions
+80,2025-01-20,09:00:00,West,Nagarbhavi,230,191,Sunny,126,0.0,Metro,12.952304,77.508921,Normal operating conditions
+79,2025-01-20,10:00:00,South,Koramangala,259,200,Rainy,203,6.4,Metro,12.929394,77.623368,Normal operating conditions
+77,2025-01-20,21:00:00,East,Marathahalli,288,255,Rainy,194,0.0,Metro,12.959609,77.698132,Normal operating conditions
+84,2025-01-21,06:00:00,Central,Shivajinagar,250,187,Sunny,154,10.0,Scooter,12.985606,77.601835,Normal operating conditions
+83,2025-01-21,17:00:00,North,Malleshwaram,197,167,Sunny,180,10.9,Car,13.003163,77.561442,Normal operating conditions
+81,2025-01-21,18:00:00,Central,Shivajinagar,369,295,Cloudy,192,11.1,Metro,12.98937,77.606077,Normal operating conditions
+82,2025-01-21,19:00:00,West,Nagarbhavi,223,191,Sunny,114,9.6,Metro,12.951101,77.514842,Normal operating conditions
+86,2025-01-22,06:00:00,North,Yelahanka,220,187,Rainy,120,8.8,Bike,13.096727,77.596867,Normal operating conditions
+88,2025-01-22,07:00:00,West,Nagarbhavi,263,218,Cloudy,138,8.5,Metro,12.959962,77.515092,Normal operating conditions
+85,2025-01-22,14:00:00,West,Nagarbhavi,121,108,Rainy,211,12.2,Car,12.961979,77.512298,Normal operating conditions
+87,2025-01-22,21:00:00,South,HSR Layout,204,168,Sunny,207,3.9,Bike,12.911647,77.636625,Normal operating conditions
+91,2025-01-23,06:00:00,West,Vijayanagar,182,133,Sunny,197,14.8,Bike,12.966468,77.55009,Normal operating conditions
+90,2025-01-23,07:00:00,East,Marathahalli,340,291,Cloudy,223,12.0,Metro,12.963122,77.698676,Normal operating conditions
+92,2025-01-23,09:00:00,West,Nagarbhavi,148,126,Foggy,210,5.7,Car,12.960224,77.515327,Normal operating conditions
+89,2025-01-23,12:00:00,Central,MG Road,172,131,Foggy,208,6.5,Scooter,12.972443,77.603447,Normal operating conditions
+95,2025-01-24,09:00:00,South,HSR Layout,300,267,Sunny,221,15.3,Bus,12.908393,77.64209,Normal operating conditions
+93,2025-01-24,12:00:00,South,HSR Layout,189,155,Cloudy,155,6.9,Metro,12.905776,77.637886,Normal operating conditions
+96,2025-01-24,18:00:00,North,Yelahanka,265,237,Sunny,195,6.3,Scooter,13.104288,77.597269,Normal operating conditions
+94,2025-01-24,19:00:00,South,HSR Layout,231,189,Cloudy,95,7.6,Bike,12.913862,77.63932,Normal operating conditions
+98,2025-01-25,12:00:00,West,Nagarbhavi,130,103,Cloudy,176,11.3,Car,12.955629,77.505427,Normal operating conditions
+100,2025-01-25,18:00:00,North,Malleshwaram,199,162,Foggy,97,13.1,Bike,13.005255,77.558695,Normal operating conditions
+99,2025-01-25,21:00:00,Central,Richmond Town,245,202,Sunny,225,16.9,Scooter,12.966534,77.602913,Normal operating conditions
+97,2025-01-25,21:00:00,West,Nagarbhavi,154,130,Windy,213,8.5,Car,12.953362,77.504708,Normal operating conditions
+104,2025-01-26,08:00:00,East,Marathahalli,332,292,Rainy,105,12.1,Scooter,12.964181,77.692431,Normal operating conditions
+102,2025-01-26,08:00:00,South,Jayanagar,291,231,Cloudy,173,6.8,Bus,12.928331,77.590518,Normal operating conditions
+101,2025-01-26,17:00:00,East,Whitefield,244,214,Sunny,144,3.2,Car,12.968636,77.749043,Normal operating conditions
+103,2025-01-26,20:00:00,North,Malleshwaram,223,188,Cloudy,128,5.7,Car,13.004936,77.569853,Normal operating conditions
+108,2025-01-27,07:00:00,West,Rajajinagar,172,129,Cloudy,194,13.0,Car,12.997204,77.54668,Normal operating conditions
+105,2025-01-27,08:00:00,Central,Shivajinagar,345,296,Sunny,228,9.1,Metro,12.985102,77.599683,Normal operating conditions
+106,2025-01-27,08:00:00,East,Whitefield,360,308,Rainy,137,6.5,Scooter,12.973474,77.753142,Normal operating conditions
+107,2025-01-27,16:00:00,North,Malleshwaram,165,129,Windy,97,7.5,Car,13.002357,77.567199,Normal operating conditions
+109,2025-01-28,06:00:00,South,Koramangala,215,159,Cloudy,104,10.4,Car,12.937719,77.627149,Normal operating conditions
+112,2025-01-28,08:00:00,North,Hebbal,271,234,Cloudy,198,7.3,Metro,13.040383,77.598637,Normal operating conditions
+111,2025-01-28,09:00:00,Central,Shivajinagar,380,292,Rainy,133,5.6,Bus,12.984461,77.610541,Normal operating conditions
+110,2025-01-28,12:00:00,West,Nagarbhavi,169,139,Rainy,131,2.3,Metro,12.957745,77.511779,Normal operating conditions
+114,2025-01-29,07:00:00,West,Nagarbhavi,264,229,Windy,144,8.1,Bus,12.959406,77.511317,Normal operating conditions
+116,2025-01-29,09:00:00,East,Marathahalli,296,215,Windy,199,0.0,Bus,12.960011,77.700225,Normal operating conditions
+113,2025-01-29,10:00:00,North,Yelahanka,203,184,Cloudy,202,8.1,Scooter,13.105881,77.592733,Normal operating conditions
+115,2025-01-29,20:00:00,Central,MG Road,410,305,Rainy,130,1.5,Metro,12.97081,77.605646,Normal operating conditions
+117,2025-01-30,10:00:00,East,Marathahalli,330,238,Rainy,191,10.2,Metro,12.963353,77.696724,Normal operating conditions
+119,2025-01-30,12:00:00,East,Marathahalli,182,165,Cloudy,102,4.1,Scooter,12.954836,77.699912,Normal operating conditions
+118,2025-01-30,12:00:00,West,Rajajinagar,167,124,Cloudy,125,8.5,Metro,12.988454,77.557982,Normal operating conditions
+120,2025-01-30,19:00:00,West,Rajajinagar,222,175,Sunny,209,3.8,Metro,12.994562,77.556931,Normal operating conditions
+124,2025-01-31,06:00:00,East,Marathahalli,250,218,Foggy,108,10.6,Metro,12.960011,77.692883,Normal operating conditions
+121,2025-01-31,10:00:00,West,Nagarbhavi,169,142,Sunny,110,11.7,Bike,12.962202,77.506652,Normal operating conditions
+123,2025-01-31,12:00:00,West,Vijayanagar,133,106,Sunny,116,11.5,Scooter,12.966534,77.546843,Normal operating conditions
+122,2025-01-31,18:00:00,Central,Richmond Town,344,290,Sunny,206,15.8,Bus,12.955693,77.605254,Normal operating conditions
+127,2025-02-01,08:00:00,North,Hebbal,187,157,Cloudy,119,7.9,Car,13.03348,77.596159,Normal operating conditions
+126,2025-02-01,14:00:00,North,Malleshwaram,117,94,Sunny,170,2.7,Scooter,13.003301,77.563167,Normal operating conditions
+128,2025-02-01,17:00:00,West,Rajajinagar,249,198,Sunny,145,5.4,Bus,12.994934,77.552267,Normal operating conditions
+125,2025-02-01,20:00:00,West,Vijayanagar,251,193,Sunny,210,3.8,Metro,12.974033,77.548213,Normal operating conditions
+131,2025-02-02,07:00:00,West,Vijayanagar,215,180,Cloudy,145,9.3,Car,12.967605,77.548852,Normal operating conditions
+132,2025-02-02,14:00:00,West,Vijayanagar,158,139,Rainy,117,11.6,Bus,12.970231,77.550105,Normal operating conditions
+130,2025-02-02,20:00:00,South,HSR Layout,299,251,Cloudy,180,1.1,Bus,12.910136,77.633954,Normal operating conditions
+129,2025-02-02,21:00:00,Central,Richmond Town,264,236,Sunny,151,10.7,Bus,12.962408,77.602023,Normal operating conditions
+135,2025-02-03,07:00:00,Central,MG Road,262,224,Windy,230,9.1,Car,12.97215,77.608874,Normal operating conditions
+133,2025-02-03,09:00:00,North,Yelahanka,221,192,Sunny,157,13.1,Bike,13.097281,77.594806,Normal operating conditions
+134,2025-02-03,12:00:00,East,Marathahalli,198,180,Sunny,132,8.5,Metro,12.960644,77.700507,Normal operating conditions
+136,2025-02-03,17:00:00,South,Jayanagar,285,260,Cloudy,98,0.0,Bus,12.931841,77.593375,Normal operating conditions
+137,2025-02-04,06:00:00,East,Marathahalli,256,218,Sunny,133,12.3,Bus,12.95518,77.693284,Normal operating conditions
+139,2025-02-04,08:00:00,South,Koramangala,244,204,Cloudy,222,12.5,Car,12.931117,77.629889,Normal operating conditions
+138,2025-02-04,10:00:00,South,Koramangala,208,169,Cloudy,101,7.8,Bike,12.933785,77.625683,Normal operating conditions
+140,2025-02-04,17:00:00,East,Whitefield,263,210,Sunny,227,3.2,Bike,12.973605,77.749613,Normal operating conditions
+141,2025-02-05,06:00:00,Central,MG Road,259,209,Sunny,112,5.2,Bike,12.978803,77.605349,Normal operating conditions
+142,2025-02-05,09:00:00,West,Vijayanagar,248,204,Sunny,141,6.8,Scooter,12.970501,77.549794,Normal operating conditions
+144,2025-02-05,18:00:00,South,Koramangala,237,210,Windy,152,2.5,Scooter,12.9364,77.629009,Normal operating conditions
+143,2025-02-05,19:00:00,South,HSR Layout,331,244,Cloudy,209,15.0,Metro,12.910537,77.634804,Normal operating conditions
+148,2025-02-06,09:00:00,East,Indiranagar,305,238,Windy,135,11.4,Bus,12.97614,77.640689,Normal operating conditions
+147,2025-02-06,12:00:00,West,Rajajinagar,123,105,Sunny,95,0.0,Car,12.993363,77.553647,Normal operating conditions
+146,2025-02-06,14:00:00,Central,MG Road,183,155,Sunny,217,4.9,Bike,12.980356,77.607979,Normal operating conditions
+145,2025-02-06,19:00:00,North,Malleshwaram,277,227,Rainy,134,4.8,Scooter,12.99983,77.570026,Normal operating conditions
+151,2025-02-07,07:00:00,West,Nagarbhavi,221,186,Sunny,91,9.0,Bus,12.955137,77.505292,Normal operating conditions
+152,2025-02-07,10:00:00,South,Koramangala,239,217,Sunny,165,6.0,Bus,12.931401,77.620032,Normal operating conditions
+149,2025-02-07,12:00:00,West,Vijayanagar,112,97,Windy,134,4.8,Bike,12.970643,77.544004,Normal operating conditions
+150,2025-02-07,19:00:00,West,Vijayanagar,194,163,Cloudy,130,5.1,Scooter,12.968778,77.54471,Normal operating conditions
+154,2025-02-08,14:00:00,South,HSR Layout,137,120,Foggy,202,0.0,Bike,12.916052,77.636917,Normal operating conditions
+153,2025-02-08,16:00:00,North,Malleshwaram,172,132,Cloudy,114,5.7,Bike,12.999022,77.567785,Normal operating conditions
+156,2025-02-08,18:00:00,South,Koramangala,236,180,Cloudy,142,10.9,Bike,12.934673,77.623997,Normal operating conditions
+155,2025-02-08,20:00:00,South,HSR Layout,347,270,Cloudy,210,14.0,Bus,12.915386,77.635984,Normal operating conditions
+158,2025-02-09,08:00:00,Central,MG Road,366,292,Cloudy,227,13.6,Bus,12.975431,77.606944,Normal operating conditions
+160,2025-02-09,08:00:00,South,HSR Layout,262,227,Cloudy,99,5.3,Scooter,12.912557,77.641946,Normal operating conditions
+157,2025-02-09,09:00:00,South,Jayanagar,273,206,Windy,173,8.3,Bus,12.928705,77.596912,Normal operating conditions
+159,2025-02-09,17:00:00,West,Nagarbhavi,254,218,Cloudy,186,11.8,Metro,12.961099,77.51253,Normal operating conditions
+161,2025-02-10,14:00:00,East,Whitefield,228,184,Rainy,122,12.5,Scooter,12.969922,77.750882,Normal operating conditions
+163,2025-02-10,17:00:00,West,Nagarbhavi,218,167,Sunny,195,5.1,Metro,12.951306,77.514655,Normal operating conditions
+162,2025-02-10,19:00:00,North,Malleshwaram,261,226,Sunny,168,5.0,Bus,13.002127,77.568217,Normal operating conditions
+164,2025-02-10,21:00:00,West,Nagarbhavi,207,164,Cloudy,219,8.9,Metro,12.951103,77.514989,Normal operating conditions
+167,2025-02-11,09:00:00,Central,MG Road,314,256,Sunny,190,6.3,Scooter,12.976315,77.601874,Normal operating conditions
+168,2025-02-11,09:00:00,East,Whitefield,278,205,Sunny,229,1.1,Car,12.96905,77.752194,Normal operating conditions
+165,2025-02-11,09:00:00,South,HSR Layout,254,205,Sunny,224,6.5,Car,12.917045,77.639748,Normal operating conditions
+166,2025-02-11,17:00:00,West,Rajajinagar,240,214,Cloudy,181,19.8,Scooter,12.994966,77.557012,Normal operating conditions
+170,2025-02-12,12:00:00,Central,Shivajinagar,156,115,Sunny,90,11.9,Scooter,12.984964,77.608516,Normal operating conditions
+172,2025-02-12,12:00:00,East,Marathahalli,197,145,Cloudy,121,6.5,Bus,12.954586,77.69295,Normal operating conditions
+169,2025-02-12,14:00:00,Central,MG Road,172,146,Sunny,178,3.8,Scooter,12.97939,77.610042,Normal operating conditions
+171,2025-02-12,16:00:00,Central,Shivajinagar,290,246,Cloudy,115,12.3,Scooter,12.989967,77.601999,Normal operating conditions
+175,2025-02-13,06:00:00,Central,Shivajinagar,295,256,Cloudy,179,15.2,Bus,12.987498,77.603752,Normal operating conditions
+174,2025-02-13,07:00:00,West,Rajajinagar,247,199,Sunny,208,13.6,Scooter,12.995124,77.554208,Normal operating conditions
+176,2025-02-13,14:00:00,Central,Shivajinagar,224,193,Cloudy,155,9.1,Scooter,12.985706,77.604629,Normal operating conditions
+173,2025-02-13,16:00:00,East,Indiranagar,232,210,Foggy,115,14.3,Bus,12.980946,77.64424,Normal operating conditions
+177,2025-02-14,07:00:00,West,Vijayanagar,236,170,Sunny,133,10.8,Bus,12.974261,77.546942,Normal operating conditions
+179,2025-02-14,14:00:00,East,Whitefield,184,154,Windy,111,1.2,Bike,12.965069,77.747107,Normal operating conditions
+180,2025-02-14,14:00:00,West,Rajajinagar,160,123,Windy,169,8.4,Metro,12.992112,77.547667,Normal operating conditions
+178,2025-02-14,21:00:00,East,Marathahalli,225,197,Sunny,201,11.5,Car,12.956313,77.695279,Normal operating conditions
+184,2025-02-15,09:00:00,South,Koramangala,233,196,Sunny,140,8.8,Car,12.939198,77.623304,Normal operating conditions
+182,2025-02-15,10:00:00,South,Jayanagar,253,193,Sunny,156,17.2,Bus,12.934317,77.590445,Normal operating conditions
+183,2025-02-15,12:00:00,West,Rajajinagar,152,138,Rainy,169,8.0,Scooter,12.99016,77.546335,Normal operating conditions
+181,2025-02-15,17:00:00,West,Nagarbhavi,204,170,Sunny,98,14.1,Scooter,12.951417,77.505956,Normal operating conditions
+186,2025-02-16,18:00:00,North,Malleshwaram,259,221,Cloudy,186,7.5,Bus,13.00317,77.570203,Normal operating conditions
+187,2025-02-16,18:00:00,South,HSR Layout,313,248,Sunny,186,7.7,Bus,12.909199,77.63406,Normal operating conditions
+185,2025-02-16,20:00:00,South,Jayanagar,342,291,Windy,121,7.5,Metro,12.928167,77.597948,Normal operating conditions
+188,2025-02-16,21:00:00,South,HSR Layout,255,184,Sunny,212,5.4,Metro,12.914371,77.633598,Normal operating conditions
+191,2025-02-17,09:00:00,South,Koramangala,250,189,Sunny,148,15.6,Scooter,12.939947,77.621656,Normal operating conditions
+192,2025-02-17,16:00:00,South,Jayanagar,184,151,Sunny,227,8.4,Car,12.932221,77.594541,Normal operating conditions
+189,2025-02-17,18:00:00,North,Yelahanka,242,200,Sunny,165,11.5,Bike,13.098682,77.598533,Normal operating conditions
+190,2025-02-17,21:00:00,West,Vijayanagar,162,129,Sunny,156,10.3,Bike,12.967819,77.544959,Normal operating conditions
+193,2025-02-18,08:00:00,West,Vijayanagar,256,196,Sunny,197,6.3,Metro,12.971668,77.542102,Normal operating conditions
+196,2025-02-18,09:00:00,South,Jayanagar,270,211,Windy,196,7.3,Bus,12.932756,77.596189,Normal operating conditions
+194,2025-02-18,18:00:00,Central,MG Road,288,209,Windy,189,9.9,Bike,12.973748,77.603809,Normal operating conditions
+195,2025-02-18,21:00:00,North,Malleshwaram,205,164,Rainy,163,7.7,Bike,13.007645,77.568345,Normal operating conditions
+200,2025-02-19,08:00:00,East,Indiranagar,417,303,Rainy,165,6.8,Metro,12.983842,77.643723,Normal operating conditions
+197,2025-02-19,08:00:00,South,Jayanagar,261,191,Cloudy,102,8.4,Car,12.930638,77.593452,Normal operating conditions
+199,2025-02-19,14:00:00,South,Koramangala,160,132,Sunny,208,7.5,Scooter,12.939001,77.620135,Normal operating conditions
+198,2025-02-19,16:00:00,West,Rajajinagar,197,173,Cloudy,127,11.9,Bus,12.989995,77.549193,Normal operating conditions
+204,2025-02-20,12:00:00,East,Whitefield,195,147,Rainy,125,5.4,Car,12.973866,77.753989,Normal operating conditions
+201,2025-02-20,14:00:00,Central,MG Road,239,218,Sunny,190,5.3,Bus,12.978687,77.601122,Normal operating conditions
+203,2025-02-20,17:00:00,South,Koramangala,343,252,Cloudy,229,11.6,Metro,12.93248,77.626442,Normal operating conditions
+202,2025-02-20,19:00:00,Central,Shivajinagar,276,209,Sunny,146,19.0,Car,12.989151,77.602403,Normal operating conditions
+206,2025-02-21,09:00:00,North,Yelahanka,290,236,Rainy,182,6.0,Scooter,13.104843,77.594479,Normal operating conditions
+207,2025-02-21,10:00:00,West,Vijayanagar,167,122,Rainy,226,14.2,Car,12.969773,77.545717,Normal operating conditions
+205,2025-02-21,19:00:00,East,Marathahalli,323,271,Sunny,154,7.6,Metro,12.962462,77.696754,Normal operating conditions
+208,2025-02-21,20:00:00,West,Rajajinagar,214,193,Sunny,98,3.6,Scooter,12.992043,77.55742,Normal operating conditions
+210,2025-02-22,07:00:00,Central,Shivajinagar,357,278,Cloudy,162,12.3,Bus,12.983579,77.602815,Normal operating conditions
+212,2025-02-22,12:00:00,West,Vijayanagar,106,78,Sunny,171,5.5,Bike,12.971787,77.547719,Normal operating conditions
+209,2025-02-22,14:00:00,East,Whitefield,198,151,Windy,116,9.1,Bus,12.975134,77.750963,Normal operating conditions
+211,2025-02-22,21:00:00,Central,MG Road,279,237,Cloudy,141,5.7,Metro,12.978825,77.608015,Normal operating conditions
+215,2025-02-23,17:00:00,South,HSR Layout,245,193,Windy,224,8.9,Scooter,12.908265,77.644332,Normal operating conditions
+213,2025-02-23,19:00:00,North,Malleshwaram,273,199,Sunny,146,8.8,Bus,13.00182,77.570253,Normal operating conditions
+216,2025-02-23,19:00:00,North,Malleshwaram,266,215,Cloudy,95,6.0,Bike,12.99786,77.559858,Normal operating conditions
+214,2025-02-23,19:00:00,West,Nagarbhavi,244,179,Cloudy,199,10.1,Bus,12.952565,77.508502,Normal operating conditions
+217,2025-02-24,06:00:00,Central,Richmond Town,271,217,Cloudy,211,5.5,Car,12.963987,77.601323,Normal operating conditions
+218,2025-02-24,07:00:00,South,Koramangala,296,251,Sunny,147,10.1,Metro,12.931414,77.62417,Normal operating conditions
+220,2025-02-24,08:00:00,West,Rajajinagar,255,225,Sunny,123,8.1,Metro,12.99689,77.555368,Normal operating conditions
+219,2025-02-24,19:00:00,South,Koramangala,326,283,Sunny,99,5.6,Bus,12.930426,77.624072,Normal operating conditions
+222,2025-02-25,09:00:00,North,Malleshwaram,283,252,Sunny,186,1.8,Bus,13.003279,77.565904,Normal operating conditions
+221,2025-02-25,10:00:00,West,Rajajinagar,220,177,Rainy,163,10.7,Scooter,12.989544,77.549051,Normal operating conditions
+223,2025-02-25,20:00:00,East,Marathahalli,272,210,Cloudy,215,7.4,Car,12.954632,77.693941,Normal operating conditions
+224,2025-02-25,20:00:00,South,Jayanagar,271,225,Windy,174,9.0,Scooter,12.928617,77.597824,Normal operating conditions
+225,2025-02-26,08:00:00,East,Marathahalli,332,254,Sunny,135,10.6,Metro,12.962546,77.695864,Normal operating conditions
+226,2025-02-26,14:00:00,East,Whitefield,146,106,Cloudy,206,3.2,Car,12.968557,77.745558,Normal operating conditions
+227,2025-02-26,20:00:00,South,Jayanagar,322,250,Sunny,101,10.9,Metro,12.9313,77.595698,Normal operating conditions
+228,2025-02-26,21:00:00,North,Yelahanka,204,168,Sunny,224,9.1,Bike,13.099483,77.596123,Normal operating conditions
+231,2025-02-27,06:00:00,South,Jayanagar,305,254,Rainy,133,15.6,Metro,12.929725,77.595087,Normal operating conditions
+229,2025-02-27,07:00:00,South,HSR Layout,302,225,Rainy,161,10.4,Bike,12.917257,77.642687,Normal operating conditions
+230,2025-02-27,09:00:00,Central,Richmond Town,328,298,Windy,171,15.8,Scooter,12.956151,77.601535,Normal operating conditions
+232,2025-02-27,16:00:00,South,HSR Layout,256,224,Foggy,109,4.8,Metro,12.914194,77.633514,Normal operating conditions
+235,2025-02-28,06:00:00,Central,MG Road,187,158,Foggy,100,7.6,Bike,12.970406,77.609713,Normal operating conditions
+233,2025-02-28,14:00:00,East,Whitefield,213,194,Sunny,190,15.1,Metro,12.972428,77.744641,Normal operating conditions
+236,2025-02-28,16:00:00,East,Indiranagar,283,237,Sunny,94,8.7,Bike,12.984382,77.641109,Normal operating conditions
+234,2025-02-28,21:00:00,West,Rajajinagar,195,169,Cloudy,91,5.8,Bus,12.996902,77.554917,Normal operating conditions
+237,2025-03-01,09:00:00,Central,Shivajinagar,367,300,Rainy,129,8.9,Bike,12.980605,77.600945,Normal operating conditions
+240,2025-03-01,10:00:00,North,Hebbal,188,139,Sunny,181,16.4,Bike,13.037084,77.59511,Normal operating conditions
+238,2025-03-01,16:00:00,East,Indiranagar,279,218,Sunny,99,14.7,Metro,12.977663,77.645195,Normal operating conditions
+239,2025-03-01,20:00:00,West,Rajajinagar,265,238,Cloudy,114,5.0,Bus,12.997542,77.552707,Normal operating conditions
+244,2025-03-02,06:00:00,East,Marathahalli,253,203,Sunny,125,13.8,Scooter,12.953308,77.693553,Normal operating conditions
+242,2025-03-02,06:00:00,South,Koramangala,204,154,Windy,169,8.4,Scooter,12.934572,77.627704,Normal operating conditions
+241,2025-03-02,09:00:00,Central,MG Road,303,221,Cloudy,99,3.1,Bike,12.973701,77.610235,Normal operating conditions
+243,2025-03-02,14:00:00,East,Whitefield,162,146,Cloudy,176,11.1,Bike,12.973997,77.755691,Normal operating conditions
+248,2025-03-03,07:00:00,Central,Richmond Town,364,272,Sunny,120,12.2,Bus,12.965621,77.600288,Normal operating conditions
+247,2025-03-03,09:00:00,West,Vijayanagar,202,185,Cloudy,122,9.2,Scooter,12.976389,77.546662,Normal operating conditions
+246,2025-03-03,20:00:00,South,HSR Layout,231,176,Sunny,133,8.8,Car,12.906784,77.639397,Normal operating conditions
+245,2025-03-03,21:00:00,Central,Richmond Town,243,198,Sunny,205,11.0,Bike,12.964648,77.600182,Normal operating conditions
+251,2025-03-04,07:00:00,North,Hebbal,313,275,Sunny,196,2.7,Metro,13.040889,77.601358,Normal operating conditions
+249,2025-03-04,07:00:00,West,Nagarbhavi,203,184,Windy,215,10.2,Car,12.953895,77.506121,Normal operating conditions
+250,2025-03-04,12:00:00,North,Yelahanka,181,132,Sunny,170,2.5,Metro,13.102693,77.597643,Normal operating conditions
+252,2025-03-04,18:00:00,West,Vijayanagar,240,199,Cloudy,155,5.3,Metro,12.973167,77.549635,Normal operating conditions
+253,2025-03-05,07:00:00,Central,MG Road,368,293,Cloudy,131,1.1,Metro,12.973104,77.605416,Normal operating conditions
+256,2025-03-05,08:00:00,East,Marathahalli,344,299,Cloudy,96,0.5,Metro,12.956784,77.695701,Normal operating conditions
+254,2025-03-05,14:00:00,East,Marathahalli,269,237,Rainy,222,7.6,Bus,12.958694,77.698241,Normal operating conditions
+255,2025-03-05,21:00:00,West,Vijayanagar,143,118,Foggy,93,9.1,Car,12.977729,77.550741,Normal operating conditions
+260,2025-03-06,16:00:00,Central,Shivajinagar,226,200,Windy,103,9.1,Bike,12.98021,77.599833,Normal operating conditions
+257,2025-03-06,17:00:00,East,Whitefield,278,239,Sunny,209,11.6,Scooter,12.973059,77.748598,Normal operating conditions
+259,2025-03-06,18:00:00,Central,Richmond Town,316,228,Rainy,205,9.4,Car,12.960249,77.600726,Normal operating conditions
+258,2025-03-06,19:00:00,Central,Richmond Town,335,267,Rainy,101,5.7,Car,12.95511,77.599678,Normal operating conditions
+264,2025-03-07,08:00:00,West,Rajajinagar,207,189,Sunny,225,14.2,Bike,12.993859,77.547212,Normal operating conditions
+261,2025-03-07,12:00:00,East,Indiranagar,182,153,Windy,188,10.6,Scooter,12.973137,77.643695,Normal operating conditions
+262,2025-03-07,19:00:00,North,Malleshwaram,226,204,Cloudy,125,5.9,Scooter,13.000972,77.567211,Normal operating conditions
+263,2025-03-07,19:00:00,North,Malleshwaram,222,190,Cloudy,114,1.7,Bike,12.999075,77.566429,Normal operating conditions
+265,2025-03-08,06:00:00,North,Hebbal,217,165,Sunny,122,8.7,Bus,13.02998,77.592522,Normal operating conditions
+267,2025-03-08,10:00:00,East,Indiranagar,305,272,Rainy,171,8.1,Bus,12.974861,77.643097,Normal operating conditions
+266,2025-03-08,14:00:00,North,Malleshwaram,126,96,Cloudy,175,14.9,Car,13.009415,77.56698,Normal operating conditions
+268,2025-03-08,20:00:00,Central,MG Road,277,240,Sunny,103,2.6,Scooter,12.974469,77.607424,Normal operating conditions
+270,2025-03-09,08:00:00,North,Hebbal,262,201,Rainy,159,15.0,Bike,13.02985,77.602987,Normal operating conditions
+271,2025-03-09,12:00:00,South,Koramangala,192,161,Cloudy,99,0.5,Bus,12.931801,77.628746,Normal operating conditions
+272,2025-03-09,17:00:00,West,Nagarbhavi,253,199,Sunny,116,12.9,Bus,12.962148,77.512176,Normal operating conditions
+269,2025-03-09,20:00:00,Central,Shivajinagar,339,293,Cloudy,108,9.2,Scooter,12.980183,77.60558,Normal operating conditions
+273,2025-03-10,07:00:00,East,Indiranagar,303,227,Sunny,96,9.7,Bus,12.973205,77.644834,Normal operating conditions
+274,2025-03-10,07:00:00,South,Koramangala,291,210,Sunny,130,13.4,Scooter,12.936362,77.628112,Normal operating conditions
+276,2025-03-10,07:00:00,West,Vijayanagar,254,190,Cloudy,225,8.3,Metro,12.973951,77.542284,Normal operating conditions
+275,2025-03-10,17:00:00,Central,MG Road,376,332,Windy,154,7.3,Metro,12.977204,77.611232,Normal operating conditions
+279,2025-03-11,09:00:00,West,Nagarbhavi,271,220,Cloudy,226,7.2,Bus,12.956278,77.509397,Normal operating conditions
+277,2025-03-11,20:00:00,East,Marathahalli,331,263,Cloudy,148,10.1,Bus,12.956066,77.696801,Normal operating conditions
+278,2025-03-11,20:00:00,East,Marathahalli,273,248,Sunny,134,7.6,Bike,12.961056,77.698926,Normal operating conditions
+280,2025-03-11,20:00:00,North,Hebbal,281,253,Sunny,168,6.4,Metro,13.034691,77.599773,Normal operating conditions
+282,2025-03-12,07:00:00,North,Yelahanka,257,217,Cloudy,130,10.0,Metro,13.101901,77.596042,Normal operating conditions
+284,2025-03-12,07:00:00,South,Jayanagar,326,260,Sunny,148,9.7,Bus,12.926929,77.588132,Normal operating conditions
+283,2025-03-12,20:00:00,North,Yelahanka,307,246,Cloudy,193,4.5,Metro,13.097547,77.593345,Normal operating conditions
+281,2025-03-12,20:00:00,South,HSR Layout,262,202,Sunny,128,8.5,Car,12.910911,77.6388,Normal operating conditions
+288,2025-03-13,06:00:00,North,Yelahanka,176,137,Cloudy,192,4.2,Bike,13.106176,77.591984,Normal operating conditions
+285,2025-03-13,12:00:00,Central,Richmond Town,226,179,Sunny,190,0.0,Metro,12.962094,77.597339,Normal operating conditions
+286,2025-03-13,14:00:00,North,Hebbal,155,120,Sunny,199,7.3,Car,13.03995,77.591891,Normal operating conditions
+287,2025-03-13,17:00:00,East,Indiranagar,303,242,Cloudy,132,0.0,Scooter,12.978669,77.642292,Normal operating conditions
+289,2025-03-14,10:00:00,South,HSR Layout,262,235,Rainy,101,9.3,Car,12.914575,77.635432,Normal operating conditions
+290,2025-03-14,12:00:00,North,Hebbal,139,123,Sunny,152,9.9,Bike,13.033461,77.598202,Normal operating conditions
+292,2025-03-14,12:00:00,West,Nagarbhavi,161,134,Sunny,167,4.2,Bus,12.95303,77.508858,Normal operating conditions
+291,2025-03-14,19:00:00,East,Whitefield,301,237,Windy,212,7.6,Bus,12.970004,77.750076,Normal operating conditions
+293,2025-03-15,08:00:00,North,Malleshwaram,230,192,Sunny,153,8.7,Car,13.007936,77.561665,Normal operating conditions
+295,2025-03-15,16:00:00,South,Koramangala,214,155,Sunny,91,8.0,Car,12.937989,77.618521,Normal operating conditions
+294,2025-03-15,18:00:00,East,Indiranagar,307,246,Cloudy,203,7.6,Bike,12.983841,77.643229,Normal operating conditions
+296,2025-03-15,21:00:00,West,Nagarbhavi,179,130,Cloudy,95,21.8,Car,12.952888,77.512643,Normal operating conditions
+299,2025-03-16,06:00:00,North,Malleshwaram,216,167,Rainy,129,6.7,Scooter,13.002451,77.562443,Normal operating conditions
+297,2025-03-16,06:00:00,West,Vijayanagar,143,130,Windy,94,0.0,Scooter,12.969297,77.54931,Normal operating conditions
+300,2025-03-16,16:00:00,South,Koramangala,237,191,Rainy,159,6.8,Bike,12.935157,77.624876,Normal operating conditions
+298,2025-03-16,18:00:00,North,Malleshwaram,248,188,Cloudy,169,3.9,Scooter,12.999564,77.561177,Normal operating conditions
+301,2025-03-17,08:00:00,North,Yelahanka,271,219,Cloudy,118,6.3,Scooter,13.094789,77.60043,Normal operating conditions
+303,2025-03-17,10:00:00,South,Koramangala,290,234,Cloudy,190,7.5,Metro,12.935805,77.620532,Normal operating conditions
+304,2025-03-17,17:00:00,South,Koramangala,251,221,Windy,99,8.2,Bike,12.938963,77.630359,Normal operating conditions
+302,2025-03-17,18:00:00,North,Yelahanka,259,191,Sunny,163,2.5,Bus,13.102616,77.597863,Normal operating conditions
+305,2025-03-18,08:00:00,East,Indiranagar,354,291,Rainy,191,6.6,Bike,12.981024,77.641077,Normal operating conditions
+307,2025-03-18,10:00:00,Central,MG Road,311,230,Rainy,215,8.4,Car,12.971637,77.601941,Normal operating conditions
+306,2025-03-18,16:00:00,West,Vijayanagar,191,158,Rainy,146,5.6,Scooter,12.97468,77.540443,Normal operating conditions
+308,2025-03-18,19:00:00,Central,Richmond Town,373,280,Rainy,185,7.7,Scooter,12.966365,77.594953,Normal operating conditions
+312,2025-03-19,07:00:00,South,HSR Layout,267,225,Sunny,185,3.2,Bike,12.908341,77.635464,Normal operating conditions
+311,2025-03-19,08:00:00,East,Whitefield,344,296,Cloudy,98,5.6,Metro,12.966071,77.744198,Normal operating conditions
+310,2025-03-19,09:00:00,North,Malleshwaram,242,208,Cloudy,214,0.0,Car,13.002326,77.568555,Normal operating conditions
+309,2025-03-19,10:00:00,East,Indiranagar,269,245,Sunny,188,5.4,Bus,12.981177,77.644008,Normal operating conditions
+315,2025-03-20,12:00:00,South,Jayanagar,162,134,Sunny,162,11.1,Car,12.926915,77.593489,Normal operating conditions
+313,2025-03-20,18:00:00,South,HSR Layout,277,246,Cloudy,182,2.7,Bike,12.917586,77.638094,Normal operating conditions
+314,2025-03-20,20:00:00,West,Rajajinagar,294,213,Rainy,101,8.3,Metro,12.996872,77.55658,Normal operating conditions
+316,2025-03-20,21:00:00,Central,MG Road,253,204,Sunny,185,7.9,Scooter,12.970105,77.608227,Normal operating conditions
+319,2025-03-21,07:00:00,Central,MG Road,340,293,Cloudy,176,11.5,Bike,12.976796,77.60778,Normal operating conditions
+320,2025-03-21,14:00:00,South,HSR Layout,201,185,Sunny,116,10.1,Metro,12.913768,77.644727,Normal operating conditions
+317,2025-03-21,17:00:00,South,Jayanagar,322,290,Rainy,140,8.3,Bike,12.931785,77.588268,Normal operating conditions
+318,2025-03-21,18:00:00,West,Nagarbhavi,213,156,Sunny,197,9.0,Bike,12.95467,77.506405,Normal operating conditions
+324,2025-03-22,07:00:00,West,Rajajinagar,265,203,Rainy,135,6.5,Scooter,12.994223,77.555208,Normal operating conditions
+322,2025-03-22,12:00:00,Central,Richmond Town,210,187,Sunny,99,5.8,Scooter,12.966792,77.600957,Normal operating conditions
+323,2025-03-22,17:00:00,West,Vijayanagar,215,167,Cloudy,105,0.0,Bike,12.970196,77.547089,Normal operating conditions
+321,2025-03-22,18:00:00,North,Yelahanka,271,236,Cloudy,124,9.5,Scooter,13.098491,77.591568,Normal operating conditions
+326,2025-03-23,12:00:00,Central,Shivajinagar,180,135,Windy,163,4.1,Car,12.98774,77.607033,Normal operating conditions
+325,2025-03-23,19:00:00,East,Indiranagar,312,260,Cloudy,203,4.7,Bus,12.978107,77.638929,Normal operating conditions
+327,2025-03-23,20:00:00,North,Yelahanka,286,239,Cloudy,175,9.2,Metro,13.094839,77.599364,Normal operating conditions
+328,2025-03-23,20:00:00,West,Nagarbhavi,221,182,Sunny,183,8.0,Bike,12.960828,77.508813,Normal operating conditions
+332,2025-03-24,08:00:00,West,Nagarbhavi,291,247,Sunny,188,0.0,Metro,12.959563,77.503984,Normal operating conditions
+331,2025-03-24,09:00:00,South,HSR Layout,272,197,Sunny,182,5.0,Bike,12.910856,77.633496,Normal operating conditions
+330,2025-03-24,21:00:00,North,Hebbal,152,117,Foggy,144,8.5,Car,13.030337,77.592326,Normal operating conditions
+329,2025-03-24,21:00:00,South,HSR Layout,241,187,Sunny,226,8.6,Scooter,12.90722,77.637258,Normal operating conditions
+336,2025-03-25,06:00:00,West,Vijayanagar,160,118,Sunny,159,7.6,Car,12.969402,77.547109,Normal operating conditions
+334,2025-03-25,10:00:00,North,Malleshwaram,184,151,Sunny,97,17.4,Bike,13.004843,77.567163,Normal operating conditions
+335,2025-03-25,14:00:00,North,Yelahanka,168,143,Sunny,222,2.7,Bus,13.105632,77.597474,Normal operating conditions
+333,2025-03-25,19:00:00,West,Nagarbhavi,210,162,Sunny,143,9.9,Bike,12.961951,77.51047,Normal operating conditions
+339,2025-03-26,10:00:00,East,Marathahalli,326,268,Rainy,118,3.4,Metro,12.958382,77.701535,Normal operating conditions
+338,2025-03-26,14:00:00,North,Malleshwaram,175,160,Windy,116,8.0,Metro,13.000275,77.561472,Normal operating conditions
+340,2025-03-26,16:00:00,North,Yelahanka,199,149,Cloudy,216,7.8,Bus,13.098247,77.598588,Normal operating conditions
+337,2025-03-26,19:00:00,North,Hebbal,237,173,Foggy,154,8.8,Scooter,13.040646,77.598808,Normal operating conditions
+342,2025-03-27,10:00:00,Central,MG Road,259,221,Cloudy,122,20.7,Car,12.974306,77.606908,Normal operating conditions
+341,2025-03-27,14:00:00,South,Jayanagar,186,166,Sunny,133,6.8,Bus,12.932233,77.587828,Normal operating conditions
+344,2025-03-27,17:00:00,North,Malleshwaram,261,208,Sunny,214,10.6,Bus,13.003862,77.568642,Normal operating conditions
+343,2025-03-27,21:00:00,South,Jayanagar,237,213,Sunny,184,5.6,Bike,12.925185,77.592514,Normal operating conditions
+347,2025-03-28,06:00:00,South,HSR Layout,281,257,Rainy,182,1.7,Bus,12.914878,77.639182,Normal operating conditions
+348,2025-03-28,09:00:00,South,Jayanagar,254,208,Windy,195,7.5,Car,12.929213,77.593723,Normal operating conditions
+345,2025-03-28,10:00:00,West,Rajajinagar,206,180,Cloudy,193,5.0,Car,12.987759,77.555955,Normal operating conditions
+346,2025-03-28,16:00:00,Central,Shivajinagar,246,193,Cloudy,178,2.3,Car,12.980334,77.604557,Normal operating conditions
+352,2025-03-29,16:00:00,Central,Richmond Town,265,224,Sunny,125,9.2,Bike,12.959389,77.605573,Normal operating conditions
+350,2025-03-29,17:00:00,East,Whitefield,390,316,Cloudy,215,0.0,Metro,12.966701,77.745888,Normal operating conditions
+349,2025-03-29,17:00:00,West,Nagarbhavi,229,183,Sunny,107,3.1,Bus,12.95466,77.511714,Normal operating conditions
+351,2025-03-29,19:00:00,West,Vijayanagar,228,170,Sunny,141,4.5,Bus,12.977421,77.541327,Normal operating conditions
+355,2025-03-30,07:00:00,West,Vijayanagar,226,189,Foggy,188,0.4,Bike,12.975542,77.543183,Normal operating conditions
+356,2025-03-30,09:00:00,West,Vijayanagar,240,182,Rainy,225,0.3,Car,12.968814,77.544278,Normal operating conditions
+353,2025-03-30,12:00:00,East,Whitefield,175,127,Sunny,225,12.2,Bus,12.973726,77.750994,Normal operating conditions
+354,2025-03-30,21:00:00,North,Yelahanka,181,143,Sunny,167,6.0,Car,13.096868,77.593024,Normal operating conditions
+358,2025-03-31,07:00:00,South,Koramangala,330,271,Sunny,143,4.2,Metro,12.932422,77.619817,Normal operating conditions
+360,2025-03-31,08:00:00,South,HSR Layout,270,247,Sunny,132,14.7,Scooter,12.911763,77.637798,Normal operating conditions
+357,2025-03-31,10:00:00,North,Hebbal,205,188,Sunny,121,11.0,Bus,13.040832,77.601596,Normal operating conditions
+359,2025-03-31,14:00:00,West,Rajajinagar,133,109,Sunny,168,10.4,Scooter,12.993618,77.550494,Normal operating conditions
+364,2025-04-01,09:00:00,East,Indiranagar,381,341,Sunny,113,6.2,Metro,12.97969,77.64178,Normal operating conditions
+363,2025-04-01,10:00:00,Central,Richmond Town,279,218,Sunny,130,7.3,Bus,12.964743,77.604821,Normal operating conditions
+362,2025-04-01,10:00:00,East,Indiranagar,279,217,Sunny,93,4.9,Bus,12.981309,77.641977,Normal operating conditions
+361,2025-04-01,21:00:00,South,HSR Layout,219,179,Windy,214,5.7,Scooter,12.914556,77.637486,Normal operating conditions
+367,2025-04-02,07:00:00,East,Marathahalli,309,265,Foggy,183,6.9,Bus,12.964063,77.702123,Normal operating conditions
+365,2025-04-02,07:00:00,West,Vijayanagar,210,185,Cloudy,175,6.4,Car,12.973249,77.550527,Normal operating conditions
+368,2025-04-02,19:00:00,East,Indiranagar,391,351,Sunny,184,9.6,Metro,12.975352,77.643351,Normal operating conditions
+366,2025-04-02,21:00:00,South,HSR Layout,272,217,Rainy,227,14.0,Bike,12.910782,77.643619,Normal operating conditions
+370,2025-04-03,06:00:00,South,Jayanagar,218,159,Sunny,109,13.5,Car,12.924159,77.598285,Normal operating conditions
+369,2025-04-03,08:00:00,Central,Richmond Town,358,297,Sunny,176,5.1,Bus,12.957127,77.605683,Normal operating conditions
+372,2025-04-03,19:00:00,South,HSR Layout,302,219,Cloudy,103,10.4,Bike,12.915474,77.641355,Normal operating conditions
+371,2025-04-03,21:00:00,South,Koramangala,198,160,Sunny,168,12.1,Car,12.934574,77.620864,Normal operating conditions
+373,2025-04-04,10:00:00,Central,Shivajinagar,286,256,Rainy,173,6.4,Bike,12.97996,77.60645,Normal operating conditions
+376,2025-04-04,17:00:00,South,Jayanagar,284,217,Cloudy,133,5.5,Bike,12.927524,77.593187,Normal operating conditions
+374,2025-04-04,20:00:00,South,HSR Layout,290,239,Sunny,158,9.5,Scooter,12.906402,77.635355,Normal operating conditions
+375,2025-04-04,21:00:00,West,Vijayanagar,195,168,Sunny,192,3.5,Bike,12.974672,77.542472,Normal operating conditions
+377,2025-04-05,06:00:00,West,Rajajinagar,190,169,Rainy,177,9.3,Scooter,12.99209,77.551384,Normal operating conditions
+379,2025-04-05,09:00:00,North,Yelahanka,268,223,Windy,169,6.5,Metro,13.099374,77.596586,Normal operating conditions
+380,2025-04-05,16:00:00,East,Whitefield,282,208,Sunny,179,3.7,Metro,12.973859,77.750847,Normal operating conditions
+378,2025-04-05,20:00:00,West,Nagarbhavi,191,143,Cloudy,122,5.1,Bike,12.956733,77.510538,Normal operating conditions
+382,2025-04-06,06:00:00,West,Vijayanagar,224,193,Rainy,139,4.5,Bus,12.972698,77.548129,Normal operating conditions
+384,2025-04-06,08:00:00,East,Whitefield,382,314,Windy,195,5.4,Metro,12.969516,77.745997,Normal operating conditions
+381,2025-04-06,18:00:00,West,Rajajinagar,282,237,Cloudy,132,9.3,Metro,12.997754,77.554712,Normal operating conditions
+383,2025-04-06,20:00:00,Central,Richmond Town,351,254,Cloudy,144,6.3,Scooter,12.963022,77.594636,Normal operating conditions
+386,2025-04-07,09:00:00,Central,Richmond Town,363,291,Rainy,211,8.2,Car,12.960913,77.60051,Normal operating conditions
+388,2025-04-07,16:00:00,North,Yelahanka,201,152,Sunny,210,10.5,Scooter,13.103575,77.593175,Normal operating conditions
+387,2025-04-07,18:00:00,East,Whitefield,395,347,Rainy,137,7.1,Scooter,12.965275,77.750605,Normal operating conditions
+385,2025-04-07,21:00:00,South,HSR Layout,229,198,Sunny,173,8.9,Car,12.910127,77.635624,Normal operating conditions
+389,2025-04-08,06:00:00,West,Vijayanagar,162,131,Cloudy,130,10.7,Car,12.970231,77.546409,Normal operating conditions
+390,2025-04-08,10:00:00,East,Indiranagar,317,238,Rainy,173,7.4,Bus,12.977181,77.643306,Normal operating conditions
+391,2025-04-08,19:00:00,South,Koramangala,338,261,Cloudy,92,10.3,Bus,12.929266,77.629067,Normal operating conditions
+392,2025-04-08,20:00:00,Central,MG Road,465,349,Rainy,215,11.8,Metro,12.972788,77.611014,Normal operating conditions
+393,2025-04-09,08:00:00,Central,Shivajinagar,346,316,Sunny,116,11.0,Scooter,12.99149,77.599655,Normal operating conditions
+395,2025-04-09,14:00:00,South,Jayanagar,182,150,Sunny,112,9.7,Scooter,12.92693,77.590376,Normal operating conditions
+396,2025-04-09,17:00:00,West,Nagarbhavi,342,282,Rainy,139,8.0,Metro,12.953909,77.508745,Normal operating conditions
+394,2025-04-09,19:00:00,East,Indiranagar,322,261,Sunny,192,13.7,Bus,12.980734,77.636133,Normal operating conditions
+398,2025-04-10,07:00:00,West,Vijayanagar,254,184,Cloudy,217,0.0,Scooter,12.974045,77.542735,Normal operating conditions
+399,2025-04-10,14:00:00,North,Hebbal,150,137,Cloudy,213,7.0,Bike,13.036067,77.592297,Normal operating conditions
+400,2025-04-10,18:00:00,South,HSR Layout,323,248,Cloudy,220,0.0,Bus,12.916698,77.641124,Normal operating conditions
+397,2025-04-10,20:00:00,East,Marathahalli,281,229,Sunny,204,7.9,Car,12.958134,77.697674,Normal operating conditions
+404,2025-04-11,09:00:00,North,Malleshwaram,194,150,Windy,175,10.5,Car,13.007458,77.566197,Normal operating conditions
+401,2025-04-11,19:00:00,North,Malleshwaram,271,220,Rainy,120,5.8,Car,13.003951,77.566859,Normal operating conditions
+403,2025-04-11,20:00:00,East,Whitefield,370,270,Cloudy,186,7.9,Metro,12.967776,77.748924,Normal operating conditions
+402,2025-04-11,20:00:00,North,Malleshwaram,277,248,Sunny,164,4.8,Bus,13.005964,77.563447,Normal operating conditions
+407,2025-04-12,06:00:00,North,Malleshwaram,201,155,Foggy,168,10.4,Scooter,13.003579,77.560573,Normal operating conditions
+408,2025-04-12,07:00:00,Central,Richmond Town,337,257,Rainy,150,15.9,Bike,12.965286,77.597579,Normal operating conditions
+405,2025-04-12,12:00:00,North,Yelahanka,126,103,Foggy,216,8.8,Bike,13.100844,77.599674,Normal operating conditions
+406,2025-04-12,16:00:00,East,Indiranagar,245,197,Sunny,149,9.9,Scooter,12.978475,77.643159,Normal operating conditions
+409,2025-04-13,06:00:00,North,Malleshwaram,213,182,Sunny,91,9.8,Scooter,13.008601,77.560786,Normal operating conditions
+410,2025-04-13,12:00:00,South,Jayanagar,167,134,Sunny,116,5.6,Bike,12.93511,77.595278,Normal operating conditions
+412,2025-04-13,16:00:00,East,Marathahalli,207,164,Sunny,212,11.8,Bike,12.962904,77.697926,Normal operating conditions
+411,2025-04-13,16:00:00,West,Rajajinagar,174,134,Cloudy,163,2.8,Bike,12.988978,77.552016,Normal operating conditions
+415,2025-04-14,07:00:00,North,Hebbal,220,176,Sunny,134,5.9,Bike,13.033992,77.602632,Normal operating conditions
+413,2025-04-14,12:00:00,East,Whitefield,188,163,Sunny,172,11.9,Scooter,12.971455,77.74567,Normal operating conditions
+416,2025-04-14,16:00:00,East,Whitefield,250,213,Sunny,204,11.5,Car,12.971666,77.751803,Normal operating conditions
+414,2025-04-14,16:00:00,North,Yelahanka,181,135,Sunny,217,6.2,Bike,13.09642,77.592574,Normal operating conditions
+418,2025-04-15,14:00:00,North,Hebbal,134,112,Sunny,115,2.7,Bike,13.037079,77.599375,Normal operating conditions
+420,2025-04-15,14:00:00,North,Yelahanka,147,115,Windy,124,4.9,Car,13.101501,77.601584,Normal operating conditions
+417,2025-04-15,16:00:00,North,Yelahanka,187,157,Sunny,186,10.9,Car,13.100526,77.590491,Normal operating conditions
+419,2025-04-15,18:00:00,South,Koramangala,264,220,Sunny,210,9.0,Car,12.929532,77.618923,Normal operating conditions
+423,2025-04-16,06:00:00,West,Rajajinagar,204,187,Sunny,216,2.4,Metro,12.995717,77.55724,Normal operating conditions
+424,2025-04-16,08:00:00,South,HSR Layout,285,238,Sunny,115,9.0,Bike,12.916434,77.638103,Normal operating conditions
+421,2025-04-16,10:00:00,West,Vijayanagar,180,153,Cloudy,169,3.7,Bike,12.972805,77.547855,Normal operating conditions
+422,2025-04-16,21:00:00,West,Vijayanagar,216,190,Cloudy,195,10.3,Bus,12.969857,77.550764,Normal operating conditions
+426,2025-04-17,06:00:00,South,Koramangala,208,172,Sunny,102,9.2,Car,12.93086,77.621683,Normal operating conditions
+425,2025-04-17,09:00:00,Central,Shivajinagar,375,294,Cloudy,198,12.1,Bus,12.983537,77.605414,Normal operating conditions
+428,2025-04-17,16:00:00,West,Nagarbhavi,172,137,Rainy,117,6.9,Car,12.962299,77.515195,Normal operating conditions
+427,2025-04-17,20:00:00,North,Yelahanka,230,168,Sunny,176,8.4,Bike,13.094843,77.593543,Normal operating conditions
+429,2025-04-18,10:00:00,East,Whitefield,237,202,Cloudy,119,9.9,Scooter,12.971163,77.749007,Normal operating conditions
+430,2025-04-18,17:00:00,Central,Shivajinagar,373,294,Rainy,166,10.2,Car,12.9812,77.603073,Normal operating conditions
+431,2025-04-18,17:00:00,South,Jayanagar,334,287,Cloudy,157,10.0,Scooter,12.929127,77.592072,Normal operating conditions
+432,2025-04-18,19:00:00,East,Indiranagar,292,247,Sunny,96,0.2,Scooter,12.982985,77.640155,Normal operating conditions
+434,2025-04-19,07:00:00,South,Koramangala,304,267,Rainy,129,0.0,Car,12.930747,77.629929,Normal operating conditions
+436,2025-04-19,08:00:00,Central,Richmond Town,364,281,Sunny,94,10.3,Bus,12.965583,77.596394,Normal operating conditions
+433,2025-04-19,18:00:00,East,Whitefield,308,238,Cloudy,101,10.9,Bike,12.970777,77.744303,Normal operating conditions
+435,2025-04-19,18:00:00,North,Malleshwaram,250,199,Cloudy,176,4.0,Scooter,13.007492,77.567158,Normal operating conditions
+438,2025-04-20,06:00:00,North,Yelahanka,176,133,Sunny,101,1.5,Scooter,13.104778,77.595409,Normal operating conditions
+437,2025-04-20,12:00:00,Central,MG Road,217,177,Rainy,162,7.1,Scooter,12.974307,77.610347,Normal operating conditions
+439,2025-04-20,12:00:00,West,Rajajinagar,169,140,Cloudy,219,13.1,Bus,12.99215,77.547892,Normal operating conditions
+440,2025-04-20,20:00:00,West,Vijayanagar,199,147,Sunny,219,13.2,Bike,12.967212,77.542171,Normal operating conditions
+441,2025-04-21,06:00:00,East,Indiranagar,280,205,Cloudy,142,16.8,Scooter,12.980385,77.641506,Normal operating conditions
+444,2025-04-21,09:00:00,South,HSR Layout,298,238,Windy,107,0.0,Scooter,12.907687,77.642722,Normal operating conditions
+442,2025-04-21,16:00:00,South,HSR Layout,259,212,Sunny,150,9.4,Bus,12.91143,77.64168,Normal operating conditions
+443,2025-04-21,20:00:00,North,Hebbal,256,186,Cloudy,134,2.5,Car,13.038895,77.59629,Normal operating conditions
+448,2025-04-22,06:00:00,North,Hebbal,239,216,Cloudy,175,5.6,Scooter,13.034075,77.592394,Normal operating conditions
+445,2025-04-22,10:00:00,West,Nagarbhavi,212,190,Rainy,169,6.9,Bike,12.962202,77.508654,Normal operating conditions
+447,2025-04-22,19:00:00,East,Indiranagar,287,229,Sunny,187,10.9,Scooter,12.983502,77.638087,Normal operating conditions
+446,2025-04-22,21:00:00,East,Whitefield,268,246,Windy,98,7.7,Bus,12.975469,77.754251,Normal operating conditions
+451,2025-04-23,10:00:00,North,Yelahanka,223,190,Cloudy,141,12.1,Scooter,13.105966,77.599224,Normal operating conditions
+452,2025-04-23,10:00:00,West,Vijayanagar,200,170,Rainy,188,5.7,Bike,12.974954,77.544067,Normal operating conditions
+450,2025-04-23,14:00:00,Central,MG Road,225,165,Sunny,196,5.0,Metro,12.981543,77.605259,Normal operating conditions
+449,2025-04-23,17:00:00,East,Marathahalli,328,269,Sunny,95,5.2,Scooter,12.961433,77.697813,Normal operating conditions
+453,2025-04-24,08:00:00,East,Indiranagar,386,337,Rainy,176,3.1,Scooter,12.981487,77.636617,Normal operating conditions
+455,2025-04-24,08:00:00,East,Indiranagar,261,190,Cloudy,117,11.0,Car,12.97954,77.642643,Normal operating conditions
+456,2025-04-24,10:00:00,Central,MG Road,302,278,Rainy,137,5.1,Car,12.970801,77.604737,Normal operating conditions
+454,2025-04-24,19:00:00,West,Nagarbhavi,229,182,Sunny,115,8.2,Scooter,12.955862,77.50848,Normal operating conditions
+458,2025-04-25,08:00:00,North,Malleshwaram,278,253,Sunny,230,5.5,Bus,13.003851,77.569007,Normal operating conditions
+460,2025-04-25,09:00:00,West,Nagarbhavi,272,216,Sunny,176,8.1,Metro,12.952549,77.50464,Normal operating conditions
+457,2025-04-25,10:00:00,South,Koramangala,242,190,Sunny,148,15.4,Bike,12.939697,77.628673,Normal operating conditions
+459,2025-04-25,16:00:00,East,Marathahalli,328,244,Rainy,191,7.8,Metro,12.962672,77.697503,Normal operating conditions
+463,2025-04-26,08:00:00,South,HSR Layout,323,288,Sunny,198,9.2,Bus,12.905661,77.63329,Normal operating conditions
+462,2025-04-26,17:00:00,North,Malleshwaram,237,172,Cloudy,157,7.1,Scooter,13.002995,77.566777,Normal operating conditions
+464,2025-04-26,19:00:00,Central,MG Road,362,325,Sunny,119,7.9,Scooter,12.9763,77.604007,Normal operating conditions
+461,2025-04-26,21:00:00,Central,Richmond Town,257,206,Sunny,118,9.0,Bike,12.963042,77.604222,Normal operating conditions
+466,2025-04-27,06:00:00,West,Rajajinagar,195,151,Cloudy,138,10.2,Bus,12.996679,77.546273,Normal operating conditions
+468,2025-04-27,07:00:00,West,Rajajinagar,248,208,Windy,116,3.3,Car,12.991092,77.553927,Normal operating conditions
+467,2025-04-27,09:00:00,Central,Richmond Town,354,270,Rainy,167,11.2,Car,12.955297,77.600211,Normal operating conditions
+465,2025-04-27,10:00:00,North,Malleshwaram,235,199,Sunny,155,6.3,Metro,13.004436,77.560425,Normal operating conditions
+470,2025-04-28,06:00:00,West,Nagarbhavi,171,152,Windy,164,7.0,Scooter,12.955344,77.515897,Normal operating conditions
+472,2025-04-28,07:00:00,East,Whitefield,318,249,Cloudy,189,2.9,Bike,12.964232,77.749187,Normal operating conditions
+471,2025-04-28,07:00:00,South,Jayanagar,246,194,Foggy,95,9.9,Car,12.929928,77.589751,Normal operating conditions
+469,2025-04-28,10:00:00,North,Hebbal,225,188,Cloudy,157,0.0,Bike,13.032004,77.598848,Normal operating conditions
+474,2025-04-29,06:00:00,Central,MG Road,383,298,Rainy,187,9.0,Metro,12.976204,77.609934,Normal operating conditions
+476,2025-04-29,12:00:00,East,Indiranagar,213,156,Sunny,105,3.2,Bus,12.975021,77.636211,Normal operating conditions
+475,2025-04-29,18:00:00,South,Koramangala,370,268,Cloudy,206,3.5,Metro,12.936107,77.627478,Normal operating conditions
+473,2025-04-29,19:00:00,Central,MG Road,334,259,Sunny,224,8.0,Scooter,12.980134,77.60331,Normal operating conditions
+479,2025-04-30,07:00:00,East,Whitefield,287,214,Sunny,205,11.9,Car,12.974894,77.74571,Normal operating conditions
+480,2025-04-30,08:00:00,North,Hebbal,262,232,Sunny,171,11.3,Bus,13.034837,77.59167,Normal operating conditions
+477,2025-04-30,16:00:00,Central,MG Road,242,176,Sunny,147,8.6,Car,12.9715,77.606215,Normal operating conditions
+478,2025-04-30,20:00:00,Central,Richmond Town,284,224,Foggy,119,12.7,Bike,12.955136,77.597284,Normal operating conditions
+483,2025-05-01,14:00:00,Central,MG Road,212,154,Sunny,158,5.7,Scooter,12.971704,77.608805,Normal operating conditions
+484,2025-05-01,14:00:00,West,Vijayanagar,121,97,Cloudy,142,11.7,Car,12.971782,77.540263,Normal operating conditions
+482,2025-05-01,21:00:00,East,Marathahalli,240,200,Sunny,140,4.0,Bike,12.954772,77.693512,Normal operating conditions
+481,2025-05-01,21:00:00,West,Rajajinagar,163,122,Sunny,185,5.7,Car,12.996697,77.555945,Normal operating conditions
+485,2025-05-02,09:00:00,North,Yelahanka,265,223,Sunny,158,6.9,Bike,13.098846,77.593951,Normal operating conditions
+488,2025-05-02,16:00:00,East,Indiranagar,303,261,Rainy,122,3.0,Bike,12.974152,77.636278,Normal operating conditions
+487,2025-05-02,16:00:00,South,Jayanagar,221,172,Cloudy,198,4.9,Bike,12.9244,77.590664,Normal operating conditions
+486,2025-05-02,20:00:00,North,Malleshwaram,345,288,Rainy,214,6.7,Metro,13.007324,77.562547,Normal operating conditions
+490,2025-05-03,06:00:00,Central,Richmond Town,254,202,Windy,164,8.7,Scooter,12.959016,77.597032,Normal operating conditions
+491,2025-05-03,08:00:00,West,Vijayanagar,281,258,Cloudy,204,3.7,Metro,12.966422,77.543147,Normal operating conditions
+492,2025-05-03,16:00:00,Central,Shivajinagar,319,247,Sunny,159,8.2,Bus,12.984483,77.605183,Normal operating conditions
+489,2025-05-03,21:00:00,South,HSR Layout,259,218,Sunny,101,8.8,Metro,12.913824,77.640896,Normal operating conditions
+493,2025-05-04,10:00:00,Central,Shivajinagar,321,238,Rainy,221,5.1,Bike,12.988621,77.60268,Normal operating conditions
+495,2025-05-04,16:00:00,South,Jayanagar,241,181,Sunny,132,0.0,Bike,12.927738,77.595688,Normal operating conditions
+496,2025-05-04,17:00:00,West,Nagarbhavi,268,227,Rainy,200,4.3,Bike,12.956781,77.510135,Normal operating conditions
+494,2025-05-04,20:00:00,West,Rajajinagar,329,249,Rainy,99,9.2,Metro,12.988466,77.5483,Normal operating conditions
+499,2025-05-05,09:00:00,North,Hebbal,213,172,Sunny,117,9.7,Bike,13.03075,77.591725,Normal operating conditions
+500,2025-05-05,14:00:00,Central,Shivajinagar,288,227,Rainy,91,10.2,Bus,12.988423,77.604685,Normal operating conditions
+497,2025-05-05,14:00:00,West,Vijayanagar,163,144,Windy,163,2.1,Scooter,12.975993,77.541456,Normal operating conditions
+498,2025-05-05,19:00:00,South,HSR Layout,272,236,Sunny,176,7.1,Scooter,12.913736,77.637718,Normal operating conditions
+501,2025-05-06,07:00:00,East,Whitefield,426,326,Rainy,103,8.5,Metro,12.967188,77.754966,Normal operating conditions
+503,2025-05-06,09:00:00,South,Jayanagar,281,232,Cloudy,198,2.5,Scooter,12.925903,77.589875,Normal operating conditions
+504,2025-05-06,10:00:00,West,Nagarbhavi,215,169,Rainy,217,8.3,Scooter,12.950936,77.506793,Normal operating conditions
+502,2025-05-06,19:00:00,North,Malleshwaram,233,192,Sunny,139,5.2,Car,13.007451,77.564475,Normal operating conditions
+508,2025-05-07,10:00:00,Central,Shivajinagar,278,229,Cloudy,229,4.3,Scooter,12.984755,77.606151,Normal operating conditions
+506,2025-05-07,16:00:00,Central,MG Road,263,234,Windy,188,11.5,Scooter,12.976901,77.603968,Normal operating conditions
+507,2025-05-07,16:00:00,Central,MG Road,271,199,Cloudy,214,11.3,Bike,12.980157,77.609167,Normal operating conditions
+505,2025-05-07,21:00:00,South,HSR Layout,242,203,Rainy,154,6.3,Bike,12.906144,77.642669,Normal operating conditions
+511,2025-05-08,08:00:00,East,Marathahalli,299,221,Windy,144,8.5,Scooter,12.963969,77.698576,Normal operating conditions
+509,2025-05-08,12:00:00,North,Malleshwaram,167,146,Cloudy,125,9.0,Metro,12.997769,77.562588,Normal operating conditions
+510,2025-05-08,12:00:00,South,Koramangala,185,169,Cloudy,221,11.2,Car,12.935127,77.62864,Normal operating conditions
+512,2025-05-08,19:00:00,West,Rajajinagar,241,208,Sunny,92,1.8,Bike,12.986602,77.550851,Normal operating conditions
+513,2025-05-09,08:00:00,North,Yelahanka,305,280,Sunny,195,11.2,Metro,13.104477,77.59723,Normal operating conditions
+514,2025-05-09,20:00:00,Central,Shivajinagar,402,312,Cloudy,149,1.6,Metro,12.987211,77.60202,Normal operating conditions
+515,2025-05-09,20:00:00,East,Marathahalli,307,264,Cloudy,171,7.3,Car,12.954737,77.692843,Normal operating conditions
+516,2025-05-09,21:00:00,North,Yelahanka,270,244,Cloudy,128,8.1,Metro,13.096903,77.597513,Normal operating conditions
+517,2025-05-10,10:00:00,Central,Shivajinagar,354,316,Cloudy,172,2.6,Metro,12.980007,77.599199,Normal operating conditions
+520,2025-05-10,10:00:00,West,Rajajinagar,240,210,Rainy,170,11.1,Bus,12.993401,77.556728,Normal operating conditions
+519,2025-05-10,14:00:00,West,Rajajinagar,168,132,Rainy,136,9.3,Bike,12.993559,77.557263,Normal operating conditions
+518,2025-05-10,19:00:00,West,Rajajinagar,287,243,Sunny,146,5.4,Metro,12.987529,77.549476,Normal operating conditions
+524,2025-05-11,10:00:00,South,Jayanagar,282,225,Cloudy,127,5.9,Bus,12.930577,77.592624,Normal operating conditions
+521,2025-05-11,12:00:00,North,Hebbal,178,148,Sunny,169,9.3,Scooter,13.030988,77.596601,Normal operating conditions
+522,2025-05-11,14:00:00,East,Whitefield,144,124,Sunny,206,8.3,Car,12.970838,77.752393,Normal operating conditions
+523,2025-05-11,14:00:00,West,Vijayanagar,158,121,Sunny,208,5.7,Bike,12.971759,77.545616,Normal operating conditions
+526,2025-05-12,07:00:00,North,Malleshwaram,312,273,Cloudy,112,8.7,Metro,13.003257,77.55946,Normal operating conditions
+527,2025-05-12,12:00:00,Central,MG Road,220,183,Rainy,159,11.3,Bike,12.971014,77.606699,Normal operating conditions
+525,2025-05-12,17:00:00,West,Vijayanagar,242,176,Rainy,125,6.2,Car,12.976231,77.540752,Normal operating conditions
+528,2025-05-12,21:00:00,Central,Shivajinagar,322,271,Sunny,129,7.8,Metro,12.981209,77.600844,Normal operating conditions
+529,2025-05-13,08:00:00,Central,Richmond Town,284,205,Windy,112,7.5,Car,12.956503,77.604097,Normal operating conditions
+530,2025-05-13,12:00:00,Central,Shivajinagar,212,165,Cloudy,162,1.2,Bike,12.983783,77.599957,Normal operating conditions
+532,2025-05-13,16:00:00,North,Yelahanka,291,254,Rainy,220,9.9,Bus,13.096734,77.591189,Normal operating conditions
+531,2025-05-13,16:00:00,West,Rajajinagar,173,158,Windy,110,0.0,Bike,12.994233,77.55027,Normal operating conditions
+533,2025-05-14,12:00:00,Central,Richmond Town,237,183,Sunny,114,3.2,Metro,12.965276,77.600882,Normal operating conditions
+534,2025-05-14,12:00:00,East,Indiranagar,200,169,Sunny,110,6.4,Scooter,12.974825,77.637766,Normal operating conditions
+536,2025-05-14,18:00:00,South,HSR Layout,257,200,Sunny,92,5.4,Car,12.908236,77.639706,Normal operating conditions
+535,2025-05-14,19:00:00,Central,MG Road,466,370,Rainy,93,2.8,Bus,12.972894,77.603784,Normal operating conditions
+538,2025-05-15,07:00:00,Central,MG Road,451,368,Rainy,176,0.6,Metro,12.980885,77.605468,Normal operating conditions
+537,2025-05-15,17:00:00,Central,Shivajinagar,369,271,Cloudy,93,3.5,Bus,12.980063,77.603863,Normal operating conditions
+539,2025-05-15,19:00:00,West,Nagarbhavi,310,254,Rainy,156,10.1,Bus,12.951923,77.512089,Normal operating conditions
+540,2025-05-15,21:00:00,South,Koramangala,244,203,Sunny,118,6.8,Scooter,12.940804,77.626788,Normal operating conditions
+541,2025-05-16,07:00:00,North,Malleshwaram,320,292,Cloudy,222,4.6,Metro,13.002515,77.56674,Normal operating conditions
+543,2025-05-16,18:00:00,North,Yelahanka,253,212,Cloudy,215,2.2,Car,13.101684,77.598922,Normal operating conditions
+542,2025-05-16,18:00:00,South,Jayanagar,363,278,Rainy,96,12.6,Bus,12.927272,77.594232,Normal operating conditions
+544,2025-05-16,20:00:00,Central,MG Road,347,272,Sunny,195,10.1,Bike,12.97456,77.600684,Normal operating conditions
+547,2025-05-17,09:00:00,North,Malleshwaram,298,251,Cloudy,132,5.2,Metro,13.00208,77.56739,Normal operating conditions
+548,2025-05-17,14:00:00,East,Whitefield,234,187,Cloudy,227,12.7,Bus,12.973373,77.753379,Normal operating conditions
+545,2025-05-17,17:00:00,West,Rajajinagar,279,205,Sunny,190,11.9,Metro,12.99468,77.556876,Normal operating conditions
+546,2025-05-17,21:00:00,South,HSR Layout,247,188,Sunny,117,10.0,Scooter,12.91205,77.633986,Normal operating conditions
+550,2025-05-18,10:00:00,Central,Richmond Town,336,266,Rainy,106,6.3,Scooter,12.964484,77.596881,Normal operating conditions
+552,2025-05-18,18:00:00,North,Hebbal,284,250,Cloudy,158,7.3,Bus,13.034997,77.594393,Normal operating conditions
+551,2025-05-18,21:00:00,North,Yelahanka,196,149,Cloudy,98,8.9,Scooter,13.099029,77.59996,Normal operating conditions
+549,2025-05-18,21:00:00,South,Koramangala,259,208,Sunny,221,3.4,Bike,12.937668,77.628087,Normal operating conditions
+556,2025-05-19,10:00:00,Central,MG Road,327,238,Sunny,212,0.9,Bus,12.979984,77.60421,Normal operating conditions
+554,2025-05-19,16:00:00,Central,Richmond Town,271,238,Sunny,156,8.9,Scooter,12.963906,77.596381,Normal operating conditions
+555,2025-05-19,20:00:00,East,Marathahalli,286,230,Cloudy,225,4.5,Car,12.961483,77.703174,Normal operating conditions
+553,2025-05-19,20:00:00,West,Vijayanagar,212,174,Windy,134,4.4,Scooter,12.971902,77.544979,Normal operating conditions
+558,2025-05-20,06:00:00,West,Nagarbhavi,229,191,Cloudy,134,12.1,Metro,12.951802,77.515259,Normal operating conditions
+559,2025-05-20,07:00:00,East,Indiranagar,284,233,Sunny,108,8.4,Car,12.974332,77.646058,Normal operating conditions
+557,2025-05-20,10:00:00,North,Yelahanka,223,204,Sunny,112,9.4,Metro,13.105472,77.599817,Normal operating conditions
+560,2025-05-20,20:00:00,Central,Richmond Town,330,293,Sunny,157,8.5,Bike,12.965256,77.598514,Normal operating conditions
+563,2025-05-21,10:00:00,East,Indiranagar,262,204,Sunny,172,6.4,Bike,12.973635,77.638339,Normal operating conditions
+562,2025-05-21,12:00:00,South,Jayanagar,172,133,Sunny,143,4.6,Car,12.926304,77.598017,Normal operating conditions
+564,2025-05-21,12:00:00,West,Rajajinagar,126,115,Cloudy,227,10.5,Scooter,12.991282,77.546427,Normal operating conditions
+561,2025-05-21,14:00:00,North,Hebbal,189,144,Cloudy,230,5.3,Car,13.032452,77.597246,Normal operating conditions
+565,2025-05-22,07:00:00,South,HSR Layout,333,270,Sunny,127,4.5,Scooter,12.907662,77.638832,Normal operating conditions
+567,2025-05-22,10:00:00,North,Yelahanka,255,189,Cloudy,184,10.5,Metro,13.096413,77.601641,Normal operating conditions
+568,2025-05-22,12:00:00,East,Marathahalli,263,217,Rainy,104,9.9,Scooter,12.954546,77.700919,Normal operating conditions
+566,2025-05-22,14:00:00,North,Malleshwaram,154,114,Sunny,102,7.2,Scooter,13.006703,77.5609,Normal operating conditions
+569,2025-05-23,08:00:00,North,Hebbal,296,263,Sunny,156,8.6,Bus,13.037501,77.591102,Normal operating conditions
+572,2025-05-23,12:00:00,South,HSR Layout,170,131,Foggy,170,8.7,Bus,12.914666,77.644748,Normal operating conditions
+570,2025-05-23,17:00:00,South,HSR Layout,429,311,Rainy,199,11.2,Metro,12.914892,77.640203,Normal operating conditions
+571,2025-05-23,20:00:00,West,Vijayanagar,262,199,Sunny,131,11.3,Scooter,12.971385,77.542945,Normal operating conditions
+576,2025-05-24,08:00:00,East,Marathahalli,307,253,Sunny,131,5.4,Car,12.960079,77.693693,Normal operating conditions
+574,2025-05-24,08:00:00,South,Jayanagar,300,226,Cloudy,144,6.0,Bike,12.932081,77.590455,Normal operating conditions
+575,2025-05-24,12:00:00,Central,Shivajinagar,293,222,Rainy,177,6.7,Metro,12.98528,77.602396,Normal operating conditions
+573,2025-05-24,12:00:00,South,HSR Layout,180,130,Sunny,134,7.6,Scooter,12.910483,77.641059,Normal operating conditions
+579,2025-05-25,06:00:00,South,Jayanagar,212,153,Cloudy,144,14.2,Car,12.930095,77.595708,Normal operating conditions
+580,2025-05-25,08:00:00,North,Malleshwaram,317,276,Sunny,100,15.8,Metro,12.998324,77.559269,Normal operating conditions
+577,2025-05-25,10:00:00,East,Whitefield,335,266,Rainy,218,10.7,Bus,12.975139,77.751532,Normal operating conditions
+578,2025-05-25,17:00:00,Central,MG Road,345,308,Sunny,132,8.6,Scooter,12.972249,77.603859,Normal operating conditions
+584,2025-05-26,07:00:00,North,Yelahanka,870,629,Rainy,48,33.9,Metro,13.104201,77.593378,Heavy rain and peak travel with low vehicle availability
+583,2025-05-26,18:00:00,East,Marathahalli,872,682,Rainy,36,26.6,Scooter,12.959438,77.702986,Heavy rain and peak travel with low vehicle availability
+582,2025-05-26,21:00:00,North,Malleshwaram,557,429,Rainy,69,23.2,Bike,13.005124,77.56432,Heavy rain and peak travel with low vehicle availability
+581,2025-05-26,21:00:00,South,Jayanagar,626,536,Rainy,69,23.8,Bike,12.931122,77.594426,Heavy rain and peak travel with low vehicle availability
+588,2025-05-27,07:00:00,East,Whitefield,323,255,Rainy,139,11.4,Car,12.968169,77.746904,Normal operating conditions
+587,2025-05-27,10:00:00,South,Koramangala,217,172,Sunny,195,13.6,Car,12.929625,77.628337,Normal operating conditions
+585,2025-05-27,14:00:00,North,Yelahanka,171,133,Sunny,102,14.8,Scooter,13.098939,77.597484,Normal operating conditions
+586,2025-05-27,21:00:00,West,Nagarbhavi,208,151,Sunny,157,12.9,Bus,12.957825,77.507639,Normal operating conditions
+591,2025-05-28,07:00:00,East,Indiranagar,327,258,Sunny,156,5.3,Bike,12.981257,77.642489,Normal operating conditions
+590,2025-05-28,19:00:00,Central,Shivajinagar,381,287,Rainy,97,2.9,Bike,12.983412,77.604346,Normal operating conditions
+592,2025-05-28,20:00:00,West,Rajajinagar,297,220,Cloudy,214,12.5,Metro,12.993721,77.548433,Normal operating conditions
+589,2025-05-28,21:00:00,Central,Shivajinagar,303,253,Cloudy,172,2.7,Bike,12.980719,77.604094,Normal operating conditions
+596,2025-05-29,08:00:00,Central,MG Road,437,401,Rainy,90,9.7,Bus,12.979196,77.606419,Normal operating conditions
+594,2025-05-29,10:00:00,West,Rajajinagar,161,125,Sunny,220,16.1,Car,12.992563,77.547043,Normal operating conditions
+593,2025-05-29,16:00:00,Central,Shivajinagar,308,222,Foggy,146,8.0,Metro,12.986024,77.606382,Normal operating conditions
+595,2025-05-29,19:00:00,South,HSR Layout,332,239,Foggy,214,11.2,Metro,12.913711,77.63938,Normal operating conditions
+597,2025-05-30,10:00:00,East,Marathahalli,249,187,Sunny,151,8.8,Bike,12.960631,77.695543,Normal operating conditions
+599,2025-05-30,14:00:00,East,Marathahalli,203,185,Cloudy,153,4.2,Scooter,12.96198,77.696586,Normal operating conditions
+600,2025-05-30,19:00:00,North,Malleshwaram,290,258,Sunny,169,10.7,Bus,13.007862,77.564009,Normal operating conditions
+598,2025-05-30,20:00:00,South,Koramangala,311,285,Windy,210,8.8,Bike,12.936882,77.625322,Normal operating conditions
+603,2025-05-31,16:00:00,North,Yelahanka,267,245,Sunny,179,5.9,Metro,13.100129,77.59739,Normal operating conditions
+602,2025-05-31,16:00:00,South,Koramangala,208,155,Windy,157,5.7,Bike,12.931917,77.62442,Normal operating conditions
+604,2025-05-31,19:00:00,North,Yelahanka,313,273,Cloudy,187,10.8,Bus,13.095603,77.600729,Normal operating conditions
+601,2025-05-31,20:00:00,Central,Shivajinagar,353,272,Windy,109,4.1,Bus,12.988097,77.610495,Normal operating conditions
+607,2025-06-01,10:00:00,North,Hebbal,273,212,Sunny,155,4.5,Metro,13.03877,77.599522,Normal operating conditions
+605,2025-06-01,17:00:00,South,HSR Layout,271,236,Sunny,133,4.6,Car,12.909362,77.643738,Normal operating conditions
+608,2025-06-01,18:00:00,East,Indiranagar,340,294,Sunny,146,5.8,Scooter,12.976923,77.637571,Normal operating conditions
+606,2025-06-01,21:00:00,West,Vijayanagar,275,234,Rainy,109,7.7,Metro,12.973071,77.541446,Normal operating conditions
+611,2025-06-02,07:00:00,North,Hebbal,257,205,Cloudy,145,0.0,Bike,13.036727,77.598163,Normal operating conditions
+612,2025-06-02,09:00:00,East,Whitefield,346,275,Rainy,169,11.8,Bike,12.968256,77.744411,Normal operating conditions
+610,2025-06-02,16:00:00,North,Hebbal,304,220,Rainy,130,14.3,Metro,13.036829,77.597687,Normal operating conditions
+609,2025-06-02,18:00:00,East,Indiranagar,374,333,Windy,168,6.5,Metro,12.97424,77.637633,Normal operating conditions
+615,2025-06-03,10:00:00,West,Vijayanagar,258,233,Sunny,226,8.3,Bus,12.971118,77.548587,Normal operating conditions
+613,2025-06-03,14:00:00,Central,Richmond Town,179,132,Sunny,169,12.8,Car,12.958244,77.600087,Normal operating conditions
+616,2025-06-03,21:00:00,East,Indiranagar,293,254,Sunny,211,9.8,Metro,12.983616,77.639006,Normal operating conditions
+614,2025-06-03,21:00:00,South,Koramangala,252,198,Windy,141,7.8,Bus,12.936056,77.624054,Normal operating conditions
+618,2025-06-04,06:00:00,East,Indiranagar,267,233,Sunny,122,11.2,Bike,12.975398,77.638328,Normal operating conditions
+620,2025-06-04,17:00:00,West,Nagarbhavi,227,199,Sunny,171,6.1,Scooter,12.961467,77.515407,Normal operating conditions
+619,2025-06-04,17:00:00,West,Rajajinagar,223,164,Cloudy,179,9.7,Car,12.996116,77.550826,Normal operating conditions
+617,2025-06-04,19:00:00,East,Marathahalli,431,394,Rainy,190,9.4,Bus,12.961594,77.698313,Normal operating conditions
+621,2025-06-05,18:00:00,South,Jayanagar,296,231,Sunny,170,3.2,Car,12.925685,77.591231,Normal operating conditions
+622,2025-06-05,19:00:00,Central,Shivajinagar,380,347,Sunny,174,10.1,Bus,12.991395,77.603071,Normal operating conditions
+623,2025-06-05,21:00:00,East,Indiranagar,318,243,Sunny,201,11.5,Metro,12.972661,77.640181,Normal operating conditions
+624,2025-06-05,21:00:00,West,Nagarbhavi,282,240,Rainy,187,8.5,Metro,12.950596,77.515615,Normal operating conditions
+628,2025-06-06,08:00:00,West,Nagarbhavi,292,264,Sunny,154,11.1,Metro,12.962292,77.508522,Normal operating conditions
+625,2025-06-06,10:00:00,West,Rajajinagar,215,187,Cloudy,175,9.3,Scooter,12.990531,77.554743,Normal operating conditions
+627,2025-06-06,19:00:00,North,Hebbal,289,235,Cloudy,113,12.5,Bus,13.037997,77.602166,Normal operating conditions
+626,2025-06-06,20:00:00,West,Nagarbhavi,214,196,Cloudy,91,11.4,Bike,12.959398,77.511174,Normal operating conditions
+631,2025-06-07,09:00:00,Central,MG Road,396,329,Rainy,176,10.1,Car,12.979309,77.611033,Normal operating conditions
+629,2025-06-07,10:00:00,East,Indiranagar,334,253,Sunny,196,11.9,Metro,12.972682,77.640133,Normal operating conditions
+632,2025-06-07,12:00:00,West,Rajajinagar,141,120,Sunny,226,14.4,Bike,12.987295,77.556155,Normal operating conditions
+630,2025-06-07,16:00:00,North,Hebbal,214,194,Sunny,124,5.8,Scooter,13.034358,77.60237,Normal operating conditions
+634,2025-06-08,08:00:00,West,Nagarbhavi,275,248,Cloudy,227,12.0,Metro,12.95615,77.505127,Normal operating conditions
+635,2025-06-08,17:00:00,North,Hebbal,268,202,Sunny,198,16.1,Scooter,13.03428,77.597843,Normal operating conditions
+636,2025-06-08,18:00:00,Central,MG Road,355,258,Sunny,98,9.5,Scooter,12.97008,77.606847,Normal operating conditions
+633,2025-06-08,19:00:00,West,Rajajinagar,284,257,Sunny,132,8.5,Metro,12.987785,77.555501,Normal operating conditions
+638,2025-06-09,06:00:00,North,Malleshwaram,308,227,Rainy,132,2.5,Metro,13.004956,77.560756,Normal operating conditions
+640,2025-06-09,07:00:00,East,Marathahalli,336,286,Foggy,100,12.0,Bus,12.964912,77.693364,Normal operating conditions
+639,2025-06-09,16:00:00,Central,MG Road,312,240,Cloudy,211,11.8,Bus,12.975786,77.602209,Normal operating conditions
+637,2025-06-09,16:00:00,East,Marathahalli,239,187,Cloudy,110,3.6,Car,12.95877,77.69614,Normal operating conditions
+642,2025-06-10,10:00:00,East,Whitefield,259,190,Sunny,194,11.4,Bike,12.975295,77.744463,Normal operating conditions
+643,2025-06-10,12:00:00,West,Rajajinagar,121,97,Sunny,97,12.0,Scooter,12.996887,77.551512,Normal operating conditions
+641,2025-06-10,17:00:00,North,Hebbal,365,301,Sunny,194,7.4,Metro,13.033525,77.602417,Normal operating conditions
+644,2025-06-10,20:00:00,West,Rajajinagar,255,199,Sunny,216,4.9,Scooter,12.997219,77.547033,Normal operating conditions
+645,2025-06-11,09:00:00,West,Rajajinagar,305,242,Cloudy,93,10.2,Metro,12.989431,77.550139,Normal operating conditions
+648,2025-06-11,09:00:00,West,Rajajinagar,228,184,Sunny,180,2.2,Bike,12.987733,77.556933,Normal operating conditions
+646,2025-06-11,10:00:00,West,Vijayanagar,181,139,Sunny,101,3.7,Scooter,12.97703,77.549862,Normal operating conditions
+647,2025-06-11,21:00:00,Central,MG Road,305,228,Sunny,148,9.9,Bus,12.974353,77.606231,Normal operating conditions
+650,2025-06-12,08:00:00,West,Rajajinagar,265,205,Cloudy,128,5.5,Bike,12.991678,77.555924,Normal operating conditions
+649,2025-06-12,12:00:00,East,Indiranagar,201,166,Foggy,217,0.2,Bus,12.980531,77.640781,Normal operating conditions
+652,2025-06-12,17:00:00,South,Koramangala,344,312,Windy,165,8.1,Bus,12.93516,77.62141,Normal operating conditions
+651,2025-06-12,21:00:00,Central,MG Road,264,201,Windy,219,5.8,Scooter,12.973265,77.603383,Normal operating conditions
+656,2025-06-13,06:00:00,Central,MG Road,376,318,Rainy,164,10.7,Metro,12.978595,77.60993,Normal operating conditions
+655,2025-06-13,09:00:00,South,Koramangala,336,243,Cloudy,157,6.8,Bus,12.931312,77.622667,Normal operating conditions
+653,2025-06-13,12:00:00,East,Whitefield,209,172,Rainy,200,10.6,Bike,12.966032,77.748764,Normal operating conditions
+654,2025-06-13,19:00:00,East,Whitefield,280,218,Sunny,181,7.1,Car,12.96921,77.755913,Normal operating conditions
+660,2025-06-14,07:00:00,West,Nagarbhavi,243,183,Sunny,167,15.7,Bike,12.956007,77.508506,Normal operating conditions
+657,2025-06-14,10:00:00,Central,Richmond Town,304,254,Sunny,140,4.8,Bus,12.963832,77.594322,Normal operating conditions
+659,2025-06-14,10:00:00,Central,Shivajinagar,281,225,Sunny,206,8.1,Bike,12.98856,77.608176,Normal operating conditions
+658,2025-06-14,21:00:00,South,Koramangala,305,273,Sunny,170,5.8,Metro,12.934157,77.624956,Normal operating conditions
+662,2025-06-15,06:00:00,East,Marathahalli,339,261,Rainy,227,6.6,Bus,12.959119,77.698262,Normal operating conditions
+661,2025-06-15,18:00:00,South,Koramangala,383,308,Rainy,120,0.0,Bus,12.934328,77.626408,Normal operating conditions
+663,2025-06-15,19:00:00,North,Yelahanka,286,259,Rainy,229,11.3,Car,13.094867,77.602257,Normal operating conditions
+664,2025-06-15,20:00:00,East,Marathahalli,362,331,Windy,202,6.3,Metro,12.956534,77.692673,Normal operating conditions
+668,2025-06-16,08:00:00,West,Rajajinagar,336,308,Rainy,215,9.4,Metro,12.985837,77.54995,Normal operating conditions
+666,2025-06-16,10:00:00,East,Whitefield,315,243,Sunny,123,2.9,Metro,12.971851,77.749104,Normal operating conditions
+667,2025-06-16,16:00:00,Central,Shivajinagar,312,242,Windy,105,4.8,Metro,12.987874,77.605833,Normal operating conditions
+665,2025-06-16,17:00:00,West,Nagarbhavi,279,239,Sunny,216,1.1,Metro,12.955215,77.506611,Normal operating conditions
+671,2025-06-17,07:00:00,North,Malleshwaram,326,285,Cloudy,228,11.0,Metro,13.008497,77.562568,Normal operating conditions
+669,2025-06-17,07:00:00,South,Koramangala,379,326,Cloudy,211,10.0,Metro,12.93924,77.622145,Normal operating conditions
+672,2025-06-17,10:00:00,South,Koramangala,217,196,Cloudy,133,5.9,Car,12.93496,77.630366,Normal operating conditions
+670,2025-06-17,16:00:00,North,Hebbal,239,179,Cloudy,147,3.9,Bus,13.034618,77.596276,Normal operating conditions
+675,2025-06-18,06:00:00,South,HSR Layout,233,174,Sunny,123,7.4,Car,12.907857,77.6407,Normal operating conditions
+674,2025-06-18,10:00:00,South,HSR Layout,237,204,Sunny,122,5.7,Scooter,12.912806,77.632943,Normal operating conditions
+676,2025-06-18,18:00:00,North,Yelahanka,352,282,Cloudy,177,3.5,Bus,13.105616,77.590321,Normal operating conditions
+673,2025-06-18,19:00:00,West,Rajajinagar,307,273,Rainy,138,0.0,Scooter,12.991738,77.553348,Normal operating conditions
+679,2025-06-19,08:00:00,North,Hebbal,319,290,Rainy,105,13.8,Bike,13.03768,77.595413,Normal operating conditions
+678,2025-06-19,08:00:00,South,HSR Layout,354,291,Sunny,203,13.8,Bus,12.91127,77.640746,Normal operating conditions
+677,2025-06-19,10:00:00,South,Jayanagar,322,242,Cloudy,133,4.1,Metro,12.93201,77.589949,Normal operating conditions
+680,2025-06-19,21:00:00,West,Nagarbhavi,218,201,Rainy,140,7.8,Scooter,12.953288,77.504297,Normal operating conditions
+682,2025-06-20,06:00:00,North,Yelahanka,180,137,Sunny,179,3.6,Bike,13.103129,77.599014,Normal operating conditions
+681,2025-06-20,16:00:00,South,Koramangala,285,221,Sunny,204,7.9,Bus,12.938424,77.626498,Normal operating conditions
+684,2025-06-20,19:00:00,Central,Richmond Town,321,261,Foggy,135,4.2,Bike,12.955275,77.605398,Normal operating conditions
+683,2025-06-20,20:00:00,North,Yelahanka,234,202,Cloudy,112,9.7,Car,13.10016,77.598928,Normal operating conditions
+687,2025-06-21,06:00:00,North,Hebbal,182,138,Foggy,199,12.5,Bike,13.031102,77.598024,Normal operating conditions
+688,2025-06-21,12:00:00,East,Indiranagar,229,196,Sunny,137,6.7,Metro,12.982213,77.638736,Normal operating conditions
+686,2025-06-21,16:00:00,East,Indiranagar,330,265,Sunny,226,11.4,Metro,12.982629,77.642506,Normal operating conditions
+685,2025-06-21,19:00:00,West,Vijayanagar,192,168,Sunny,114,9.3,Bike,12.96921,77.549314,Normal operating conditions
+689,2025-06-22,06:00:00,East,Indiranagar,241,180,Windy,153,14.9,Scooter,12.972594,77.642188,Normal operating conditions
+692,2025-06-22,08:00:00,West,Rajajinagar,285,217,Sunny,215,10.8,Bus,12.98631,77.549461,Normal operating conditions
+690,2025-06-22,16:00:00,North,Hebbal,213,173,Rainy,94,5.8,Car,13.039288,77.599805,Normal operating conditions
+691,2025-06-22,20:00:00,Central,Shivajinagar,260,214,Foggy,136,4.4,Car,12.982675,77.604118,Normal operating conditions
+694,2025-06-23,12:00:00,South,Koramangala,220,177,Cloudy,183,2.8,Metro,12.935923,77.629939,Normal operating conditions
+696,2025-06-23,16:00:00,West,Vijayanagar,226,168,Sunny,154,10.0,Metro,12.970648,77.549466,Normal operating conditions
+693,2025-06-23,18:00:00,Central,MG Road,352,259,Sunny,94,2.0,Bike,12.978542,77.610243,Normal operating conditions
+695,2025-06-23,20:00:00,West,Rajajinagar,306,250,Cloudy,187,0.0,Metro,12.993756,77.556219,Normal operating conditions
+699,2025-06-24,06:00:00,Central,Shivajinagar,374,302,Rainy,173,9.4,Metro,12.985952,77.60449,Normal operating conditions
+697,2025-06-24,10:00:00,Central,MG Road,326,295,Cloudy,207,5.9,Scooter,12.97566,77.608582,Normal operating conditions
+700,2025-06-24,10:00:00,Central,Shivajinagar,258,234,Sunny,195,5.1,Scooter,12.983824,77.609717,Normal operating conditions
+698,2025-06-24,14:00:00,East,Marathahalli,239,216,Cloudy,119,7.3,Metro,12.962647,77.696895,Normal operating conditions
+704,2025-06-25,08:00:00,West,Nagarbhavi,262,199,Sunny,187,0.0,Bus,12.960747,77.511274,Normal operating conditions
+701,2025-06-25,12:00:00,North,Yelahanka,198,169,Sunny,98,10.6,Metro,13.098335,77.593853,Normal operating conditions
+703,2025-06-25,16:00:00,West,Vijayanagar,213,162,Sunny,93,10.7,Bus,12.968567,77.550271,Normal operating conditions
+702,2025-06-25,17:00:00,North,Yelahanka,245,200,Sunny,169,8.7,Scooter,13.105598,77.597018,Normal operating conditions
+708,2025-06-26,07:00:00,Central,MG Road,437,341,Cloudy,103,11.1,Metro,12.979359,77.610754,Normal operating conditions
+707,2025-06-26,08:00:00,Central,Richmond Town,432,320,Rainy,159,10.2,Scooter,12.959996,77.59891,Normal operating conditions
+706,2025-06-26,10:00:00,South,Koramangala,213,174,Foggy,212,8.3,Bike,12.939801,77.629787,Normal operating conditions
+705,2025-06-26,16:00:00,North,Yelahanka,256,217,Rainy,223,1.4,Scooter,13.103377,77.598159,Normal operating conditions
+712,2025-06-27,17:00:00,East,Marathahalli,370,276,Cloudy,165,16.3,Bike,12.95413,77.696262,Normal operating conditions
+709,2025-06-27,17:00:00,South,HSR Layout,368,266,Sunny,123,7.7,Bus,12.906602,77.641929,Normal operating conditions
+710,2025-06-27,20:00:00,Central,MG Road,293,233,Windy,126,7.9,Bike,12.971027,77.609408,Normal operating conditions
+711,2025-06-27,20:00:00,Central,MG Road,398,361,Sunny,96,8.9,Bus,12.977766,77.604229,Normal operating conditions
+714,2025-06-28,06:00:00,East,Indiranagar,268,208,Sunny,229,13.8,Car,12.981773,77.63518,Normal operating conditions
+713,2025-06-28,14:00:00,Central,Shivajinagar,203,180,Windy,170,14.2,Scooter,12.981734,77.606478,Normal operating conditions
+715,2025-06-28,16:00:00,Central,Shivajinagar,281,225,Sunny,99,10.3,Scooter,12.982122,77.606185,Normal operating conditions
+716,2025-06-28,16:00:00,North,Yelahanka,287,252,Rainy,136,0.8,Bus,13.100391,77.600614,Normal operating conditions
+720,2025-06-29,10:00:00,North,Hebbal,210,161,Sunny,149,10.1,Car,13.037231,77.601814,Normal operating conditions
+719,2025-06-29,12:00:00,Central,MG Road,267,238,Cloudy,127,11.0,Metro,12.973169,77.603481,Normal operating conditions
+717,2025-06-29,14:00:00,South,Jayanagar,180,139,Sunny,192,3.2,Bike,12.932036,77.592985,Normal operating conditions
+718,2025-06-29,16:00:00,Central,MG Road,344,308,Cloudy,186,6.1,Metro,12.979652,77.601362,Normal operating conditions
+724,2025-06-30,07:00:00,South,HSR Layout,383,325,Rainy,121,13.9,Bus,12.915188,77.640311,Normal operating conditions
+721,2025-06-30,08:00:00,North,Malleshwaram,293,263,Sunny,93,9.8,Metro,13.002694,77.565356,Normal operating conditions
+723,2025-06-30,14:00:00,South,Koramangala,178,137,Sunny,176,1.7,Bike,12.938061,77.624733,Normal operating conditions
+722,2025-06-30,20:00:00,North,Yelahanka,339,282,Cloudy,122,10.6,Bus,13.0975,77.59363,Normal operating conditions
+728,2025-07-01,06:00:00,West,Rajajinagar,205,188,Cloudy,161,8.3,Bus,12.994821,77.551284,Normal operating conditions
+726,2025-07-01,08:00:00,East,Whitefield,389,321,Sunny,92,10.4,Metro,12.974449,77.754546,Normal operating conditions
+725,2025-07-01,09:00:00,East,Whitefield,435,352,Rainy,91,17.1,Bus,12.972735,77.74472,Normal operating conditions
+727,2025-07-01,21:00:00,West,Vijayanagar,212,162,Sunny,123,3.1,Scooter,12.97685,77.546324,Normal operating conditions
+731,2025-07-02,08:00:00,West,Rajajinagar,245,212,Rainy,148,3.3,Car,12.995405,77.551354,Normal operating conditions
+729,2025-07-02,17:00:00,South,Koramangala,313,262,Cloudy,171,0.0,Bike,12.938457,77.62184,Normal operating conditions
+730,2025-07-02,19:00:00,Central,MG Road,387,280,Rainy,102,5.6,Car,12.977433,77.600999,Normal operating conditions
+732,2025-07-02,20:00:00,West,Nagarbhavi,205,166,Cloudy,201,6.0,Car,12.961974,77.507141,Normal operating conditions
+733,2025-07-03,14:00:00,East,Whitefield,216,172,Sunny,107,11.2,Bike,12.971267,77.744379,Normal operating conditions
+735,2025-07-03,14:00:00,West,Vijayanagar,186,153,Sunny,94,13.8,Metro,12.972288,77.548125,Normal operating conditions
+734,2025-07-03,17:00:00,West,Rajajinagar,212,155,Windy,95,9.8,Scooter,12.990223,77.5465,Normal operating conditions
+736,2025-07-03,20:00:00,East,Marathahalli,404,348,Sunny,120,13.8,Metro,12.961085,77.692689,Normal operating conditions
+738,2025-07-04,06:00:00,East,Whitefield,283,214,Sunny,150,19.0,Bike,12.964074,77.753156,Normal operating conditions
+740,2025-07-04,09:00:00,North,Yelahanka,291,232,Cloudy,97,0.0,Bike,13.106315,77.591172,Normal operating conditions
+737,2025-07-04,10:00:00,South,Koramangala,283,257,Sunny,230,8.9,Bus,12.940602,77.629042,Normal operating conditions
+739,2025-07-04,14:00:00,North,Hebbal,152,123,Sunny,156,14.9,Bike,13.038584,77.591436,Normal operating conditions
+743,2025-07-05,09:00:00,South,HSR Layout,262,196,Foggy,165,12.0,Car,12.905843,77.637373,Normal operating conditions
+742,2025-07-05,12:00:00,West,Vijayanagar,209,182,Rainy,113,5.8,Bus,12.973129,77.542944,Normal operating conditions
+744,2025-07-05,16:00:00,South,Jayanagar,273,228,Windy,187,6.1,Bus,12.92909,77.598446,Normal operating conditions
+741,2025-07-05,19:00:00,West,Vijayanagar,266,199,Cloudy,148,10.8,Metro,12.971728,77.549624,Normal operating conditions
+748,2025-07-06,06:00:00,West,Rajajinagar,235,186,Sunny,128,8.3,Bus,12.989549,77.550659,Normal operating conditions
+745,2025-07-06,06:00:00,West,Vijayanagar,267,211,Rainy,143,14.4,Metro,12.966437,77.545548,Normal operating conditions
+747,2025-07-06,16:00:00,West,Rajajinagar,213,158,Cloudy,119,7.7,Car,12.995543,77.548772,Normal operating conditions
+746,2025-07-06,20:00:00,Central,Shivajinagar,333,303,Sunny,221,12.0,Bike,12.986664,77.599468,Normal operating conditions
+749,2025-07-07,10:00:00,North,Malleshwaram,174,131,Windy,98,0.0,Bike,13.005597,77.565932,Normal operating conditions
+750,2025-07-07,12:00:00,South,HSR Layout,169,132,Sunny,118,11.3,Car,12.915791,77.636173,Normal operating conditions
+751,2025-07-07,12:00:00,West,Rajajinagar,149,109,Sunny,145,5.6,Bike,12.988077,77.552598,Normal operating conditions
+752,2025-07-07,19:00:00,East,Indiranagar,390,351,Rainy,130,14.3,Scooter,12.978433,77.635518,Normal operating conditions
+755,2025-07-08,08:00:00,East,Marathahalli,394,349,Sunny,99,11.7,Metro,12.963905,77.694477,Normal operating conditions
+754,2025-07-08,19:00:00,North,Malleshwaram,287,213,Sunny,118,10.2,Bus,12.999869,77.569286,Normal operating conditions
+756,2025-07-08,19:00:00,North,Yelahanka,306,255,Sunny,154,3.1,Bus,13.104724,77.601196,Normal operating conditions
+753,2025-07-08,20:00:00,East,Indiranagar,422,383,Rainy,204,7.0,Bus,12.979783,77.636647,Normal operating conditions
+760,2025-07-09,06:00:00,Central,MG Road,307,271,Cloudy,150,14.9,Scooter,12.973794,77.607397,Normal operating conditions
+759,2025-07-09,10:00:00,East,Whitefield,294,242,Sunny,117,5.6,Bus,12.971527,77.7532,Normal operating conditions
+758,2025-07-09,12:00:00,West,Vijayanagar,154,116,Cloudy,230,11.9,Bus,12.97302,77.542026,Normal operating conditions
+757,2025-07-09,14:00:00,South,Jayanagar,195,177,Cloudy,171,9.6,Car,12.931096,77.594194,Normal operating conditions
+763,2025-07-10,08:00:00,Central,Shivajinagar,393,320,Sunny,129,5.0,Scooter,12.989843,77.601865,Normal operating conditions
+761,2025-07-10,10:00:00,Central,Shivajinagar,293,225,Cloudy,124,9.5,Bike,12.989291,77.610661,Normal operating conditions
+764,2025-07-10,10:00:00,South,HSR Layout,263,236,Sunny,218,8.1,Metro,12.917477,77.64097,Normal operating conditions
+762,2025-07-10,20:00:00,North,Hebbal,291,249,Sunny,206,6.8,Bus,13.033405,77.597492,Normal operating conditions
+765,2025-07-11,10:00:00,Central,Richmond Town,262,220,Sunny,131,12.5,Car,12.964466,77.602491,Normal operating conditions
+768,2025-07-11,10:00:00,North,Hebbal,205,181,Cloudy,198,12.3,Bike,13.033141,77.60199,Normal operating conditions
+767,2025-07-11,12:00:00,West,Rajajinagar,157,126,Sunny,218,15.3,Bike,12.989706,77.548255,Normal operating conditions
+766,2025-07-11,17:00:00,North,Hebbal,250,191,Windy,165,6.4,Bike,13.039545,77.597136,Normal operating conditions
+771,2025-07-12,07:00:00,West,Vijayanagar,230,191,Foggy,176,5.8,Bike,12.969758,77.545959,Normal operating conditions
+772,2025-07-12,17:00:00,East,Whitefield,312,256,Sunny,92,7.0,Car,12.965531,77.747776,Normal operating conditions
+770,2025-07-12,18:00:00,Central,MG Road,447,394,Sunny,149,3.1,Metro,12.975423,77.602726,Normal operating conditions
+769,2025-07-12,21:00:00,South,HSR Layout,296,219,Rainy,137,5.5,Bike,12.91711,77.641686,Normal operating conditions
+774,2025-07-13,07:00:00,Central,Richmond Town,357,303,Sunny,217,7.1,Scooter,12.965313,77.60068,Normal operating conditions
+776,2025-07-13,10:00:00,North,Yelahanka,235,200,Rainy,169,6.7,Car,13.096042,77.602138,Normal operating conditions
+773,2025-07-13,18:00:00,South,HSR Layout,338,296,Cloudy,216,9.7,Scooter,12.907595,77.642296,Normal operating conditions
+775,2025-07-13,19:00:00,South,Jayanagar,315,249,Sunny,171,15.9,Bus,12.930051,77.589586,Normal operating conditions
+778,2025-07-14,08:00:00,East,Marathahalli,383,294,Sunny,216,5.5,Metro,12.964112,77.694325,Normal operating conditions
+777,2025-07-14,10:00:00,East,Whitefield,382,307,Rainy,220,8.6,Metro,12.965929,77.749864,Normal operating conditions
+779,2025-07-14,12:00:00,Central,Shivajinagar,279,214,Rainy,178,10.4,Bus,12.984145,77.605282,Normal operating conditions
+780,2025-07-14,18:00:00,East,Indiranagar,348,281,Rainy,220,7.4,Car,12.980693,77.644234,Normal operating conditions
+781,2025-07-15,09:00:00,East,Indiranagar,348,319,Cloudy,118,5.8,Bike,12.976616,77.641362,Normal operating conditions
+783,2025-07-15,14:00:00,Central,MG Road,195,170,Cloudy,159,8.1,Car,12.980126,77.600988,Normal operating conditions
+782,2025-07-15,18:00:00,North,Hebbal,358,326,Cloudy,224,5.4,Metro,13.032453,77.595172,Normal operating conditions
+784,2025-07-15,21:00:00,East,Whitefield,263,190,Sunny,164,11.1,Bike,12.964799,77.749782,Normal operating conditions
+788,2025-07-16,12:00:00,Central,Richmond Town,283,247,Sunny,197,10.0,Metro,12.95943,77.604525,Normal operating conditions
+785,2025-07-16,14:00:00,Central,MG Road,211,162,Cloudy,230,9.1,Bike,12.975984,77.610563,Normal operating conditions
+786,2025-07-16,20:00:00,South,Koramangala,281,220,Sunny,127,17.7,Car,12.930654,77.625762,Normal operating conditions
+787,2025-07-16,21:00:00,East,Whitefield,303,235,Cloudy,171,8.9,Bus,12.974254,77.747125,Normal operating conditions
+790,2025-07-17,12:00:00,Central,Richmond Town,177,144,Windy,173,6.4,Bike,12.957498,77.598791,Normal operating conditions
+789,2025-07-17,12:00:00,East,Indiranagar,241,189,Cloudy,145,11.0,Metro,12.983497,77.641887,Normal operating conditions
+792,2025-07-17,19:00:00,Central,MG Road,438,346,Sunny,96,9.6,Metro,12.972652,77.611341,Normal operating conditions
+791,2025-07-17,20:00:00,East,Marathahalli,330,263,Sunny,178,1.5,Scooter,12.96489,77.695345,Normal operating conditions
+796,2025-07-18,08:00:00,Central,Shivajinagar,414,299,Sunny,189,11.4,Metro,12.990401,77.604618,Normal operating conditions
+793,2025-07-18,16:00:00,East,Whitefield,256,232,Cloudy,157,13.4,Bike,12.975659,77.752594,Normal operating conditions
+794,2025-07-18,16:00:00,West,Rajajinagar,180,142,Sunny,158,3.6,Car,12.990669,77.548552,Normal operating conditions
+795,2025-07-18,18:00:00,North,Yelahanka,272,235,Cloudy,99,9.0,Bike,13.099659,77.599898,Normal operating conditions
+797,2025-07-19,06:00:00,East,Marathahalli,262,214,Sunny,145,13.2,Bike,12.955813,77.696081,Normal operating conditions
+798,2025-07-19,07:00:00,South,Jayanagar,401,347,Cloudy,156,13.4,Metro,12.931509,77.592159,Normal operating conditions
+800,2025-07-19,17:00:00,West,Vijayanagar,302,247,Cloudy,126,11.7,Metro,12.969824,77.54361,Normal operating conditions
+799,2025-07-19,20:00:00,South,Koramangala,382,337,Rainy,143,5.6,Bus,12.935092,77.630157,Normal operating conditions
+804,2025-07-20,06:00:00,South,HSR Layout,214,184,Sunny,158,6.6,Bike,12.909617,77.638299,Normal operating conditions
+803,2025-07-20,06:00:00,West,Nagarbhavi,198,158,Sunny,153,5.5,Car,12.960933,77.509804,Normal operating conditions
+801,2025-07-20,07:00:00,West,Nagarbhavi,277,208,Sunny,123,7.3,Metro,12.959008,77.514825,Normal operating conditions
+802,2025-07-20,21:00:00,Central,MG Road,318,273,Windy,205,11.0,Metro,12.973834,77.610592,Normal operating conditions
+806,2025-07-21,07:00:00,Central,MG Road,373,286,Cloudy,196,9.6,Bike,12.973114,77.61161,Normal operating conditions
+807,2025-07-21,08:00:00,West,Rajajinagar,285,220,Sunny,167,10.8,Scooter,12.993969,77.553897,Normal operating conditions
+808,2025-07-21,16:00:00,East,Marathahalli,262,239,Foggy,158,6.5,Scooter,12.956099,77.703019,Normal operating conditions
+805,2025-07-21,19:00:00,North,Malleshwaram,286,227,Sunny,123,8.0,Bike,13.001539,77.565613,Normal operating conditions
+811,2025-07-22,06:00:00,South,Jayanagar,327,238,Sunny,106,6.2,Metro,12.92943,77.599166,Normal operating conditions
+809,2025-07-22,07:00:00,North,Hebbal,305,267,Cloudy,114,3.6,Bus,13.041248,77.596682,Normal operating conditions
+810,2025-07-22,10:00:00,North,Hebbal,220,171,Cloudy,203,2.6,Bike,13.034631,77.598387,Normal operating conditions
+812,2025-07-22,17:00:00,Central,Richmond Town,355,312,Cloudy,124,8.4,Bike,12.959368,77.603515,Normal operating conditions
+813,2025-07-23,10:00:00,East,Whitefield,314,266,Sunny,156,7.0,Metro,12.966639,77.753935,Normal operating conditions
+815,2025-07-23,18:00:00,South,HSR Layout,411,327,Rainy,138,6.0,Bus,12.916546,77.644099,Normal operating conditions
+814,2025-07-23,19:00:00,Central,Richmond Town,350,316,Windy,144,6.0,Scooter,12.957589,77.600818,Normal operating conditions
+816,2025-07-23,20:00:00,West,Nagarbhavi,212,165,Sunny,146,9.8,Car,12.962481,77.512566,Normal operating conditions
+817,2025-07-24,06:00:00,Central,Richmond Town,314,286,Cloudy,188,9.6,Scooter,12.966648,77.595346,Normal operating conditions
+819,2025-07-24,08:00:00,West,Vijayanagar,272,223,Cloudy,113,3.4,Bus,12.977339,77.544097,Normal operating conditions
+820,2025-07-24,12:00:00,West,Vijayanagar,185,161,Windy,178,9.4,Bus,12.966305,77.550804,Normal operating conditions
+818,2025-07-24,20:00:00,North,Hebbal,297,216,Foggy,93,4.7,Bus,13.040681,77.592428,Normal operating conditions
+823,2025-07-25,08:00:00,East,Indiranagar,479,427,Rainy,188,6.8,Metro,12.97304,77.636726,Normal operating conditions
+824,2025-07-25,12:00:00,East,Whitefield,232,173,Rainy,102,16.1,Car,12.964899,77.749274,Normal operating conditions
+821,2025-07-25,16:00:00,West,Rajajinagar,208,172,Sunny,165,16.8,Bike,12.996137,77.553849,Normal operating conditions
+822,2025-07-25,17:00:00,South,Jayanagar,257,198,Windy,230,12.3,Car,12.930235,77.591434,Normal operating conditions
+827,2025-07-26,16:00:00,Central,Shivajinagar,304,267,Cloudy,105,10.9,Car,12.983584,77.602099,Normal operating conditions
+825,2025-07-26,18:00:00,North,Hebbal,281,235,Rainy,133,13.0,Bike,13.031071,77.594895,Normal operating conditions
+828,2025-07-26,18:00:00,South,Koramangala,339,292,Cloudy,156,9.5,Scooter,12.933107,77.62768,Normal operating conditions
+826,2025-07-26,19:00:00,West,Vijayanagar,297,260,Sunny,174,11.1,Metro,12.969031,77.541523,Normal operating conditions
+832,2025-07-27,09:00:00,North,Malleshwaram,345,260,Rainy,198,1.7,Bus,12.999321,77.560028,Normal operating conditions
+830,2025-07-27,19:00:00,East,Indiranagar,327,287,Sunny,127,6.9,Bike,12.976913,77.637684,Normal operating conditions
+829,2025-07-27,21:00:00,East,Marathahalli,261,213,Cloudy,167,11.8,Car,12.964359,77.6977,Normal operating conditions
+831,2025-07-27,21:00:00,South,Jayanagar,225,199,Windy,146,9.8,Bike,12.931638,77.598186,Normal operating conditions
+836,2025-07-28,16:00:00,Central,MG Road,381,302,Rainy,196,6.2,Bus,12.970364,77.611774,Normal operating conditions
+833,2025-07-28,17:00:00,Central,MG Road,336,295,Windy,216,4.2,Car,12.976272,77.607804,Normal operating conditions
+835,2025-07-28,21:00:00,East,Indiranagar,216,164,Sunny,132,5.4,Car,12.978037,77.636813,Normal operating conditions
+834,2025-07-28,21:00:00,West,Vijayanagar,211,185,Sunny,206,11.3,Bike,12.976293,77.542203,Normal operating conditions
+837,2025-07-29,17:00:00,Central,Richmond Town,424,328,Sunny,175,2.5,Metro,12.964682,77.603995,Normal operating conditions
+839,2025-07-29,19:00:00,South,HSR Layout,440,366,Rainy,164,4.6,Metro,12.912702,77.643674,Normal operating conditions
+838,2025-07-29,20:00:00,Central,Shivajinagar,315,266,Windy,94,11.9,Car,12.979877,77.600442,Normal operating conditions
+840,2025-07-29,21:00:00,East,Indiranagar,291,259,Cloudy,128,4.1,Bike,12.976093,77.640661,Normal operating conditions
+842,2025-07-30,06:00:00,North,Malleshwaram,77,58,Sunny,328,0.4,Scooter,13.000293,77.561601,Unusually low travel demand during a low-demand period
+841,2025-07-30,10:00:00,Central,MG Road,89,67,Sunny,259,3.9,Scooter,12.97633,77.612317,Unusually low travel demand during a low-demand period
+844,2025-07-30,17:00:00,West,Rajajinagar,88,72,Sunny,300,4.6,Scooter,12.989435,77.551058,Unusually low travel demand during a low-demand period
+843,2025-07-30,18:00:00,South,HSR Layout,141,119,Sunny,310,3.3,Metro,12.911921,77.635865,Unusually low travel demand during a low-demand period
+847,2025-07-31,06:00:00,East,Indiranagar,346,264,Cloudy,149,7.4,Metro,12.97663,77.635208,Normal operating conditions
+845,2025-07-31,07:00:00,North,Yelahanka,247,188,Sunny,178,2.9,Scooter,13.100837,77.599359,Normal operating conditions
+848,2025-07-31,19:00:00,Central,MG Road,361,325,Cloudy,124,7.5,Scooter,12.977954,77.608995,Normal operating conditions
+846,2025-07-31,21:00:00,West,Vijayanagar,161,119,Sunny,95,12.6,Car,12.969546,77.545276,Normal operating conditions
+852,2025-08-01,07:00:00,North,Yelahanka,261,205,Sunny,186,13.5,Scooter,13.098403,77.601944,Normal operating conditions
+849,2025-08-01,12:00:00,East,Marathahalli,189,153,Windy,211,6.9,Car,12.963585,77.70306,Normal operating conditions
+850,2025-08-01,14:00:00,East,Marathahalli,194,160,Sunny,210,12.4,Car,12.954897,77.692105,Normal operating conditions
+851,2025-08-01,20:00:00,North,Yelahanka,299,230,Sunny,95,5.3,Bus,13.100434,77.592813,Normal operating conditions
+855,2025-08-02,07:00:00,South,Jayanagar,328,277,Sunny,195,6.1,Scooter,12.934209,77.598983,Normal operating conditions
+856,2025-08-02,12:00:00,West,Rajajinagar,160,116,Sunny,191,13.3,Scooter,12.995773,77.54835,Normal operating conditions
+853,2025-08-02,17:00:00,Central,Shivajinagar,434,339,Rainy,171,4.6,Scooter,12.990185,77.600926,Normal operating conditions
+854,2025-08-02,21:00:00,East,Whitefield,309,258,Sunny,160,4.5,Metro,12.969055,77.753674,Normal operating conditions
+859,2025-08-03,07:00:00,North,Hebbal,286,239,Foggy,175,9.4,Bus,13.031906,77.598955,Normal operating conditions
+857,2025-08-03,09:00:00,East,Marathahalli,309,276,Windy,149,11.6,Car,12.961413,77.692709,Normal operating conditions
+858,2025-08-03,09:00:00,East,Whitefield,333,242,Windy,217,9.3,Bike,12.969199,77.744978,Normal operating conditions
+860,2025-08-03,19:00:00,East,Marathahalli,354,286,Cloudy,116,13.9,Car,12.962837,77.699361,Normal operating conditions
+862,2025-08-04,07:00:00,East,Whitefield,339,311,Sunny,100,6.6,Bike,12.968392,77.745159,Normal operating conditions
+863,2025-08-04,09:00:00,Central,MG Road,341,276,Sunny,177,9.2,Car,12.981429,77.607283,Normal operating conditions
+861,2025-08-04,12:00:00,South,HSR Layout,217,188,Sunny,103,5.5,Scooter,12.906474,77.644663,Normal operating conditions
+864,2025-08-04,12:00:00,South,HSR Layout,242,196,Cloudy,221,14.3,Bus,12.915226,77.641457,Normal operating conditions
+865,2025-08-05,14:00:00,South,Koramangala,222,203,Sunny,169,10.2,Bus,12.929317,77.624359,Normal operating conditions
+866,2025-08-05,18:00:00,Central,Richmond Town,415,370,Sunny,192,11.0,Bus,12.957596,77.593772,Normal operating conditions
+867,2025-08-05,20:00:00,East,Indiranagar,305,236,Foggy,193,14.1,Bike,12.979964,77.640941,Normal operating conditions
+868,2025-08-05,21:00:00,West,Rajajinagar,218,164,Windy,104,5.1,Metro,12.995567,77.556678,Normal operating conditions
+869,2025-08-06,09:00:00,Central,Richmond Town,469,351,Cloudy,122,1.1,Metro,12.958869,77.59694,Normal operating conditions
+870,2025-08-06,09:00:00,South,Koramangala,343,276,Rainy,126,6.1,Car,12.940577,77.629103,Normal operating conditions
+871,2025-08-06,10:00:00,Central,MG Road,331,247,Cloudy,127,5.2,Scooter,12.981793,77.609725,Normal operating conditions
+872,2025-08-06,16:00:00,Central,Shivajinagar,278,203,Sunny,124,15.5,Bike,12.986796,77.603088,Normal operating conditions
+875,2025-08-07,08:00:00,East,Whitefield,351,286,Sunny,195,1.5,Bike,12.975487,77.745517,Normal operating conditions
+873,2025-08-07,17:00:00,North,Malleshwaram,285,255,Cloudy,160,12.1,Scooter,13.009341,77.568696,Normal operating conditions
+876,2025-08-07,18:00:00,Central,Richmond Town,430,340,Cloudy,212,0.0,Metro,12.961515,77.60469,Normal operating conditions
+874,2025-08-07,20:00:00,South,HSR Layout,367,315,Rainy,173,13.4,Scooter,12.911923,77.639291,Normal operating conditions
+880,2025-08-08,06:00:00,South,HSR Layout,287,222,Cloudy,181,0.8,Bus,12.908724,77.643919,Normal operating conditions
+878,2025-08-08,12:00:00,West,Nagarbhavi,186,146,Sunny,102,8.8,Metro,12.960581,77.50485,Normal operating conditions
+877,2025-08-08,14:00:00,South,Jayanagar,217,194,Rainy,118,9.7,Bike,12.926734,77.591223,Normal operating conditions
+879,2025-08-08,19:00:00,East,Marathahalli,328,257,Sunny,161,12.0,Bike,12.954314,77.697304,Normal operating conditions
+881,2025-08-09,07:00:00,West,Vijayanagar,249,191,Sunny,165,8.9,Bike,12.97686,77.545519,Normal operating conditions
+883,2025-08-09,08:00:00,West,Nagarbhavi,212,156,Windy,119,8.4,Bike,12.961061,77.509256,Normal operating conditions
+884,2025-08-09,12:00:00,East,Marathahalli,203,187,Sunny,213,15.7,Scooter,12.960654,77.698405,Normal operating conditions
+882,2025-08-09,14:00:00,South,HSR Layout,197,168,Sunny,218,6.7,Bike,12.915337,77.639777,Normal operating conditions
+886,2025-08-10,09:00:00,Central,Shivajinagar,351,283,Sunny,203,3.3,Bike,12.981331,77.599288,Normal operating conditions
+888,2025-08-10,16:00:00,North,Hebbal,203,165,Sunny,190,3.5,Scooter,13.03494,77.600497,Normal operating conditions
+887,2025-08-10,19:00:00,Central,Shivajinagar,389,306,Cloudy,106,3.0,Scooter,12.988604,77.607068,Normal operating conditions
+885,2025-08-10,20:00:00,West,Nagarbhavi,302,244,Cloudy,139,13.5,Bus,12.952766,77.513535,Normal operating conditions
+889,2025-08-11,10:00:00,South,Koramangala,261,213,Sunny,143,7.3,Car,12.929516,77.63034,Normal operating conditions
+891,2025-08-11,14:00:00,North,Malleshwaram,207,184,Sunny,200,5.6,Bus,13.008888,77.562669,Normal operating conditions
+890,2025-08-11,17:00:00,Central,Shivajinagar,309,283,Windy,136,10.6,Car,12.986071,77.60707,Normal operating conditions
+892,2025-08-11,20:00:00,South,HSR Layout,356,291,Rainy,98,9.7,Car,12.907772,77.641662,Normal operating conditions
+895,2025-08-12,08:00:00,Central,MG Road,429,368,Cloudy,208,2.2,Bus,12.974904,77.606238,Normal operating conditions
+893,2025-08-12,10:00:00,South,Jayanagar,271,240,Windy,119,14.0,Bus,12.924255,77.594012,Normal operating conditions
+894,2025-08-12,17:00:00,East,Whitefield,331,280,Sunny,214,10.0,Bike,12.973026,77.746192,Normal operating conditions
+896,2025-08-12,20:00:00,East,Whitefield,446,406,Sunny,98,6.1,Metro,12.970203,77.752594,Normal operating conditions
+898,2025-08-13,06:00:00,South,Jayanagar,242,220,Sunny,224,10.5,Car,12.930425,77.59174,Normal operating conditions
+899,2025-08-13,10:00:00,East,Whitefield,290,226,Rainy,174,14.9,Car,12.967593,77.748304,Normal operating conditions
+897,2025-08-13,12:00:00,West,Rajajinagar,159,146,Sunny,196,0.9,Metro,12.986406,77.555394,Normal operating conditions
+900,2025-08-13,21:00:00,East,Indiranagar,256,206,Sunny,137,8.1,Bike,12.980819,77.639851,Normal operating conditions
+901,2025-08-14,06:00:00,West,Vijayanagar,223,187,Sunny,121,6.7,Scooter,12.974701,77.540088,Normal operating conditions
+903,2025-08-14,09:00:00,South,Jayanagar,443,331,Rainy,190,5.3,Metro,12.925389,77.599234,Normal operating conditions
+904,2025-08-14,10:00:00,West,Vijayanagar,216,176,Rainy,127,8.9,Bike,12.971021,77.547824,Normal operating conditions
+902,2025-08-14,20:00:00,South,HSR Layout,328,238,Sunny,133,18.5,Scooter,12.906954,77.634462,Normal operating conditions
+905,2025-08-15,09:00:00,East,Indiranagar,468,381,Rainy,204,6.4,Bus,12.976104,77.640955,Normal operating conditions
+908,2025-08-15,19:00:00,Central,Richmond Town,434,394,Sunny,206,8.8,Bus,12.964381,77.595407,Normal operating conditions
+906,2025-08-15,21:00:00,Central,Shivajinagar,341,291,Sunny,154,8.6,Bus,12.980778,77.605021,Normal operating conditions
+907,2025-08-15,21:00:00,North,Hebbal,274,206,Rainy,93,8.2,Scooter,13.039497,77.601814,Normal operating conditions
+910,2025-08-16,16:00:00,West,Rajajinagar,198,149,Rainy,196,8.7,Bike,12.991802,77.546956,Normal operating conditions
+909,2025-08-16,18:00:00,Central,Richmond Town,418,304,Sunny,186,0.3,Bus,12.963101,77.597415,Normal operating conditions
+911,2025-08-16,20:00:00,South,Koramangala,333,282,Foggy,108,4.0,Bus,12.933156,77.623555,Normal operating conditions
+912,2025-08-16,21:00:00,Central,MG Road,361,298,Sunny,230,4.3,Metro,12.972161,77.608898,Normal operating conditions
+914,2025-08-17,14:00:00,North,Hebbal,184,152,Foggy,122,13.3,Metro,13.030936,77.601837,Normal operating conditions
+916,2025-08-17,16:00:00,North,Yelahanka,276,205,Sunny,146,11.8,Metro,13.100375,77.595223,Normal operating conditions
+913,2025-08-17,18:00:00,North,Hebbal,238,184,Sunny,196,9.8,Car,13.03075,77.595823,Normal operating conditions
+915,2025-08-17,20:00:00,East,Whitefield,349,254,Windy,184,6.7,Scooter,12.967998,77.75565,Normal operating conditions
+919,2025-08-18,09:00:00,South,Jayanagar,390,354,Rainy,108,11.8,Scooter,12.931728,77.594125,Normal operating conditions
+917,2025-08-18,12:00:00,North,Hebbal,186,158,Sunny,114,15.0,Metro,13.035738,77.600247,Normal operating conditions
+918,2025-08-18,18:00:00,West,Nagarbhavi,324,268,Cloudy,175,12.2,Metro,12.956773,77.505267,Normal operating conditions
+920,2025-08-18,20:00:00,Central,Richmond Town,414,311,Sunny,158,12.4,Bus,12.962529,77.596395,Normal operating conditions
+923,2025-08-19,12:00:00,North,Hebbal,158,138,Sunny,155,4.3,Bike,13.030466,77.600641,Normal operating conditions
+921,2025-08-19,12:00:00,South,Jayanagar,176,157,Sunny,206,7.5,Car,12.928194,77.591062,Normal operating conditions
+922,2025-08-19,16:00:00,West,Rajajinagar,225,192,Sunny,97,0.7,Bike,12.991174,77.556608,Normal operating conditions
+924,2025-08-19,21:00:00,South,Koramangala,255,218,Rainy,158,11.1,Car,12.930324,77.629455,Normal operating conditions
+926,2025-08-20,06:00:00,East,Whitefield,337,299,Cloudy,184,15.4,Metro,12.965233,77.75483,Normal operating conditions
+928,2025-08-20,09:00:00,South,HSR Layout,359,318,Cloudy,161,2.0,Scooter,12.91308,77.635656,Normal operating conditions
+925,2025-08-20,18:00:00,North,Hebbal,315,276,Sunny,228,1.9,Metro,13.033625,77.602658,Normal operating conditions
+927,2025-08-20,20:00:00,Central,MG Road,325,277,Sunny,159,10.5,Car,12.979419,77.606503,Normal operating conditions
+931,2025-08-21,06:00:00,East,Marathahalli,310,269,Sunny,178,11.3,Bus,12.956795,77.69409,Normal operating conditions
+929,2025-08-21,09:00:00,Central,MG Road,420,330,Windy,121,5.3,Bus,12.973725,77.606481,Normal operating conditions
+932,2025-08-21,10:00:00,South,Jayanagar,330,252,Sunny,175,6.0,Bus,12.926271,77.595844,Normal operating conditions
+930,2025-08-21,21:00:00,South,Koramangala,271,216,Cloudy,212,6.3,Bike,12.936911,77.620268,Normal operating conditions
+933,2025-08-22,07:00:00,Central,Shivajinagar,431,366,Sunny,228,7.5,Metro,12.98571,77.605844,Normal operating conditions
+935,2025-08-22,09:00:00,South,Jayanagar,306,250,Cloudy,113,7.7,Car,12.927619,77.588778,Normal operating conditions
+934,2025-08-22,16:00:00,Central,MG Road,315,287,Sunny,220,5.8,Scooter,12.975732,77.60697,Normal operating conditions
+936,2025-08-22,16:00:00,Central,MG Road,279,245,Sunny,161,7.9,Car,12.97537,77.61242,Normal operating conditions
+939,2025-08-23,06:00:00,North,Yelahanka,290,219,Cloudy,137,7.6,Metro,13.106446,77.599538,Normal operating conditions
+938,2025-08-23,12:00:00,Central,MG Road,245,188,Windy,182,6.5,Scooter,12.980114,77.604285,Normal operating conditions
+937,2025-08-23,17:00:00,West,Vijayanagar,287,236,Sunny,150,0.5,Bus,12.967187,77.545376,Normal operating conditions
+940,2025-08-23,20:00:00,East,Indiranagar,337,258,Foggy,149,11.1,Scooter,12.972608,77.635153,Normal operating conditions
+941,2025-08-24,08:00:00,West,Nagarbhavi,258,193,Cloudy,105,6.7,Scooter,12.956901,77.505681,Normal operating conditions
+944,2025-08-24,09:00:00,Central,Richmond Town,377,345,Sunny,159,2.5,Scooter,12.958901,77.593965,Normal operating conditions
+942,2025-08-24,16:00:00,Central,Shivajinagar,294,222,Windy,129,2.3,Bike,12.980947,77.602933,Normal operating conditions
+943,2025-08-24,18:00:00,East,Marathahalli,383,345,Cloudy,128,0.0,Bus,12.960225,77.693125,Normal operating conditions
+947,2025-08-25,06:00:00,East,Whitefield,246,197,Sunny,188,8.3,Car,12.967646,77.754089,Normal operating conditions
+945,2025-08-25,07:00:00,West,Vijayanagar,245,200,Sunny,111,6.6,Scooter,12.977048,77.542406,Normal operating conditions
+948,2025-08-25,12:00:00,Central,Shivajinagar,198,162,Sunny,198,0.4,Bike,12.98417,77.600398,Normal operating conditions
+946,2025-08-25,20:00:00,East,Whitefield,352,319,Sunny,139,2.2,Bike,12.968482,77.752761,Normal operating conditions
+952,2025-08-26,06:00:00,West,Nagarbhavi,314,226,Rainy,159,7.9,Metro,12.959093,77.506702,Normal operating conditions
+949,2025-08-26,14:00:00,South,Koramangala,199,146,Sunny,230,16.0,Bike,12.935108,77.629639,Normal operating conditions
+950,2025-08-26,17:00:00,West,Vijayanagar,271,243,Cloudy,110,4.4,Car,12.966509,77.548516,Normal operating conditions
+951,2025-08-26,18:00:00,Central,MG Road,340,310,Cloudy,162,5.1,Car,12.970896,77.604223,Normal operating conditions
+956,2025-08-27,14:00:00,South,Koramangala,225,190,Rainy,230,9.1,Scooter,12.937341,77.619538,Normal operating conditions
+953,2025-08-27,16:00:00,North,Malleshwaram,250,208,Rainy,205,9.8,Scooter,13.007697,77.564519,Normal operating conditions
+954,2025-08-27,19:00:00,West,Rajajinagar,291,260,Windy,192,10.6,Metro,12.996844,77.547996,Normal operating conditions
+955,2025-08-27,20:00:00,Central,Shivajinagar,381,343,Rainy,108,3.1,Car,12.990191,77.60629,Normal operating conditions
+960,2025-08-28,12:00:00,North,Yelahanka,177,159,Sunny,110,11.8,Car,13.106203,77.591276,Normal operating conditions
+957,2025-08-28,17:00:00,South,HSR Layout,300,237,Cloudy,165,8.0,Car,12.916232,77.636774,Normal operating conditions
+958,2025-08-28,19:00:00,South,HSR Layout,387,336,Sunny,209,3.5,Bus,12.912553,77.638279,Normal operating conditions
+959,2025-08-28,20:00:00,South,Jayanagar,382,298,Cloudy,143,1.9,Bus,12.932563,77.594539,Normal operating conditions
+963,2025-08-29,08:00:00,East,Marathahalli,487,426,Rainy,113,8.4,Metro,12.954509,77.694391,Normal operating conditions
+964,2025-08-29,12:00:00,East,Whitefield,208,185,Sunny,192,7.4,Car,12.967124,77.747272,Normal operating conditions
+961,2025-08-29,14:00:00,West,Rajajinagar,133,116,Sunny,131,1.9,Car,12.994276,77.547541,Normal operating conditions
+962,2025-08-29,16:00:00,South,HSR Layout,271,210,Sunny,134,5.9,Scooter,12.910735,77.639042,Normal operating conditions
+965,2025-08-30,08:00:00,South,Jayanagar,309,260,Sunny,159,8.9,Bike,12.926138,77.587458,Normal operating conditions
+966,2025-08-30,12:00:00,South,Koramangala,250,204,Rainy,198,2.9,Bike,12.929898,77.62353,Normal operating conditions
+968,2025-08-30,17:00:00,Central,Shivajinagar,423,324,Windy,121,6.8,Metro,12.98874,77.607507,Normal operating conditions
+967,2025-08-30,21:00:00,North,Malleshwaram,243,204,Sunny,227,11.9,Metro,13.003798,77.568871,Normal operating conditions
+972,2025-08-31,07:00:00,Central,Shivajinagar,330,261,Sunny,148,10.1,Car,12.989788,77.604613,Normal operating conditions
+969,2025-08-31,09:00:00,South,HSR Layout,369,298,Foggy,195,4.4,Metro,12.909794,77.642706,Normal operating conditions
+971,2025-08-31,21:00:00,Central,MG Road,275,221,Cloudy,97,2.8,Car,12.979075,77.60249,Normal operating conditions
+970,2025-08-31,21:00:00,North,Hebbal,232,170,Rainy,126,4.4,Bike,13.036718,77.602041,Normal operating conditions
+973,2025-09-01,06:00:00,North,Malleshwaram,194,171,Sunny,147,5.4,Car,13.005386,77.570218,Normal operating conditions
+976,2025-09-01,07:00:00,North,Hebbal,310,283,Sunny,131,0.0,Scooter,13.039904,77.601757,Normal operating conditions
+974,2025-09-01,16:00:00,North,Hebbal,223,205,Rainy,220,13.0,Car,13.033893,77.592744,Normal operating conditions
+975,2025-09-01,21:00:00,West,Vijayanagar,210,175,Cloudy,159,6.3,Car,12.977684,77.54511,Normal operating conditions
+977,2025-09-02,09:00:00,Central,MG Road,446,358,Sunny,163,3.2,Metro,12.980058,77.600828,Normal operating conditions
+980,2025-09-02,10:00:00,South,Koramangala,376,280,Rainy,117,11.9,Metro,12.937413,77.618901,Normal operating conditions
+978,2025-09-02,12:00:00,East,Whitefield,214,169,Sunny,224,9.0,Scooter,12.969273,77.746897,Normal operating conditions
+979,2025-09-02,21:00:00,North,Yelahanka,237,214,Cloudy,143,5.4,Bike,13.095631,77.592311,Normal operating conditions
+981,2025-09-03,07:00:00,South,HSR Layout,345,297,Sunny,225,8.3,Bike,12.907485,77.638002,Normal operating conditions
+984,2025-09-03,09:00:00,West,Rajajinagar,259,217,Sunny,192,9.9,Scooter,12.994985,77.551062,Normal operating conditions
+983,2025-09-03,12:00:00,Central,Shivajinagar,228,193,Cloudy,117,12.4,Bike,12.981547,77.60707,Normal operating conditions
+982,2025-09-03,16:00:00,East,Indiranagar,309,254,Sunny,223,14.2,Scooter,12.975837,77.643542,Normal operating conditions
+987,2025-09-04,07:00:00,Central,Richmond Town,361,320,Sunny,228,11.3,Bike,12.964825,77.596387,Normal operating conditions
+985,2025-09-04,07:00:00,Central,Shivajinagar,495,429,Rainy,115,2.2,Metro,12.989415,77.607806,Normal operating conditions
+986,2025-09-04,09:00:00,East,Whitefield,336,309,Cloudy,214,8.7,Car,12.971794,77.750066,Normal operating conditions
+988,2025-09-04,09:00:00,West,Rajajinagar,287,227,Rainy,158,6.3,Bike,12.995783,77.551631,Normal operating conditions
+990,2025-09-05,06:00:00,East,Indiranagar,282,237,Foggy,109,9.4,Scooter,12.972632,77.636798,Normal operating conditions
+991,2025-09-05,07:00:00,South,HSR Layout,396,313,Sunny,160,7.2,Metro,12.91059,77.64016,Normal operating conditions
+989,2025-09-05,16:00:00,Central,MG Road,355,283,Cloudy,187,8.4,Metro,12.974499,77.608991,Normal operating conditions
+992,2025-09-05,18:00:00,Central,MG Road,500,420,Cloudy,212,8.7,Metro,12.977593,77.611932,Normal operating conditions
+996,2025-09-06,06:00:00,West,Rajajinagar,220,164,Sunny,179,10.7,Bus,12.99747,77.546125,Normal operating conditions
+993,2025-09-06,07:00:00,North,Malleshwaram,248,210,Sunny,116,5.7,Car,13.008084,77.561898,Normal operating conditions
+995,2025-09-06,17:00:00,Central,MG Road,352,316,Sunny,190,8.4,Car,12.980322,77.604901,Normal operating conditions
+994,2025-09-06,19:00:00,North,Hebbal,286,251,Cloudy,193,9.4,Bike,13.0403,77.592458,Normal operating conditions
+1000,2025-09-07,07:00:00,North,Hebbal,349,305,Rainy,169,5.6,Scooter,13.030081,77.595807,Normal operating conditions
+999,2025-09-07,16:00:00,Central,Richmond Town,376,342,Cloudy,192,10.9,Metro,12.959107,77.603806,Normal operating conditions
+998,2025-09-07,16:00:00,North,Yelahanka,249,185,Foggy,107,4.3,Metro,13.09897,77.593084,Normal operating conditions
+997,2025-09-07,21:00:00,East,Marathahalli,288,211,Cloudy,141,8.0,Scooter,12.962537,77.697468,Normal operating conditions

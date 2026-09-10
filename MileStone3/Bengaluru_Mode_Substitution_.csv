@@ -1,0 +1,1001 @@
+Record_ID,Date,Hour,Location,Weather_Condition,Transportation_Mode,Demand
+361,2025-01-01,5,MG Road,Sunny,Metro,160
+319,2025-01-02,0,Whitefield,Rainy,Scooter,104
+756,2025-01-02,10,Electronic City,Rainy,Scooter,164
+736,2025-01-02,15,Indiranagar,Cloudy,Car,168
+4,2025-01-02,19,Koramangala,Sunny,Bike,276
+317,2025-01-03,5,Whitefield,Sunny,Scooter,197
+176,2025-01-03,7,Indiranagar,Cloudy,Bike,234
+81,2025-01-03,11,MG Road,Foggy,Bus,215
+200,2025-01-03,19,Marathahalli,Foggy,Metro,261
+826,2025-01-03,22,HSR Layout,Windy,Scooter,173
+144,2025-01-04,1,Electronic City,Sunny,Metro,187
+758,2025-01-04,3,Yelahanka,Rainy,Bike,69
+704,2025-01-04,4,Koramangala,Rainy,Metro,224
+850,2025-01-05,7,Jayanagar,Windy,Metro,284
+197,2025-01-06,0,HSR Layout,Rainy,Scooter,125
+788,2025-01-06,0,Koramangala,Windy,Scooter,130
+518,2025-01-06,8,Electronic City,Cloudy,Bike,220
+111,2025-01-06,8,Hebbal,Foggy,Metro,260
+266,2025-01-06,11,Jayanagar,Foggy,Bike,107
+479,2025-01-07,9,Marathahalli,Cloudy,Bike,254
+916,2025-01-07,9,Hebbal,Rainy,Bus,290
+706,2025-01-07,11,Jayanagar,Rainy,Metro,226
+369,2025-01-07,11,Marathahalli,Rainy,Scooter,98
+218,2025-01-07,13,Yelahanka,Foggy,Bus,189
+607,2025-01-08,17,Yelahanka,Cloudy,Metro,253
+592,2025-01-09,1,Indiranagar,Sunny,Scooter,170
+170,2025-01-09,15,MG Road,Cloudy,Bus,186
+938,2025-01-09,17,Koramangala,Sunny,Bike,298
+972,2025-01-11,1,Hebbal,Rainy,Car,179
+350,2025-01-11,5,Marathahalli,Cloudy,Scooter,184
+735,2025-01-11,17,Hebbal,Sunny,Car,194
+631,2025-01-11,17,MG Road,Windy,Metro,252
+896,2025-01-12,2,MG Road,Cloudy,Metro,210
+629,2025-01-12,10,Hebbal,Cloudy,Scooter,235
+64,2025-01-13,9,Koramangala,Rainy,Metro,332
+978,2025-01-13,15,Marathahalli,Sunny,Bike,212
+13,2025-01-13,18,Jayanagar,Cloudy,Scooter,214
+336,2025-01-13,21,Jayanagar,Foggy,Scooter,110
+486,2025-01-13,23,Hebbal,Rainy,Scooter,105
+35,2025-01-14,0,Electronic City,Foggy,Bus,185
+163,2025-01-14,3,Jayanagar,Windy,Bike,120
+50,2025-01-14,11,Yelahanka,Cloudy,Metro,195
+338,2025-01-14,23,Indiranagar,Rainy,Scooter,105
+970,2025-01-15,2,HSR Layout,Windy,Metro,205
+92,2025-01-15,3,Koramangala,Foggy,Bike,113
+220,2025-01-15,3,HSR Layout,Cloudy,Scooter,161
+919,2025-01-15,11,Electronic City,Windy,Bus,201
+526,2025-01-15,14,Koramangala,Windy,Bike,148
+71,2025-01-15,21,Electronic City,Foggy,Car,170
+91,2025-01-16,5,Indiranagar,Rainy,Car,179
+622,2025-01-16,9,MG Road,Foggy,Bike,163
+559,2025-01-16,15,Yelahanka,Foggy,Scooter,136
+754,2025-01-16,20,Indiranagar,Cloudy,Scooter,261
+647,2025-01-17,17,Electronic City,Cloudy,Bike,231
+977,2025-01-18,5,Indiranagar,Cloudy,Car,135
+178,2025-01-19,6,Jayanagar,Foggy,Bike,118
+653,2025-01-19,6,Hebbal,Rainy,Bike,90
+734,2025-01-19,11,Electronic City,Windy,Metro,190
+584,2025-01-19,22,Koramangala,Sunny,Bike,217
+589,2025-01-19,22,Whitefield,Rainy,Metro,220
+318,2025-01-20,1,Whitefield,Rainy,Bike,100
+313,2025-01-20,11,MG Road,Windy,Bike,122
+212,2025-01-20,23,Indiranagar,Foggy,Scooter,129
+767,2025-01-21,6,Jayanagar,Rainy,Car,170
+645,2025-01-21,15,Hebbal,Windy,Scooter,174
+360,2025-01-22,6,Hebbal,Sunny,Scooter,176
+299,2025-01-22,8,MG Road,Rainy,Bike,130
+991,2025-01-22,11,Indiranagar,Cloudy,Scooter,173
+585,2025-01-23,4,Yelahanka,Cloudy,Scooter,152
+534,2025-01-23,5,HSR Layout,Windy,Car,150
+575,2025-01-23,8,Jayanagar,Cloudy,Metro,238
+249,2025-01-23,19,Jayanagar,Sunny,Metro,245
+891,2025-01-24,5,HSR Layout,Cloudy,Scooter,186
+987,2025-01-24,23,Koramangala,Cloudy,Metro,205
+232,2025-01-25,13,Koramangala,Cloudy,Bus,180
+41,2025-01-25,14,MG Road,Cloudy,Bus,185
+565,2025-01-25,16,Whitefield,Windy,Bus,160
+739,2025-01-25,23,HSR Layout,Rainy,Bus,206
+900,2025-01-26,2,Yelahanka,Foggy,Metro,192
+774,2025-01-26,9,Marathahalli,Foggy,Car,241
+311,2025-01-27,0,MG Road,Foggy,Bike,118
+659,2025-01-27,11,Koramangala,Sunny,Bus,180
+861,2025-01-27,20,Electronic City,Windy,Car,203
+395,2025-01-27,22,Electronic City,Windy,Scooter,147
+250,2025-01-28,3,Marathahalli,Rainy,Bus,206
+662,2025-01-28,7,Yelahanka,Cloudy,Bus,234
+252,2025-01-30,2,Hebbal,Cloudy,Scooter,153
+875,2025-01-30,23,Marathahalli,Foggy,Scooter,147
+489,2025-01-31,5,Hebbal,Windy,Bike,113
+918,2025-01-31,20,Jayanagar,Windy,Bus,246
+656,2025-02-01,7,Hebbal,Windy,Scooter,202
+137,2025-02-01,21,Electronic City,Sunny,Metro,200
+624,2025-02-03,18,Marathahalli,Sunny,Car,200
+590,2025-02-04,12,Koramangala,Sunny,Car,140
+848,2025-02-04,16,Indiranagar,Windy,Scooter,152
+487,2025-02-05,2,Yelahanka,Windy,Scooter,155
+462,2025-02-05,12,Electronic City,Cloudy,Metro,209
+421,2025-02-06,1,Hebbal,Sunny,Car,150
+413,2025-02-06,2,Electronic City,Rainy,Metro,244
+553,2025-02-06,13,Koramangala,Rainy,Car,206
+277,2025-02-06,15,Indiranagar,Rainy,Metro,224
+772,2025-02-06,22,HSR Layout,Cloudy,Scooter,150
+355,2025-02-06,23,Koramangala,Windy,Bike,151
+484,2025-02-07,10,Indiranagar,Foggy,Bus,256
+552,2025-02-07,12,Whitefield,Foggy,Bus,213
+357,2025-02-07,13,MG Road,Rainy,Car,193
+794,2025-02-08,7,HSR Layout,Rainy,Scooter,118
+436,2025-02-08,16,MG Road,Windy,Scooter,146
+709,2025-02-08,23,Koramangala,Sunny,Scooter,185
+670,2025-02-09,1,Yelahanka,Rainy,Scooter,96
+853,2025-02-09,15,Whitefield,Sunny,Scooter,169
+130,2025-02-09,17,Jayanagar,Cloudy,Metro,258
+116,2025-02-10,17,MG Road,Cloudy,Car,220
+776,2025-02-10,19,Marathahalli,Rainy,Bus,268
+503,2025-02-10,19,Hebbal,Foggy,Metro,298
+160,2025-02-11,18,HSR Layout,Sunny,Bike,292
+720,2025-02-12,18,Electronic City,Rainy,Bus,277
+86,2025-02-13,4,Electronic City,Windy,Metro,205
+781,2025-02-13,7,Koramangala,Cloudy,Bike,222
+961,2025-02-15,4,Jayanagar,Sunny,Car,107
+74,2025-02-15,5,Jayanagar,Foggy,Bike,131
+520,2025-02-15,8,Koramangala,Cloudy,Scooter,232
+576,2025-02-15,14,Jayanagar,Cloudy,Bike,180
+187,2025-02-15,14,Whitefield,Foggy,Scooter,120
+230,2025-02-16,0,HSR Layout,Windy,Bus,159
+150,2025-02-16,6,Koramangala,Cloudy,Bike,203
+868,2025-02-16,6,Koramangala,Foggy,Bus,183
+279,2025-02-16,6,MG Road,Cloudy,Car,120
+407,2025-02-16,11,Yelahanka,Sunny,Scooter,205
+10,2025-02-16,12,Koramangala,Foggy,Car,176
+775,2025-02-16,15,Electronic City,Foggy,Metro,182
+748,2025-02-17,2,Electronic City,Windy,Bus,199
+752,2025-02-17,16,Hebbal,Rainy,Bike,109
+482,2025-02-17,16,Electronic City,Cloudy,Car,126
+117,2025-02-18,4,Whitefield,Rainy,Scooter,109
+48,2025-02-18,6,HSR Layout,Cloudy,Bike,160
+539,2025-02-18,17,Whitefield,Sunny,Bike,290
+203,2025-02-19,7,Marathahalli,Rainy,Bus,269
+54,2025-02-19,13,MG Road,Cloudy,Bike,198
+935,2025-02-20,0,HSR Layout,Cloudy,Metro,165
+679,2025-02-20,7,Yelahanka,Rainy,Scooter,161
+22,2025-02-20,14,Indiranagar,Foggy,Metro,208
+654,2025-02-21,5,MG Road,Cloudy,Car,161
+578,2025-02-21,22,MG Road,Windy,Scooter,134
+990,2025-02-22,10,Marathahalli,Foggy,Metro,297
+206,2025-02-22,19,Whitefield,Foggy,Bike,143
+695,2025-02-23,0,Indiranagar,Sunny,Metro,194
+256,2025-02-23,2,Indiranagar,Foggy,Bus,167
+740,2025-02-23,18,Whitefield,Windy,Bus,253
+944,2025-02-24,17,Jayanagar,Sunny,Bus,221
+958,2025-02-24,21,Koramangala,Sunny,Bike,225
+95,2025-02-24,23,Yelahanka,Sunny,Bus,146
+120,2025-02-25,0,Indiranagar,Rainy,Bus,192
+234,2025-02-25,11,Yelahanka,Cloudy,Bike,164
+255,2025-02-25,13,Koramangala,Cloudy,Bike,199
+449,2025-02-26,16,Hebbal,Sunny,Bus,178
+390,2025-02-27,0,Yelahanka,Sunny,Car,138
+951,2025-02-27,11,Marathahalli,Rainy,Bike,69
+398,2025-02-27,13,Yelahanka,Windy,Bus,183
+920,2025-02-27,17,Electronic City,Sunny,Bike,270
+902,2025-02-27,18,Indiranagar,Sunny,Bike,302
+478,2025-02-28,7,Electronic City,Cloudy,Bus,215
+417,2025-03-01,0,Koramangala,Sunny,Scooter,180
+223,2025-03-01,6,Yelahanka,Windy,Bike,139
+834,2025-03-01,10,Indiranagar,Cloudy,Metro,259
+406,2025-03-02,5,HSR Layout,Foggy,Metro,227
+741,2025-03-02,8,MG Road,Foggy,Car,227
+1,2025-03-02,10,Koramangala,Foggy,Car,246
+874,2025-03-02,13,HSR Layout,Foggy,Scooter,157
+671,2025-03-02,17,Jayanagar,Foggy,Metro,283
+610,2025-03-02,20,Koramangala,Sunny,Bike,308
+354,2025-03-03,1,HSR Layout,Sunny,Bus,142
+473,2025-03-03,3,HSR Layout,Rainy,Car,183
+780,2025-03-03,10,Indiranagar,Sunny,Bus,185
+883,2025-03-03,11,HSR Layout,Sunny,Car,145
+97,2025-03-03,17,HSR Layout,Foggy,Scooter,179
+302,2025-03-03,22,MG Road,Rainy,Bike,105
+290,2025-03-04,1,Indiranagar,Foggy,Bus,187
+697,2025-03-04,8,MG Road,Cloudy,Car,186
+288,2025-03-04,8,Whitefield,Sunny,Scooter,258
+481,2025-03-04,9,Yelahanka,Cloudy,Scooter,232
+806,2025-03-05,0,Indiranagar,Sunny,Scooter,189
+228,2025-03-05,2,HSR Layout,Rainy,Scooter,89
+890,2025-03-05,4,Yelahanka,Rainy,Metro,248
+133,2025-03-06,16,HSR Layout,Cloudy,Metro,209
+500,2025-03-07,4,Whitefield,Windy,Metro,190
+392,2025-03-07,5,Koramangala,Sunny,Bus,131
+139,2025-03-07,14,MG Road,Cloudy,Scooter,194
+42,2025-03-08,20,Jayanagar,Foggy,Scooter,207
+954,2025-03-09,4,HSR Layout,Foggy,Bike,120
+862,2025-03-09,9,Electronic City,Sunny,Metro,260
+516,2025-03-09,13,Indiranagar,Rainy,Metro,225
+366,2025-03-09,23,Indiranagar,Sunny,Scooter,176
+124,2025-03-10,0,HSR Layout,Windy,Metro,186
+895,2025-03-10,2,HSR Layout,Foggy,Bus,198
+634,2025-03-10,15,Indiranagar,Sunny,Bus,140
+337,2025-03-10,22,Indiranagar,Rainy,Scooter,120
+910,2025-03-11,10,HSR Layout,Windy,Bike,190
+832,2025-03-11,13,Whitefield,Sunny,Scooter,204
+134,2025-03-11,17,Marathahalli,Rainy,Metro,326
+32,2025-03-11,18,Marathahalli,Rainy,Car,264
+328,2025-03-11,18,Electronic City,Foggy,Car,211
+273,2025-03-11,19,Jayanagar,Rainy,Car,241
+946,2025-03-12,1,Marathahalli,Windy,Bike,138
+43,2025-03-12,5,Marathahalli,Cloudy,Bus,157
+322,2025-03-12,13,Koramangala,Windy,Bike,142
+983,2025-03-12,15,Electronic City,Rainy,Car,175
+363,2025-03-12,19,Whitefield,Rainy,Bike,122
+465,2025-03-13,0,HSR Layout,Sunny,Car,110
+549,2025-03-13,1,Indiranagar,Cloudy,Bus,164
+866,2025-03-13,9,Electronic City,Sunny,Car,200
+603,2025-03-13,17,MG Road,Rainy,Bike,92
+815,2025-03-15,3,Yelahanka,Sunny,Scooter,173
+508,2025-03-15,13,HSR Layout,Foggy,Bike,110
+764,2025-03-16,4,Yelahanka,Cloudy,Car,138
+25,2025-03-16,14,HSR Layout,Sunny,Bike,185
+490,2025-03-16,17,Yelahanka,Windy,Metro,285
+287,2025-03-16,21,Hebbal,Windy,Bus,162
+873,2025-03-16,21,Electronic City,Windy,Car,185
+594,2025-03-17,0,Whitefield,Rainy,Metro,241
+72,2025-03-17,7,Jayanagar,Sunny,Bike,276
+821,2025-03-17,10,Electronic City,Foggy,Scooter,168
+943,2025-03-17,12,Whitefield,Cloudy,Metro,170
+496,2025-03-18,12,MG Road,Rainy,Metro,244
+33,2025-03-18,16,Koramangala,Cloudy,Bus,140
+323,2025-03-18,19,Hebbal,Windy,Bus,219
+77,2025-03-19,23,Whitefield,Windy,Metro,220
+993,2025-03-20,13,Hebbal,Rainy,Metro,243
+1000,2025-03-21,3,Hebbal,Windy,Bike,137
+143,2025-03-21,10,HSR Layout,Cloudy,Car,173
+974,2025-03-21,18,Koramangala,Rainy,Metro,334
+897,2025-03-21,18,Whitefield,Foggy,Scooter,204
+952,2025-03-21,23,Hebbal,Foggy,Metro,206
+909,2025-03-22,1,Whitefield,Cloudy,Bike,163
+833,2025-03-22,10,Hebbal,Foggy,Scooter,191
+439,2025-03-22,13,Koramangala,Windy,Car,169
+879,2025-03-22,13,Indiranagar,Rainy,Metro,220
+454,2025-03-22,21,Yelahanka,Rainy,Bus,238
+399,2025-03-23,2,Hebbal,Rainy,Bike,104
+264,2025-03-23,22,Whitefield,Rainy,Bike,66
+678,2025-03-24,2,Marathahalli,Rainy,Metro,251
+67,2025-03-25,19,Indiranagar,Sunny,Bike,260
+208,2025-03-26,3,Yelahanka,Cloudy,Bus,148
+188,2025-03-26,17,Hebbal,Cloudy,Car,219
+573,2025-03-26,20,Electronic City,Rainy,Bike,130
+426,2025-03-26,20,Jayanagar,Sunny,Car,192
+842,2025-03-27,2,HSR Layout,Sunny,Scooter,194
+562,2025-03-27,3,HSR Layout,Foggy,Bus,167
+405,2025-03-27,14,Whitefield,Sunny,Scooter,198
+746,2025-03-28,2,HSR Layout,Cloudy,Bus,183
+325,2025-03-28,6,Whitefield,Foggy,Car,149
+888,2025-03-28,7,Whitefield,Foggy,Bus,246
+356,2025-03-28,8,Hebbal,Cloudy,Scooter,251
+933,2025-03-28,15,Yelahanka,Windy,Scooter,132
+604,2025-03-28,18,Electronic City,Rainy,Car,249
+181,2025-03-28,20,MG Road,Sunny,Metro,224
+568,2025-03-28,21,Indiranagar,Cloudy,Bus,184
+466,2025-03-29,4,Hebbal,Foggy,Bike,103
+452,2025-03-29,4,Electronic City,Sunny,Scooter,197
+959,2025-03-29,11,MG Road,Windy,Scooter,154
+928,2025-03-29,16,Marathahalli,Sunny,Bus,161
+305,2025-03-29,18,HSR Layout,Rainy,Bus,282
+402,2025-03-30,2,MG Road,Foggy,Car,181
+924,2025-03-30,3,Whitefield,Windy,Scooter,148
+927,2025-03-30,17,HSR Layout,Cloudy,Bike,237
+387,2025-03-31,1,Indiranagar,Cloudy,Car,147
+997,2025-04-01,13,Hebbal,Windy,Car,163
+138,2025-04-02,4,Hebbal,Rainy,Car,214
+272,2025-04-02,11,Yelahanka,Windy,Bike,150
+882,2025-04-02,21,Hebbal,Windy,Bus,200
+388,2025-04-03,1,Marathahalli,Foggy,Car,173
+613,2025-04-04,3,Indiranagar,Windy,Bike,114
+811,2025-04-05,13,Jayanagar,Rainy,Bike,93
+580,2025-04-06,9,Hebbal,Windy,Car,219
+140,2025-04-06,21,Yelahanka,Cloudy,Bus,181
+448,2025-04-07,18,Marathahalli,Rainy,Metro,332
+89,2025-04-07,23,HSR Layout,Sunny,Car,146
+222,2025-04-08,11,Koramangala,Sunny,Car,110
+533,2025-04-08,12,Marathahalli,Rainy,Car,196
+227,2025-04-08,17,Indiranagar,Windy,Metro,276
+180,2025-04-08,20,Koramangala,Windy,Bike,175
+514,2025-04-09,0,MG Road,Foggy,Bike,126
+996,2025-04-09,0,Whitefield,Cloudy,Scooter,182
+577,2025-04-09,19,Jayanagar,Foggy,Metro,276
+609,2025-04-10,1,Indiranagar,Foggy,Metro,203
+857,2025-04-10,14,Jayanagar,Rainy,Metro,236
+525,2025-04-10,16,Yelahanka,Cloudy,Scooter,187
+270,2025-04-10,17,Electronic City,Rainy,Bike,114
+443,2025-04-10,21,Marathahalli,Foggy,Car,186
+792,2025-04-10,22,Marathahalli,Windy,Car,164
+755,2025-04-11,5,Hebbal,Rainy,Metro,231
+931,2025-04-11,14,HSR Layout,Windy,Bus,170
+326,2025-04-11,15,Koramangala,Sunny,Scooter,196
+40,2025-04-11,20,Jayanagar,Cloudy,Bike,259
+125,2025-04-12,11,Marathahalli,Rainy,Car,216
+312,2025-04-12,19,Whitefield,Cloudy,Bus,210
+20,2025-04-13,8,HSR Layout,Windy,Bus,250
+581,2025-04-14,1,Indiranagar,Sunny,Metro,152
+18,2025-04-14,9,Indiranagar,Rainy,Bike,92
+599,2025-04-14,21,Electronic City,Foggy,Bike,97
+738,2025-04-15,2,Yelahanka,Windy,Bike,158
+831,2025-04-15,6,Yelahanka,Windy,Metro,190
+962,2025-04-15,6,Koramangala,Cloudy,Scooter,164
+926,2025-04-15,15,HSR Layout,Sunny,Car,132
+152,2025-04-15,20,MG Road,Windy,Scooter,211
+586,2025-04-16,1,Electronic City,Windy,Metro,220
+860,2025-04-16,4,Electronic City,Rainy,Car,183
+789,2025-04-16,18,Indiranagar,Sunny,Metro,217
+276,2025-04-17,9,Marathahalli,Sunny,Metro,254
+241,2025-04-17,22,Hebbal,Foggy,Bus,175
+403,2025-04-18,6,Marathahalli,Cloudy,Bike,163
+555,2025-04-18,23,HSR Layout,Windy,Car,179
+540,2025-04-19,3,MG Road,Windy,Car,146
+103,2025-04-19,4,Indiranagar,Windy,Car,177
+675,2025-04-20,3,Koramangala,Sunny,Car,126
+365,2025-04-20,16,Hebbal,Windy,Bike,124
+400,2025-04-21,9,Yelahanka,Rainy,Bus,306
+367,2025-04-21,22,HSR Layout,Foggy,Bus,178
+396,2025-04-22,2,Marathahalli,Windy,Bus,172
+282,2025-04-23,1,HSR Layout,Rainy,Car,215
+267,2025-04-23,6,Electronic City,Rainy,Metro,210
+618,2025-04-23,23,Yelahanka,Foggy,Metro,194
+527,2025-04-25,2,MG Road,Windy,Metro,201
+2,2025-04-25,19,Yelahanka,Foggy,Car,231
+304,2025-04-26,8,Electronic City,Foggy,Metro,252
+298,2025-04-26,9,HSR Layout,Foggy,Bus,260
+147,2025-04-26,21,Indiranagar,Windy,Scooter,153
+216,2025-04-26,22,Yelahanka,Foggy,Car,163
+375,2025-04-27,12,MG Road,Sunny,Metro,171
+331,2025-04-28,10,Marathahalli,Sunny,Bus,215
+606,2025-04-28,10,Koramangala,Windy,Bus,227
+574,2025-04-29,10,Marathahalli,Sunny,Car,178
+887,2025-04-29,11,HSR Layout,Sunny,Car,124
+446,2025-04-29,20,Yelahanka,Rainy,Bike,117
+953,2025-04-30,7,Hebbal,Foggy,Bus,270
+106,2025-04-30,10,Koramangala,Cloudy,Car,220
+669,2025-05-01,3,HSR Layout,Windy,Car,155
+904,2025-05-01,3,Hebbal,Sunny,Scooter,167
+822,2025-05-01,13,Electronic City,Cloudy,Bike,190
+733,2025-05-01,20,HSR Layout,Windy,Metro,246
+195,2025-05-02,3,Yelahanka,Windy,Scooter,149
+70,2025-05-03,13,Jayanagar,Cloudy,Scooter,161
+296,2025-05-03,23,Whitefield,Rainy,Car,175
+790,2025-05-04,4,HSR Layout,Rainy,Bike,64
+166,2025-05-04,10,Whitefield,Windy,Scooter,209
+186,2025-05-05,1,Jayanagar,Sunny,Bus,154
+805,2025-05-05,11,HSR Layout,Windy,Scooter,130
+637,2025-05-06,20,Whitefield,Sunny,Scooter,236
+243,2025-05-07,0,Hebbal,Cloudy,Car,158
+27,2025-05-07,3,Jayanagar,Foggy,Bike,138
+6,2025-05-09,11,Jayanagar,Rainy,Bus,237
+248,2025-05-09,15,HSR Layout,Sunny,Metro,176
+240,2025-05-09,16,Electronic City,Windy,Metro,196
+819,2025-05-09,21,Hebbal,Foggy,Car,160
+201,2025-05-10,0,Indiranagar,Windy,Car,153
+749,2025-05-10,13,Indiranagar,Rainy,Bike,70
+667,2025-05-10,18,Whitefield,Windy,Bike,167
+829,2025-05-10,19,Electronic City,Cloudy,Scooter,234
+979,2025-05-10,20,Marathahalli,Rainy,Bus,276
+164,2025-05-11,0,Yelahanka,Sunny,Bike,233
+333,2025-05-11,17,Koramangala,Sunny,Scooter,248
+233,2025-05-11,22,Marathahalli,Foggy,Car,160
+371,2025-05-12,4,Koramangala,Windy,Bus,172
+956,2025-05-12,4,MG Road,Sunny,Bus,140
+849,2025-05-13,0,Whitefield,Windy,Car,161
+712,2025-05-13,1,Koramangala,Cloudy,Bus,170
+12,2025-05-13,13,Jayanagar,Foggy,Bus,197
+725,2025-05-13,16,Indiranagar,Windy,Bike,153
+872,2025-05-13,18,Hebbal,Rainy,Scooter,138
+352,2025-05-14,7,Marathahalli,Cloudy,Bus,216
+731,2025-05-14,7,Yelahanka,Cloudy,Car,204
+57,2025-05-14,8,Electronic City,Sunny,Bike,284
+394,2025-05-14,9,Indiranagar,Cloudy,Bus,231
+851,2025-05-14,10,MG Road,Cloudy,Car,176
+880,2025-05-14,10,HSR Layout,Sunny,Metro,234
+782,2025-05-14,11,Hebbal,Rainy,Car,189
+579,2025-05-14,16,Hebbal,Sunny,Bike,200
+330,2025-05-14,17,Marathahalli,Rainy,Bike,117
+804,2025-05-14,18,HSR Layout,Rainy,Bike,139
+964,2025-05-15,1,Jayanagar,Sunny,Car,135
+612,2025-05-15,1,HSR Layout,Sunny,Metro,176
+976,2025-05-15,2,Koramangala,Foggy,Scooter,140
+591,2025-05-15,9,Marathahalli,Cloudy,Scooter,239
+621,2025-05-15,18,Electronic City,Foggy,Scooter,159
+544,2025-05-15,22,Whitefield,Cloudy,Bike,184
+83,2025-05-16,4,Whitefield,Sunny,Bike,219
+75,2025-05-16,10,MG Road,Foggy,Metro,255
+729,2025-05-17,3,Indiranagar,Foggy,Bike,105
+307,2025-05-17,12,Koramangala,Sunny,Scooter,190
+639,2025-05-18,1,Marathahalli,Foggy,Bike,123
+297,2025-05-18,5,Whitefield,Sunny,Bus,141
+107,2025-05-18,9,Marathahalli,Foggy,Bus,272
+28,2025-05-18,21,Hebbal,Rainy,Scooter,80
+53,2025-05-18,21,Electronic City,Foggy,Scooter,116
+477,2025-05-19,11,HSR Layout,Cloudy,Car,151
+708,2025-05-19,13,MG Road,Foggy,Bus,203
+696,2025-05-19,18,Hebbal,Sunny,Bike,288
+949,2025-05-19,23,Hebbal,Sunny,Bike,234
+945,2025-05-20,1,Electronic City,Windy,Scooter,161
+726,2025-05-20,2,Whitefield,Rainy,Bus,207
+759,2025-05-20,6,Electronic City,Cloudy,Bike,204
+644,2025-05-21,13,Koramangala,Rainy,Scooter,88
+204,2025-05-21,14,HSR Layout,Windy,Metro,186
+300,2025-05-22,14,Marathahalli,Rainy,Bike,108
+56,2025-05-22,18,Indiranagar,Sunny,Metro,231
+374,2025-05-22,23,Yelahanka,Windy,Bike,124
+480,2025-05-23,5,Whitefield,Foggy,Scooter,129
+760,2025-05-23,10,Whitefield,Windy,Metro,250
+797,2025-05-23,15,HSR Layout,Windy,Bus,196
+472,2025-05-24,10,Hebbal,Sunny,Metro,224
+716,2025-05-24,16,Yelahanka,Foggy,Car,150
+824,2025-05-24,18,Jayanagar,Sunny,Metro,259
+700,2025-05-25,9,MG Road,Rainy,Car,262
+536,2025-05-25,15,Whitefield,Windy,Scooter,143
+743,2025-05-26,0,Jayanagar,Rainy,Metro,209
+415,2025-05-26,10,Electronic City,Sunny,Bike,288
+615,2025-05-26,11,Electronic City,Rainy,Car,210
+502,2025-05-26,15,Hebbal,Rainy,Metro,247
+376,2025-05-26,18,MG Road,Windy,Metro,267
+911,2025-05-27,0,HSR Layout,Windy,Metro,171
+967,2025-05-27,18,Jayanagar,Cloudy,Scooter,257
+182,2025-05-27,19,Koramangala,Sunny,Bus,200
+364,2025-05-28,3,Indiranagar,Foggy,Bike,123
+262,2025-05-28,3,Electronic City,Cloudy,Bus,152
+46,2025-05-28,14,HSR Layout,Cloudy,Metro,193
+569,2025-05-28,18,HSR Layout,Cloudy,Bike,260
+657,2025-05-29,13,Hebbal,Cloudy,Bus,172
+556,2025-05-29,19,Electronic City,Windy,Scooter,192
+8,2025-05-30,9,Yelahanka,Windy,Scooter,225
+409,2025-05-31,5,HSR Layout,Rainy,Bus,210
+820,2025-05-31,18,Hebbal,Sunny,Metro,237
+985,2025-06-01,4,HSR Layout,Rainy,Bus,219
+88,2025-06-01,17,Marathahalli,Rainy,Metro,294
+571,2025-06-02,10,Indiranagar,Rainy,Car,281
+65,2025-06-02,13,Jayanagar,Rainy,Car,171
+841,2025-06-03,15,Electronic City,Foggy,Metro,183
+876,2025-06-03,17,Hebbal,Foggy,Scooter,191
+251,2025-06-03,22,Whitefield,Rainy,Bike,73
+292,2025-06-04,5,Marathahalli,Rainy,Bus,208
+605,2025-06-04,5,Koramangala,Sunny,Metro,165
+386,2025-06-04,17,Jayanagar,Sunny,Bus,219
+96,2025-06-04,20,HSR Layout,Sunny,Metro,241
+635,2025-06-04,23,Electronic City,Rainy,Car,206
+994,2025-06-05,3,MG Road,Rainy,Car,192
+126,2025-06-05,6,Koramangala,Foggy,Bike,116
+382,2025-06-06,1,MG Road,Cloudy,Bus,151
+275,2025-06-06,4,Koramangala,Rainy,Bus,215
+757,2025-06-06,4,Indiranagar,Rainy,Scooter,86
+316,2025-06-06,12,Koramangala,Cloudy,Metro,165
+491,2025-06-06,13,Koramangala,Sunny,Metro,172
+583,2025-06-07,16,Koramangala,Foggy,Bus,199
+619,2025-06-07,19,MG Road,Sunny,Bike,296
+9,2025-06-08,0,Marathahalli,Rainy,Metro,234
+87,2025-06-08,1,Electronic City,Foggy,Scooter,120
+809,2025-06-08,2,Whitefield,Rainy,Metro,255
+59,2025-06-08,3,Hebbal,Sunny,Car,141
+373,2025-06-08,8,MG Road,Windy,Bus,243
+149,2025-06-08,20,HSR Layout,Windy,Car,229
+627,2025-06-09,1,Koramangala,Windy,Bus,173
+259,2025-06-09,4,Yelahanka,Rainy,Car,180
+80,2025-06-09,6,HSR Layout,Cloudy,Bus,149
+314,2025-06-09,16,Jayanagar,Foggy,Bus,193
+793,2025-06-09,17,Marathahalli,Sunny,Bus,234
+664,2025-06-09,17,Marathahalli,Cloudy,Scooter,241
+172,2025-06-10,8,Hebbal,Windy,Car,192
+908,2025-06-10,10,HSR Layout,Sunny,Scooter,274
+383,2025-06-10,13,Marathahalli,Foggy,Scooter,118
+625,2025-06-11,4,Electronic City,Sunny,Bike,200
+280,2025-06-11,6,Electronic City,Sunny,Metro,156
+60,2025-06-11,14,Marathahalli,Foggy,Car,147
+61,2025-06-11,19,Marathahalli,Cloudy,Car,200
+965,2025-06-12,18,Yelahanka,Windy,Bike,167
+869,2025-06-13,0,HSR Layout,Rainy,Bike,67
+898,2025-06-13,3,Jayanagar,Windy,Bus,179
+541,2025-06-13,9,Koramangala,Sunny,Metro,247
+353,2025-06-13,10,Hebbal,Sunny,Bike,270
+521,2025-06-14,4,Hebbal,Sunny,Bus,171
+225,2025-06-14,9,Hebbal,Sunny,Bike,262
+753,2025-06-15,8,Jayanagar,Foggy,Bus,232
+359,2025-06-16,8,Koramangala,Cloudy,Bike,242
+129,2025-06-16,15,Indiranagar,Rainy,Metro,228
+435,2025-06-17,5,Marathahalli,Foggy,Metro,200
+722,2025-06-17,6,Yelahanka,Foggy,Bike,100
+145,2025-06-18,0,Koramangala,Cloudy,Car,132
+501,2025-06-18,9,Electronic City,Foggy,Scooter,207
+494,2025-06-18,14,Electronic City,Cloudy,Scooter,163
+428,2025-06-19,7,Whitefield,Sunny,Metro,222
+673,2025-06-20,6,Jayanagar,Foggy,Metro,217
+535,2025-06-21,8,Hebbal,Windy,Metro,244
+209,2025-06-21,20,Yelahanka,Foggy,Bus,244
+109,2025-06-22,3,Whitefield,Windy,Car,168
+957,2025-06-22,7,HSR Layout,Rainy,Metro,302
+995,2025-06-22,8,Whitefield,Foggy,Scooter,160
+601,2025-06-22,20,Indiranagar,Foggy,Car,220
+488,2025-06-23,17,Yelahanka,Cloudy,Metro,272
+768,2025-06-24,10,MG Road,Rainy,Bus,302
+652,2025-06-24,18,Koramangala,Windy,Metro,282
+66,2025-06-25,6,Koramangala,Foggy,Bike,136
+122,2025-06-25,11,Electronic City,Rainy,Car,200
+893,2025-06-25,12,HSR Layout,Rainy,Metro,223
+190,2025-06-26,2,Whitefield,Cloudy,Car,153
+45,2025-06-26,5,Marathahalli,Rainy,Bus,221
+274,2025-06-26,7,MG Road,Rainy,Bus,305
+560,2025-06-26,11,Yelahanka,Sunny,Metro,163
+285,2025-06-26,12,MG Road,Foggy,Bike,130
+623,2025-06-26,21,MG Road,Cloudy,Metro,207
+830,2025-06-27,11,HSR Layout,Windy,Scooter,130
+211,2025-06-27,14,Electronic City,Cloudy,Scooter,182
+224,2025-06-27,20,Whitefield,Foggy,Bike,156
+564,2025-06-28,3,HSR Layout,Foggy,Bike,108
+817,2025-06-29,2,Indiranagar,Sunny,Car,139
+321,2025-06-29,5,Koramangala,Foggy,Scooter,112
+425,2025-06-29,9,Yelahanka,Foggy,Bike,170
+796,2025-06-29,10,Hebbal,Windy,Scooter,216
+185,2025-06-30,7,Koramangala,Foggy,Bus,260
+469,2025-06-30,15,Koramangala,Foggy,Bike,91
+155,2025-07-01,15,Indiranagar,Cloudy,Bike,205
+598,2025-07-01,22,Koramangala,Cloudy,Metro,196
+151,2025-07-01,22,Indiranagar,Foggy,Scooter,117
+194,2025-07-02,2,Electronic City,Foggy,Bike,131
+718,2025-07-02,8,Jayanagar,Windy,Metro,276
+847,2025-07-02,21,Marathahalli,Sunny,Metro,150
+55,2025-07-02,23,Hebbal,Cloudy,Bike,187
+557,2025-07-03,23,Electronic City,Foggy,Bike,92
+651,2025-07-04,3,Koramangala,Rainy,Scooter,112
+703,2025-07-04,7,Whitefield,Sunny,Metro,231
+682,2025-07-04,10,Hebbal,Rainy,Car,275
+922,2025-07-04,13,Koramangala,Foggy,Bike,112
+284,2025-07-05,6,Jayanagar,Foggy,Metro,215
+628,2025-07-06,4,HSR Layout,Rainy,Car,200
+219,2025-07-06,7,Hebbal,Foggy,Car,229
+597,2025-07-06,14,Marathahalli,Windy,Bike,118
+142,2025-07-06,17,Marathahalli,Sunny,Bus,227
+852,2025-07-06,18,Electronic City,Foggy,Bike,142
+345,2025-07-06,23,HSR Layout,Windy,Scooter,171
+423,2025-07-07,3,Whitefield,Rainy,Bus,212
+174,2025-07-08,6,Indiranagar,Foggy,Bike,125
+648,2025-07-08,8,Indiranagar,Foggy,Scooter,178
+93,2025-07-08,9,Yelahanka,Cloudy,Car,180
+864,2025-07-08,11,Whitefield,Rainy,Bike,83
+362,2025-07-08,22,Jayanagar,Sunny,Bike,202
+777,2025-07-09,8,Koramangala,Cloudy,Bus,230
+434,2025-07-09,11,Indiranagar,Foggy,Metro,207
+542,2025-07-10,6,Jayanagar,Cloudy,Bike,181
+672,2025-07-10,10,Jayanagar,Cloudy,Scooter,260
+246,2025-07-10,13,Yelahanka,Windy,Car,155
+418,2025-07-10,13,MG Road,Sunny,Metro,198
+763,2025-07-11,1,Jayanagar,Sunny,Scooter,176
+408,2025-07-11,4,HSR Layout,Foggy,Scooter,113
+294,2025-07-12,11,Yelahanka,Cloudy,Car,154
+630,2025-07-13,4,Koramangala,Sunny,Bike,192
+247,2025-07-13,11,Hebbal,Sunny,Metro,174
+981,2025-07-14,0,Koramangala,Foggy,Bike,106
+808,2025-07-14,2,Yelahanka,Foggy,Bus,191
+787,2025-07-14,10,Hebbal,Cloudy,Bus,198
+85,2025-07-14,17,Koramangala,Foggy,Scooter,189
+642,2025-07-14,20,HSR Layout,Rainy,Bus,307
+686,2025-07-15,9,MG Road,Foggy,Metro,301
+681,2025-07-15,10,MG Road,Rainy,Bus,274
+450,2025-07-15,14,Indiranagar,Foggy,Bike,121
+986,2025-07-15,18,Hebbal,Rainy,Car,251
+202,2025-07-15,20,Koramangala,Sunny,Bus,221
+779,2025-07-16,3,Koramangala,Windy,Metro,206
+131,2025-07-16,20,MG Road,Sunny,Car,164
+881,2025-07-17,1,Electronic City,Rainy,Car,194
+397,2025-07-17,8,Whitefield,Cloudy,Scooter,251
+907,2025-07-17,13,Electronic City,Cloudy,Scooter,165
+470,2025-07-17,18,Whitefield,Foggy,Scooter,196
+942,2025-07-18,9,Hebbal,Cloudy,Bike,224
+937,2025-07-18,16,Indiranagar,Cloudy,Car,168
+528,2025-07-19,1,Marathahalli,Sunny,Bus,168
+34,2025-07-19,2,Hebbal,Sunny,Metro,191
+63,2025-07-19,9,Marathahalli,Rainy,Bike,137
+384,2025-07-19,21,Marathahalli,Sunny,Bus,151
+692,2025-07-19,22,Jayanagar,Foggy,Bike,133
+641,2025-07-21,3,Yelahanka,Cloudy,Scooter,167
+732,2025-07-21,20,MG Road,Foggy,Bus,262
+291,2025-07-21,20,Yelahanka,Cloudy,Scooter,255
+154,2025-07-23,0,Electronic City,Windy,Car,164
+260,2025-07-23,22,Yelahanka,Sunny,Bike,214
+108,2025-07-24,0,Marathahalli,Foggy,Metro,223
+189,2025-07-24,8,MG Road,Cloudy,Bus,203
+626,2025-07-24,16,Whitefield,Rainy,Scooter,80
+381,2025-07-25,9,Yelahanka,Rainy,Metro,310
+689,2025-07-25,23,MG Road,Windy,Car,138
+719,2025-07-26,10,Marathahalli,Foggy,Metro,295
+101,2025-07-26,10,Whitefield,Cloudy,Scooter,240
+348,2025-07-26,20,Whitefield,Sunny,Scooter,238
+988,2025-07-26,21,Jayanagar,Sunny,Bike,231
+511,2025-07-27,3,Yelahanka,Cloudy,Metro,175
+812,2025-07-27,5,Electronic City,Sunny,Metro,200
+723,2025-07-27,7,Yelahanka,Rainy,Bus,290
+523,2025-07-28,0,Koramangala,Rainy,Car,213
+335,2025-07-28,12,Yelahanka,Cloudy,Car,130
+660,2025-07-28,14,Hebbal,Windy,Metro,170
+871,2025-07-29,10,Electronic City,Foggy,Bike,135
+414,2025-07-30,1,Jayanagar,Foggy,Bus,188
+459,2025-07-30,13,Electronic City,Sunny,Metro,173
+611,2025-07-30,16,Hebbal,Windy,Scooter,165
+261,2025-07-31,15,MG Road,Windy,Scooter,180
+925,2025-07-31,23,Hebbal,Windy,Bus,171
+58,2025-08-01,0,MG Road,Sunny,Bike,200
+431,2025-08-02,16,Electronic City,Rainy,Metro,214
+119,2025-08-02,22,Indiranagar,Foggy,Car,180
+854,2025-08-03,4,Indiranagar,Rainy,Car,184
+545,2025-08-03,15,HSR Layout,Rainy,Bike,71
+886,2025-08-03,19,Jayanagar,Rainy,Bike,132
+947,2025-08-04,14,Hebbal,Rainy,Scooter,130
+802,2025-08-05,8,Indiranagar,Rainy,Scooter,129
+90,2025-08-05,11,Jayanagar,Foggy,Scooter,156
+146,2025-08-05,21,Whitefield,Windy,Scooter,140
+690,2025-08-06,9,Hebbal,Sunny,Bus,199
+110,2025-08-06,11,Indiranagar,Rainy,Bike,85
+11,2025-08-06,16,Jayanagar,Foggy,Bus,190
+23,2025-08-06,23,Electronic City,Windy,Bike,151
+588,2025-08-08,5,Indiranagar,Foggy,Bus,206
+773,2025-08-08,11,Marathahalli,Cloudy,Bus,156
+412,2025-08-09,1,MG Road,Windy,Metro,190
+104,2025-08-09,8,Electronic City,Rainy,Bike,110
+863,2025-08-09,16,Indiranagar,Cloudy,Bus,172
+213,2025-08-09,21,Marathahalli,Foggy,Scooter,138
+980,2025-08-10,0,MG Road,Cloudy,Car,138
+973,2025-08-10,10,Hebbal,Windy,Bike,189
+838,2025-08-10,13,Indiranagar,Cloudy,Bike,165
+286,2025-08-10,14,HSR Layout,Sunny,Car,107
+100,2025-08-10,16,HSR Layout,Foggy,Metro,200
+917,2025-08-10,16,HSR Layout,Foggy,Metro,197
+784,2025-08-11,9,MG Road,Windy,Scooter,198
+21,2025-08-11,17,HSR Layout,Sunny,Metro,231
+38,2025-08-11,19,Whitefield,Rainy,Bus,303
+766,2025-08-11,20,Yelahanka,Rainy,Scooter,131
+563,2025-08-12,7,Whitefield,Foggy,Bus,252
+293,2025-08-12,17,Marathahalli,Windy,Scooter,189
+940,2025-08-12,23,MG Road,Rainy,Scooter,123
+798,2025-08-13,12,Jayanagar,Cloudy,Metro,176
+795,2025-08-13,21,Marathahalli,Foggy,Metro,187
+257,2025-08-14,17,Hebbal,Sunny,Metro,237
+320,2025-08-15,2,Hebbal,Windy,Bus,161
+865,2025-08-15,6,MG Road,Windy,Metro,171
+507,2025-08-15,6,Hebbal,Sunny,Scooter,193
+550,2025-08-15,19,HSR Layout,Windy,Scooter,210
+47,2025-08-16,3,Electronic City,Foggy,Car,195
+650,2025-08-16,6,MG Road,Foggy,Metro,197
+105,2025-08-16,8,Electronic City,Cloudy,Car,211
+960,2025-08-16,22,Indiranagar,Cloudy,Metro,179
+558,2025-08-17,3,Jayanagar,Foggy,Metro,221
+899,2025-08-17,9,MG Road,Rainy,Bus,286
+342,2025-08-19,0,Koramangala,Rainy,Bike,80
+5,2025-08-19,0,Marathahalli,Windy,Metro,183
+36,2025-08-19,10,Yelahanka,Sunny,Bus,213
+493,2025-08-20,2,Hebbal,Rainy,Bus,210
+530,2025-08-20,16,Jayanagar,Cloudy,Bus,167
+744,2025-08-20,21,Indiranagar,Cloudy,Metro,199
+677,2025-08-21,15,Marathahalli,Rainy,Scooter,85
+702,2025-08-21,16,Electronic City,Cloudy,Bike,188
+687,2025-08-22,2,Electronic City,Cloudy,Metro,175
+467,2025-08-22,10,MG Road,Sunny,Metro,244
+334,2025-08-22,21,Whitefield,Cloudy,Bus,156
+537,2025-08-23,9,Marathahalli,Cloudy,Bus,240
+175,2025-08-23,12,Marathahalli,Sunny,Bike,211
+969,2025-08-23,13,Marathahalli,Cloudy,Metro,163
+115,2025-08-23,16,Hebbal,Rainy,Car,210
+458,2025-08-23,17,Hebbal,Rainy,Metro,316
+79,2025-08-24,20,Yelahanka,Windy,Car,221
+432,2025-08-25,9,Hebbal,Rainy,Car,238
+263,2025-08-25,16,Hebbal,Foggy,Scooter,123
+343,2025-08-25,17,Whitefield,Sunny,Bike,272
+380,2025-08-26,3,Yelahanka,Sunny,Car,153
+132,2025-08-26,7,Jayanagar,Cloudy,Bus,230
+269,2025-08-26,17,Indiranagar,Rainy,Scooter,127
+229,2025-08-27,3,Indiranagar,Foggy,Bus,213
+265,2025-08-27,12,Koramangala,Sunny,Metro,175
+903,2025-08-27,19,Hebbal,Foggy,Scooter,162
+998,2025-08-27,19,Yelahanka,Windy,Scooter,213
+992,2025-08-27,20,MG Road,Sunny,Metro,259
+905,2025-08-28,3,Hebbal,Windy,Car,161
+476,2025-08-28,6,Indiranagar,Cloudy,Scooter,155
+923,2025-08-30,10,HSR Layout,Sunny,Bus,204
+813,2025-08-30,15,HSR Layout,Sunny,Scooter,205
+984,2025-08-30,23,Yelahanka,Foggy,Scooter,156
+191,2025-08-31,22,HSR Layout,Cloudy,Metro,171
+602,2025-09-01,3,Yelahanka,Windy,Scooter,143
+468,2025-09-01,15,Electronic City,Windy,Car,156
+950,2025-09-01,15,Koramangala,Windy,Scooter,174
+901,2025-09-03,12,Koramangala,Foggy,Car,180
+73,2025-09-03,13,Yelahanka,Rainy,Metro,213
+162,2025-09-03,17,Indiranagar,Sunny,Scooter,252
+543,2025-09-04,0,Electronic City,Windy,Car,180
+15,2025-09-04,7,HSR Layout,Sunny,Bus,227
+566,2025-09-04,10,Yelahanka,Sunny,Metro,259
+475,2025-09-04,22,Electronic City,Rainy,Bus,194
+113,2025-09-05,10,Whitefield,Sunny,Bike,306
+522,2025-09-05,12,Indiranagar,Windy,Metro,212
+529,2025-09-05,12,Yelahanka,Rainy,Metro,233
+128,2025-09-05,19,Yelahanka,Sunny,Car,184
+955,2025-09-05,23,Jayanagar,Windy,Scooter,165
+701,2025-09-06,2,Marathahalli,Foggy,Bus,182
+646,2025-09-06,10,MG Road,Rainy,Bike,128
+429,2025-09-06,20,Marathahalli,Cloudy,Scooter,252
+855,2025-09-07,19,MG Road,Windy,Bike,169
+807,2025-09-08,0,Electronic City,Cloudy,Bike,199
+329,2025-09-08,0,Hebbal,Windy,Bus,176
+620,2025-09-08,0,Jayanagar,Sunny,Metro,180
+123,2025-09-08,10,HSR Layout,Rainy,Bike,131
+141,2025-09-08,17,Jayanagar,Sunny,Metro,225
+717,2025-09-08,18,MG Road,Rainy,Bike,92
+668,2025-09-09,4,Koramangala,Foggy,Bus,208
+914,2025-09-09,6,Koramangala,Cloudy,Bike,164
+442,2025-09-09,8,Marathahalli,Windy,Bus,246
+517,2025-09-10,9,Jayanagar,Cloudy,Bus,238
+596,2025-09-10,21,Marathahalli,Sunny,Bike,201
+728,2025-09-11,1,Whitefield,Windy,Car,167
+561,2025-09-11,8,Hebbal,Rainy,Bike,99
+99,2025-09-11,9,Hebbal,Rainy,Scooter,127
+438,2025-09-11,11,Electronic City,Sunny,Bus,167
+231,2025-09-12,1,Koramangala,Windy,Bus,177
+666,2025-09-12,10,Whitefield,Rainy,Bus,267
+633,2025-09-12,19,HSR Layout,Sunny,Bike,264
+632,2025-09-13,0,Whitefield,Sunny,Bike,207
+730,2025-09-13,2,Indiranagar,Foggy,Scooter,140
+548,2025-09-13,4,Koramangala,Windy,Bike,113
+24,2025-09-13,11,Marathahalli,Sunny,Scooter,212
+391,2025-09-13,13,Jayanagar,Sunny,Bike,196
+587,2025-09-13,15,HSR Layout,Sunny,Scooter,180
+281,2025-09-13,16,Yelahanka,Windy,Metro,204
+324,2025-09-13,19,Yelahanka,Cloudy,Car,216
+892,2025-09-13,21,Marathahalli,Windy,Car,163
+843,2025-09-14,11,Yelahanka,Foggy,Bus,180
+498,2025-09-15,8,Hebbal,Cloudy,Bike,268
+683,2025-09-15,13,Whitefield,Rainy,Scooter,88
+385,2025-09-15,18,Marathahalli,Windy,Metro,243
+217,2025-09-17,11,Whitefield,Rainy,Bus,223
+771,2025-09-18,9,Electronic City,Sunny,Bus,203
+816,2025-09-20,10,Yelahanka,Foggy,Car,238
+835,2025-09-20,13,Indiranagar,Rainy,Bus,209
+327,2025-09-20,13,Koramangala,Sunny,Metro,185
+762,2025-09-21,7,Jayanagar,Windy,Bus,237
+167,2025-09-21,10,Whitefield,Windy,Bike,188
+242,2025-09-22,9,Yelahanka,Rainy,Metro,292
+456,2025-09-22,16,Yelahanka,Windy,Car,151
+332,2025-09-23,4,Whitefield,Rainy,Car,199
+791,2025-09-23,7,Whitefield,Cloudy,Bus,239
+463,2025-09-23,14,Electronic City,Sunny,Bus,158
+497,2025-09-23,18,Whitefield,Foggy,Scooter,171
+306,2025-09-23,22,Electronic City,Sunny,Car,113
+165,2025-09-24,3,HSR Layout,Rainy,Scooter,99
+617,2025-09-24,6,Jayanagar,Rainy,Bike,99
+464,2025-09-24,6,Whitefield,Windy,Metro,172
+665,2025-09-24,10,Indiranagar,Foggy,Scooter,175
+370,2025-09-24,22,Indiranagar,Rainy,Metro,248
+721,2025-09-25,3,Jayanagar,Cloudy,Scooter,179
+303,2025-09-25,4,Hebbal,Cloudy,Metro,196
+339,2025-09-25,7,Yelahanka,Windy,Bike,207
+68,2025-09-25,11,Marathahalli,Foggy,Metro,181
+509,2025-09-25,13,Koramangala,Sunny,Metro,196
+495,2025-09-25,17,Indiranagar,Foggy,Scooter,160
+727,2025-09-25,22,Indiranagar,Foggy,Bike,103
+825,2025-09-25,22,Yelahanka,Sunny,Car,109
+177,2025-09-26,8,Indiranagar,Rainy,Bike,106
+524,2025-09-26,16,Yelahanka,Rainy,Car,219
+301,2025-09-26,16,Koramangala,Windy,Metro,196
+751,2025-09-27,2,Indiranagar,Windy,Scooter,154
+346,2025-09-27,4,MG Road,Windy,Bus,199
+885,2025-09-27,11,Indiranagar,Foggy,Scooter,119
+159,2025-09-27,16,MG Road,Sunny,Metro,168
+349,2025-09-28,11,MG Road,Windy,Bike,139
+239,2025-09-28,13,Yelahanka,Rainy,Bike,95
+655,2025-09-28,23,Yelahanka,Rainy,Bus,230
+471,2025-09-29,6,HSR Layout,Cloudy,Bus,145
+171,2025-09-29,14,Jayanagar,Cloudy,Metro,175
+44,2025-09-30,13,Indiranagar,Sunny,Bus,149
+368,2025-09-30,14,Electronic City,Windy,Bus,157
+135,2025-09-30,19,Yelahanka,Foggy,Scooter,166
+148,2025-10-02,13,Whitefield,Windy,Bus,178
+254,2025-10-02,16,Indiranagar,Foggy,Bike,108
+51,2025-10-03,6,Electronic City,Sunny,Car,150
+515,2025-10-03,12,Whitefield,Cloudy,Bus,169
+724,2025-10-03,12,Koramangala,Sunny,Metro,153
+268,2025-10-03,17,Whitefield,Sunny,Car,154
+770,2025-10-03,20,MG Road,Cloudy,Car,208
+745,2025-10-03,23,Koramangala,Rainy,Bus,203
+505,2025-10-04,2,Whitefield,Windy,Bike,158
+461,2025-10-04,17,Whitefield,Windy,Car,212
+846,2025-10-06,9,Whitefield,Windy,Car,236
+30,2025-10-07,7,Yelahanka,Windy,Car,199
+16,2025-10-07,8,Electronic City,Foggy,Bus,274
+769,2025-10-07,9,Whitefield,Rainy,Metro,300
+153,2025-10-08,4,Hebbal,Rainy,Metro,252
+818,2025-10-08,7,Yelahanka,Cloudy,Metro,275
+453,2025-10-08,10,MG Road,Cloudy,Metro,260
+17,2025-10-08,20,Marathahalli,Foggy,Bus,256
+572,2025-10-08,21,Indiranagar,Rainy,Metro,213
+3,2025-10-08,23,Whitefield,Windy,Car,163
+192,2025-10-09,3,Koramangala,Cloudy,Bike,179
+210,2025-10-09,9,Electronic City,Foggy,Car,229
+121,2025-10-09,23,Hebbal,Foggy,Scooter,140
+785,2025-10-10,12,Indiranagar,Foggy,Metro,193
+836,2025-10-10,18,Jayanagar,Rainy,Scooter,154
+136,2025-10-10,22,Yelahanka,Cloudy,Scooter,158
+912,2025-10-10,22,Indiranagar,Windy,Scooter,162
+693,2025-10-10,23,Marathahalli,Sunny,Scooter,166
+765,2025-10-11,1,Electronic City,Windy,Scooter,131
+419,2025-10-11,22,Koramangala,Cloudy,Bus,172
+52,2025-10-12,18,Yelahanka,Cloudy,Car,189
+713,2025-10-12,22,Koramangala,Windy,Car,151
+258,2025-10-13,21,Marathahalli,Windy,Scooter,133
+512,2025-10-13,22,Hebbal,Cloudy,Metro,190
+309,2025-10-14,0,MG Road,Sunny,Bike,186
+799,2025-10-14,3,Whitefield,Sunny,Scooter,212
+156,2025-10-14,7,Yelahanka,Rainy,Bus,289
+856,2025-10-14,21,Whitefield,Rainy,Bus,215
+699,2025-10-15,0,HSR Layout,Rainy,Bike,80
+941,2025-10-15,4,Jayanagar,Foggy,Bike,122
+78,2025-10-15,8,Hebbal,Rainy,Scooter,140
+913,2025-10-15,10,Yelahanka,Windy,Scooter,197
+948,2025-10-16,1,Marathahalli,Windy,Bike,141
+636,2025-10-16,1,Yelahanka,Rainy,Metro,214
+161,2025-10-16,3,Yelahanka,Windy,Car,164
+688,2025-10-16,7,Whitefield,Windy,Car,216
+691,2025-10-17,13,Indiranagar,Rainy,Car,192
+554,2025-10-18,16,Yelahanka,Rainy,Bike,99
+737,2025-10-19,4,Koramangala,Cloudy,Car,127
+800,2025-10-19,7,Jayanagar,Rainy,Bike,131
+410,2025-10-19,16,HSR Layout,Cloudy,Bus,146
+377,2025-10-20,13,Electronic City,Sunny,Metro,177
+389,2025-10-21,10,Koramangala,Cloudy,Car,202
+643,2025-10-21,18,Yelahanka,Rainy,Bike,119
+295,2025-10-21,22,Hebbal,Windy,Metro,219
+638,2025-10-22,0,Electronic City,Sunny,Scooter,192
+457,2025-10-22,18,Yelahanka,Windy,Bike,188
+608,2025-10-22,18,Hebbal,Windy,Bike,196
+783,2025-10-23,19,Koramangala,Windy,Bike,191
+237,2025-10-23,19,Yelahanka,Rainy,Metro,312
+69,2025-10-24,4,Marathahalli,Rainy,Bus,214
+707,2025-10-24,4,MG Road,Sunny,Metro,160
+803,2025-10-24,9,MG Road,Cloudy,Bike,233
+238,2025-10-24,9,Indiranagar,Cloudy,Car,204
+858,2025-10-24,15,Hebbal,Sunny,Scooter,199
+112,2025-10-24,20,HSR Layout,Foggy,Bus,280
+878,2025-10-25,11,MG Road,Foggy,Metro,211
+26,2025-10-25,17,Whitefield,Sunny,Car,200
+680,2025-10-25,18,Yelahanka,Foggy,Metro,297
+531,2025-10-25,21,HSR Layout,Sunny,Bus,177
+433,2025-10-26,8,Marathahalli,Foggy,Car,207
+989,2025-10-26,10,Koramangala,Foggy,Bus,264
+184,2025-10-26,17,Jayanagar,Cloudy,Bus,201
+98,2025-10-27,11,Koramangala,Sunny,Bike,234
+715,2025-10-27,23,HSR Layout,Sunny,Scooter,167
+747,2025-10-28,5,MG Road,Windy,Scooter,160
+169,2025-10-29,15,Jayanagar,Foggy,Bus,195
+271,2025-10-29,20,Whitefield,Windy,Metro,250
+198,2025-10-30,3,Indiranagar,Cloudy,Bus,188
+499,2025-10-31,22,Yelahanka,Sunny,Bus,137
+786,2025-10-31,22,Electronic City,Foggy,Metro,196
+168,2025-11-01,5,Koramangala,Windy,Scooter,179
+915,2025-11-01,12,Electronic City,Sunny,Bike,197
+358,2025-11-01,17,Koramangala,Windy,Car,192
+215,2025-11-02,16,Marathahalli,Rainy,Car,189
+921,2025-11-03,18,Indiranagar,Windy,Bus,266
+640,2025-11-05,10,Marathahalli,Cloudy,Bus,200
+173,2025-11-05,16,Yelahanka,Cloudy,Car,127
+235,2025-11-07,9,Koramangala,Rainy,Bus,315
+199,2025-11-07,16,Indiranagar,Windy,Bike,114
+118,2025-11-07,21,Yelahanka,Cloudy,Metro,165
+420,2025-11-08,10,MG Road,Foggy,Bus,236
+840,2025-11-08,19,Hebbal,Windy,Car,196
+750,2025-11-09,5,MG Road,Rainy,Bus,229
+742,2025-11-09,6,MG Road,Rainy,Scooter,93
+94,2025-11-09,7,HSR Layout,Cloudy,Bike,238
+441,2025-11-10,2,MG Road,Rainy,Scooter,124
+839,2025-11-10,5,Indiranagar,Sunny,Bike,228
+245,2025-11-10,14,Koramangala,Foggy,Bus,208
+37,2025-11-13,5,Whitefield,Cloudy,Car,153
+674,2025-11-13,6,Yelahanka,Cloudy,Scooter,174
+308,2025-11-13,11,MG Road,Windy,Car,179
+221,2025-11-13,12,Jayanagar,Windy,Scooter,157
+649,2025-11-13,14,HSR Layout,Rainy,Bike,91
+253,2025-11-13,17,Yelahanka,Windy,Bike,200
+424,2025-11-13,20,Indiranagar,Cloudy,Bike,221
+504,2025-11-14,20,Yelahanka,Cloudy,Car,181
+205,2025-11-15,13,Indiranagar,Windy,Metro,190
+828,2025-11-15,22,Marathahalli,Rainy,Scooter,103
+963,2025-11-16,12,Electronic City,Windy,Bike,140
+968,2025-11-16,19,Marathahalli,Foggy,Bus,280
+427,2025-11-16,23,Yelahanka,Sunny,Metro,187
+593,2025-11-17,1,Koramangala,Windy,Bus,182
+870,2025-11-17,2,HSR Layout,Rainy,Bike,106
+344,2025-11-17,4,Yelahanka,Rainy,Scooter,104
+310,2025-11-17,10,HSR Layout,Cloudy,Bike,219
+982,2025-11-17,18,Jayanagar,Cloudy,Scooter,231
+705,2025-11-18,5,Electronic City,Sunny,Bike,215
+76,2025-11-18,7,Jayanagar,Windy,Bike,171
+867,2025-11-18,9,Koramangala,Sunny,Bus,201
+393,2025-11-18,13,Jayanagar,Foggy,Scooter,149
+492,2025-11-19,16,MG Road,Cloudy,Bike,156
+616,2025-11-21,2,MG Road,Foggy,Metro,211
+447,2025-11-21,10,Electronic City,Windy,Scooter,190
+157,2025-11-21,18,Electronic City,Sunny,Car,170
+340,2025-11-21,22,MG Road,Rainy,Bike,84
+684,2025-11-21,23,Marathahalli,Foggy,Bus,171
+114,2025-11-22,3,Whitefield,Rainy,Metro,206
+934,2025-11-22,5,Electronic City,Cloudy,Bus,186
+214,2025-11-22,15,MG Road,Sunny,Car,124
+474,2025-11-22,16,Marathahalli,Windy,Scooter,155
+372,2025-11-22,22,HSR Layout,Cloudy,Car,160
+7,2025-11-23,2,Jayanagar,Rainy,Bike,95
+82,2025-11-24,5,Jayanagar,Sunny,Metro,173
+714,2025-11-24,13,Marathahalli,Foggy,Metro,218
+711,2025-11-24,21,Marathahalli,Foggy,Metro,212
+460,2025-11-25,16,MG Road,Cloudy,Bus,171
+801,2025-11-26,13,Electronic City,Cloudy,Metro,179
+810,2025-11-26,13,Yelahanka,Cloudy,Metro,179
+347,2025-11-26,16,Yelahanka,Cloudy,Bike,199
+906,2025-11-26,23,MG Road,Windy,Bike,113
+570,2025-11-27,0,HSR Layout,Windy,Car,167
+289,2025-11-27,6,MG Road,Rainy,Scooter,109
+49,2025-11-27,10,Indiranagar,Windy,Car,241
+437,2025-11-27,11,Hebbal,Windy,Bike,123
+430,2025-11-27,18,Koramangala,Windy,Car,211
+127,2025-11-27,21,Electronic City,Foggy,Car,194
+341,2025-11-28,3,Jayanagar,Foggy,Car,182
+440,2025-11-28,9,HSR Layout,Cloudy,Scooter,215
+485,2025-11-30,15,Indiranagar,Sunny,Scooter,188
+663,2025-12-01,12,Marathahalli,Rainy,Scooter,113
+444,2025-12-01,18,Electronic City,Sunny,Car,150
+698,2025-12-01,18,MG Road,Cloudy,Metro,230
+19,2025-12-02,19,Hebbal,Windy,Car,222
+859,2025-12-02,20,Koramangala,Cloudy,Metro,272
+401,2025-12-03,12,Hebbal,Windy,Scooter,171
+551,2025-12-03,13,HSR Layout,Windy,Bus,194
+658,2025-12-03,22,Whitefield,Windy,Scooter,137
+226,2025-12-04,4,Koramangala,Windy,Bus,161
+930,2025-12-04,15,Marathahalli,Cloudy,Metro,200
+676,2025-12-05,2,Indiranagar,Windy,Car,135
+845,2025-12-05,3,Hebbal,Windy,Bike,160
+966,2025-12-05,8,Yelahanka,Sunny,Bike,300
+694,2025-12-05,8,Koramangala,Sunny,Car,180
+971,2025-12-06,22,Yelahanka,Cloudy,Car,150
+29,2025-12-07,18,Indiranagar,Foggy,Bus,276
+179,2025-12-08,1,MG Road,Rainy,Bus,222
+827,2025-12-09,15,Indiranagar,Sunny,Bike,214
+567,2025-12-09,18,Marathahalli,Windy,Car,197
+936,2025-12-10,1,Hebbal,Rainy,Scooter,102
+14,2025-12-10,3,Indiranagar,Foggy,Bus,195
+685,2025-12-11,5,Marathahalli,Rainy,Car,206
+379,2025-12-11,19,HSR Layout,Cloudy,Bus,232
+196,2025-12-12,18,Jayanagar,Foggy,Scooter,176
+814,2025-12-12,23,Indiranagar,Rainy,Bus,240
+62,2025-12-13,3,Electronic City,Rainy,Car,213
+455,2025-12-13,14,Marathahalli,Foggy,Bike,121
+614,2025-12-14,3,Electronic City,Sunny,Bus,165
+547,2025-12-14,13,Electronic City,Rainy,Bike,88
+39,2025-12-14,22,MG Road,Sunny,Car,130
+158,2025-12-16,2,Jayanagar,Windy,Bus,177
+510,2025-12-16,20,HSR Layout,Foggy,Scooter,206
+546,2025-12-17,5,Hebbal,Rainy,Metro,245
+283,2025-12-17,15,Hebbal,Windy,Bike,150
+538,2025-12-18,6,Marathahalli,Sunny,Metro,166
+710,2025-12-18,10,HSR Layout,Windy,Car,230
+837,2025-12-18,15,Whitefield,Cloudy,Scooter,185
+102,2025-12-19,11,Marathahalli,Rainy,Bus,227
+513,2025-12-20,7,HSR Layout,Windy,Bike,203
+451,2025-12-20,8,Koramangala,Windy,Bus,236
+351,2025-12-20,18,Whitefield,Windy,Car,212
+844,2025-12-21,4,MG Road,Windy,Bike,111
+31,2025-12-21,16,Indiranagar,Rainy,Bike,86
+315,2025-12-22,3,Koramangala,Windy,Bus,159
+236,2025-12-22,7,Koramangala,Rainy,Bike,116
+884,2025-12-22,8,HSR Layout,Windy,Scooter,214
+939,2025-12-22,21,MG Road,Cloudy,Metro,162
+519,2025-12-22,22,Marathahalli,Sunny,Bus,140
+378,2025-12-23,7,HSR Layout,Cloudy,Scooter,243
+445,2025-12-23,8,Koramangala,Sunny,Car,178
+244,2025-12-23,10,Marathahalli,Sunny,Metro,236
+84,2025-12-23,18,Marathahalli,Rainy,Car,240
+483,2025-12-23,19,Electronic City,Rainy,Bus,283
+999,2025-12-24,3,Hebbal,Sunny,Scooter,178
+207,2025-12-24,9,Hebbal,Windy,Scooter,228
+411,2025-12-24,12,Indiranagar,Cloudy,Metro,180
+193,2025-12-24,15,Jayanagar,Windy,Car,156
+823,2025-12-24,15,Indiranagar,Windy,Car,151
+929,2025-12-25,0,Yelahanka,Cloudy,Car,168
+183,2025-12-25,23,Jayanagar,Foggy,Scooter,145
+278,2025-12-26,1,Marathahalli,Sunny,Metro,198
+894,2025-12-26,5,HSR Layout,Cloudy,Metro,187
+582,2025-12-26,19,HSR Layout,Windy,Bus,241
+877,2025-12-26,20,Yelahanka,Windy,Scooter,224
+600,2025-12-27,12,Indiranagar,Cloudy,Bike,168
+761,2025-12-27,16,Indiranagar,Cloudy,Scooter,190
+595,2025-12-28,4,MG Road,Foggy,Scooter,131
+889,2025-12-28,11,Whitefield,Rainy,Scooter,99
+404,2025-12-28,12,Indiranagar,Foggy,Bus,202
+778,2025-12-28,15,Koramangala,Cloudy,Metro,175
+932,2025-12-28,16,Electronic City,Rainy,Scooter,81
+975,2025-12-28,22,HSR Layout,Rainy,Scooter,121
+661,2025-12-29,4,HSR Layout,Windy,Metro,175
+532,2025-12-29,13,Indiranagar,Sunny,Scooter,183
+422,2025-12-31,9,Koramangala,Rainy,Metro,310
+506,2025-12-31,13,Jayanagar,Sunny,Scooter,209
+416,2025-12-31,16,Jayanagar,Rainy,Bike,78

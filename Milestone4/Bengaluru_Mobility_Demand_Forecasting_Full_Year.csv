@@ -1,0 +1,1096 @@
+Record_ID,Date,Time,Zone,Area,Mobility_Demand,Trip_Count,Weather_Condition,Available_Vehicles,Delay_Minutes,Mode_of_Transportation,Latitude,Longitude,Possible_Reason
+1,2025-01-01,08:15:00,South,Koramangala,83.9,77,Cloudy,63,2.5,Metro,12.9352,77.6245,Typical morning peak-hour commuter demand
+2,2025-01-01,14:30:00,East,Indiranagar,52.9,48,Foggy,89,1.0,Bike,12.9719,77.6412,Afternoon demand slightly reduced due to foggy conditions
+3,2025-01-01,19:15:00,South,Jayanagar,100.6,95,Rainy,58,2.8,Metro,12.9308,77.5838,Evening travel demand increased due to rainy weather
+4,2025-01-02,08:15:00,Central,Richmond Town,103.8,88,Sunny,58,3.2,Metro,12.9634,77.6041,Typical morning peak-hour commuter demand
+5,2025-01-02,14:30:00,Central,Richmond Town,64.4,59,Rainy,74,1.4,Scooter,12.9634,77.6041,Afternoon travel demand increased due to rainy weather
+6,2025-01-02,19:15:00,West,Vijayanagar,67.5,53,Rainy,83,1.5,Bus,12.9719,77.529,Evening travel demand increased due to rainy weather
+7,2025-01-03,08:15:00,South,HSR Layout,98.5,85,Rainy,63,2.3,Bus,12.9121,77.6446,Morning travel demand increased due to rainy weather
+8,2025-01-03,14:30:00,North,Yelahanka,38.2,35,Cloudy,94,0.7,Metro,13.1007,77.5963,Normal afternoon demand under cloudy conditions
+9,2025-01-03,19:15:00,North,Malleshwaram,78.5,62,Sunny,70,2.1,Scooter,13.0035,77.5709,Typical evening peak-hour commuter demand
+10,2025-01-04,08:15:00,East,Whitefield,93.9,76,Sunny,56,2.9,Bus,12.9698,77.75,Typical morning peak-hour commuter demand
+11,2025-01-04,14:30:00,West,Nagarbhavi,32.7,26,Cloudy,102,0.5,Bus,12.9587,77.5041,Normal afternoon demand under cloudy conditions
+12,2025-01-04,19:15:00,North,Hebbal,73.5,63,Cloudy,77,1.7,Metro,13.0358,77.597,Typical evening peak-hour commuter demand
+13,2025-01-05,08:15:00,Central,Richmond Town,112.8,93,Sunny,56,3.0,Car,12.9634,77.6041,Typical morning peak-hour commuter demand
+14,2025-01-05,14:30:00,East,Marathahalli,52.9,42,Foggy,81,1.2,Bus,12.9591,77.6974,Afternoon demand slightly reduced due to foggy conditions
+15,2025-01-05,19:15:00,North,Malleshwaram,74.2,69,Sunny,72,1.6,Scooter,13.0035,77.5709,Typical evening peak-hour commuter demand
+16,2025-01-06,08:15:00,South,Koramangala,85.7,79,Cloudy,60,2.6,Metro,12.9352,77.6245,Typical morning peak-hour commuter demand
+17,2025-01-06,14:30:00,East,Whitefield,54.7,42,Cloudy,85,0.9,Metro,12.9698,77.75,Normal afternoon demand under cloudy conditions
+18,2025-01-06,19:15:00,North,Hebbal,69.9,54,Sunny,73,1.4,Car,13.0358,77.597,Typical evening peak-hour commuter demand
+19,2025-01-07,08:15:00,West,Nagarbhavi,57.5,43,Sunny,77,1.3,Bus,12.9587,77.5041,Typical morning peak-hour commuter demand
+20,2025-01-07,14:30:00,South,Jayanagar,41.5,35,Sunny,89,0.8,Metro,12.9308,77.5838,Normal afternoon demand under sunny conditions
+21,2025-01-07,19:15:00,West,Vijayanagar,62.6,52,Sunny,85,1.4,Car,12.9719,77.529,Typical evening peak-hour commuter demand
+22,2025-01-08,08:15:00,East,Whitefield,98.2,76,Sunny,53,2.9,Bus,12.9698,77.75,Typical morning peak-hour commuter demand
+23,2025-01-08,14:30:00,North,Yelahanka,38.9,36,Rainy,97,0.6,Metro,13.1007,77.5963,Afternoon travel demand increased due to rainy weather
+24,2025-01-08,19:15:00,North,Yelahanka,77.1,70,Sunny,73,2.1,Scooter,13.1007,77.5963,Typical evening peak-hour commuter demand
+25,2025-01-09,08:15:00,North,Hebbal,74.7,59,Sunny,78,1.6,Car,13.0358,77.597,Typical morning peak-hour commuter demand
+26,2025-01-09,14:30:00,South,HSR Layout,44.6,41,Windy,87,0.9,Scooter,12.9121,77.6446,Afternoon demand slightly reduced due to windy conditions
+27,2025-01-09,19:15:00,Central,MG Road,131.3,101,Rainy,28,7.3,Car,12.9758,77.6045,Evening travel demand increased due to rainy weather
+28,2025-01-10,08:15:00,North,Malleshwaram,70.3,64,Sunny,79,1.3,Bus,13.0035,77.5709,Typical morning peak-hour commuter demand
+29,2025-01-10,14:30:00,North,Yelahanka,35.0,32,Sunny,94,0.6,Bike,13.1007,77.5963,Normal afternoon demand under sunny conditions
+30,2025-01-10,19:15:00,West,Rajajinagar,61.7,48,Sunny,78,1.2,Metro,12.9915,77.5525,Typical evening peak-hour commuter demand
+31,2025-01-11,08:15:00,West,Rajajinagar,60.7,55,Cloudy,78,1.4,Bike,12.9915,77.5525,Typical morning peak-hour commuter demand
+32,2025-01-11,14:30:00,North,Yelahanka,38.6,32,Sunny,96,0.7,Bus,13.1007,77.5963,Normal afternoon demand under sunny conditions
+33,2025-01-11,19:15:00,East,Whitefield,110.5,83,Sunny,47,4.2,Bike,12.9698,77.75,Typical evening peak-hour commuter demand
+34,2025-01-12,08:15:00,West,Nagarbhavi,56.1,53,Sunny,82,1.3,Bus,12.9587,77.5041,Typical morning peak-hour commuter demand
+35,2025-01-12,14:30:00,South,Koramangala,47.9,37,Rainy,86,1.0,Scooter,12.9352,77.6245,Afternoon travel demand increased due to rainy weather
+36,2025-01-12,19:15:00,South,HSR Layout,98.0,91,Cloudy,54,3.0,Metro,12.9121,77.6446,Typical evening peak-hour commuter demand
+37,2025-01-13,08:15:00,West,Rajajinagar,74.0,62,Rainy,76,1.5,Bus,12.9915,77.5525,Morning travel demand increased due to rainy weather
+38,2025-01-13,14:30:00,South,Koramangala,40.2,31,Windy,93,0.6,Car,12.9352,77.6245,Afternoon demand slightly reduced due to windy conditions
+39,2025-01-13,19:15:00,East,Whitefield,110.5,87,Sunny,53,3.1,Bike,12.9698,77.75,Typical evening peak-hour commuter demand
+40,2025-01-14,08:15:00,East,Whitefield,90.7,71,Sunny,69,2.3,Bus,12.9698,77.75,Typical morning peak-hour commuter demand
+41,2025-01-14,14:30:00,West,Vijayanagar,30.9,29,Sunny,98,0.5,Scooter,12.9719,77.529,Normal afternoon demand under sunny conditions
+42,2025-01-14,19:15:00,East,Marathahalli,108.8,94,Sunny,51,3.1,Metro,12.9591,77.6974,Typical evening peak-hour commuter demand
+43,2025-01-15,08:15:00,West,Rajajinagar,64.1,49,Sunny,73,1.3,Car,12.9915,77.5525,Typical morning peak-hour commuter demand
+44,2025-01-15,14:30:00,South,HSR Layout,44.9,41,Foggy,88,0.9,Bus,12.9121,77.6446,Afternoon demand slightly reduced due to foggy conditions
+45,2025-01-15,19:15:00,North,Malleshwaram,83.8,77,Cloudy,66,2.1,Bus,13.0035,77.5709,Typical evening peak-hour commuter demand
+46,2025-01-16,08:15:00,Central,Richmond Town,104.5,88,Sunny,54,3.0,Metro,12.9634,77.6041,Typical morning peak-hour commuter demand
+47,2025-01-16,14:30:00,South,HSR Layout,44.4,39,Sunny,93,0.9,Car,12.9121,77.6446,Normal afternoon demand under sunny conditions
+48,2025-01-16,19:15:00,East,Marathahalli,115.9,99,Cloudy,37,5.6,Bus,12.9591,77.6974,Typical evening peak-hour commuter demand
+49,2025-01-17,08:15:00,South,Jayanagar,88.6,79,Rainy,68,2.4,Car,12.9308,77.5838,Morning travel demand increased due to rainy weather
+50,2025-01-17,14:30:00,South,HSR Layout,46.1,35,Sunny,88,0.8,Car,12.9121,77.6446,Normal afternoon demand under sunny conditions
+51,2025-01-17,19:15:00,North,Yelahanka,70.9,62,Foggy,70,1.9,Car,13.1007,77.5963,Evening demand slightly reduced due to foggy conditions
+52,2025-01-18,08:15:00,Central,Richmond Town,112.5,87,Sunny,44,3.8,Metro,12.9634,77.6041,Typical morning peak-hour commuter demand
+53,2025-01-18,14:30:00,Central,MG Road,60.7,55,Cloudy,77,1.3,Bus,12.9758,77.6045,Normal afternoon demand under cloudy conditions
+54,2025-01-18,19:15:00,South,Jayanagar,73.2,57,Foggy,78,1.7,Metro,12.9308,77.5838,Evening demand slightly reduced due to foggy conditions
+55,2025-01-19,08:15:00,West,Rajajinagar,68.2,63,Rainy,72,1.5,Metro,12.9915,77.5525,Morning travel demand increased due to rainy weather
+56,2025-01-19,14:30:00,North,Malleshwaram,37.1,29,Sunny,93,0.7,Metro,13.0035,77.5709,Normal afternoon demand under sunny conditions
+57,2025-01-19,19:15:00,Central,Shivajinagar,127.1,115,Cloudy,38,5.4,Car,12.9857,77.6058,Typical evening peak-hour commuter demand
+58,2025-01-20,08:15:00,North,Yelahanka,85.4,66,Rainy,58,2.6,Bike,13.1007,77.5963,Morning travel demand increased due to rainy weather
+59,2025-01-20,14:30:00,South,HSR Layout,48.1,40,Rainy,86,0.9,Metro,12.9121,77.6446,Afternoon travel demand increased due to rainy weather
+60,2025-01-20,19:15:00,South,Jayanagar,86.2,80,Cloudy,59,2.1,Car,12.9308,77.5838,Typical evening peak-hour commuter demand
+61,2025-01-21,08:15:00,Central,MG Road,116.1,90,Sunny,33,6.3,Bus,12.9758,77.6045,Typical morning peak-hour commuter demand
+62,2025-01-21,14:30:00,West,Rajajinagar,33.9,26,Sunny,100,0.5,Bus,12.9915,77.5525,Normal afternoon demand under sunny conditions
+63,2025-01-21,19:15:00,West,Vijayanagar,59.1,45,Foggy,87,1.0,Bus,12.9719,77.529,Evening demand slightly reduced due to foggy conditions
+64,2025-01-22,08:15:00,Central,Richmond Town,101.1,93,Windy,63,3.0,Car,12.9634,77.6041,Morning demand slightly reduced due to windy conditions
+65,2025-01-22,14:30:00,Central,Shivajinagar,67.7,51,Rainy,80,1.2,Metro,12.9857,77.6058,Afternoon travel demand increased due to rainy weather
+66,2025-01-22,19:15:00,North,Malleshwaram,93.7,86,Rainy,66,2.6,Scooter,13.0035,77.5709,Evening travel demand increased due to rainy weather
+67,2025-01-23,08:15:00,Central,MG Road,136.5,119,Rainy,43,5.6,Bike,12.9758,77.6045,Morning travel demand increased due to rainy weather
+68,2025-01-23,14:30:00,East,Whitefield,50.3,39,Windy,91,0.8,Car,12.9698,77.75,Afternoon demand slightly reduced due to windy conditions
+69,2025-01-23,19:15:00,South,Jayanagar,99.7,86,Rainy,62,3.2,Scooter,12.9308,77.5838,Evening travel demand increased due to rainy weather
+70,2025-01-24,08:15:00,South,Koramangala,93.8,83,Cloudy,51,2.7,Metro,12.9352,77.6245,Typical morning peak-hour commuter demand
+71,2025-01-24,14:30:00,North,Yelahanka,35.8,28,Cloudy,98,0.6,Metro,13.1007,77.5963,Normal afternoon demand under cloudy conditions
+72,2025-01-24,19:15:00,South,Koramangala,108.0,90,Rainy,52,3.2,Bus,12.9352,77.6245,Evening travel demand increased due to rainy weather
+73,2025-01-25,08:15:00,North,Hebbal,69.3,59,Sunny,79,1.5,Metro,13.0358,77.597,Typical morning peak-hour commuter demand
+74,2025-01-25,14:30:00,East,Whitefield,60.3,53,Rainy,83,1.4,Metro,12.9698,77.75,Afternoon travel demand increased due to rainy weather
+75,2025-01-25,19:15:00,Central,Richmond Town,132.7,113,Rainy,27,9.5,Car,12.9634,77.6041,Evening travel demand increased due to rainy weather
+76,2025-01-26,08:15:00,South,Koramangala,91.3,83,Cloudy,64,2.7,Metro,12.9352,77.6245,Typical morning peak-hour commuter demand
+77,2025-01-26,14:30:00,Central,MG Road,60.9,46,Sunny,83,1.2,Bike,12.9758,77.6045,Normal afternoon demand under sunny conditions
+78,2025-01-26,19:15:00,Central,Shivajinagar,117.8,89,Sunny,36,6.3,Metro,12.9857,77.6058,Typical evening peak-hour commuter demand
+79,2025-01-27,08:15:00,North,Yelahanka,75.0,62,Rainy,64,2.3,Bus,13.1007,77.5963,Morning travel demand increased due to rainy weather
+80,2025-01-27,14:30:00,Central,Richmond Town,60.0,53,Sunny,82,1.3,Bike,12.9634,77.6041,Normal afternoon demand under sunny conditions
+81,2025-01-27,19:15:00,North,Yelahanka,73.2,57,Cloudy,67,2.2,Metro,13.1007,77.5963,Typical evening peak-hour commuter demand
+82,2025-01-28,08:15:00,East,Indiranagar,106.9,83,Windy,52,3.4,Bike,12.9719,77.6412,Morning demand slightly reduced due to windy conditions
+83,2025-01-28,14:30:00,West,Vijayanagar,32.4,25,Cloudy,101,0.6,Bike,12.9719,77.529,Normal afternoon demand under cloudy conditions
+84,2025-01-28,19:15:00,North,Malleshwaram,77.3,66,Sunny,68,1.9,Bike,13.0035,77.5709,Typical evening peak-hour commuter demand
+85,2025-01-29,08:15:00,East,Whitefield,95.2,84,Windy,55,3.2,Bike,12.9698,77.75,Morning demand slightly reduced due to windy conditions
+86,2025-01-29,14:30:00,East,Indiranagar,55.0,45,Sunny,80,1.2,Bus,12.9719,77.6412,Normal afternoon demand under sunny conditions
+87,2025-01-29,19:15:00,North,Yelahanka,82.5,72,Cloudy,61,2.2,Metro,13.1007,77.5963,Typical evening peak-hour commuter demand
+88,2025-01-30,08:15:00,West,Vijayanagar,58.3,48,Cloudy,77,1.3,Bike,12.9719,77.529,Typical morning peak-hour commuter demand
+89,2025-01-30,14:30:00,Central,MG Road,53.4,50,Sunny,86,1.0,Bus,12.9758,77.6045,Normal afternoon demand under sunny conditions
+90,2025-01-30,19:15:00,East,Marathahalli,109.9,98,Sunny,46,4.8,Bus,12.9591,77.6974,Typical evening peak-hour commuter demand
+91,2025-01-31,08:15:00,West,Rajajinagar,74.9,67,Rainy,64,2.2,Car,12.9915,77.5525,Morning travel demand increased due to rainy weather
+92,2025-01-31,14:30:00,South,HSR Layout,47.2,40,Sunny,89,1.0,Car,12.9121,77.6446,Normal afternoon demand under sunny conditions
+93,2025-01-31,19:15:00,Central,Shivajinagar,117.8,106,Sunny,47,3.7,Bike,12.9857,77.6058,Typical evening peak-hour commuter demand
+94,2025-02-01,08:15:00,West,Nagarbhavi,65.7,62,Rainy,78,1.7,Metro,12.9587,77.5041,Morning travel demand increased due to rainy weather
+95,2025-02-01,14:30:00,Central,Shivajinagar,56.5,51,Sunny,78,1.4,Bike,12.9857,77.6058,Normal afternoon demand under sunny conditions
+96,2025-02-01,19:15:00,North,Malleshwaram,74.3,57,Sunny,69,2.0,Bus,13.0035,77.5709,Typical evening peak-hour commuter demand
+97,2025-02-02,08:15:00,Central,MG Road,133.3,101,Rainy,40,5.9,Car,12.9758,77.6045,Morning travel demand increased due to rainy weather
+98,2025-02-02,14:30:00,West,Vijayanagar,31.1,28,Sunny,103,0.5,Car,12.9719,77.529,Normal afternoon demand under sunny conditions
+99,2025-02-02,19:15:00,North,Hebbal,79.0,65,Sunny,63,2.0,Bus,13.0358,77.597,Typical evening peak-hour commuter demand
+100,2025-02-03,08:15:00,North,Yelahanka,67.1,62,Sunny,81,1.2,Scooter,13.1007,77.5963,Typical morning peak-hour commuter demand
+101,2025-02-03,14:30:00,South,Koramangala,46.6,38,Windy,91,0.8,Bus,12.9352,77.6245,Afternoon demand slightly reduced due to windy conditions
+102,2025-02-03,19:15:00,North,Yelahanka,70.2,61,Foggy,76,1.8,Metro,13.1007,77.5963,Evening demand slightly reduced due to foggy conditions
+103,2025-02-04,08:15:00,East,Marathahalli,100.1,79,Sunny,65,2.6,Bus,12.9591,77.6974,Typical morning peak-hour commuter demand
+104,2025-02-04,14:30:00,Central,Richmond Town,57.6,54,Sunny,80,1.2,Scooter,12.9634,77.6041,Normal afternoon demand under sunny conditions
+105,2025-02-04,19:15:00,East,Marathahalli,111.0,103,Sunny,47,4.4,Bus,12.9591,77.6974,Typical evening peak-hour commuter demand
+106,2025-02-05,08:15:00,West,Rajajinagar,68.2,54,Rainy,78,1.3,Car,12.9915,77.5525,Morning travel demand increased due to rainy weather
+107,2025-02-05,14:30:00,Central,MG Road,63.6,58,Cloudy,79,1.4,Car,12.9758,77.6045,Normal afternoon demand under cloudy conditions
+108,2025-02-05,19:15:00,East,Whitefield,126.0,117,Rainy,31,6.1,Metro,12.9698,77.75,Evening travel demand increased due to rainy weather
+109,2025-02-06,08:15:00,East,Whitefield,121.3,103,Rainy,43,4.0,Car,12.9698,77.75,Morning travel demand increased due to rainy weather
+110,2025-02-06,14:30:00,Central,Shivajinagar,52.0,42,Sunny,91,1.0,Metro,12.9857,77.6058,Normal afternoon demand under sunny conditions
+111,2025-02-06,19:15:00,North,Malleshwaram,75.2,62,Sunny,78,1.8,Scooter,13.0035,77.5709,Typical evening peak-hour commuter demand
+112,2025-02-07,08:15:00,East,Whitefield,96.7,81,Sunny,67,2.1,Car,12.9698,77.75,Typical morning peak-hour commuter demand
+113,2025-02-07,14:30:00,Central,Richmond Town,61.2,50,Cloudy,81,1.4,Car,12.9634,77.6041,Normal afternoon demand under cloudy conditions
+114,2025-02-07,19:15:00,Central,MG Road,114.3,91,Sunny,46,4.5,Scooter,12.9758,77.6045,Typical evening peak-hour commuter demand
+115,2025-02-08,08:15:00,North,Malleshwaram,64.5,54,Foggy,75,1.3,Bike,13.0035,77.5709,Morning demand slightly reduced due to foggy conditions
+116,2025-02-08,14:30:00,East,Whitefield,54.9,41,Sunny,88,0.9,Bike,12.9698,77.75,Normal afternoon demand under sunny conditions
+117,2025-02-08,19:15:00,North,Yelahanka,74.8,65,Sunny,66,1.6,Car,13.1007,77.5963,Typical evening peak-hour commuter demand
+118,2025-02-09,08:15:00,North,Hebbal,76.8,69,Rainy,65,1.8,Car,13.0358,77.597,Morning travel demand increased due to rainy weather
+119,2025-02-09,14:30:00,South,Jayanagar,52.1,43,Rainy,83,1.0,Bus,12.9308,77.5838,Afternoon travel demand increased due to rainy weather
+120,2025-02-09,19:15:00,South,Koramangala,101.4,84,Rainy,58,2.5,Bike,12.9352,77.6245,Evening travel demand increased due to rainy weather
+121,2025-02-10,08:15:00,North,Malleshwaram,71.6,64,Sunny,70,1.9,Scooter,13.0035,77.5709,Typical morning peak-hour commuter demand
+122,2025-02-10,14:30:00,East,Marathahalli,54.3,42,Windy,89,1.1,Bike,12.9591,77.6974,Afternoon demand slightly reduced due to windy conditions
+123,2025-02-10,19:15:00,North,Malleshwaram,68.0,51,Foggy,69,1.7,Bike,13.0035,77.5709,Evening demand slightly reduced due to foggy conditions
+124,2025-02-11,08:15:00,South,HSR Layout,88.0,75,Windy,61,2.3,Bike,12.9121,77.6446,Morning demand slightly reduced due to windy conditions
+125,2025-02-11,14:30:00,South,Koramangala,46.7,43,Sunny,94,0.9,Scooter,12.9352,77.6245,Normal afternoon demand under sunny conditions
+126,2025-02-11,19:15:00,South,Jayanagar,77.9,68,Windy,69,1.8,Bus,12.9308,77.5838,Evening demand slightly reduced due to windy conditions
+127,2025-02-12,08:15:00,South,HSR Layout,95.5,90,Cloudy,59,2.8,Bike,12.9121,77.6446,Typical morning peak-hour commuter demand
+128,2025-02-12,14:30:00,North,Yelahanka,42.1,35,Rainy,96,0.8,Metro,13.1007,77.5963,Afternoon travel demand increased due to rainy weather
+129,2025-02-12,19:15:00,Central,Richmond Town,127.5,100,Sunny,45,5.4,Car,12.9634,77.6041,Typical evening peak-hour commuter demand
+130,2025-02-13,08:15:00,North,Yelahanka,69.5,62,Sunny,70,1.6,Metro,13.1007,77.5963,Typical morning peak-hour commuter demand
+131,2025-02-13,14:30:00,Central,Shivajinagar,67.6,58,Rainy,81,1.6,Car,12.9857,77.6058,Afternoon travel demand increased due to rainy weather
+132,2025-02-13,19:15:00,North,Malleshwaram,86.5,68,Rainy,60,2.0,Car,13.0035,77.5709,Evening travel demand increased due to rainy weather
+133,2025-02-14,08:15:00,West,Nagarbhavi,70.1,58,Rainy,77,1.6,Bus,12.9587,77.5041,Morning travel demand increased due to rainy weather
+134,2025-02-14,14:30:00,East,Marathahalli,60.2,56,Cloudy,81,1.1,Metro,12.9591,77.6974,Normal afternoon demand under cloudy conditions
+135,2025-02-14,19:15:00,East,Marathahalli,108.4,96,Sunny,53,4.0,Scooter,12.9591,77.6974,Typical evening peak-hour commuter demand
+136,2025-02-15,08:15:00,East,Marathahalli,112.3,104,Sunny,52,3.3,Scooter,12.9591,77.6974,Typical morning peak-hour commuter demand
+137,2025-02-15,14:30:00,South,HSR Layout,46.2,35,Cloudy,90,1.0,Bus,12.9121,77.6446,Normal afternoon demand under cloudy conditions
+138,2025-02-15,19:15:00,South,HSR Layout,91.4,73,Cloudy,64,2.7,Car,12.9121,77.6446,Typical evening peak-hour commuter demand
+139,2025-02-16,08:15:00,North,Malleshwaram,75.1,71,Foggy,78,1.4,Scooter,13.0035,77.5709,Morning demand slightly reduced due to foggy conditions
+140,2025-02-16,14:30:00,West,Rajajinagar,31.6,29,Cloudy,99,0.6,Bike,12.9915,77.5525,Normal afternoon demand under cloudy conditions
+141,2025-02-16,19:15:00,Central,Shivajinagar,120.6,105,Sunny,36,5.3,Metro,12.9857,77.6058,Typical evening peak-hour commuter demand
+142,2025-02-17,08:15:00,East,Indiranagar,114.9,104,Cloudy,52,4.3,Bike,12.9719,77.6412,Typical morning peak-hour commuter demand
+143,2025-02-17,14:30:00,East,Indiranagar,52.9,49,Sunny,89,1.0,Metro,12.9719,77.6412,Normal afternoon demand under sunny conditions
+144,2025-02-17,19:15:00,West,Rajajinagar,67.5,62,Sunny,71,1.5,Metro,12.9915,77.5525,Typical evening peak-hour commuter demand
+145,2025-02-18,08:15:00,North,Yelahanka,66.2,62,Sunny,72,1.7,Metro,13.1007,77.5963,Typical morning peak-hour commuter demand
+146,2025-02-18,14:30:00,East,Indiranagar,58.0,50,Cloudy,83,1.0,Bike,12.9719,77.6412,Normal afternoon demand under cloudy conditions
+147,2025-02-18,19:15:00,Central,Richmond Town,134.0,105,Cloudy,31,6.6,Scooter,12.9634,77.6041,Typical evening peak-hour commuter demand
+148,2025-02-19,08:15:00,West,Nagarbhavi,54.0,50,Sunny,87,1.1,Metro,12.9587,77.5041,Typical morning peak-hour commuter demand
+149,2025-02-19,14:30:00,West,Nagarbhavi,30.0,28,Cloudy,99,0.6,Metro,12.9587,77.5041,Normal afternoon demand under cloudy conditions
+150,2025-02-19,19:15:00,South,Koramangala,98.9,81,Sunny,65,2.4,Bus,12.9352,77.6245,Typical evening peak-hour commuter demand
+151,2025-02-20,08:15:00,North,Hebbal,85.3,68,Rainy,57,2.5,Bus,13.0358,77.597,Morning travel demand increased due to rainy weather
+152,2025-02-20,14:30:00,North,Hebbal,40.0,32,Sunny,98,0.7,Bike,13.0358,77.597,Normal afternoon demand under sunny conditions
+153,2025-02-20,19:15:00,South,Koramangala,104.8,98,Rainy,56,3.4,Metro,12.9352,77.6245,Evening travel demand increased due to rainy weather
+154,2025-02-21,08:15:00,Central,Richmond Town,131.1,111,Rainy,23,9.1,Bike,12.9634,77.6041,Morning travel demand increased due to rainy weather
+155,2025-02-21,14:30:00,Central,Shivajinagar,49.6,42,Windy,84,1.1,Car,12.9857,77.6058,Afternoon demand slightly reduced due to windy conditions
+156,2025-02-21,19:15:00,North,Yelahanka,80.0,65,Cloudy,61,2.1,Bus,13.1007,77.5963,Typical evening peak-hour commuter demand
+157,2025-02-22,08:15:00,East,Marathahalli,117.6,100,Cloudy,34,5.7,Bus,12.9591,77.6974,Typical morning peak-hour commuter demand
+158,2025-02-22,14:30:00,South,Koramangala,45.0,38,Sunny,94,0.7,Bus,12.9352,77.6245,Normal afternoon demand under sunny conditions
+159,2025-02-22,19:15:00,Central,Shivajinagar,121.5,99,Rainy,48,4.7,Car,12.9857,77.6058,Evening travel demand increased due to rainy weather
+160,2025-02-23,08:15:00,North,Hebbal,72.8,56,Sunny,76,1.4,Scooter,13.0358,77.597,Typical morning peak-hour commuter demand
+161,2025-02-23,14:30:00,East,Whitefield,45.3,39,Foggy,89,1.0,Bus,12.9698,77.75,Afternoon demand slightly reduced due to foggy conditions
+162,2025-02-23,19:15:00,North,Yelahanka,75.9,62,Sunny,63,2.0,Bus,13.1007,77.5963,Typical evening peak-hour commuter demand
+163,2025-02-24,08:15:00,South,Jayanagar,89.9,78,Cloudy,63,2.8,Car,12.9308,77.5838,Typical morning peak-hour commuter demand
+164,2025-02-24,14:30:00,Central,MG Road,58.7,50,Sunny,80,1.2,Scooter,12.9758,77.6045,Normal afternoon demand under sunny conditions
+165,2025-02-24,19:15:00,South,Koramangala,90.1,85,Foggy,57,2.9,Bus,12.9352,77.6245,Evening demand slightly reduced due to foggy conditions
+166,2025-02-25,08:15:00,West,Rajajinagar,64.3,51,Cloudy,76,1.3,Scooter,12.9915,77.5525,Typical morning peak-hour commuter demand
+167,2025-02-25,14:30:00,South,Koramangala,45.9,42,Cloudy,87,0.8,Bike,12.9352,77.6245,Normal afternoon demand under cloudy conditions
+168,2025-02-25,19:15:00,South,Jayanagar,89.8,82,Sunny,68,2.5,Bike,12.9308,77.5838,Typical evening peak-hour commuter demand
+169,2025-02-26,08:15:00,Central,Shivajinagar,94.4,74,Foggy,60,2.8,Car,12.9857,77.6058,Morning demand slightly reduced due to foggy conditions
+170,2025-02-26,14:30:00,East,Marathahalli,48.5,38,Foggy,86,0.9,Car,12.9591,77.6974,Afternoon demand slightly reduced due to foggy conditions
+171,2025-02-26,19:15:00,East,Indiranagar,117.8,93,Sunny,45,4.5,Metro,12.9719,77.6412,Typical evening peak-hour commuter demand
+172,2025-02-27,08:15:00,North,Hebbal,83.6,79,Rainy,57,2.5,Bike,13.0358,77.597,Morning travel demand increased due to rainy weather
+173,2025-02-27,14:30:00,North,Yelahanka,32.8,28,Foggy,99,0.5,Bus,13.1007,77.5963,Afternoon demand slightly reduced due to foggy conditions
+174,2025-02-27,19:15:00,North,Yelahanka,77.9,71,Sunny,64,2.0,Scooter,13.1007,77.5963,Typical evening peak-hour commuter demand
+175,2025-02-28,08:15:00,East,Indiranagar,100.0,93,Windy,62,3.1,Bike,12.9719,77.6412,Morning demand slightly reduced due to windy conditions
+176,2025-02-28,14:30:00,North,Malleshwaram,40.0,31,Sunny,98,0.6,Metro,13.0035,77.5709,Normal afternoon demand under sunny conditions
+177,2025-02-28,19:15:00,West,Vijayanagar,65.0,59,Sunny,82,1.2,Car,12.9719,77.529,Typical evening peak-hour commuter demand
+178,2025-03-01,08:15:00,North,Malleshwaram,72.7,66,Windy,79,1.5,Bus,13.0035,77.5709,Morning demand slightly reduced due to windy conditions
+179,2025-03-01,14:30:00,South,Jayanagar,48.7,44,Rainy,89,0.9,Scooter,12.9308,77.5838,Afternoon travel demand increased due to rainy weather
+180,2025-03-01,19:15:00,East,Indiranagar,116.5,90,Sunny,54,3.2,Bike,12.9719,77.6412,Typical evening peak-hour commuter demand
+181,2025-03-02,08:15:00,Central,MG Road,120.4,94,Sunny,38,5.3,Metro,12.9758,77.6045,Typical morning peak-hour commuter demand
+182,2025-03-02,14:30:00,West,Vijayanagar,32.0,30,Windy,101,0.5,Bus,12.9719,77.529,Afternoon demand slightly reduced due to windy conditions
+183,2025-03-02,19:15:00,West,Nagarbhavi,71.2,61,Rainy,69,1.9,Bike,12.9587,77.5041,Evening travel demand increased due to rainy weather
+184,2025-03-03,08:15:00,East,Whitefield,100.7,85,Sunny,59,2.8,Bus,12.9698,77.75,Typical morning peak-hour commuter demand
+185,2025-03-03,14:30:00,Central,Shivajinagar,58.3,47,Cloudy,82,1.1,Metro,12.9857,77.6058,Normal afternoon demand under cloudy conditions
+186,2025-03-03,19:15:00,West,Vijayanagar,68.0,51,Rainy,80,1.6,Bus,12.9719,77.529,Evening travel demand increased due to rainy weather
+187,2025-03-04,08:15:00,North,Malleshwaram,72.0,61,Windy,67,1.5,Scooter,13.0035,77.5709,Morning demand slightly reduced due to windy conditions
+188,2025-03-04,14:30:00,Central,Richmond Town,58.8,52,Cloudy,85,1.0,Scooter,12.9634,77.6041,Normal afternoon demand under cloudy conditions
+189,2025-03-04,19:15:00,Central,Shivajinagar,108.1,100,Sunny,54,3.2,Bike,12.9857,77.6058,Typical evening peak-hour commuter demand
+190,2025-03-05,08:15:00,South,Koramangala,84.4,74,Sunny,70,2.3,Car,12.9352,77.6245,Typical morning peak-hour commuter demand
+191,2025-03-05,14:30:00,North,Yelahanka,34.5,30,Sunny,100,0.7,Bus,13.1007,77.5963,Normal afternoon demand under sunny conditions
+192,2025-03-05,19:15:00,Central,Shivajinagar,109.5,104,Windy,59,3.0,Scooter,12.9857,77.6058,Evening demand slightly reduced due to windy conditions
+193,2025-03-06,08:15:00,South,HSR Layout,96.9,76,Cloudy,48,3.4,Metro,12.9121,77.6446,Typical morning peak-hour commuter demand
+194,2025-03-06,14:30:00,West,Nagarbhavi,27.3,23,Foggy,102,0.5,Scooter,12.9587,77.5041,Afternoon demand slightly reduced due to foggy conditions
+195,2025-03-06,19:15:00,East,Indiranagar,118.7,103,Sunny,46,4.2,Metro,12.9719,77.6412,Typical evening peak-hour commuter demand
+196,2025-03-07,08:15:00,Central,Richmond Town,138.4,130,Rainy,33,6.7,Metro,12.9634,77.6041,Morning travel demand increased due to rainy weather
+197,2025-03-07,14:30:00,West,Nagarbhavi,32.6,28,Cloudy,100,0.5,Metro,12.9587,77.5041,Normal afternoon demand under cloudy conditions
+198,2025-03-07,19:15:00,South,Jayanagar,81.4,73,Sunny,69,1.8,Metro,12.9308,77.5838,Typical evening peak-hour commuter demand
+199,2025-03-08,08:15:00,North,Malleshwaram,80.2,75,Sunny,66,2.2,Bike,13.0035,77.5709,Typical morning peak-hour commuter demand
+200,2025-03-08,14:30:00,North,Malleshwaram,36.1,34,Foggy,96,0.5,Bike,13.0035,77.5709,Afternoon demand slightly reduced due to foggy conditions
+201,2025-03-08,19:15:00,West,Nagarbhavi,59.6,54,Cloudy,77,1.3,Metro,12.9587,77.5041,Typical evening peak-hour commuter demand
+202,2025-03-09,08:15:00,North,Yelahanka,73.6,60,Sunny,67,1.8,Metro,13.1007,77.5963,Typical morning peak-hour commuter demand
+203,2025-03-09,14:30:00,Central,MG Road,61.1,52,Sunny,80,1.5,Car,12.9758,77.6045,Normal afternoon demand under sunny conditions
+204,2025-03-09,19:15:00,East,Whitefield,95.2,83,Windy,51,3.0,Bike,12.9698,77.75,Evening demand slightly reduced due to windy conditions
+205,2025-03-10,08:15:00,East,Marathahalli,115.3,109,Cloudy,43,4.4,Metro,12.9591,77.6974,Typical morning peak-hour commuter demand
+206,2025-03-10,14:30:00,West,Vijayanagar,30.9,28,Cloudy,98,0.5,Scooter,12.9719,77.529,Normal afternoon demand under cloudy conditions
+207,2025-03-10,19:15:00,North,Yelahanka,75.0,63,Sunny,68,1.7,Bus,13.1007,77.5963,Typical evening peak-hour commuter demand
+208,2025-03-11,08:15:00,West,Rajajinagar,63.1,48,Sunny,79,1.4,Scooter,12.9915,77.5525,Typical morning peak-hour commuter demand
+209,2025-03-11,14:30:00,South,Koramangala,44.8,34,Sunny,87,0.8,Bus,12.9352,77.6245,Normal afternoon demand under sunny conditions
+210,2025-03-11,19:15:00,Central,Richmond Town,102.8,91,Foggy,46,4.0,Metro,12.9634,77.6041,Evening demand slightly reduced due to foggy conditions
+211,2025-03-12,08:15:00,Central,Richmond Town,113.5,108,Sunny,36,4.5,Bus,12.9634,77.6041,Typical morning peak-hour commuter demand
+212,2025-03-12,14:30:00,South,Koramangala,48.9,37,Sunny,84,1.1,Bike,12.9352,77.6245,Normal afternoon demand under sunny conditions
+213,2025-03-12,19:15:00,East,Whitefield,94.7,81,Windy,51,3.2,Metro,12.9698,77.75,Evening demand slightly reduced due to windy conditions
+214,2025-03-13,08:15:00,Central,MG Road,109.4,103,Cloudy,53,3.1,Scooter,12.9758,77.6045,Typical morning peak-hour commuter demand
+215,2025-03-13,14:30:00,Central,Richmond Town,62.5,56,Sunny,75,1.7,Car,12.9634,77.6041,Normal afternoon demand under sunny conditions
+216,2025-03-13,19:15:00,West,Nagarbhavi,53.2,48,Foggy,85,1.1,Car,12.9587,77.5041,Evening demand slightly reduced due to foggy conditions
+217,2025-03-14,08:15:00,East,Indiranagar,121.5,102,Rainy,44,4.5,Metro,12.9719,77.6412,Morning travel demand increased due to rainy weather
+218,2025-03-14,14:30:00,West,Nagarbhavi,28.3,26,Sunny,102,0.5,Bus,12.9587,77.5041,Normal afternoon demand under sunny conditions
+219,2025-03-14,19:15:00,Central,Shivajinagar,109.7,104,Sunny,55,3.4,Car,12.9857,77.6058,Typical evening peak-hour commuter demand
+220,2025-03-15,08:15:00,Central,MG Road,98.8,75,Foggy,63,2.3,Scooter,12.9758,77.6045,Morning demand slightly reduced due to foggy conditions
+221,2025-03-15,14:30:00,Central,Richmond Town,54.7,48,Foggy,88,1.2,Bus,12.9634,77.6041,Afternoon demand slightly reduced due to foggy conditions
+222,2025-03-15,19:15:00,South,Jayanagar,87.8,72,Windy,70,1.9,Metro,12.9308,77.5838,Evening demand slightly reduced due to windy conditions
+223,2025-03-16,08:15:00,North,Hebbal,74.5,64,Sunny,76,1.6,Bus,13.0358,77.597,Typical morning peak-hour commuter demand
+224,2025-03-16,14:30:00,West,Nagarbhavi,34.5,27,Rainy,96,0.5,Car,12.9587,77.5041,Afternoon travel demand increased due to rainy weather
+225,2025-03-16,19:15:00,North,Malleshwaram,81.1,69,Sunny,67,2.0,Car,13.0035,77.5709,Typical evening peak-hour commuter demand
+226,2025-03-17,08:15:00,Central,Richmond Town,118.3,99,Cloudy,53,3.9,Scooter,12.9634,77.6041,Typical morning peak-hour commuter demand
+227,2025-03-17,14:30:00,North,Yelahanka,39.8,34,Sunny,91,0.7,Bike,13.1007,77.5963,Normal afternoon demand under sunny conditions
+228,2025-03-17,19:15:00,North,Hebbal,73.7,67,Windy,73,1.8,Car,13.0358,77.597,Evening demand slightly reduced due to windy conditions
+229,2025-03-18,08:15:00,North,Malleshwaram,78.5,69,Sunny,62,2.1,Metro,13.0035,77.5709,Typical morning peak-hour commuter demand
+230,2025-03-18,14:30:00,North,Hebbal,35.5,32,Windy,97,0.6,Bus,13.0358,77.597,Afternoon demand slightly reduced due to windy conditions
+231,2025-03-18,19:15:00,East,Marathahalli,118.1,106,Sunny,34,5.4,Bike,12.9591,77.6974,Typical evening peak-hour commuter demand
+232,2025-03-19,08:15:00,Central,Shivajinagar,94.4,75,Foggy,63,2.6,Car,12.9857,77.6058,Morning demand slightly reduced due to foggy conditions
+233,2025-03-19,14:30:00,North,Yelahanka,40.3,33,Rainy,94,0.6,Scooter,13.1007,77.5963,Afternoon travel demand increased due to rainy weather
+234,2025-03-19,19:15:00,North,Malleshwaram,76.4,66,Sunny,67,1.6,Metro,13.0035,77.5709,Typical evening peak-hour commuter demand
+235,2025-03-20,08:15:00,East,Indiranagar,128.2,108,Rainy,28,7.1,Metro,12.9719,77.6412,Morning travel demand increased due to rainy weather
+236,2025-03-20,14:30:00,North,Malleshwaram,39.8,33,Sunny,96,0.8,Scooter,13.0035,77.5709,Normal afternoon demand under sunny conditions
+237,2025-03-20,19:15:00,Central,Richmond Town,119.0,96,Sunny,46,4.0,Bus,12.9634,77.6041,Typical evening peak-hour commuter demand
+238,2025-03-21,08:15:00,East,Whitefield,91.7,81,Foggy,54,3.4,Bus,12.9698,77.75,Morning demand slightly reduced due to foggy conditions
+239,2025-03-21,14:30:00,South,Koramangala,44.4,37,Foggy,95,0.7,Metro,12.9352,77.6245,Afternoon demand slightly reduced due to foggy conditions
+240,2025-03-21,19:15:00,West,Rajajinagar,68.2,59,Cloudy,75,1.7,Bike,12.9915,77.5525,Typical evening peak-hour commuter demand
+241,2025-03-22,08:15:00,North,Yelahanka,85.8,81,Rainy,58,2.9,Scooter,13.1007,77.5963,Morning travel demand increased due to rainy weather
+242,2025-03-22,14:30:00,East,Indiranagar,56.2,49,Cloudy,79,1.1,Metro,12.9719,77.6412,Normal afternoon demand under cloudy conditions
+243,2025-03-22,19:15:00,North,Hebbal,72.2,55,Sunny,67,1.8,Car,13.0358,77.597,Typical evening peak-hour commuter demand
+244,2025-03-23,08:15:00,East,Whitefield,109.1,86,Rainy,42,4.0,Car,12.9698,77.75,Morning travel demand increased due to rainy weather
+245,2025-03-23,14:30:00,North,Malleshwaram,48.4,39,Rainy,91,1.1,Scooter,13.0035,77.5709,Afternoon travel demand increased due to rainy weather
+246,2025-03-23,19:15:00,Central,Richmond Town,124.9,100,Cloudy,32,7.3,Metro,12.9634,77.6041,Typical evening peak-hour commuter demand
+247,2025-03-24,08:15:00,North,Malleshwaram,70.6,61,Sunny,67,1.5,Scooter,13.0035,77.5709,Typical morning peak-hour commuter demand
+248,2025-03-24,14:30:00,West,Vijayanagar,34.8,27,Cloudy,98,0.7,Metro,12.9719,77.529,Normal afternoon demand under cloudy conditions
+249,2025-03-24,19:15:00,East,Indiranagar,111.2,94,Sunny,40,5.0,Bus,12.9719,77.6412,Typical evening peak-hour commuter demand
+250,2025-03-25,08:15:00,Central,Richmond Town,102.8,85,Foggy,44,3.6,Bus,12.9634,77.6041,Morning demand slightly reduced due to foggy conditions
+251,2025-03-25,14:30:00,Central,Shivajinagar,56.7,45,Sunny,87,1.1,Scooter,12.9857,77.6058,Normal afternoon demand under sunny conditions
+252,2025-03-25,19:15:00,North,Malleshwaram,99.7,91,Rainy,60,2.6,Scooter,13.0035,77.5709,Evening travel demand increased due to rainy weather
+253,2025-03-26,08:15:00,East,Whitefield,90.4,72,Foggy,55,2.7,Bike,12.9698,77.75,Morning demand slightly reduced due to foggy conditions
+254,2025-03-26,14:30:00,Central,Richmond Town,60.6,55,Sunny,84,1.4,Car,12.9634,77.6041,Normal afternoon demand under sunny conditions
+255,2025-03-26,19:15:00,East,Indiranagar,104.7,97,Sunny,56,3.3,Bus,12.9719,77.6412,Typical evening peak-hour commuter demand
+256,2025-03-27,08:15:00,West,Vijayanagar,63.1,59,Sunny,76,1.4,Car,12.9719,77.529,Typical morning peak-hour commuter demand
+257,2025-03-27,14:30:00,Central,Richmond Town,71.7,65,Rainy,76,1.4,Scooter,12.9634,77.6041,Afternoon travel demand increased due to rainy weather
+258,2025-03-27,19:15:00,South,HSR Layout,98.8,86,Cloudy,58,3.2,Car,12.9121,77.6446,Typical evening peak-hour commuter demand
+259,2025-03-28,08:15:00,North,Malleshwaram,90.8,78,Rainy,67,2.5,Car,13.0035,77.5709,Morning travel demand increased due to rainy weather
+260,2025-03-28,14:30:00,East,Indiranagar,68.3,65,Rainy,78,1.6,Metro,12.9719,77.6412,Afternoon travel demand increased due to rainy weather
+261,2025-03-28,19:15:00,Central,Shivajinagar,114.1,106,Sunny,51,4.2,Metro,12.9857,77.6058,Typical evening peak-hour commuter demand
+262,2025-03-29,08:15:00,West,Nagarbhavi,56.9,46,Foggy,80,1.1,Bus,12.9587,77.5041,Morning demand slightly reduced due to foggy conditions
+263,2025-03-29,14:30:00,East,Whitefield,45.9,36,Windy,88,0.9,Metro,12.9698,77.75,Afternoon demand slightly reduced due to windy conditions
+264,2025-03-29,19:15:00,North,Hebbal,74.2,69,Sunny,79,1.5,Car,13.0358,77.597,Typical evening peak-hour commuter demand
+265,2025-03-30,08:15:00,West,Rajajinagar,68.9,64,Rainy,72,1.8,Scooter,12.9915,77.5525,Morning travel demand increased due to rainy weather
+266,2025-03-30,14:30:00,Central,MG Road,64.6,52,Cloudy,81,1.1,Car,12.9758,77.6045,Normal afternoon demand under cloudy conditions
+267,2025-03-30,19:15:00,South,Koramangala,112.1,96,Rainy,48,3.9,Bus,12.9352,77.6245,Evening travel demand increased due to rainy weather
+268,2025-03-31,08:15:00,North,Yelahanka,75.3,69,Sunny,73,1.8,Bike,13.1007,77.5963,Typical morning peak-hour commuter demand
+269,2025-03-31,14:30:00,East,Indiranagar,54.7,45,Foggy,88,0.9,Bike,12.9719,77.6412,Afternoon demand slightly reduced due to foggy conditions
+270,2025-03-31,19:15:00,West,Nagarbhavi,57.6,55,Sunny,87,1.0,Car,12.9587,77.5041,Typical evening peak-hour commuter demand
+271,2025-04-01,08:15:00,North,Malleshwaram,90.2,84,Rainy,59,2.6,Bus,13.0035,77.5709,Morning travel demand increased due to rainy weather
+272,2025-04-01,14:30:00,South,Jayanagar,43.8,37,Cloudy,94,0.9,Scooter,12.9308,77.5838,Normal afternoon demand under cloudy conditions
+273,2025-04-01,19:15:00,South,Koramangala,99.0,81,Sunny,52,3.6,Bike,12.9352,77.6245,Typical evening peak-hour commuter demand
+274,2025-04-02,08:15:00,Central,Richmond Town,126.7,100,Rainy,33,7.5,Scooter,12.9634,77.6041,Morning travel demand increased due to rainy weather
+275,2025-04-02,14:30:00,West,Nagarbhavi,30.8,27,Sunny,99,0.6,Bike,12.9587,77.5041,Normal afternoon demand under sunny conditions
+276,2025-04-02,19:15:00,South,Jayanagar,102.5,91,Rainy,62,2.8,Metro,12.9308,77.5838,Evening travel demand increased due to rainy weather
+277,2025-04-03,08:15:00,South,Koramangala,87.7,79,Sunny,68,2.4,Metro,12.9352,77.6245,Typical morning peak-hour commuter demand
+278,2025-04-03,14:30:00,Central,Shivajinagar,65.4,56,Rainy,76,1.7,Metro,12.9857,77.6058,Afternoon travel demand increased due to rainy weather
+279,2025-04-03,19:15:00,West,Nagarbhavi,73.9,56,Rainy,72,1.7,Car,12.9587,77.5041,Evening travel demand increased due to rainy weather
+280,2025-04-04,08:15:00,South,HSR Layout,92.8,87,Cloudy,61,2.3,Scooter,12.9121,77.6446,Typical morning peak-hour commuter demand
+281,2025-04-04,14:30:00,Central,Richmond Town,58.8,53,Sunny,79,1.1,Metro,12.9634,77.6041,Normal afternoon demand under sunny conditions
+282,2025-04-04,19:15:00,Central,Shivajinagar,124.1,97,Sunny,36,5.5,Bus,12.9857,77.6058,Typical evening peak-hour commuter demand
+283,2025-04-05,08:15:00,East,Whitefield,110.3,103,Rainy,48,4.3,Car,12.9698,77.75,Morning travel demand increased due to rainy weather
+284,2025-04-05,14:30:00,South,Koramangala,40.7,33,Foggy,96,0.7,Bus,12.9352,77.6245,Afternoon demand slightly reduced due to foggy conditions
+285,2025-04-05,19:15:00,North,Malleshwaram,75.5,66,Foggy,66,2.2,Scooter,13.0035,77.5709,Evening demand slightly reduced due to foggy conditions
+286,2025-04-06,08:15:00,West,Nagarbhavi,64.6,52,Cloudy,79,1.6,Car,12.9587,77.5041,Typical morning peak-hour commuter demand
+287,2025-04-06,14:30:00,West,Rajajinagar,36.2,29,Rainy,96,0.7,Metro,12.9915,77.5525,Afternoon travel demand increased due to rainy weather
+288,2025-04-06,19:15:00,West,Rajajinagar,75.1,68,Rainy,74,1.6,Bike,12.9915,77.5525,Evening travel demand increased due to rainy weather
+289,2025-04-07,08:15:00,South,Koramangala,83.5,66,Windy,61,2.4,Bike,12.9352,77.6245,Morning demand slightly reduced due to windy conditions
+290,2025-04-07,14:30:00,Central,Richmond Town,56.5,50,Sunny,86,0.9,Bike,12.9634,77.6041,Normal afternoon demand under sunny conditions
+291,2025-04-07,19:15:00,West,Rajajinagar,70.0,55,Sunny,73,1.6,Metro,12.9915,77.5525,Typical evening peak-hour commuter demand
+292,2025-04-08,08:15:00,South,Jayanagar,85.8,80,Sunny,73,1.8,Car,12.9308,77.5838,Typical morning peak-hour commuter demand
+293,2025-04-08,14:30:00,East,Marathahalli,54.7,48,Sunny,82,1.2,Car,12.9591,77.6974,Normal afternoon demand under sunny conditions
+294,2025-04-08,19:15:00,South,Jayanagar,88.3,75,Cloudy,65,2.1,Bike,12.9308,77.5838,Typical evening peak-hour commuter demand
+295,2025-04-09,08:15:00,Central,Shivajinagar,116.1,97,Rainy,41,5.0,Bus,12.9857,77.6058,Morning travel demand increased due to rainy weather
+296,2025-04-09,14:30:00,East,Marathahalli,56.4,43,Windy,84,1.2,Scooter,12.9591,77.6974,Afternoon demand slightly reduced due to windy conditions
+297,2025-04-09,19:15:00,Central,Richmond Town,120.0,100,Sunny,50,4.5,Car,12.9634,77.6041,Typical evening peak-hour commuter demand
+298,2025-04-10,08:15:00,Central,MG Road,120.8,91,Sunny,31,7.7,Bike,12.9758,77.6045,Typical morning peak-hour commuter demand
+299,2025-04-10,14:30:00,West,Rajajinagar,32.0,30,Foggy,99,0.5,Car,12.9915,77.5525,Afternoon demand slightly reduced due to foggy conditions
+300,2025-04-10,19:15:00,North,Malleshwaram,95.8,80,Rainy,56,2.6,Bus,13.0035,77.5709,Evening travel demand increased due to rainy weather
+301,2025-04-11,08:15:00,North,Yelahanka,86.4,73,Rainy,64,2.1,Car,13.1007,77.5963,Morning travel demand increased due to rainy weather
+302,2025-04-11,14:30:00,Central,Shivajinagar,64.5,51,Rainy,82,1.3,Car,12.9857,77.6058,Afternoon travel demand increased due to rainy weather
+303,2025-04-11,19:15:00,South,HSR Layout,99.9,83,Sunny,48,3.2,Bus,12.9121,77.6446,Typical evening peak-hour commuter demand
+304,2025-04-12,08:15:00,North,Malleshwaram,68.2,61,Foggy,69,1.5,Bike,13.0035,77.5709,Morning demand slightly reduced due to foggy conditions
+305,2025-04-12,14:30:00,North,Yelahanka,34.7,29,Sunny,96,0.6,Scooter,13.1007,77.5963,Normal afternoon demand under sunny conditions
+306,2025-04-12,19:15:00,North,Yelahanka,72.0,66,Windy,74,1.9,Bus,13.1007,77.5963,Evening demand slightly reduced due to windy conditions
+307,2025-04-13,08:15:00,Central,Richmond Town,108.2,84,Windy,57,3.4,Bike,12.9634,77.6041,Morning demand slightly reduced due to windy conditions
+308,2025-04-13,14:30:00,Central,Shivajinagar,54.0,45,Sunny,86,1.1,Scooter,12.9857,77.6058,Normal afternoon demand under sunny conditions
+309,2025-04-13,19:15:00,South,Koramangala,106.2,94,Rainy,59,2.5,Scooter,12.9352,77.6245,Evening travel demand increased due to rainy weather
+310,2025-04-14,08:15:00,Central,MG Road,116.8,107,Cloudy,47,4.3,Bus,12.9758,77.6045,Typical morning peak-hour commuter demand
+311,2025-04-14,14:30:00,Central,Richmond Town,61.1,51,Cloudy,85,1.3,Car,12.9634,77.6041,Normal afternoon demand under cloudy conditions
+312,2025-04-14,19:15:00,Central,MG Road,122.1,110,Sunny,46,5.0,Bus,12.9758,77.6045,Typical evening peak-hour commuter demand
+313,2025-04-15,08:15:00,East,Whitefield,85.7,72,Foggy,63,2.0,Scooter,12.9698,77.75,Morning demand slightly reduced due to foggy conditions
+314,2025-04-15,14:30:00,West,Rajajinagar,27.8,23,Foggy,100,0.5,Metro,12.9915,77.5525,Afternoon demand slightly reduced due to foggy conditions
+315,2025-04-15,19:15:00,Central,Richmond Town,119.7,91,Cloudy,32,5.8,Metro,12.9634,77.6041,Typical evening peak-hour commuter demand
+316,2025-04-16,08:15:00,West,Nagarbhavi,57.9,54,Sunny,82,1.4,Scooter,12.9587,77.5041,Typical morning peak-hour commuter demand
+317,2025-04-16,14:30:00,West,Rajajinagar,30.9,25,Windy,98,0.5,Metro,12.9915,77.5525,Afternoon demand slightly reduced due to windy conditions
+318,2025-04-16,19:15:00,South,HSR Layout,82.7,67,Foggy,74,1.8,Scooter,12.9121,77.6446,Evening demand slightly reduced due to foggy conditions
+319,2025-04-17,08:15:00,North,Yelahanka,73.3,59,Sunny,75,1.6,Bus,13.1007,77.5963,Typical morning peak-hour commuter demand
+320,2025-04-17,14:30:00,North,Yelahanka,38.3,35,Cloudy,95,0.6,Car,13.1007,77.5963,Normal afternoon demand under cloudy conditions
+321,2025-04-17,19:15:00,South,Koramangala,94.3,73,Sunny,64,2.7,Bike,12.9352,77.6245,Typical evening peak-hour commuter demand
+322,2025-04-18,08:15:00,East,Marathahalli,111.9,98,Windy,43,4.8,Car,12.9591,77.6974,Morning demand slightly reduced due to windy conditions
+323,2025-04-18,14:30:00,South,HSR Layout,46.8,40,Sunny,93,0.9,Bike,12.9121,77.6446,Normal afternoon demand under sunny conditions
+324,2025-04-18,19:15:00,East,Marathahalli,103.5,78,Foggy,61,2.6,Scooter,12.9591,77.6974,Evening demand slightly reduced due to foggy conditions
+325,2025-04-19,08:15:00,West,Vijayanagar,57.8,48,Sunny,84,1.1,Scooter,12.9719,77.529,Typical morning peak-hour commuter demand
+326,2025-04-19,14:30:00,Central,MG Road,54.8,43,Sunny,82,1.3,Car,12.9758,77.6045,Normal afternoon demand under sunny conditions
+327,2025-04-19,19:15:00,Central,MG Road,122.6,111,Cloudy,34,6.9,Car,12.9758,77.6045,Typical evening peak-hour commuter demand
+328,2025-04-20,08:15:00,South,HSR Layout,97.7,89,Cloudy,60,3.2,Bike,12.9121,77.6446,Typical morning peak-hour commuter demand
+329,2025-04-20,14:30:00,West,Rajajinagar,35.3,31,Rainy,100,0.7,Bus,12.9915,77.5525,Afternoon travel demand increased due to rainy weather
+330,2025-04-20,19:15:00,West,Nagarbhavi,75.7,58,Rainy,74,1.7,Bike,12.9587,77.5041,Evening travel demand increased due to rainy weather
+331,2025-04-21,08:15:00,North,Hebbal,71.0,59,Sunny,68,1.6,Car,13.0358,77.597,Typical morning peak-hour commuter demand
+332,2025-04-21,14:30:00,South,Koramangala,47.6,40,Cloudy,90,0.8,Metro,12.9352,77.6245,Normal afternoon demand under cloudy conditions
+333,2025-04-21,19:15:00,Central,MG Road,121.7,101,Sunny,33,5.7,Car,12.9758,77.6045,Typical evening peak-hour commuter demand
+334,2025-04-22,08:15:00,Central,Richmond Town,141.4,130,Rainy,38,6.4,Bike,12.9634,77.6041,Morning travel demand increased due to rainy weather
+335,2025-04-22,14:30:00,East,Indiranagar,56.7,53,Cloudy,88,1.1,Bus,12.9719,77.6412,Normal afternoon demand under cloudy conditions
+336,2025-04-22,19:15:00,West,Vijayanagar,65.6,60,Sunny,83,1.3,Scooter,12.9719,77.529,Typical evening peak-hour commuter demand
+337,2025-04-23,08:15:00,Central,Shivajinagar,117.6,109,Sunny,51,3.7,Bus,12.9857,77.6058,Typical morning peak-hour commuter demand
+338,2025-04-23,14:30:00,North,Hebbal,43.1,34,Rainy,95,0.9,Metro,13.0358,77.597,Afternoon travel demand increased due to rainy weather
+339,2025-04-23,19:15:00,East,Whitefield,119.9,92,Cloudy,51,4.6,Car,12.9698,77.75,Typical evening peak-hour commuter demand
+340,2025-04-24,08:15:00,West,Rajajinagar,61.4,52,Sunny,81,1.1,Car,12.9915,77.5525,Typical morning peak-hour commuter demand
+341,2025-04-24,14:30:00,West,Vijayanagar,34.1,26,Rainy,97,0.6,Bus,12.9719,77.529,Afternoon travel demand increased due to rainy weather
+342,2025-04-24,19:15:00,East,Indiranagar,122.1,110,Sunny,31,5.8,Scooter,12.9719,77.6412,Typical evening peak-hour commuter demand
+343,2025-04-25,08:15:00,West,Nagarbhavi,59.7,45,Cloudy,83,1.1,Metro,12.9587,77.5041,Typical morning peak-hour commuter demand
+344,2025-04-25,14:30:00,East,Marathahalli,55.5,49,Sunny,85,1.0,Metro,12.9591,77.6974,Normal afternoon demand under sunny conditions
+345,2025-04-25,19:15:00,West,Nagarbhavi,63.2,60,Sunny,79,1.6,Bus,12.9587,77.5041,Typical evening peak-hour commuter demand
+346,2025-04-26,08:15:00,North,Malleshwaram,76.6,68,Sunny,63,2.0,Bike,13.0035,77.5709,Typical morning peak-hour commuter demand
+347,2025-04-26,14:30:00,South,Koramangala,48.5,41,Sunny,86,1.1,Bus,12.9352,77.6245,Normal afternoon demand under sunny conditions
+348,2025-04-26,19:15:00,South,Jayanagar,104.6,96,Rainy,44,3.4,Metro,12.9308,77.5838,Evening travel demand increased due to rainy weather
+349,2025-04-27,08:15:00,North,Yelahanka,69.5,58,Windy,79,1.4,Bus,13.1007,77.5963,Morning demand slightly reduced due to windy conditions
+350,2025-04-27,14:30:00,East,Indiranagar,52.5,49,Sunny,83,1.0,Scooter,12.9719,77.6412,Normal afternoon demand under sunny conditions
+351,2025-04-27,19:15:00,Central,Richmond Town,142.3,115,Rainy,33,6.1,Bus,12.9634,77.6041,Evening travel demand increased due to rainy weather
+352,2025-04-28,08:15:00,West,Nagarbhavi,54.1,49,Sunny,80,1.3,Metro,12.9587,77.5041,Typical morning peak-hour commuter demand
+353,2025-04-28,14:30:00,East,Indiranagar,57.4,49,Cloudy,84,1.2,Car,12.9719,77.6412,Normal afternoon demand under cloudy conditions
+354,2025-04-28,19:15:00,South,HSR Layout,81.5,67,Foggy,72,1.8,Scooter,12.9121,77.6446,Evening demand slightly reduced due to foggy conditions
+355,2025-04-29,08:15:00,East,Whitefield,116.0,108,Rainy,55,3.0,Metro,12.9698,77.75,Morning travel demand increased due to rainy weather
+356,2025-04-29,14:30:00,Central,Richmond Town,57.7,55,Sunny,86,1.0,Bus,12.9634,77.6041,Normal afternoon demand under sunny conditions
+357,2025-04-29,19:15:00,South,Koramangala,97.5,89,Cloudy,64,2.5,Bus,12.9352,77.6245,Typical evening peak-hour commuter demand
+358,2025-04-30,08:15:00,South,HSR Layout,83.3,72,Windy,73,1.7,Bike,12.9121,77.6446,Morning demand slightly reduced due to windy conditions
+359,2025-04-30,14:30:00,South,HSR Layout,48.5,37,Sunny,85,1.1,Bike,12.9121,77.6446,Normal afternoon demand under sunny conditions
+360,2025-04-30,19:15:00,North,Yelahanka,70.6,65,Sunny,78,1.6,Metro,13.1007,77.5963,Typical evening peak-hour commuter demand
+361,2025-05-01,08:15:00,East,Whitefield,106.1,101,Cloudy,58,3.5,Bike,12.9698,77.75,Typical morning peak-hour commuter demand
+362,2025-05-01,14:30:00,North,Malleshwaram,45.2,40,Cloudy,89,0.8,Metro,13.0035,77.5709,Normal afternoon demand under cloudy conditions
+363,2025-05-01,19:15:00,Central,MG Road,126.1,103,Cloudy,43,4.5,Metro,12.9758,77.6045,Typical evening peak-hour commuter demand
+364,2025-05-02,08:15:00,East,Marathahalli,117.2,102,Sunny,52,4.1,Car,12.9591,77.6974,Typical morning peak-hour commuter demand
+365,2025-05-02,14:30:00,Central,Shivajinagar,53.1,40,Sunny,83,1.3,Bike,12.9857,77.6058,Normal afternoon demand under sunny conditions
+366,2025-05-02,19:15:00,East,Indiranagar,122.3,106,Rainy,34,5.8,Bike,12.9719,77.6412,Evening travel demand increased due to rainy weather
+367,2025-05-03,08:15:00,East,Whitefield,89.4,70,Foggy,69,2.2,Bus,12.9698,77.75,Morning demand slightly reduced due to foggy conditions
+368,2025-05-03,14:30:00,South,Jayanagar,51.7,48,Rainy,83,1.0,Metro,12.9308,77.5838,Afternoon travel demand increased due to rainy weather
+369,2025-05-03,19:15:00,North,Malleshwaram,88.1,78,Sunny,54,2.7,Metro,13.0035,77.5709,Typical evening peak-hour commuter demand
+370,2025-05-04,08:15:00,East,Whitefield,99.5,79,Cloudy,55,2.6,Car,12.9698,77.75,Typical morning peak-hour commuter demand
+371,2025-05-04,14:30:00,North,Malleshwaram,42.3,33,Sunny,89,0.9,Bike,13.0035,77.5709,Normal afternoon demand under sunny conditions
+372,2025-05-04,19:15:00,Central,Shivajinagar,137.4,124,Rainy,22,11.4,Bus,12.9857,77.6058,Evening travel demand increased due to rainy weather
+373,2025-05-05,08:15:00,South,HSR Layout,110.7,96,Rainy,44,4.2,Bus,12.9121,77.6446,Morning travel demand increased due to rainy weather
+374,2025-05-05,14:30:00,East,Whitefield,46.0,36,Foggy,90,0.9,Bus,12.9698,77.75,Afternoon demand slightly reduced due to foggy conditions
+375,2025-05-05,19:15:00,Central,MG Road,128.7,112,Cloudy,32,7.4,Bus,12.9758,77.6045,Typical evening peak-hour commuter demand
+376,2025-05-06,08:15:00,Central,MG Road,133.7,115,Rainy,30,6.5,Scooter,12.9758,77.6045,Morning travel demand increased due to rainy weather
+377,2025-05-06,14:30:00,West,Vijayanagar,31.2,24,Windy,99,0.5,Bus,12.9719,77.529,Afternoon demand slightly reduced due to windy conditions
+378,2025-05-06,19:15:00,South,HSR Layout,91.8,80,Windy,63,2.4,Car,12.9121,77.6446,Evening demand slightly reduced due to windy conditions
+379,2025-05-07,08:15:00,Central,MG Road,117.2,89,Cloudy,52,3.4,Metro,12.9758,77.6045,Typical morning peak-hour commuter demand
+380,2025-05-07,14:30:00,North,Yelahanka,34.5,28,Foggy,100,0.6,Bus,13.1007,77.5963,Afternoon demand slightly reduced due to foggy conditions
+381,2025-05-07,19:15:00,West,Vijayanagar,78.2,60,Rainy,67,2.3,Metro,12.9719,77.529,Evening travel demand increased due to rainy weather
+382,2025-05-08,08:15:00,East,Marathahalli,118.3,110,Sunny,43,4.8,Scooter,12.9591,77.6974,Typical morning peak-hour commuter demand
+383,2025-05-08,14:30:00,North,Malleshwaram,39.5,35,Cloudy,91,0.8,Scooter,13.0035,77.5709,Normal afternoon demand under cloudy conditions
+384,2025-05-08,19:15:00,West,Vijayanagar,69.5,65,Sunny,74,1.7,Metro,12.9719,77.529,Typical evening peak-hour commuter demand
+385,2025-05-09,08:15:00,North,Yelahanka,67.1,53,Sunny,72,1.4,Scooter,13.1007,77.5963,Typical morning peak-hour commuter demand
+386,2025-05-09,14:30:00,South,Koramangala,46.9,37,Cloudy,89,0.9,Bus,12.9352,77.6245,Normal afternoon demand under cloudy conditions
+387,2025-05-09,19:15:00,East,Whitefield,114.6,107,Sunny,38,5.4,Bus,12.9698,77.75,Typical evening peak-hour commuter demand
+388,2025-05-10,08:15:00,West,Rajajinagar,74.8,56,Rainy,65,2.0,Bus,12.9915,77.5525,Morning travel demand increased due to rainy weather
+389,2025-05-10,14:30:00,Central,Richmond Town,60.3,51,Sunny,82,1.2,Scooter,12.9634,77.6041,Normal afternoon demand under sunny conditions
+390,2025-05-10,19:15:00,East,Marathahalli,121.1,114,Cloudy,49,3.9,Scooter,12.9591,77.6974,Typical evening peak-hour commuter demand
+391,2025-05-11,08:15:00,South,Jayanagar,88.9,84,Cloudy,66,2.4,Bike,12.9308,77.5838,Typical morning peak-hour commuter demand
+392,2025-05-11,14:30:00,South,Jayanagar,43.0,33,Sunny,91,0.9,Bus,12.9308,77.5838,Normal afternoon demand under sunny conditions
+393,2025-05-11,19:15:00,East,Indiranagar,129.5,98,Rainy,46,5.0,Car,12.9719,77.6412,Evening travel demand increased due to rainy weather
+394,2025-05-12,08:15:00,South,HSR Layout,90.7,82,Sunny,55,2.8,Bus,12.9121,77.6446,Typical morning peak-hour commuter demand
+395,2025-05-12,14:30:00,East,Indiranagar,50.4,47,Windy,92,1.0,Bike,12.9719,77.6412,Afternoon demand slightly reduced due to windy conditions
+396,2025-05-12,19:15:00,North,Yelahanka,70.2,59,Sunny,77,1.4,Metro,13.1007,77.5963,Typical evening peak-hour commuter demand
+397,2025-05-13,08:15:00,Central,Shivajinagar,135.2,119,Rainy,42,5.1,Car,12.9857,77.6058,Morning travel demand increased due to rainy weather
+398,2025-05-13,14:30:00,South,Koramangala,46.2,43,Sunny,86,0.9,Bus,12.9352,77.6245,Normal afternoon demand under sunny conditions
+399,2025-05-13,19:15:00,South,HSR Layout,101.6,79,Rainy,52,3.0,Bus,12.9121,77.6446,Evening travel demand increased due to rainy weather
+400,2025-05-14,08:15:00,South,Koramangala,95.2,87,Sunny,58,3.1,Scooter,12.9352,77.6245,Typical morning peak-hour commuter demand
+401,2025-05-14,14:30:00,Central,Richmond Town,63.7,58,Sunny,73,1.7,Car,12.9634,77.6041,Normal afternoon demand under sunny conditions
+402,2025-05-14,19:15:00,South,HSR Layout,102.1,88,Sunny,55,3.2,Scooter,12.9121,77.6446,Typical evening peak-hour commuter demand
+403,2025-05-15,08:15:00,Central,MG Road,106.6,91,Sunny,42,4.5,Metro,12.9758,77.6045,Typical morning peak-hour commuter demand
+404,2025-05-15,14:30:00,East,Whitefield,55.4,44,Cloudy,80,1.1,Bus,12.9698,77.75,Normal afternoon demand under cloudy conditions
+405,2025-05-15,19:15:00,West,Vijayanagar,72.3,58,Cloudy,68,2.0,Bus,12.9719,77.529,Typical evening peak-hour commuter demand
+406,2025-05-16,08:15:00,North,Malleshwaram,94.6,90,Rainy,60,3.0,Bus,13.0035,77.5709,Morning travel demand increased due to rainy weather
+407,2025-05-16,14:30:00,Central,Shivajinagar,52.4,45,Foggy,90,0.9,Car,12.9857,77.6058,Afternoon demand slightly reduced due to foggy conditions
+408,2025-05-16,19:15:00,South,Koramangala,93.6,75,Sunny,59,3.0,Car,12.9352,77.6245,Typical evening peak-hour commuter demand
+409,2025-05-17,08:15:00,North,Hebbal,76.0,66,Cloudy,71,1.8,Metro,13.0358,77.597,Typical morning peak-hour commuter demand
+410,2025-05-17,14:30:00,Central,Shivajinagar,60.8,51,Cloudy,77,1.5,Scooter,12.9857,77.6058,Normal afternoon demand under cloudy conditions
+411,2025-05-17,19:15:00,North,Hebbal,69.4,60,Windy,78,1.6,Scooter,13.0358,77.597,Evening demand slightly reduced due to windy conditions
+412,2025-05-18,08:15:00,West,Vijayanagar,67.8,58,Rainy,70,1.6,Car,12.9719,77.529,Morning travel demand increased due to rainy weather
+413,2025-05-18,14:30:00,East,Indiranagar,50.9,46,Windy,92,0.9,Car,12.9719,77.6412,Afternoon demand slightly reduced due to windy conditions
+414,2025-05-18,19:15:00,West,Nagarbhavi,72.6,60,Rainy,68,1.9,Metro,12.9587,77.5041,Evening travel demand increased due to rainy weather
+415,2025-05-19,08:15:00,South,HSR Layout,85.3,75,Sunny,56,2.4,Scooter,12.9121,77.6446,Typical morning peak-hour commuter demand
+416,2025-05-19,14:30:00,West,Rajajinagar,35.0,28,Sunny,97,0.7,Bike,12.9915,77.5525,Normal afternoon demand under sunny conditions
+417,2025-05-19,19:15:00,South,Koramangala,105.0,86,Cloudy,54,2.9,Bus,12.9352,77.6245,Typical evening peak-hour commuter demand
+418,2025-05-20,08:15:00,South,Jayanagar,89.9,74,Rainy,55,2.3,Scooter,12.9308,77.5838,Morning travel demand increased due to rainy weather
+419,2025-05-20,14:30:00,Central,Richmond Town,58.2,49,Sunny,86,1.2,Bus,12.9634,77.6041,Normal afternoon demand under sunny conditions
+420,2025-05-20,19:15:00,South,Jayanagar,86.5,79,Cloudy,69,2.3,Metro,12.9308,77.5838,Typical evening peak-hour commuter demand
+421,2025-05-21,08:15:00,South,HSR Layout,85.6,73,Sunny,72,1.8,Bus,12.9121,77.6446,Typical morning peak-hour commuter demand
+422,2025-05-21,14:30:00,North,Malleshwaram,36.2,34,Windy,94,0.7,Bus,13.0035,77.5709,Afternoon demand slightly reduced due to windy conditions
+423,2025-05-21,19:15:00,South,HSR Layout,102.9,96,Cloudy,61,2.7,Bike,12.9121,77.6446,Typical evening peak-hour commuter demand
+424,2025-05-22,08:15:00,North,Yelahanka,65.7,58,Foggy,73,1.8,Bike,13.1007,77.5963,Morning demand slightly reduced due to foggy conditions
+425,2025-05-22,14:30:00,East,Whitefield,46.9,42,Windy,91,0.9,Metro,12.9698,77.75,Afternoon demand slightly reduced due to windy conditions
+426,2025-05-22,19:15:00,North,Malleshwaram,78.1,60,Sunny,75,1.9,Metro,13.0035,77.5709,Typical evening peak-hour commuter demand
+427,2025-05-23,08:15:00,East,Whitefield,120.5,103,Rainy,31,6.3,Car,12.9698,77.75,Morning travel demand increased due to rainy weather
+428,2025-05-23,14:30:00,East,Indiranagar,58.8,56,Sunny,78,1.3,Bus,12.9719,77.6412,Normal afternoon demand under sunny conditions
+429,2025-05-23,19:15:00,West,Vijayanagar,78.3,74,Rainy,69,1.6,Bus,12.9719,77.529,Evening travel demand increased due to rainy weather
+430,2025-05-24,08:15:00,East,Marathahalli,106.8,87,Sunny,46,3.5,Bike,12.9591,77.6974,Typical morning peak-hour commuter demand
+431,2025-05-24,14:30:00,Central,MG Road,58.7,45,Windy,87,1.2,Scooter,12.9758,77.6045,Afternoon demand slightly reduced due to windy conditions
+432,2025-05-24,19:15:00,Central,MG Road,126.4,118,Cloudy,43,5.3,Bike,12.9758,77.6045,Typical evening peak-hour commuter demand
+433,2025-05-25,08:15:00,West,Rajajinagar,60.6,51,Foggy,84,1.4,Bus,12.9915,77.5525,Morning demand slightly reduced due to foggy conditions
+434,2025-05-25,14:30:00,West,Nagarbhavi,30.8,26,Sunny,98,0.6,Bus,12.9587,77.5041,Normal afternoon demand under sunny conditions
+435,2025-05-25,19:15:00,West,Nagarbhavi,61.7,47,Sunny,76,1.3,Metro,12.9587,77.5041,Typical evening peak-hour commuter demand
+436,2025-05-26,08:15:00,North,Hebbal,69.6,60,Sunny,78,1.3,Bus,13.0358,77.597,Typical morning peak-hour commuter demand
+437,2025-05-26,14:30:00,North,Yelahanka,37.3,34,Sunny,97,0.7,Car,13.1007,77.5963,Normal afternoon demand under sunny conditions
+438,2025-05-26,19:15:00,East,Marathahalli,245.0,228,Rainy,9,46.5,Metro,12.9591,77.6974,Heavy rain and peak travel with low vehicle availability
+439,2025-05-27,08:15:00,East,Indiranagar,107.0,83,Sunny,52,3.6,Car,12.9719,77.6412,Typical morning peak-hour commuter demand
+440,2025-05-27,14:30:00,East,Whitefield,54.3,46,Sunny,90,0.9,Bike,12.9698,77.75,Normal afternoon demand under sunny conditions
+441,2025-05-27,19:15:00,West,Rajajinagar,66.3,57,Sunny,84,1.2,Bike,12.9915,77.5525,Typical evening peak-hour commuter demand
+442,2025-05-28,08:15:00,East,Indiranagar,110.8,95,Cloudy,54,2.9,Car,12.9719,77.6412,Typical morning peak-hour commuter demand
+443,2025-05-28,14:30:00,East,Marathahalli,55.0,52,Sunny,83,1.2,Car,12.9591,77.6974,Normal afternoon demand under sunny conditions
+444,2025-05-28,19:15:00,Central,Shivajinagar,126.9,100,Sunny,34,6.2,Metro,12.9857,77.6058,Typical evening peak-hour commuter demand
+445,2025-05-29,08:15:00,South,Koramangala,97.3,80,Sunny,54,3.6,Bike,12.9352,77.6245,Typical morning peak-hour commuter demand
+446,2025-05-29,14:30:00,West,Rajajinagar,30.9,28,Foggy,102,0.5,Bus,12.9915,77.5525,Afternoon demand slightly reduced due to foggy conditions
+447,2025-05-29,19:15:00,Central,Shivajinagar,113.1,104,Sunny,57,3.6,Car,12.9857,77.6058,Typical evening peak-hour commuter demand
+448,2025-05-30,08:15:00,South,Koramangala,85.2,75,Sunny,72,2.1,Bus,12.9352,77.6245,Typical morning peak-hour commuter demand
+449,2025-05-30,14:30:00,South,Koramangala,48.6,42,Sunny,91,0.9,Car,12.9352,77.6245,Normal afternoon demand under sunny conditions
+450,2025-05-30,19:15:00,South,Jayanagar,101.1,82,Rainy,63,2.5,Bike,12.9308,77.5838,Evening travel demand increased due to rainy weather
+451,2025-05-31,08:15:00,Central,Richmond Town,121.6,95,Sunny,46,4.4,Scooter,12.9634,77.6041,Typical morning peak-hour commuter demand
+452,2025-05-31,14:30:00,West,Nagarbhavi,38.4,35,Rainy,98,0.7,Bike,12.9587,77.5041,Afternoon travel demand increased due to rainy weather
+453,2025-05-31,19:15:00,South,HSR Layout,98.2,77,Cloudy,66,2.3,Car,12.9121,77.6446,Typical evening peak-hour commuter demand
+454,2025-06-01,08:15:00,West,Rajajinagar,78.6,61,Rainy,67,1.8,Metro,12.9915,77.5525,Morning travel demand increased due to rainy weather
+455,2025-06-01,14:30:00,East,Marathahalli,59.1,46,Sunny,82,1.3,Bike,12.9591,77.6974,Normal afternoon demand under sunny conditions
+456,2025-06-01,19:15:00,East,Whitefield,99.7,91,Foggy,52,3.5,Bus,12.9698,77.75,Evening demand slightly reduced due to foggy conditions
+457,2025-06-02,08:15:00,North,Hebbal,81.2,62,Rainy,66,1.8,Scooter,13.0358,77.597,Morning travel demand increased due to rainy weather
+458,2025-06-02,14:30:00,West,Rajajinagar,33.5,26,Sunny,97,0.6,Car,12.9915,77.5525,Normal afternoon demand under sunny conditions
+459,2025-06-02,19:15:00,Central,Richmond Town,130.4,110,Cloudy,31,6.4,Car,12.9634,77.6041,Typical evening peak-hour commuter demand
+460,2025-06-03,08:15:00,East,Whitefield,107.5,93,Sunny,56,3.5,Bike,12.9698,77.75,Typical morning peak-hour commuter demand
+461,2025-06-03,14:30:00,East,Marathahalli,57.5,44,Cloudy,80,1.1,Car,12.9591,77.6974,Normal afternoon demand under cloudy conditions
+462,2025-06-03,19:15:00,North,Malleshwaram,98.7,80,Rainy,52,3.7,Bike,13.0035,77.5709,Evening travel demand increased due to rainy weather
+463,2025-06-04,08:15:00,South,Jayanagar,81.9,74,Sunny,67,2.1,Scooter,12.9308,77.5838,Typical morning peak-hour commuter demand
+464,2025-06-04,14:30:00,East,Whitefield,51.4,47,Sunny,86,1.0,Bus,12.9698,77.75,Normal afternoon demand under sunny conditions
+465,2025-06-04,19:15:00,East,Marathahalli,113.5,107,Sunny,42,4.8,Bike,12.9591,77.6974,Typical evening peak-hour commuter demand
+466,2025-06-05,08:15:00,Central,MG Road,117.5,97,Sunny,34,6.4,Metro,12.9758,77.6045,Typical morning peak-hour commuter demand
+467,2025-06-05,14:30:00,East,Marathahalli,53.5,47,Foggy,81,1.0,Car,12.9591,77.6974,Afternoon demand slightly reduced due to foggy conditions
+468,2025-06-05,19:15:00,North,Malleshwaram,85.3,77,Sunny,63,2.3,Bus,13.0035,77.5709,Typical evening peak-hour commuter demand
+469,2025-06-06,08:15:00,Central,Richmond Town,111.7,97,Sunny,49,3.5,Car,12.9634,77.6041,Typical morning peak-hour commuter demand
+470,2025-06-06,14:30:00,Central,Richmond Town,60.2,50,Sunny,85,1.3,Metro,12.9634,77.6041,Normal afternoon demand under sunny conditions
+471,2025-06-06,19:15:00,East,Whitefield,104.8,94,Foggy,44,4.6,Scooter,12.9698,77.75,Evening demand slightly reduced due to foggy conditions
+472,2025-06-07,08:15:00,Central,MG Road,134.7,108,Rainy,40,4.9,Bus,12.9758,77.6045,Morning travel demand increased due to rainy weather
+473,2025-06-07,14:30:00,East,Whitefield,59.7,47,Rainy,82,1.3,Car,12.9698,77.75,Afternoon travel demand increased due to rainy weather
+474,2025-06-07,19:15:00,North,Malleshwaram,84.4,78,Windy,57,2.5,Bike,13.0035,77.5709,Evening demand slightly reduced due to windy conditions
+475,2025-06-08,08:15:00,East,Indiranagar,104.6,82,Sunny,43,3.7,Car,12.9719,77.6412,Typical morning peak-hour commuter demand
+476,2025-06-08,14:30:00,Central,Shivajinagar,68.6,61,Rainy,78,1.6,Scooter,12.9857,77.6058,Afternoon travel demand increased due to rainy weather
+477,2025-06-08,19:15:00,Central,MG Road,117.4,105,Sunny,40,4.9,Bus,12.9758,77.6045,Typical evening peak-hour commuter demand
+478,2025-06-09,08:15:00,West,Nagarbhavi,61.2,49,Sunny,83,1.1,Scooter,12.9587,77.5041,Typical morning peak-hour commuter demand
+479,2025-06-09,14:30:00,West,Vijayanagar,32.2,25,Cloudy,99,0.5,Bus,12.9719,77.529,Normal afternoon demand under cloudy conditions
+480,2025-06-09,19:15:00,East,Whitefield,98.7,92,Foggy,64,2.2,Bus,12.9698,77.75,Evening demand slightly reduced due to foggy conditions
+481,2025-06-10,08:15:00,South,HSR Layout,80.1,72,Windy,70,1.8,Bike,12.9121,77.6446,Morning demand slightly reduced due to windy conditions
+482,2025-06-10,14:30:00,North,Malleshwaram,35.2,32,Foggy,96,0.7,Bus,13.0035,77.5709,Afternoon demand slightly reduced due to foggy conditions
+483,2025-06-10,19:15:00,Central,Richmond Town,113.4,99,Sunny,50,3.3,Scooter,12.9634,77.6041,Typical evening peak-hour commuter demand
+484,2025-06-11,08:15:00,West,Vijayanagar,57.6,44,Sunny,78,1.2,Car,12.9719,77.529,Typical morning peak-hour commuter demand
+485,2025-06-11,14:30:00,Central,Shivajinagar,60.4,53,Sunny,78,1.1,Scooter,12.9857,77.6058,Normal afternoon demand under sunny conditions
+486,2025-06-11,19:15:00,West,Nagarbhavi,64.3,61,Sunny,76,1.5,Car,12.9587,77.5041,Typical evening peak-hour commuter demand
+487,2025-06-12,08:15:00,South,HSR Layout,96.1,79,Sunny,67,2.4,Car,12.9121,77.6446,Typical morning peak-hour commuter demand
+488,2025-06-12,14:30:00,North,Yelahanka,37.9,30,Sunny,99,0.6,Bus,13.1007,77.5963,Normal afternoon demand under sunny conditions
+489,2025-06-12,19:15:00,Central,Richmond Town,119.2,94,Sunny,54,3.8,Bus,12.9634,77.6041,Typical evening peak-hour commuter demand
+490,2025-06-13,08:15:00,West,Vijayanagar,69.9,60,Rainy,80,1.3,Car,12.9719,77.529,Morning travel demand increased due to rainy weather
+491,2025-06-13,14:30:00,South,Jayanagar,42.9,38,Foggy,88,0.8,Bike,12.9308,77.5838,Afternoon demand slightly reduced due to foggy conditions
+492,2025-06-13,19:15:00,North,Malleshwaram,78.3,60,Sunny,71,2.0,Bus,13.0035,77.5709,Typical evening peak-hour commuter demand
+493,2025-06-14,08:15:00,West,Nagarbhavi,62.0,51,Sunny,86,1.1,Scooter,12.9587,77.5041,Typical morning peak-hour commuter demand
+494,2025-06-14,14:30:00,South,Jayanagar,45.9,41,Sunny,88,0.8,Bus,12.9308,77.5838,Normal afternoon demand under sunny conditions
+495,2025-06-14,19:15:00,West,Nagarbhavi,64.8,55,Sunny,79,1.2,Metro,12.9587,77.5041,Typical evening peak-hour commuter demand
+496,2025-06-15,08:15:00,North,Yelahanka,68.7,53,Sunny,69,1.6,Metro,13.1007,77.5963,Typical morning peak-hour commuter demand
+497,2025-06-15,14:30:00,North,Yelahanka,36.4,34,Windy,98,0.5,Metro,13.1007,77.5963,Afternoon demand slightly reduced due to windy conditions
+498,2025-06-15,19:15:00,East,Whitefield,114.0,106,Sunny,47,4.8,Metro,12.9698,77.75,Typical evening peak-hour commuter demand
+499,2025-06-16,08:15:00,South,Koramangala,88.1,80,Cloudy,70,2.0,Metro,12.9352,77.6245,Typical morning peak-hour commuter demand
+500,2025-06-16,14:30:00,East,Whitefield,50.0,44,Sunny,92,0.9,Scooter,12.9698,77.75,Normal afternoon demand under sunny conditions
+501,2025-06-16,19:15:00,Central,MG Road,127.7,120,Sunny,46,5.5,Bus,12.9758,77.6045,Typical evening peak-hour commuter demand
+502,2025-06-17,08:15:00,East,Indiranagar,129.7,116,Rainy,27,8.1,Metro,12.9719,77.6412,Morning travel demand increased due to rainy weather
+503,2025-06-17,14:30:00,Central,Richmond Town,62.5,47,Sunny,82,1.1,Scooter,12.9634,77.6041,Normal afternoon demand under sunny conditions
+504,2025-06-17,19:15:00,East,Whitefield,127.7,107,Rainy,47,4.5,Metro,12.9698,77.75,Evening travel demand increased due to rainy weather
+505,2025-06-18,08:15:00,North,Hebbal,77.1,65,Cloudy,63,2.3,Metro,13.0358,77.597,Typical morning peak-hour commuter demand
+506,2025-06-18,14:30:00,North,Yelahanka,36.9,35,Cloudy,97,0.6,Car,13.1007,77.5963,Normal afternoon demand under cloudy conditions
+507,2025-06-18,19:15:00,Central,Shivajinagar,110.4,83,Sunny,46,3.5,Car,12.9857,77.6058,Typical evening peak-hour commuter demand
+508,2025-06-19,08:15:00,North,Yelahanka,67.4,59,Foggy,79,1.2,Bus,13.1007,77.5963,Morning demand slightly reduced due to foggy conditions
+509,2025-06-19,14:30:00,West,Rajajinagar,32.4,24,Sunny,99,0.6,Bus,12.9915,77.5525,Normal afternoon demand under sunny conditions
+510,2025-06-19,19:15:00,Central,Shivajinagar,144.1,120,Rainy,16,15.4,Scooter,12.9857,77.6058,Evening travel demand increased due to rainy weather
+511,2025-06-20,08:15:00,Central,Shivajinagar,103.4,83,Sunny,56,3.0,Metro,12.9857,77.6058,Typical morning peak-hour commuter demand
+512,2025-06-20,14:30:00,West,Nagarbhavi,28.7,25,Windy,102,0.5,Bike,12.9587,77.5041,Afternoon demand slightly reduced due to windy conditions
+513,2025-06-20,19:15:00,Central,Richmond Town,133.4,121,Cloudy,31,8.0,Metro,12.9634,77.6041,Typical evening peak-hour commuter demand
+514,2025-06-21,08:15:00,Central,Shivajinagar,105.1,80,Sunny,55,3.2,Metro,12.9857,77.6058,Typical morning peak-hour commuter demand
+515,2025-06-21,14:30:00,South,Jayanagar,47.3,42,Cloudy,91,0.8,Bus,12.9308,77.5838,Normal afternoon demand under cloudy conditions
+516,2025-06-21,19:15:00,South,Jayanagar,90.6,74,Cloudy,58,2.8,Bike,12.9308,77.5838,Typical evening peak-hour commuter demand
+517,2025-06-22,08:15:00,East,Marathahalli,98.8,91,Windy,62,2.7,Metro,12.9591,77.6974,Morning demand slightly reduced due to windy conditions
+518,2025-06-22,14:30:00,South,Koramangala,50.6,43,Sunny,82,1.0,Car,12.9352,77.6245,Normal afternoon demand under sunny conditions
+519,2025-06-22,19:15:00,South,HSR Layout,96.7,86,Cloudy,56,3.4,Metro,12.9121,77.6446,Typical evening peak-hour commuter demand
+520,2025-06-23,08:15:00,West,Rajajinagar,60.3,54,Sunny,75,1.1,Bus,12.9915,77.5525,Typical morning peak-hour commuter demand
+521,2025-06-23,14:30:00,West,Vijayanagar,30.4,27,Sunny,99,0.5,Car,12.9719,77.529,Normal afternoon demand under sunny conditions
+522,2025-06-23,19:15:00,West,Rajajinagar,76.0,70,Cloudy,66,2.0,Scooter,12.9915,77.5525,Typical evening peak-hour commuter demand
+523,2025-06-24,08:15:00,West,Rajajinagar,65.7,51,Sunny,77,1.2,Scooter,12.9915,77.5525,Typical morning peak-hour commuter demand
+524,2025-06-24,14:30:00,South,HSR Layout,48.6,44,Sunny,93,1.0,Car,12.9121,77.6446,Normal afternoon demand under sunny conditions
+525,2025-06-24,19:15:00,South,HSR Layout,109.5,86,Rainy,48,3.3,Car,12.9121,77.6446,Evening travel demand increased due to rainy weather
+526,2025-06-25,08:15:00,East,Marathahalli,108.8,94,Foggy,48,4.5,Scooter,12.9591,77.6974,Morning demand slightly reduced due to foggy conditions
+527,2025-06-25,14:30:00,North,Malleshwaram,42.2,34,Cloudy,97,0.8,Scooter,13.0035,77.5709,Normal afternoon demand under cloudy conditions
+528,2025-06-25,19:15:00,Central,Shivajinagar,110.2,91,Sunny,40,4.4,Bus,12.9857,77.6058,Typical evening peak-hour commuter demand
+529,2025-06-26,08:15:00,North,Yelahanka,76.6,68,Sunny,69,1.6,Bike,13.1007,77.5963,Typical morning peak-hour commuter demand
+530,2025-06-26,14:30:00,North,Malleshwaram,39.7,37,Foggy,91,0.6,Bus,13.0035,77.5709,Afternoon demand slightly reduced due to foggy conditions
+531,2025-06-26,19:15:00,East,Indiranagar,123.1,99,Rainy,34,6.8,Bus,12.9719,77.6412,Evening travel demand increased due to rainy weather
+532,2025-06-27,08:15:00,South,Koramangala,88.2,83,Sunny,64,2.3,Metro,12.9352,77.6245,Typical morning peak-hour commuter demand
+533,2025-06-27,14:30:00,South,HSR Layout,49.5,45,Cloudy,84,1.2,Metro,12.9121,77.6446,Normal afternoon demand under cloudy conditions
+534,2025-06-27,19:15:00,South,Koramangala,104.7,96,Cloudy,51,3.7,Bus,12.9352,77.6245,Typical evening peak-hour commuter demand
+535,2025-06-28,08:15:00,East,Indiranagar,120.1,102,Rainy,40,4.2,Car,12.9719,77.6412,Morning travel demand increased due to rainy weather
+536,2025-06-28,14:30:00,North,Yelahanka,41.2,38,Rainy,91,0.8,Metro,13.1007,77.5963,Afternoon travel demand increased due to rainy weather
+537,2025-06-28,19:15:00,South,Koramangala,102.5,77,Cloudy,50,3.8,Metro,12.9352,77.6245,Typical evening peak-hour commuter demand
+538,2025-06-29,08:15:00,West,Vijayanagar,68.5,61,Cloudy,79,1.7,Bus,12.9719,77.529,Typical morning peak-hour commuter demand
+539,2025-06-29,14:30:00,Central,Shivajinagar,57.6,52,Foggy,81,1.1,Metro,12.9857,77.6058,Afternoon demand slightly reduced due to foggy conditions
+540,2025-06-29,19:15:00,West,Nagarbhavi,73.4,68,Rainy,78,1.5,Metro,12.9587,77.5041,Evening travel demand increased due to rainy weather
+541,2025-06-30,08:15:00,West,Nagarbhavi,56.6,52,Sunny,83,1.0,Bike,12.9587,77.5041,Typical morning peak-hour commuter demand
+542,2025-06-30,14:30:00,South,Koramangala,47.3,42,Cloudy,86,0.8,Bus,12.9352,77.6245,Normal afternoon demand under cloudy conditions
+543,2025-06-30,19:15:00,West,Vijayanagar,70.1,60,Sunny,69,1.6,Scooter,12.9719,77.529,Typical evening peak-hour commuter demand
+544,2025-07-01,08:15:00,Central,Richmond Town,122.4,116,Cloudy,50,4.7,Car,12.9634,77.6041,Typical morning peak-hour commuter demand
+545,2025-07-01,14:30:00,North,Hebbal,38.7,31,Sunny,92,0.7,Car,13.0358,77.597,Normal afternoon demand under sunny conditions
+546,2025-07-01,19:15:00,South,Jayanagar,102.9,92,Rainy,53,3.8,Scooter,12.9308,77.5838,Evening travel demand increased due to rainy weather
+547,2025-07-02,08:15:00,East,Whitefield,103.5,88,Windy,46,3.6,Bus,12.9698,77.75,Morning demand slightly reduced due to windy conditions
+548,2025-07-02,14:30:00,West,Nagarbhavi,30.4,26,Sunny,101,0.5,Car,12.9587,77.5041,Normal afternoon demand under sunny conditions
+549,2025-07-02,19:15:00,South,Koramangala,103.6,94,Rainy,47,3.6,Bus,12.9352,77.6245,Evening travel demand increased due to rainy weather
+550,2025-07-03,08:15:00,East,Indiranagar,105.8,88,Foggy,52,3.8,Scooter,12.9719,77.6412,Morning demand slightly reduced due to foggy conditions
+551,2025-07-03,14:30:00,South,Koramangala,50.0,38,Sunny,92,1.1,Car,12.9352,77.6245,Normal afternoon demand under sunny conditions
+552,2025-07-03,19:15:00,West,Vijayanagar,67.3,56,Windy,79,1.3,Metro,12.9719,77.529,Evening demand slightly reduced due to windy conditions
+553,2025-07-04,08:15:00,West,Nagarbhavi,50.9,40,Foggy,90,0.9,Scooter,12.9587,77.5041,Morning demand slightly reduced due to foggy conditions
+554,2025-07-04,14:30:00,East,Indiranagar,64.2,56,Rainy,73,1.5,Bus,12.9719,77.6412,Afternoon travel demand increased due to rainy weather
+555,2025-07-04,19:15:00,South,Koramangala,94.0,89,Sunny,57,2.6,Metro,12.9352,77.6245,Typical evening peak-hour commuter demand
+556,2025-07-05,08:15:00,East,Marathahalli,110.1,95,Windy,40,5.0,Bus,12.9591,77.6974,Morning demand slightly reduced due to windy conditions
+557,2025-07-05,14:30:00,Central,Richmond Town,65.8,57,Sunny,78,1.5,Bike,12.9634,77.6041,Normal afternoon demand under sunny conditions
+558,2025-07-05,19:15:00,Central,Richmond Town,112.7,103,Windy,46,3.8,Bike,12.9634,77.6041,Evening demand slightly reduced due to windy conditions
+559,2025-07-06,08:15:00,Central,Shivajinagar,104.4,94,Sunny,55,3.1,Scooter,12.9857,77.6058,Typical morning peak-hour commuter demand
+560,2025-07-06,14:30:00,West,Vijayanagar,30.0,24,Windy,102,0.5,Scooter,12.9719,77.529,Afternoon demand slightly reduced due to windy conditions
+561,2025-07-06,19:15:00,West,Rajajinagar,67.3,62,Sunny,82,1.3,Car,12.9915,77.5525,Typical evening peak-hour commuter demand
+562,2025-07-07,08:15:00,Central,Shivajinagar,109.9,88,Windy,50,3.4,Bike,12.9857,77.6058,Morning demand slightly reduced due to windy conditions
+563,2025-07-07,14:30:00,West,Nagarbhavi,32.3,28,Cloudy,100,0.5,Bus,12.9587,77.5041,Normal afternoon demand under cloudy conditions
+564,2025-07-07,19:15:00,East,Marathahalli,110.6,96,Windy,53,3.0,Bus,12.9591,77.6974,Evening demand slightly reduced due to windy conditions
+565,2025-07-08,08:15:00,Central,MG Road,121.8,96,Cloudy,51,3.8,Car,12.9758,77.6045,Typical morning peak-hour commuter demand
+566,2025-07-08,14:30:00,Central,Richmond Town,69.1,52,Rainy,74,1.4,Metro,12.9634,77.6041,Afternoon travel demand increased due to rainy weather
+567,2025-07-08,19:15:00,East,Indiranagar,118.5,90,Cloudy,54,3.6,Car,12.9719,77.6412,Typical evening peak-hour commuter demand
+568,2025-07-09,08:15:00,North,Malleshwaram,80.2,71,Sunny,75,1.6,Scooter,13.0035,77.5709,Typical morning peak-hour commuter demand
+569,2025-07-09,14:30:00,East,Indiranagar,62.6,58,Cloudy,76,1.6,Bus,12.9719,77.6412,Normal afternoon demand under cloudy conditions
+570,2025-07-09,19:15:00,North,Yelahanka,77.7,70,Windy,65,2.3,Metro,13.1007,77.5963,Evening demand slightly reduced due to windy conditions
+571,2025-07-10,08:15:00,Central,Richmond Town,130.0,109,Cloudy,27,9.1,Car,12.9634,77.6041,Typical morning peak-hour commuter demand
+572,2025-07-10,14:30:00,North,Hebbal,40.0,36,Sunny,90,0.9,Bus,13.0358,77.597,Normal afternoon demand under sunny conditions
+573,2025-07-10,19:15:00,North,Hebbal,84.6,68,Sunny,61,2.6,Metro,13.0358,77.597,Typical evening peak-hour commuter demand
+574,2025-07-11,08:15:00,South,Jayanagar,80.1,74,Sunny,68,1.7,Bus,12.9308,77.5838,Typical morning peak-hour commuter demand
+575,2025-07-11,14:30:00,East,Indiranagar,53.0,42,Windy,90,1.0,Metro,12.9719,77.6412,Afternoon demand slightly reduced due to windy conditions
+576,2025-07-11,19:15:00,East,Indiranagar,133.5,109,Rainy,40,5.2,Car,12.9719,77.6412,Evening travel demand increased due to rainy weather
+577,2025-07-12,08:15:00,East,Indiranagar,98.4,76,Foggy,61,2.3,Bus,12.9719,77.6412,Morning demand slightly reduced due to foggy conditions
+578,2025-07-12,14:30:00,Central,Richmond Town,62.8,55,Cloudy,78,1.6,Car,12.9634,77.6041,Normal afternoon demand under cloudy conditions
+579,2025-07-12,19:15:00,South,Koramangala,96.4,82,Windy,53,2.6,Bus,12.9352,77.6245,Evening demand slightly reduced due to windy conditions
+580,2025-07-13,08:15:00,North,Yelahanka,62.9,58,Foggy,74,1.3,Metro,13.1007,77.5963,Morning demand slightly reduced due to foggy conditions
+581,2025-07-13,14:30:00,North,Yelahanka,33.1,27,Foggy,97,0.5,Scooter,13.1007,77.5963,Afternoon demand slightly reduced due to foggy conditions
+582,2025-07-13,19:15:00,West,Rajajinagar,64.6,56,Sunny,76,1.5,Bus,12.9915,77.5525,Typical evening peak-hour commuter demand
+583,2025-07-14,08:15:00,North,Hebbal,68.4,54,Sunny,78,1.3,Bike,13.0358,77.597,Typical morning peak-hour commuter demand
+584,2025-07-14,14:30:00,South,Koramangala,49.1,43,Sunny,84,1.1,Metro,12.9352,77.6245,Normal afternoon demand under sunny conditions
+585,2025-07-14,19:15:00,West,Vijayanagar,64.7,54,Cloudy,79,1.4,Scooter,12.9719,77.529,Typical evening peak-hour commuter demand
+586,2025-07-15,08:15:00,Central,Richmond Town,142.4,129,Rainy,24,10.2,Bike,12.9634,77.6041,Morning travel demand increased due to rainy weather
+587,2025-07-15,14:30:00,South,Jayanagar,44.7,36,Cloudy,87,0.9,Metro,12.9308,77.5838,Normal afternoon demand under cloudy conditions
+588,2025-07-15,19:15:00,North,Yelahanka,88.2,74,Rainy,66,2.2,Bus,13.1007,77.5963,Evening travel demand increased due to rainy weather
+589,2025-07-16,08:15:00,West,Nagarbhavi,66.9,59,Rainy,75,1.6,Bus,12.9587,77.5041,Morning travel demand increased due to rainy weather
+590,2025-07-16,14:30:00,Central,MG Road,56.1,50,Foggy,81,1.1,Scooter,12.9758,77.6045,Afternoon demand slightly reduced due to foggy conditions
+591,2025-07-16,19:15:00,South,HSR Layout,95.3,79,Sunny,56,2.6,Bus,12.9121,77.6446,Typical evening peak-hour commuter demand
+592,2025-07-17,08:15:00,South,Koramangala,99.2,76,Cloudy,56,2.5,Bus,12.9352,77.6245,Typical morning peak-hour commuter demand
+593,2025-07-17,14:30:00,Central,MG Road,54.5,47,Foggy,87,1.1,Metro,12.9758,77.6045,Afternoon demand slightly reduced due to foggy conditions
+594,2025-07-17,19:15:00,East,Marathahalli,114.5,88,Sunny,54,4.2,Metro,12.9591,77.6974,Typical evening peak-hour commuter demand
+595,2025-07-18,08:15:00,East,Indiranagar,93.6,78,Foggy,55,3.3,Bus,12.9719,77.6412,Morning demand slightly reduced due to foggy conditions
+596,2025-07-18,14:30:00,Central,MG Road,68.9,52,Cloudy,69,1.9,Car,12.9758,77.6045,Normal afternoon demand under cloudy conditions
+597,2025-07-18,19:15:00,South,Koramangala,99.7,85,Sunny,55,3.5,Bus,12.9352,77.6245,Typical evening peak-hour commuter demand
+598,2025-07-19,08:15:00,East,Indiranagar,108.5,84,Sunny,56,2.9,Bus,12.9719,77.6412,Typical morning peak-hour commuter demand
+599,2025-07-19,14:30:00,North,Malleshwaram,42.8,38,Cloudy,89,0.9,Metro,13.0035,77.5709,Normal afternoon demand under cloudy conditions
+600,2025-07-19,19:15:00,North,Yelahanka,74.1,63,Windy,66,1.8,Metro,13.1007,77.5963,Evening demand slightly reduced due to windy conditions
+601,2025-07-20,08:15:00,Central,Richmond Town,124.4,110,Cloudy,41,4.6,Car,12.9634,77.6041,Typical morning peak-hour commuter demand
+602,2025-07-20,14:30:00,East,Whitefield,57.9,46,Sunny,82,1.2,Car,12.9698,77.75,Normal afternoon demand under sunny conditions
+603,2025-07-20,19:15:00,Central,Shivajinagar,110.9,96,Foggy,48,3.3,Metro,12.9857,77.6058,Evening demand slightly reduced due to foggy conditions
+604,2025-07-21,08:15:00,Central,Richmond Town,114.7,101,Sunny,46,3.6,Bike,12.9634,77.6041,Typical morning peak-hour commuter demand
+605,2025-07-21,14:30:00,West,Rajajinagar,34.4,27,Sunny,95,0.6,Bike,12.9915,77.5525,Normal afternoon demand under sunny conditions
+606,2025-07-21,19:15:00,Central,Richmond Town,114.8,96,Windy,35,6.4,Bus,12.9634,77.6041,Evening demand slightly reduced due to windy conditions
+607,2025-07-22,08:15:00,Central,Shivajinagar,128.0,120,Cloudy,47,4.5,Scooter,12.9857,77.6058,Typical morning peak-hour commuter demand
+608,2025-07-22,14:30:00,Central,Shivajinagar,61.0,49,Sunny,82,1.1,Metro,12.9857,77.6058,Normal afternoon demand under sunny conditions
+609,2025-07-22,19:15:00,North,Hebbal,78.1,73,Cloudy,75,1.8,Scooter,13.0358,77.597,Typical evening peak-hour commuter demand
+610,2025-07-23,08:15:00,Central,Richmond Town,112.1,85,Sunny,55,3.5,Bus,12.9634,77.6041,Typical morning peak-hour commuter demand
+611,2025-07-23,14:30:00,East,Marathahalli,63.1,50,Cloudy,81,1.1,Scooter,12.9591,77.6974,Normal afternoon demand under cloudy conditions
+612,2025-07-23,19:15:00,Central,Shivajinagar,135.9,129,Cloudy,19,11.8,Bike,12.9857,77.6058,Typical evening peak-hour commuter demand
+613,2025-07-24,08:15:00,West,Vijayanagar,57.8,44,Sunny,83,1.1,Scooter,12.9719,77.529,Typical morning peak-hour commuter demand
+614,2025-07-24,14:30:00,East,Whitefield,61.0,56,Rainy,84,1.3,Scooter,12.9698,77.75,Afternoon travel demand increased due to rainy weather
+615,2025-07-24,19:15:00,Central,MG Road,117.3,102,Sunny,49,3.6,Car,12.9758,77.6045,Typical evening peak-hour commuter demand
+616,2025-07-25,08:15:00,South,HSR Layout,93.0,80,Sunny,64,2.4,Bike,12.9121,77.6446,Typical morning peak-hour commuter demand
+617,2025-07-25,14:30:00,East,Whitefield,51.6,42,Sunny,82,1.2,Car,12.9698,77.75,Normal afternoon demand under sunny conditions
+618,2025-07-25,19:15:00,North,Yelahanka,92.1,78,Rainy,53,3.0,Metro,13.1007,77.5963,Evening travel demand increased due to rainy weather
+619,2025-07-26,08:15:00,North,Malleshwaram,78.7,65,Cloudy,72,2.1,Metro,13.0035,77.5709,Typical morning peak-hour commuter demand
+620,2025-07-26,14:30:00,North,Hebbal,36.6,33,Windy,99,0.7,Metro,13.0358,77.597,Afternoon demand slightly reduced due to windy conditions
+621,2025-07-26,19:15:00,South,HSR Layout,94.0,77,Sunny,55,3.4,Bus,12.9121,77.6446,Typical evening peak-hour commuter demand
+622,2025-07-27,08:15:00,East,Indiranagar,115.1,105,Cloudy,37,4.9,Car,12.9719,77.6412,Typical morning peak-hour commuter demand
+623,2025-07-27,14:30:00,Central,Shivajinagar,60.5,54,Windy,85,1.2,Bike,12.9857,77.6058,Afternoon demand slightly reduced due to windy conditions
+624,2025-07-27,19:15:00,East,Marathahalli,133.8,119,Rainy,22,9.2,Metro,12.9591,77.6974,Evening travel demand increased due to rainy weather
+625,2025-07-28,08:15:00,South,Koramangala,91.4,69,Cloudy,62,2.6,Bus,12.9352,77.6245,Typical morning peak-hour commuter demand
+626,2025-07-28,14:30:00,North,Hebbal,38.6,32,Sunny,97,0.7,Scooter,13.0358,77.597,Normal afternoon demand under sunny conditions
+627,2025-07-28,19:15:00,South,HSR Layout,90.5,79,Foggy,69,2.0,Bike,12.9121,77.6446,Evening demand slightly reduced due to foggy conditions
+628,2025-07-29,08:15:00,South,Jayanagar,102.8,81,Rainy,59,2.8,Bus,12.9308,77.5838,Morning travel demand increased due to rainy weather
+629,2025-07-29,14:30:00,Central,Richmond Town,75.5,61,Rainy,69,1.9,Scooter,12.9634,77.6041,Afternoon travel demand increased due to rainy weather
+630,2025-07-29,19:15:00,North,Hebbal,68.0,61,Foggy,73,1.8,Metro,13.0358,77.597,Evening demand slightly reduced due to foggy conditions
+631,2025-07-30,08:15:00,East,Whitefield,103.0,88,Windy,48,3.3,Bus,12.9698,77.75,Morning demand slightly reduced due to windy conditions
+632,2025-07-30,14:30:00,East,Whitefield,6.0,5,Sunny,118,0.5,Car,12.9698,77.75,Unusually low travel demand during a low-demand period
+633,2025-07-30,19:15:00,South,Koramangala,84.7,72,Foggy,65,2.4,Car,12.9352,77.6245,Evening demand slightly reduced due to foggy conditions
+634,2025-07-31,08:15:00,East,Marathahalli,133.5,112,Rainy,33,6.9,Bike,12.9591,77.6974,Morning travel demand increased due to rainy weather
+635,2025-07-31,14:30:00,Central,Shivajinagar,58.2,53,Windy,83,1.2,Bike,12.9857,77.6058,Afternoon demand slightly reduced due to windy conditions
+636,2025-07-31,19:15:00,South,HSR Layout,97.4,78,Sunny,66,2.7,Metro,12.9121,77.6446,Typical evening peak-hour commuter demand
+637,2025-08-01,08:15:00,Central,Shivajinagar,114.1,96,Sunny,46,4.3,Bike,12.9857,77.6058,Typical morning peak-hour commuter demand
+638,2025-08-01,14:30:00,South,Koramangala,41.2,35,Foggy,96,0.7,Scooter,12.9352,77.6245,Afternoon demand slightly reduced due to foggy conditions
+639,2025-08-01,19:15:00,South,HSR Layout,100.0,80,Sunny,65,2.5,Metro,12.9121,77.6446,Typical evening peak-hour commuter demand
+640,2025-08-02,08:15:00,West,Vijayanagar,70.8,63,Cloudy,67,1.7,Bus,12.9719,77.529,Typical morning peak-hour commuter demand
+641,2025-08-02,14:30:00,Central,Shivajinagar,73.5,65,Rainy,66,2.0,Bike,12.9857,77.6058,Afternoon travel demand increased due to rainy weather
+642,2025-08-02,19:15:00,South,Jayanagar,103.4,97,Rainy,46,3.3,Bike,12.9308,77.5838,Evening travel demand increased due to rainy weather
+643,2025-08-03,08:15:00,Central,Richmond Town,115.7,104,Cloudy,44,5.0,Scooter,12.9634,77.6041,Typical morning peak-hour commuter demand
+644,2025-08-03,14:30:00,Central,Shivajinagar,58.5,54,Cloudy,86,1.0,Scooter,12.9857,77.6058,Normal afternoon demand under cloudy conditions
+645,2025-08-03,19:15:00,Central,Shivajinagar,122.6,110,Sunny,34,5.5,Bike,12.9857,77.6058,Typical evening peak-hour commuter demand
+646,2025-08-04,08:15:00,West,Vijayanagar,62.9,56,Cloudy,81,1.3,Bike,12.9719,77.529,Typical morning peak-hour commuter demand
+647,2025-08-04,14:30:00,South,Jayanagar,45.7,35,Sunny,86,1.0,Scooter,12.9308,77.5838,Normal afternoon demand under sunny conditions
+648,2025-08-04,19:15:00,South,Jayanagar,87.8,69,Sunny,68,2.5,Bus,12.9308,77.5838,Typical evening peak-hour commuter demand
+649,2025-08-05,08:15:00,West,Rajajinagar,65.5,62,Cloudy,84,1.4,Bus,12.9915,77.5525,Typical morning peak-hour commuter demand
+650,2025-08-05,14:30:00,Central,Richmond Town,58.6,48,Sunny,78,1.3,Bus,12.9634,77.6041,Normal afternoon demand under sunny conditions
+651,2025-08-05,19:15:00,North,Hebbal,75.0,64,Windy,68,1.7,Car,13.0358,77.597,Evening demand slightly reduced due to windy conditions
+652,2025-08-06,08:15:00,North,Malleshwaram,76.1,69,Sunny,73,1.6,Scooter,13.0035,77.5709,Typical morning peak-hour commuter demand
+653,2025-08-06,14:30:00,South,Koramangala,42.6,32,Windy,93,0.9,Scooter,12.9352,77.6245,Afternoon demand slightly reduced due to windy conditions
+654,2025-08-06,19:15:00,South,HSR Layout,95.8,77,Foggy,52,3.3,Metro,12.9121,77.6446,Evening demand slightly reduced due to foggy conditions
+655,2025-08-07,08:15:00,East,Whitefield,103.6,93,Windy,42,4.2,Bus,12.9698,77.75,Morning demand slightly reduced due to windy conditions
+656,2025-08-07,14:30:00,South,Koramangala,43.7,33,Windy,92,0.9,Scooter,12.9352,77.6245,Afternoon demand slightly reduced due to windy conditions
+657,2025-08-07,19:15:00,South,Jayanagar,88.2,77,Sunny,69,2.5,Bike,12.9308,77.5838,Typical evening peak-hour commuter demand
+658,2025-08-08,08:15:00,North,Yelahanka,64.8,62,Foggy,76,1.2,Bike,13.1007,77.5963,Morning demand slightly reduced due to foggy conditions
+659,2025-08-08,14:30:00,Central,Richmond Town,68.2,57,Cloudy,76,1.6,Metro,12.9634,77.6041,Normal afternoon demand under cloudy conditions
+660,2025-08-08,19:15:00,Central,Shivajinagar,138.1,123,Rainy,17,13.1,Bike,12.9857,77.6058,Evening travel demand increased due to rainy weather
+661,2025-08-09,08:15:00,East,Indiranagar,113.6,107,Cloudy,43,4.5,Bus,12.9719,77.6412,Typical morning peak-hour commuter demand
+662,2025-08-09,14:30:00,Central,Shivajinagar,62.5,47,Sunny,78,1.6,Bus,12.9857,77.6058,Normal afternoon demand under sunny conditions
+663,2025-08-09,19:15:00,Central,MG Road,131.1,113,Sunny,32,5.9,Scooter,12.9758,77.6045,Typical evening peak-hour commuter demand
+664,2025-08-10,08:15:00,West,Vijayanagar,61.5,55,Cloudy,76,1.6,Bike,12.9719,77.529,Typical morning peak-hour commuter demand
+665,2025-08-10,14:30:00,North,Hebbal,38.9,36,Sunny,98,0.6,Bike,13.0358,77.597,Normal afternoon demand under sunny conditions
+666,2025-08-10,19:15:00,West,Nagarbhavi,71.1,55,Cloudy,79,1.6,Scooter,12.9587,77.5041,Typical evening peak-hour commuter demand
+667,2025-08-11,08:15:00,South,Jayanagar,81.7,76,Foggy,67,2.3,Scooter,12.9308,77.5838,Morning demand slightly reduced due to foggy conditions
+668,2025-08-11,14:30:00,North,Yelahanka,39.6,30,Sunny,91,0.8,Car,13.1007,77.5963,Normal afternoon demand under sunny conditions
+669,2025-08-11,19:15:00,South,HSR Layout,107.1,85,Cloudy,50,3.8,Car,12.9121,77.6446,Typical evening peak-hour commuter demand
+670,2025-08-12,08:15:00,East,Whitefield,112.6,95,Rainy,45,3.7,Metro,12.9698,77.75,Morning travel demand increased due to rainy weather
+671,2025-08-12,14:30:00,Central,MG Road,61.6,48,Sunny,79,1.2,Bus,12.9758,77.6045,Normal afternoon demand under sunny conditions
+672,2025-08-12,19:15:00,East,Whitefield,117.8,89,Sunny,43,4.4,Scooter,12.9698,77.75,Typical evening peak-hour commuter demand
+673,2025-08-13,08:15:00,East,Indiranagar,112.5,91,Windy,55,3.7,Bus,12.9719,77.6412,Morning demand slightly reduced due to windy conditions
+674,2025-08-13,14:30:00,South,HSR Layout,50.4,43,Sunny,86,0.9,Metro,12.9121,77.6446,Normal afternoon demand under sunny conditions
+675,2025-08-13,19:15:00,North,Hebbal,86.3,78,Rainy,59,2.7,Bike,13.0358,77.597,Evening travel demand increased due to rainy weather
+676,2025-08-14,08:15:00,Central,Richmond Town,117.9,102,Sunny,33,5.8,Car,12.9634,77.6041,Typical morning peak-hour commuter demand
+677,2025-08-14,14:30:00,North,Malleshwaram,38.9,35,Sunny,97,0.6,Bus,13.0035,77.5709,Normal afternoon demand under sunny conditions
+678,2025-08-14,19:15:00,Central,Richmond Town,121.8,91,Cloudy,41,4.7,Scooter,12.9634,77.6041,Typical evening peak-hour commuter demand
+679,2025-08-15,08:15:00,South,HSR Layout,94.0,78,Sunny,65,2.1,Scooter,12.9121,77.6446,Typical morning peak-hour commuter demand
+680,2025-08-15,14:30:00,North,Hebbal,38.0,35,Sunny,93,0.7,Bus,13.0358,77.597,Normal afternoon demand under sunny conditions
+681,2025-08-15,19:15:00,Central,MG Road,113.6,92,Windy,51,3.2,Scooter,12.9758,77.6045,Evening demand slightly reduced due to windy conditions
+682,2025-08-16,08:15:00,South,Jayanagar,86.3,67,Windy,65,2.2,Metro,12.9308,77.5838,Morning demand slightly reduced due to windy conditions
+683,2025-08-16,14:30:00,East,Whitefield,57.6,54,Sunny,81,1.3,Metro,12.9698,77.75,Normal afternoon demand under sunny conditions
+684,2025-08-16,19:15:00,South,Jayanagar,85.4,74,Sunny,72,2.2,Metro,12.9308,77.5838,Typical evening peak-hour commuter demand
+685,2025-08-17,08:15:00,North,Hebbal,80.5,63,Sunny,73,1.7,Bus,13.0358,77.597,Typical morning peak-hour commuter demand
+686,2025-08-17,14:30:00,South,Koramangala,42.6,40,Foggy,94,0.8,Bike,12.9352,77.6245,Afternoon demand slightly reduced due to foggy conditions
+687,2025-08-17,19:15:00,West,Nagarbhavi,74.7,60,Rainy,67,2.2,Metro,12.9587,77.5041,Evening travel demand increased due to rainy weather
+688,2025-08-18,08:15:00,South,HSR Layout,111.5,89,Rainy,39,4.5,Bus,12.9121,77.6446,Morning travel demand increased due to rainy weather
+689,2025-08-18,14:30:00,Central,Richmond Town,62.4,53,Sunny,75,1.7,Bike,12.9634,77.6041,Normal afternoon demand under sunny conditions
+690,2025-08-18,19:15:00,Central,Shivajinagar,118.2,100,Sunny,43,5.3,Bus,12.9857,77.6058,Typical evening peak-hour commuter demand
+691,2025-08-19,08:15:00,South,Koramangala,98.9,83,Cloudy,63,2.6,Metro,12.9352,77.6245,Typical morning peak-hour commuter demand
+692,2025-08-19,14:30:00,Central,MG Road,64.1,52,Sunny,77,1.4,Car,12.9758,77.6045,Normal afternoon demand under sunny conditions
+693,2025-08-19,19:15:00,West,Nagarbhavi,62.6,52,Sunny,82,1.4,Scooter,12.9587,77.5041,Typical evening peak-hour commuter demand
+694,2025-08-20,08:15:00,Central,Shivajinagar,112.5,102,Sunny,39,5.3,Metro,12.9857,77.6058,Typical morning peak-hour commuter demand
+695,2025-08-20,14:30:00,Central,MG Road,67.8,58,Rainy,72,1.5,Bus,12.9758,77.6045,Afternoon travel demand increased due to rainy weather
+696,2025-08-20,19:15:00,North,Yelahanka,82.6,63,Cloudy,64,2.5,Bike,13.1007,77.5963,Typical evening peak-hour commuter demand
+697,2025-08-21,08:15:00,Central,Shivajinagar,105.5,100,Sunny,52,3.3,Scooter,12.9857,77.6058,Typical morning peak-hour commuter demand
+698,2025-08-21,14:30:00,East,Marathahalli,52.9,47,Foggy,88,0.9,Bus,12.9591,77.6974,Afternoon demand slightly reduced due to foggy conditions
+699,2025-08-21,19:15:00,East,Indiranagar,130.5,117,Rainy,28,8.6,Bike,12.9719,77.6412,Evening travel demand increased due to rainy weather
+700,2025-08-22,08:15:00,Central,MG Road,146.2,117,Rainy,32,8.6,Bike,12.9758,77.6045,Morning travel demand increased due to rainy weather
+701,2025-08-22,14:30:00,South,Jayanagar,47.6,41,Rainy,88,0.9,Car,12.9308,77.5838,Afternoon travel demand increased due to rainy weather
+702,2025-08-22,19:15:00,North,Hebbal,77.9,72,Sunny,74,2.0,Bike,13.0358,77.597,Typical evening peak-hour commuter demand
+703,2025-08-23,08:15:00,West,Vijayanagar,65.0,59,Sunny,73,1.8,Bus,12.9719,77.529,Typical morning peak-hour commuter demand
+704,2025-08-23,14:30:00,South,HSR Layout,55.9,52,Rainy,82,1.3,Scooter,12.9121,77.6446,Afternoon travel demand increased due to rainy weather
+705,2025-08-23,19:15:00,West,Rajajinagar,75.8,60,Rainy,63,2.0,Scooter,12.9915,77.5525,Evening travel demand increased due to rainy weather
+706,2025-08-24,08:15:00,South,HSR Layout,91.3,80,Sunny,53,3.4,Bus,12.9121,77.6446,Typical morning peak-hour commuter demand
+707,2025-08-24,14:30:00,East,Marathahalli,63.4,50,Sunny,84,1.5,Car,12.9591,77.6974,Normal afternoon demand under sunny conditions
+708,2025-08-24,19:15:00,North,Yelahanka,81.0,68,Sunny,70,1.8,Bike,13.1007,77.5963,Typical evening peak-hour commuter demand
+709,2025-08-25,08:15:00,South,HSR Layout,97.7,77,Cloudy,48,3.6,Car,12.9121,77.6446,Typical morning peak-hour commuter demand
+710,2025-08-25,14:30:00,South,Jayanagar,45.6,42,Sunny,92,0.8,Scooter,12.9308,77.5838,Normal afternoon demand under sunny conditions
+711,2025-08-25,19:15:00,East,Marathahalli,124.2,100,Cloudy,36,4.9,Scooter,12.9591,77.6974,Typical evening peak-hour commuter demand
+712,2025-08-26,08:15:00,East,Whitefield,114.2,91,Rainy,53,3.0,Metro,12.9698,77.75,Morning travel demand increased due to rainy weather
+713,2025-08-26,14:30:00,South,Koramangala,52.3,49,Sunny,89,0.9,Metro,12.9352,77.6245,Normal afternoon demand under sunny conditions
+714,2025-08-26,19:15:00,Central,MG Road,124.8,97,Windy,48,4.3,Car,12.9758,77.6045,Evening demand slightly reduced due to windy conditions
+715,2025-08-27,08:15:00,South,Koramangala,93.8,73,Sunny,56,3.3,Metro,12.9352,77.6245,Typical morning peak-hour commuter demand
+716,2025-08-27,14:30:00,West,Rajajinagar,34.6,29,Sunny,95,0.6,Car,12.9915,77.5525,Normal afternoon demand under sunny conditions
+717,2025-08-27,19:15:00,North,Yelahanka,76.4,58,Sunny,74,1.9,Bike,13.1007,77.5963,Typical evening peak-hour commuter demand
+718,2025-08-28,08:15:00,East,Whitefield,98.7,76,Sunny,48,4.0,Bike,12.9698,77.75,Typical morning peak-hour commuter demand
+719,2025-08-28,14:30:00,East,Marathahalli,74.5,61,Rainy,75,1.7,Car,12.9591,77.6974,Afternoon travel demand increased due to rainy weather
+720,2025-08-28,19:15:00,North,Malleshwaram,97.8,78,Rainy,52,3.6,Metro,13.0035,77.5709,Evening travel demand increased due to rainy weather
+721,2025-08-29,08:15:00,East,Marathahalli,120.1,103,Cloudy,35,6.8,Metro,12.9591,77.6974,Typical morning peak-hour commuter demand
+722,2025-08-29,14:30:00,North,Yelahanka,38.1,30,Sunny,97,0.6,Metro,13.1007,77.5963,Normal afternoon demand under sunny conditions
+723,2025-08-29,19:15:00,South,Koramangala,103.0,82,Sunny,51,3.9,Metro,12.9352,77.6245,Typical evening peak-hour commuter demand
+724,2025-08-30,08:15:00,Central,Richmond Town,116.1,101,Sunny,44,3.9,Metro,12.9634,77.6041,Typical morning peak-hour commuter demand
+725,2025-08-30,14:30:00,Central,Richmond Town,63.4,48,Sunny,81,1.5,Scooter,12.9634,77.6041,Normal afternoon demand under sunny conditions
+726,2025-08-30,19:15:00,South,Jayanagar,103.0,84,Rainy,44,3.8,Scooter,12.9308,77.5838,Evening travel demand increased due to rainy weather
+727,2025-08-31,08:15:00,West,Rajajinagar,77.4,59,Rainy,75,1.8,Scooter,12.9915,77.5525,Morning travel demand increased due to rainy weather
+728,2025-08-31,14:30:00,West,Rajajinagar,35.7,29,Sunny,100,0.5,Metro,12.9915,77.5525,Normal afternoon demand under sunny conditions
+729,2025-08-31,19:15:00,South,Jayanagar,81.0,64,Windy,67,2.0,Metro,12.9308,77.5838,Evening demand slightly reduced due to windy conditions
+730,2025-09-01,08:15:00,North,Hebbal,69.7,58,Foggy,68,1.5,Car,13.0358,77.597,Morning demand slightly reduced due to foggy conditions
+731,2025-09-01,14:30:00,East,Whitefield,61.5,52,Cloudy,81,1.2,Bus,12.9698,77.75,Normal afternoon demand under cloudy conditions
+732,2025-09-01,19:15:00,South,HSR Layout,99.0,88,Cloudy,53,3.1,Bike,12.9121,77.6446,Typical evening peak-hour commuter demand
+733,2025-09-02,08:15:00,Central,MG Road,110.2,92,Sunny,58,3.0,Bus,12.9758,77.6045,Typical morning peak-hour commuter demand
+734,2025-09-02,14:30:00,South,Koramangala,52.4,49,Sunny,85,1.2,Car,12.9352,77.6245,Normal afternoon demand under sunny conditions
+735,2025-09-02,19:15:00,Central,Richmond Town,137.1,122,Rainy,31,6.2,Scooter,12.9634,77.6041,Evening travel demand increased due to rainy weather
+736,2025-09-03,08:15:00,East,Whitefield,93.8,74,Foggy,65,2.4,Car,12.9698,77.75,Morning demand slightly reduced due to foggy conditions
+737,2025-09-03,14:30:00,South,Jayanagar,44.9,34,Cloudy,91,0.9,Bus,12.9308,77.5838,Normal afternoon demand under cloudy conditions
+738,2025-09-03,19:15:00,North,Malleshwaram,91.3,76,Cloudy,59,2.6,Bus,13.0035,77.5709,Typical evening peak-hour commuter demand
+739,2025-09-04,08:15:00,West,Vijayanagar,57.7,43,Foggy,86,1.1,Metro,12.9719,77.529,Morning demand slightly reduced due to foggy conditions
+740,2025-09-04,14:30:00,South,HSR Layout,52.9,43,Cloudy,84,1.1,Metro,12.9121,77.6446,Normal afternoon demand under cloudy conditions
+741,2025-09-04,19:15:00,East,Whitefield,110.0,100,Sunny,40,4.8,Scooter,12.9698,77.75,Typical evening peak-hour commuter demand
+742,2025-09-05,08:15:00,South,Koramangala,111.0,91,Rainy,41,3.9,Bike,12.9352,77.6245,Morning travel demand increased due to rainy weather
+743,2025-09-05,14:30:00,West,Vijayanagar,35.2,29,Sunny,99,0.6,Metro,12.9719,77.529,Normal afternoon demand under sunny conditions
+744,2025-09-05,19:15:00,Central,Shivajinagar,114.6,101,Sunny,54,4.0,Scooter,12.9857,77.6058,Typical evening peak-hour commuter demand
+745,2025-09-06,08:15:00,East,Marathahalli,102.7,79,Windy,44,3.9,Bus,12.9591,77.6974,Morning demand slightly reduced due to windy conditions
+746,2025-09-06,14:30:00,North,Yelahanka,37.6,32,Sunny,93,0.6,Bus,13.1007,77.5963,Normal afternoon demand under sunny conditions
+747,2025-09-06,19:15:00,West,Vijayanagar,65.2,52,Sunny,78,1.5,Metro,12.9719,77.529,Typical evening peak-hour commuter demand
+748,2025-09-07,08:15:00,North,Hebbal,77.8,67,Sunny,69,2.0,Scooter,13.0358,77.597,Typical morning peak-hour commuter demand
+749,2025-09-07,14:30:00,South,Jayanagar,43.9,34,Sunny,91,0.9,Scooter,12.9308,77.5838,Normal afternoon demand under sunny conditions
+750,2025-09-07,19:15:00,North,Yelahanka,79.3,61,Windy,65,2.0,Car,13.1007,77.5963,Evening demand slightly reduced due to windy conditions
+751,2025-09-08,08:15:00,East,Whitefield,104.2,84,Sunny,48,3.7,Scooter,12.9698,77.75,Typical morning peak-hour commuter demand
+752,2025-09-08,14:30:00,East,Indiranagar,65.3,59,Cloudy,78,1.3,Bike,12.9719,77.6412,Normal afternoon demand under cloudy conditions
+753,2025-09-08,19:15:00,West,Rajajinagar,80.9,75,Rainy,74,2.0,Scooter,12.9915,77.5525,Evening travel demand increased due to rainy weather
+754,2025-09-09,08:15:00,West,Rajajinagar,65.2,54,Sunny,72,1.4,Bus,12.9915,77.5525,Typical morning peak-hour commuter demand
+755,2025-09-09,14:30:00,East,Marathahalli,73.9,61,Rainy,74,1.5,Scooter,12.9591,77.6974,Afternoon travel demand increased due to rainy weather
+756,2025-09-09,19:15:00,North,Malleshwaram,81.2,66,Windy,72,1.9,Bus,13.0035,77.5709,Evening demand slightly reduced due to windy conditions
+757,2025-09-10,08:15:00,East,Marathahalli,135.2,123,Rainy,39,6.2,Bike,12.9591,77.6974,Morning travel demand increased due to rainy weather
+758,2025-09-10,14:30:00,East,Whitefield,57.0,50,Sunny,86,1.3,Bike,12.9698,77.75,Normal afternoon demand under sunny conditions
+759,2025-09-10,19:15:00,East,Indiranagar,110.0,100,Foggy,46,4.5,Bus,12.9719,77.6412,Evening demand slightly reduced due to foggy conditions
+760,2025-09-11,08:15:00,South,Jayanagar,94.5,85,Rainy,64,2.9,Scooter,12.9308,77.5838,Morning travel demand increased due to rainy weather
+761,2025-09-11,14:30:00,West,Nagarbhavi,29.2,24,Windy,100,0.5,Bike,12.9587,77.5041,Afternoon demand slightly reduced due to windy conditions
+762,2025-09-11,19:15:00,East,Indiranagar,119.8,95,Cloudy,54,3.6,Scooter,12.9719,77.6412,Typical evening peak-hour commuter demand
+763,2025-09-12,08:15:00,South,Jayanagar,100.9,77,Rainy,58,3.3,Bus,12.9308,77.5838,Morning travel demand increased due to rainy weather
+764,2025-09-12,14:30:00,Central,MG Road,64.8,51,Cloudy,74,1.7,Car,12.9758,77.6045,Normal afternoon demand under cloudy conditions
+765,2025-09-12,19:15:00,North,Malleshwaram,81.2,66,Sunny,70,2.1,Scooter,13.0035,77.5709,Typical evening peak-hour commuter demand
+766,2025-09-13,08:15:00,East,Indiranagar,96.6,73,Foggy,50,3.5,Metro,12.9719,77.6412,Morning demand slightly reduced due to foggy conditions
+767,2025-09-13,14:30:00,North,Hebbal,37.4,32,Sunny,97,0.7,Scooter,13.0358,77.597,Normal afternoon demand under sunny conditions
+768,2025-09-13,19:15:00,South,Jayanagar,109.5,86,Rainy,59,3.1,Bus,12.9308,77.5838,Evening travel demand increased due to rainy weather
+769,2025-09-14,08:15:00,North,Yelahanka,84.5,67,Rainy,65,2.0,Bus,13.1007,77.5963,Morning travel demand increased due to rainy weather
+770,2025-09-14,14:30:00,North,Hebbal,38.2,33,Sunny,95,0.7,Metro,13.0358,77.597,Normal afternoon demand under sunny conditions
+771,2025-09-14,19:15:00,South,Jayanagar,92.0,81,Windy,58,2.8,Metro,12.9308,77.5838,Evening demand slightly reduced due to windy conditions
+772,2025-09-15,08:15:00,West,Rajajinagar,66.7,50,Sunny,83,1.5,Bike,12.9915,77.5525,Typical morning peak-hour commuter demand
+773,2025-09-15,14:30:00,North,Malleshwaram,46.3,43,Rainy,93,1.0,Bus,13.0035,77.5709,Afternoon travel demand increased due to rainy weather
+774,2025-09-15,19:15:00,South,HSR Layout,93.7,76,Sunny,61,2.4,Car,12.9121,77.6446,Typical evening peak-hour commuter demand
+775,2025-09-16,08:15:00,South,Jayanagar,77.3,73,Windy,74,1.7,Metro,12.9308,77.5838,Morning demand slightly reduced due to windy conditions
+776,2025-09-16,14:30:00,East,Indiranagar,61.7,50,Sunny,79,1.4,Bus,12.9719,77.6412,Normal afternoon demand under sunny conditions
+777,2025-09-16,19:15:00,South,HSR Layout,93.9,76,Sunny,66,2.8,Metro,12.9121,77.6446,Typical evening peak-hour commuter demand
+778,2025-09-17,08:15:00,Central,MG Road,133.5,107,Rainy,33,6.4,Scooter,12.9758,77.6045,Morning travel demand increased due to rainy weather
+779,2025-09-17,14:30:00,East,Indiranagar,66.4,53,Cloudy,77,1.3,Scooter,12.9719,77.6412,Normal afternoon demand under cloudy conditions
+780,2025-09-17,19:15:00,South,Koramangala,107.9,93,Rainy,52,3.0,Car,12.9352,77.6245,Evening travel demand increased due to rainy weather
+781,2025-09-18,08:15:00,Central,Shivajinagar,130.5,122,Rainy,41,5.2,Bus,12.9857,77.6058,Morning travel demand increased due to rainy weather
+782,2025-09-18,14:30:00,South,Koramangala,47.7,45,Sunny,88,1.0,Bus,12.9352,77.6245,Normal afternoon demand under sunny conditions
+783,2025-09-18,19:15:00,North,Hebbal,77.1,62,Windy,77,1.8,Car,13.0358,77.597,Evening demand slightly reduced due to windy conditions
+784,2025-09-19,08:15:00,West,Vijayanagar,63.3,51,Cloudy,79,1.5,Bike,12.9719,77.529,Typical morning peak-hour commuter demand
+785,2025-09-19,14:30:00,South,Koramangala,60.0,46,Rainy,76,1.4,Bus,12.9352,77.6245,Afternoon travel demand increased due to rainy weather
+786,2025-09-19,19:15:00,North,Hebbal,80.4,70,Sunny,71,1.9,Metro,13.0358,77.597,Typical evening peak-hour commuter demand
+787,2025-09-20,08:15:00,North,Malleshwaram,80.3,64,Sunny,61,2.6,Scooter,13.0035,77.5709,Typical morning peak-hour commuter demand
+788,2025-09-20,14:30:00,South,Jayanagar,43.1,36,Sunny,89,0.8,Bike,12.9308,77.5838,Normal afternoon demand under sunny conditions
+789,2025-09-20,19:15:00,East,Indiranagar,125.8,110,Sunny,37,5.4,Car,12.9719,77.6412,Typical evening peak-hour commuter demand
+790,2025-09-21,08:15:00,Central,MG Road,125.3,116,Sunny,39,6.2,Scooter,12.9758,77.6045,Typical morning peak-hour commuter demand
+791,2025-09-21,14:30:00,Central,MG Road,62.0,49,Sunny,85,1.0,Scooter,12.9758,77.6045,Normal afternoon demand under sunny conditions
+792,2025-09-21,19:15:00,North,Hebbal,83.8,68,Cloudy,57,2.9,Bike,13.0358,77.597,Typical evening peak-hour commuter demand
+793,2025-09-22,08:15:00,West,Rajajinagar,78.5,65,Rainy,65,1.8,Scooter,12.9915,77.5525,Morning travel demand increased due to rainy weather
+794,2025-09-22,14:30:00,South,Koramangala,57.3,53,Rainy,88,1.0,Bike,12.9352,77.6245,Afternoon travel demand increased due to rainy weather
+795,2025-09-22,19:15:00,East,Indiranagar,119.5,102,Sunny,39,5.0,Bike,12.9719,77.6412,Typical evening peak-hour commuter demand
+796,2025-09-23,08:15:00,Central,Richmond Town,128.1,118,Rainy,49,4.5,Car,12.9634,77.6041,Morning travel demand increased due to rainy weather
+797,2025-09-23,14:30:00,East,Whitefield,65.4,51,Rainy,75,1.7,Car,12.9698,77.75,Afternoon travel demand increased due to rainy weather
+798,2025-09-23,19:15:00,South,Jayanagar,93.8,84,Cloudy,58,2.5,Bike,12.9308,77.5838,Typical evening peak-hour commuter demand
+799,2025-09-24,08:15:00,West,Vijayanagar,63.5,48,Cloudy,84,1.5,Bike,12.9719,77.529,Typical morning peak-hour commuter demand
+800,2025-09-24,14:30:00,Central,Richmond Town,62.3,50,Sunny,74,1.6,Metro,12.9634,77.6041,Normal afternoon demand under sunny conditions
+801,2025-09-24,19:15:00,South,Jayanagar,84.8,69,Sunny,71,1.7,Metro,12.9308,77.5838,Typical evening peak-hour commuter demand
+802,2025-09-25,08:15:00,South,Koramangala,87.5,74,Sunny,64,2.0,Bike,12.9352,77.6245,Typical morning peak-hour commuter demand
+803,2025-09-25,14:30:00,East,Marathahalli,63.4,59,Sunny,80,1.3,Bus,12.9591,77.6974,Normal afternoon demand under sunny conditions
+804,2025-09-25,19:15:00,Central,Richmond Town,139.1,107,Rainy,31,7.8,Bike,12.9634,77.6041,Evening travel demand increased due to rainy weather
+805,2025-09-26,08:15:00,West,Nagarbhavi,59.3,50,Sunny,80,1.3,Scooter,12.9587,77.5041,Typical morning peak-hour commuter demand
+806,2025-09-26,14:30:00,East,Whitefield,58.2,49,Sunny,87,1.0,Bus,12.9698,77.75,Normal afternoon demand under sunny conditions
+807,2025-09-26,19:15:00,South,Koramangala,95.8,80,Windy,59,2.5,Bus,12.9352,77.6245,Evening demand slightly reduced due to windy conditions
+808,2025-09-27,08:15:00,North,Malleshwaram,80.6,75,Cloudy,70,1.6,Scooter,13.0035,77.5709,Typical morning peak-hour commuter demand
+809,2025-09-27,14:30:00,West,Rajajinagar,31.7,30,Foggy,97,0.6,Car,12.9915,77.5525,Afternoon demand slightly reduced due to foggy conditions
+810,2025-09-27,19:15:00,West,Rajajinagar,72.9,63,Sunny,69,1.6,Bus,12.9915,77.5525,Typical evening peak-hour commuter demand
+811,2025-09-28,08:15:00,North,Malleshwaram,87.6,72,Sunny,68,1.9,Bus,13.0035,77.5709,Typical morning peak-hour commuter demand
+812,2025-09-28,14:30:00,West,Nagarbhavi,32.8,29,Cloudy,100,0.5,Car,12.9587,77.5041,Normal afternoon demand under cloudy conditions
+813,2025-09-28,19:15:00,East,Marathahalli,143.3,136,Rainy,34,6.6,Bike,12.9591,77.6974,Evening travel demand increased due to rainy weather
+814,2025-09-29,08:15:00,North,Yelahanka,80.2,72,Cloudy,71,1.6,Bus,13.1007,77.5963,Typical morning peak-hour commuter demand
+815,2025-09-29,14:30:00,Central,MG Road,59.2,48,Sunny,82,1.1,Scooter,12.9758,77.6045,Normal afternoon demand under sunny conditions
+816,2025-09-29,19:15:00,West,Nagarbhavi,73.4,61,Rainy,79,1.8,Metro,12.9587,77.5041,Evening travel demand increased due to rainy weather
+817,2025-09-30,08:15:00,North,Malleshwaram,83.1,77,Sunny,74,1.7,Bike,13.0035,77.5709,Typical morning peak-hour commuter demand
+818,2025-09-30,14:30:00,East,Whitefield,68.0,57,Rainy,78,1.6,Bus,12.9698,77.75,Afternoon travel demand increased due to rainy weather
+819,2025-09-30,19:15:00,East,Whitefield,109.9,99,Sunny,44,4.5,Car,12.9698,77.75,Typical evening peak-hour commuter demand
+820,2025-10-01,08:15:00,East,Indiranagar,109.9,83,Sunny,40,4.8,Scooter,12.9719,77.6412,Typical morning peak-hour commuter demand
+821,2025-10-01,14:30:00,East,Marathahalli,72.5,64,Rainy,77,1.8,Bus,12.9591,77.6974,Afternoon travel demand increased due to rainy weather
+822,2025-10-01,19:15:00,Central,Shivajinagar,144.4,134,Rainy,14,18.1,Metro,12.9857,77.6058,Evening travel demand increased due to rainy weather
+823,2025-10-02,08:15:00,North,Hebbal,73.8,57,Windy,77,1.9,Car,13.0358,77.597,Morning demand slightly reduced due to windy conditions
+824,2025-10-02,14:30:00,East,Marathahalli,55.2,50,Foggy,81,1.1,Bike,12.9591,77.6974,Afternoon demand slightly reduced due to foggy conditions
+825,2025-10-02,19:15:00,South,HSR Layout,101.3,89,Sunny,50,3.1,Bus,12.9121,77.6446,Typical evening peak-hour commuter demand
+826,2025-10-03,08:15:00,West,Nagarbhavi,65.0,52,Sunny,75,1.6,Scooter,12.9587,77.5041,Typical morning peak-hour commuter demand
+827,2025-10-03,14:30:00,East,Whitefield,59.5,47,Rainy,82,1.4,Metro,12.9698,77.75,Afternoon travel demand increased due to rainy weather
+828,2025-10-03,19:15:00,East,Indiranagar,128.9,109,Sunny,38,5.6,Scooter,12.9719,77.6412,Typical evening peak-hour commuter demand
+829,2025-10-04,08:15:00,East,Whitefield,113.0,100,Rainy,53,3.5,Bike,12.9698,77.75,Morning travel demand increased due to rainy weather
+830,2025-10-04,14:30:00,East,Whitefield,60.4,50,Cloudy,85,1.1,Bus,12.9698,77.75,Normal afternoon demand under cloudy conditions
+831,2025-10-04,19:15:00,West,Rajajinagar,78.5,62,Rainy,65,2.0,Bike,12.9915,77.5525,Evening travel demand increased due to rainy weather
+832,2025-10-05,08:15:00,East,Whitefield,92.1,76,Foggy,62,2.5,Bus,12.9698,77.75,Morning demand slightly reduced due to foggy conditions
+833,2025-10-05,14:30:00,Central,MG Road,58.8,55,Foggy,78,1.5,Bus,12.9758,77.6045,Afternoon demand slightly reduced due to foggy conditions
+834,2025-10-05,19:15:00,Central,MG Road,125.6,111,Sunny,40,5.8,Bike,12.9758,77.6045,Typical evening peak-hour commuter demand
+835,2025-10-06,08:15:00,South,HSR Layout,100.8,79,Sunny,62,3.1,Bus,12.9121,77.6446,Typical morning peak-hour commuter demand
+836,2025-10-06,14:30:00,West,Vijayanagar,41.4,33,Rainy,90,0.7,Metro,12.9719,77.529,Afternoon travel demand increased due to rainy weather
+837,2025-10-06,19:15:00,North,Hebbal,81.7,74,Sunny,72,2.2,Metro,13.0358,77.597,Typical evening peak-hour commuter demand
+838,2025-10-07,08:15:00,South,Koramangala,96.0,76,Sunny,66,2.6,Bike,12.9352,77.6245,Typical morning peak-hour commuter demand
+839,2025-10-07,14:30:00,Central,MG Road,66.8,61,Rainy,73,1.4,Metro,12.9758,77.6045,Afternoon travel demand increased due to rainy weather
+840,2025-10-07,19:15:00,Central,Shivajinagar,125.4,96,Sunny,27,7.1,Bus,12.9857,77.6058,Typical evening peak-hour commuter demand
+841,2025-10-08,08:15:00,Central,MG Road,118.6,103,Sunny,31,5.4,Bike,12.9758,77.6045,Typical morning peak-hour commuter demand
+842,2025-10-08,14:30:00,Central,Shivajinagar,59.2,55,Sunny,77,1.5,Bike,12.9857,77.6058,Normal afternoon demand under sunny conditions
+843,2025-10-08,19:15:00,North,Hebbal,90.1,80,Rainy,66,2.2,Car,13.0358,77.597,Evening travel demand increased due to rainy weather
+844,2025-10-09,08:15:00,South,Koramangala,100.8,82,Sunny,64,2.4,Bike,12.9352,77.6245,Typical morning peak-hour commuter demand
+845,2025-10-09,14:30:00,North,Hebbal,40.6,38,Sunny,95,0.6,Metro,13.0358,77.597,Normal afternoon demand under sunny conditions
+846,2025-10-09,19:15:00,South,HSR Layout,116.6,90,Rainy,43,4.6,Scooter,12.9121,77.6446,Evening travel demand increased due to rainy weather
+847,2025-10-10,08:15:00,East,Marathahalli,101.4,80,Foggy,61,2.9,Metro,12.9591,77.6974,Morning demand slightly reduced due to foggy conditions
+848,2025-10-10,14:30:00,Central,Shivajinagar,59.9,53,Sunny,84,1.4,Scooter,12.9857,77.6058,Normal afternoon demand under sunny conditions
+849,2025-10-10,19:15:00,Central,Richmond Town,123.6,101,Foggy,31,6.8,Scooter,12.9634,77.6041,Evening demand slightly reduced due to foggy conditions
+850,2025-10-11,08:15:00,Central,Richmond Town,119.2,97,Windy,40,4.8,Bike,12.9634,77.6041,Morning demand slightly reduced due to windy conditions
+851,2025-10-11,14:30:00,Central,Shivajinagar,64.6,56,Cloudy,77,1.3,Car,12.9857,77.6058,Normal afternoon demand under cloudy conditions
+852,2025-10-11,19:15:00,West,Nagarbhavi,77.6,65,Rainy,73,1.5,Metro,12.9587,77.5041,Evening travel demand increased due to rainy weather
+853,2025-10-12,08:15:00,North,Hebbal,93.0,75,Rainy,63,2.7,Bike,13.0358,77.597,Morning travel demand increased due to rainy weather
+854,2025-10-12,14:30:00,Central,Richmond Town,56.8,44,Foggy,87,1.3,Scooter,12.9634,77.6041,Afternoon demand slightly reduced due to foggy conditions
+855,2025-10-12,19:15:00,North,Hebbal,76.9,71,Sunny,75,1.4,Metro,13.0358,77.597,Typical evening peak-hour commuter demand
+856,2025-10-13,08:15:00,North,Hebbal,70.4,55,Windy,67,1.9,Car,13.0358,77.597,Morning demand slightly reduced due to windy conditions
+857,2025-10-13,14:30:00,North,Yelahanka,44.5,36,Rainy,89,0.9,Car,13.1007,77.5963,Afternoon travel demand increased due to rainy weather
+858,2025-10-13,19:15:00,North,Malleshwaram,88.0,75,Cloudy,61,2.4,Bus,13.0035,77.5709,Typical evening peak-hour commuter demand
+859,2025-10-14,08:15:00,East,Whitefield,107.5,94,Sunny,41,4.3,Bus,12.9698,77.75,Typical morning peak-hour commuter demand
+860,2025-10-14,14:30:00,South,Jayanagar,47.9,37,Cloudy,85,1.1,Metro,12.9308,77.5838,Normal afternoon demand under cloudy conditions
+861,2025-10-14,19:15:00,South,Koramangala,101.4,85,Sunny,50,2.9,Bus,12.9352,77.6245,Typical evening peak-hour commuter demand
+862,2025-10-15,08:15:00,South,Jayanagar,88.9,78,Sunny,67,2.2,Car,12.9308,77.5838,Typical morning peak-hour commuter demand
+863,2025-10-15,14:30:00,West,Nagarbhavi,32.1,26,Sunny,98,0.6,Bike,12.9587,77.5041,Normal afternoon demand under sunny conditions
+864,2025-10-15,19:15:00,North,Hebbal,96.6,87,Rainy,66,2.3,Metro,13.0358,77.597,Evening travel demand increased due to rainy weather
+865,2025-10-16,08:15:00,North,Yelahanka,73.7,57,Cloudy,70,1.6,Bus,13.1007,77.5963,Typical morning peak-hour commuter demand
+866,2025-10-16,14:30:00,Central,Richmond Town,63.8,53,Sunny,75,1.6,Metro,12.9634,77.6041,Normal afternoon demand under sunny conditions
+867,2025-10-16,19:15:00,East,Whitefield,114.4,88,Sunny,47,3.7,Car,12.9698,77.75,Typical evening peak-hour commuter demand
+868,2025-10-17,08:15:00,North,Hebbal,81.3,67,Cloudy,71,1.7,Car,13.0358,77.597,Typical morning peak-hour commuter demand
+869,2025-10-17,14:30:00,North,Malleshwaram,44.4,37,Sunny,95,0.8,Bike,13.0035,77.5709,Normal afternoon demand under sunny conditions
+870,2025-10-17,19:15:00,North,Malleshwaram,89.5,72,Sunny,55,2.9,Car,13.0035,77.5709,Typical evening peak-hour commuter demand
+871,2025-10-18,08:15:00,West,Nagarbhavi,57.6,50,Windy,82,1.4,Bike,12.9587,77.5041,Morning demand slightly reduced due to windy conditions
+872,2025-10-18,14:30:00,North,Hebbal,43.6,36,Cloudy,88,0.8,Bike,13.0358,77.597,Normal afternoon demand under cloudy conditions
+873,2025-10-18,19:15:00,North,Malleshwaram,84.1,64,Cloudy,70,2.2,Car,13.0035,77.5709,Typical evening peak-hour commuter demand
+874,2025-10-19,08:15:00,South,Jayanagar,85.5,73,Cloudy,58,2.7,Scooter,12.9308,77.5838,Typical morning peak-hour commuter demand
+875,2025-10-19,14:30:00,Central,Richmond Town,61.5,47,Foggy,76,1.2,Bike,12.9634,77.6041,Afternoon demand slightly reduced due to foggy conditions
+876,2025-10-19,19:15:00,Central,Shivajinagar,142.6,119,Rainy,16,17.0,Bike,12.9857,77.6058,Evening travel demand increased due to rainy weather
+877,2025-10-20,08:15:00,North,Hebbal,88.6,84,Rainy,59,2.2,Scooter,13.0358,77.597,Morning travel demand increased due to rainy weather
+878,2025-10-20,14:30:00,North,Hebbal,41.0,32,Windy,97,0.8,Bike,13.0358,77.597,Afternoon demand slightly reduced due to windy conditions
+879,2025-10-20,19:15:00,East,Whitefield,112.6,104,Windy,43,4.2,Car,12.9698,77.75,Evening demand slightly reduced due to windy conditions
+880,2025-10-21,08:15:00,Central,Shivajinagar,112.0,104,Sunny,43,5.0,Bike,12.9857,77.6058,Typical morning peak-hour commuter demand
+881,2025-10-21,14:30:00,South,HSR Layout,58.4,54,Rainy,83,1.3,Bus,12.9121,77.6446,Afternoon travel demand increased due to rainy weather
+882,2025-10-21,19:15:00,West,Nagarbhavi,80.6,71,Rainy,75,1.6,Car,12.9587,77.5041,Evening travel demand increased due to rainy weather
+883,2025-10-22,08:15:00,South,Koramangala,80.3,66,Foggy,64,2.3,Bike,12.9352,77.6245,Morning demand slightly reduced due to foggy conditions
+884,2025-10-22,14:30:00,West,Nagarbhavi,35.2,30,Rainy,99,0.5,Bike,12.9587,77.5041,Afternoon travel demand increased due to rainy weather
+885,2025-10-22,19:15:00,East,Indiranagar,148.1,125,Rainy,26,9.2,Bus,12.9719,77.6412,Evening travel demand increased due to rainy weather
+886,2025-10-23,08:15:00,West,Rajajinagar,69.1,63,Sunny,70,1.5,Metro,12.9915,77.5525,Typical morning peak-hour commuter demand
+887,2025-10-23,14:30:00,East,Whitefield,57.6,50,Sunny,80,1.0,Car,12.9698,77.75,Normal afternoon demand under sunny conditions
+888,2025-10-23,19:15:00,East,Indiranagar,110.2,102,Foggy,54,3.8,Car,12.9719,77.6412,Evening demand slightly reduced due to foggy conditions
+889,2025-10-24,08:15:00,West,Nagarbhavi,58.7,54,Windy,80,1.1,Bike,12.9587,77.5041,Morning demand slightly reduced due to windy conditions
+890,2025-10-24,14:30:00,West,Vijayanagar,39.5,34,Rainy,91,0.8,Metro,12.9719,77.529,Afternoon travel demand increased due to rainy weather
+891,2025-10-24,19:15:00,West,Rajajinagar,84.5,73,Rainy,65,2.4,Bus,12.9915,77.5525,Evening travel demand increased due to rainy weather
+892,2025-10-25,08:15:00,South,Koramangala,83.3,75,Windy,66,1.8,Bus,12.9352,77.6245,Morning demand slightly reduced due to windy conditions
+893,2025-10-25,14:30:00,South,HSR Layout,54.4,44,Cloudy,88,1.0,Metro,12.9121,77.6446,Normal afternoon demand under cloudy conditions
+894,2025-10-25,19:15:00,North,Yelahanka,97.4,87,Rainy,63,2.5,Bike,13.1007,77.5963,Evening travel demand increased due to rainy weather
+895,2025-10-26,08:15:00,South,HSR Layout,95.0,86,Sunny,55,2.7,Scooter,12.9121,77.6446,Typical morning peak-hour commuter demand
+896,2025-10-26,14:30:00,North,Yelahanka,45.8,35,Rainy,87,0.9,Metro,13.1007,77.5963,Afternoon travel demand increased due to rainy weather
+897,2025-10-26,19:15:00,Central,Shivajinagar,120.2,97,Sunny,40,5.0,Car,12.9857,77.6058,Typical evening peak-hour commuter demand
+898,2025-10-27,08:15:00,Central,Richmond Town,106.5,82,Foggy,45,4.7,Car,12.9634,77.6041,Morning demand slightly reduced due to foggy conditions
+899,2025-10-27,14:30:00,Central,Shivajinagar,56.4,52,Sunny,82,1.2,Metro,12.9857,77.6058,Normal afternoon demand under sunny conditions
+900,2025-10-27,19:15:00,Central,MG Road,129.7,98,Sunny,32,7.5,Bus,12.9758,77.6045,Typical evening peak-hour commuter demand
+901,2025-10-28,08:15:00,South,Jayanagar,85.7,66,Windy,70,2.2,Scooter,12.9308,77.5838,Morning demand slightly reduced due to windy conditions
+902,2025-10-28,14:30:00,East,Whitefield,52.8,41,Sunny,86,1.1,Bike,12.9698,77.75,Normal afternoon demand under sunny conditions
+903,2025-10-28,19:15:00,Central,MG Road,123.8,98,Sunny,32,7.6,Metro,12.9758,77.6045,Typical evening peak-hour commuter demand
+904,2025-10-29,08:15:00,North,Yelahanka,72.8,57,Sunny,68,1.6,Car,13.1007,77.5963,Typical morning peak-hour commuter demand
+905,2025-10-29,14:30:00,West,Vijayanagar,37.4,28,Cloudy,94,0.6,Car,12.9719,77.529,Normal afternoon demand under cloudy conditions
+906,2025-10-29,19:15:00,South,Jayanagar,90.4,83,Cloudy,70,1.9,Bus,12.9308,77.5838,Typical evening peak-hour commuter demand
+907,2025-10-30,08:15:00,West,Vijayanagar,62.6,55,Windy,82,1.1,Car,12.9719,77.529,Morning demand slightly reduced due to windy conditions
+908,2025-10-30,14:30:00,South,Koramangala,49.6,40,Sunny,90,1.0,Bus,12.9352,77.6245,Normal afternoon demand under sunny conditions
+909,2025-10-30,19:15:00,West,Rajajinagar,64.9,55,Windy,84,1.4,Scooter,12.9915,77.5525,Evening demand slightly reduced due to windy conditions
+910,2025-10-31,08:15:00,North,Malleshwaram,81.6,75,Cloudy,62,2.5,Bike,13.0035,77.5709,Typical morning peak-hour commuter demand
+911,2025-10-31,14:30:00,Central,Shivajinagar,59.1,47,Sunny,84,1.2,Scooter,12.9857,77.6058,Normal afternoon demand under sunny conditions
+912,2025-10-31,19:15:00,West,Nagarbhavi,67.7,62,Sunny,73,1.6,Bike,12.9587,77.5041,Typical evening peak-hour commuter demand
+913,2025-11-01,08:15:00,East,Marathahalli,112.6,86,Sunny,43,4.2,Bus,12.9591,77.6974,Typical morning peak-hour commuter demand
+914,2025-11-01,14:30:00,West,Vijayanagar,33.5,28,Sunny,101,0.6,Bus,12.9719,77.529,Normal afternoon demand under sunny conditions
+915,2025-11-01,19:15:00,West,Vijayanagar,70.4,57,Sunny,81,1.3,Metro,12.9719,77.529,Typical evening peak-hour commuter demand
+916,2025-11-02,08:15:00,South,Jayanagar,90.0,72,Sunny,57,2.5,Bus,12.9308,77.5838,Typical morning peak-hour commuter demand
+917,2025-11-02,14:30:00,North,Hebbal,37.2,32,Sunny,92,0.8,Scooter,13.0358,77.597,Normal afternoon demand under sunny conditions
+918,2025-11-02,19:15:00,North,Malleshwaram,97.8,76,Rainy,53,3.1,Metro,13.0035,77.5709,Evening travel demand increased due to rainy weather
+919,2025-11-03,08:15:00,East,Indiranagar,116.9,96,Sunny,55,3.5,Car,12.9719,77.6412,Typical morning peak-hour commuter demand
+920,2025-11-03,14:30:00,West,Vijayanagar,33.3,30,Cloudy,95,0.7,Bus,12.9719,77.529,Normal afternoon demand under cloudy conditions
+921,2025-11-03,19:15:00,Central,Shivajinagar,136.6,126,Cloudy,23,9.9,Bike,12.9857,77.6058,Typical evening peak-hour commuter demand
+922,2025-11-04,08:15:00,East,Marathahalli,116.2,89,Cloudy,44,4.7,Car,12.9591,77.6974,Typical morning peak-hour commuter demand
+923,2025-11-04,14:30:00,East,Marathahalli,60.6,54,Windy,87,1.2,Bike,12.9591,77.6974,Afternoon demand slightly reduced due to windy conditions
+924,2025-11-04,19:15:00,North,Malleshwaram,82.5,75,Sunny,62,2.6,Car,13.0035,77.5709,Typical evening peak-hour commuter demand
+925,2025-11-05,08:15:00,South,HSR Layout,100.7,92,Sunny,47,3.2,Bike,12.9121,77.6446,Typical morning peak-hour commuter demand
+926,2025-11-05,14:30:00,West,Rajajinagar,30.4,25,Foggy,100,0.5,Bike,12.9915,77.5525,Afternoon demand slightly reduced due to foggy conditions
+927,2025-11-05,19:15:00,West,Rajajinagar,71.7,58,Windy,77,1.5,Metro,12.9915,77.5525,Evening demand slightly reduced due to windy conditions
+928,2025-11-06,08:15:00,West,Nagarbhavi,65.2,62,Sunny,77,1.4,Metro,12.9587,77.5041,Typical morning peak-hour commuter demand
+929,2025-11-06,14:30:00,South,Jayanagar,45.7,38,Sunny,90,1.0,Scooter,12.9308,77.5838,Normal afternoon demand under sunny conditions
+930,2025-11-06,19:15:00,Central,Shivajinagar,114.8,89,Sunny,44,4.9,Car,12.9857,77.6058,Typical evening peak-hour commuter demand
+931,2025-11-07,08:15:00,North,Malleshwaram,81.6,68,Cloudy,70,2.2,Metro,13.0035,77.5709,Typical morning peak-hour commuter demand
+932,2025-11-07,14:30:00,North,Hebbal,38.8,30,Sunny,92,0.6,Bike,13.0358,77.597,Normal afternoon demand under sunny conditions
+933,2025-11-07,19:15:00,Central,MG Road,122.1,107,Windy,44,4.0,Car,12.9758,77.6045,Evening demand slightly reduced due to windy conditions
+934,2025-11-08,08:15:00,Central,Richmond Town,112.6,97,Sunny,56,2.9,Bus,12.9634,77.6041,Typical morning peak-hour commuter demand
+935,2025-11-08,14:30:00,South,HSR Layout,48.5,43,Sunny,93,0.8,Bus,12.9121,77.6446,Normal afternoon demand under sunny conditions
+936,2025-11-08,19:15:00,South,HSR Layout,124.8,103,Rainy,50,4.3,Bus,12.9121,77.6446,Evening travel demand increased due to rainy weather
+937,2025-11-09,08:15:00,East,Marathahalli,117.2,108,Cloudy,36,5.4,Car,12.9591,77.6974,Typical morning peak-hour commuter demand
+938,2025-11-09,14:30:00,Central,Richmond Town,55.1,45,Foggy,83,1.0,Metro,12.9634,77.6041,Afternoon demand slightly reduced due to foggy conditions
+939,2025-11-09,19:15:00,South,HSR Layout,91.5,83,Foggy,63,2.1,Car,12.9121,77.6446,Evening demand slightly reduced due to foggy conditions
+940,2025-11-10,08:15:00,East,Indiranagar,106.0,87,Sunny,47,3.6,Bike,12.9719,77.6412,Typical morning peak-hour commuter demand
+941,2025-11-10,14:30:00,East,Indiranagar,55.0,47,Sunny,88,1.0,Bus,12.9719,77.6412,Normal afternoon demand under sunny conditions
+942,2025-11-10,19:15:00,East,Whitefield,125.9,103,Rainy,45,5.5,Scooter,12.9698,77.75,Evening travel demand increased due to rainy weather
+943,2025-11-11,08:15:00,West,Rajajinagar,66.7,52,Cloudy,82,1.5,Bus,12.9915,77.5525,Typical morning peak-hour commuter demand
+944,2025-11-11,14:30:00,Central,Richmond Town,76.4,62,Rainy,64,2.2,Bus,12.9634,77.6041,Afternoon travel demand increased due to rainy weather
+945,2025-11-11,19:15:00,East,Whitefield,109.9,92,Sunny,57,3.2,Bike,12.9698,77.75,Typical evening peak-hour commuter demand
+946,2025-11-12,08:15:00,North,Yelahanka,81.3,72,Sunny,66,2.0,Bus,13.1007,77.5963,Typical morning peak-hour commuter demand
+947,2025-11-12,14:30:00,East,Whitefield,65.6,55,Rainy,79,1.5,Car,12.9698,77.75,Afternoon travel demand increased due to rainy weather
+948,2025-11-12,19:15:00,West,Rajajinagar,73.2,61,Cloudy,73,2.0,Bus,12.9915,77.5525,Typical evening peak-hour commuter demand
+949,2025-11-13,08:15:00,South,Jayanagar,86.6,66,Sunny,63,2.6,Bus,12.9308,77.5838,Typical morning peak-hour commuter demand
+950,2025-11-13,14:30:00,East,Marathahalli,63.7,57,Sunny,82,1.4,Bus,12.9591,77.6974,Normal afternoon demand under sunny conditions
+951,2025-11-13,19:15:00,Central,MG Road,122.0,103,Sunny,52,3.9,Bus,12.9758,77.6045,Typical evening peak-hour commuter demand
+952,2025-11-14,08:15:00,West,Vijayanagar,64.4,61,Sunny,78,1.4,Metro,12.9719,77.529,Typical morning peak-hour commuter demand
+953,2025-11-14,14:30:00,South,HSR Layout,51.2,42,Sunny,89,0.8,Car,12.9121,77.6446,Normal afternoon demand under sunny conditions
+954,2025-11-14,19:15:00,Central,Richmond Town,134.5,111,Sunny,30,6.9,Bike,12.9634,77.6041,Typical evening peak-hour commuter demand
+955,2025-11-15,08:15:00,North,Hebbal,84.2,71,Rainy,66,2.0,Metro,13.0358,77.597,Morning travel demand increased due to rainy weather
+956,2025-11-15,14:30:00,South,Jayanagar,45.9,35,Sunny,90,0.8,Metro,12.9308,77.5838,Normal afternoon demand under sunny conditions
+957,2025-11-15,19:15:00,South,HSR Layout,92.8,85,Foggy,65,2.3,Bike,12.9121,77.6446,Evening demand slightly reduced due to foggy conditions
+958,2025-11-16,08:15:00,South,Koramangala,102.4,94,Cloudy,52,3.5,Bike,12.9352,77.6245,Typical morning peak-hour commuter demand
+959,2025-11-16,14:30:00,South,Koramangala,54.1,42,Rainy,80,1.3,Bus,12.9352,77.6245,Afternoon travel demand increased due to rainy weather
+960,2025-11-16,19:15:00,Central,MG Road,135.2,107,Sunny,34,6.4,Car,12.9758,77.6045,Typical evening peak-hour commuter demand
+961,2025-11-17,08:15:00,South,Jayanagar,94.6,80,Rainy,63,2.9,Bike,12.9308,77.5838,Morning travel demand increased due to rainy weather
+962,2025-11-17,14:30:00,West,Rajajinagar,36.2,30,Sunny,94,0.6,Bus,12.9915,77.5525,Normal afternoon demand under sunny conditions
+963,2025-11-17,19:15:00,South,HSR Layout,100.5,80,Sunny,53,2.7,Bike,12.9121,77.6446,Typical evening peak-hour commuter demand
+964,2025-11-18,08:15:00,Central,MG Road,132.7,117,Rainy,27,7.1,Bus,12.9758,77.6045,Morning travel demand increased due to rainy weather
+965,2025-11-18,14:30:00,North,Yelahanka,37.2,34,Sunny,95,0.7,Car,13.1007,77.5963,Normal afternoon demand under sunny conditions
+966,2025-11-18,19:15:00,East,Whitefield,121.2,108,Sunny,31,7.6,Car,12.9698,77.75,Typical evening peak-hour commuter demand
+967,2025-11-19,08:15:00,North,Hebbal,93.0,82,Rainy,64,2.9,Scooter,13.0358,77.597,Morning travel demand increased due to rainy weather
+968,2025-11-19,14:30:00,Central,Shivajinagar,64.6,51,Cloudy,75,1.3,Bus,12.9857,77.6058,Normal afternoon demand under cloudy conditions
+969,2025-11-19,19:15:00,South,Koramangala,104.3,81,Sunny,45,4.6,Bike,12.9352,77.6245,Typical evening peak-hour commuter demand
+970,2025-11-20,08:15:00,West,Vijayanagar,74.8,64,Rainy,68,1.9,Bus,12.9719,77.529,Morning travel demand increased due to rainy weather
+971,2025-11-20,14:30:00,West,Nagarbhavi,34.7,27,Sunny,97,0.5,Car,12.9587,77.5041,Normal afternoon demand under sunny conditions
+972,2025-11-20,19:15:00,East,Indiranagar,125.6,100,Cloudy,40,6.2,Metro,12.9719,77.6412,Typical evening peak-hour commuter demand
+973,2025-11-21,08:15:00,South,Koramangala,107.2,90,Rainy,54,3.0,Bus,12.9352,77.6245,Morning travel demand increased due to rainy weather
+974,2025-11-21,14:30:00,South,HSR Layout,50.5,47,Windy,88,0.9,Bus,12.9121,77.6446,Afternoon demand slightly reduced due to windy conditions
+975,2025-11-21,19:15:00,West,Nagarbhavi,76.4,68,Rainy,66,2.3,Bus,12.9587,77.5041,Evening travel demand increased due to rainy weather
+976,2025-11-22,08:15:00,West,Nagarbhavi,63.4,54,Cloudy,81,1.5,Metro,12.9587,77.5041,Typical morning peak-hour commuter demand
+977,2025-11-22,14:30:00,West,Vijayanagar,34.8,30,Sunny,100,0.7,Metro,12.9719,77.529,Normal afternoon demand under sunny conditions
+978,2025-11-22,19:15:00,South,HSR Layout,101.3,87,Cloudy,50,3.9,Bike,12.9121,77.6446,Typical evening peak-hour commuter demand
+979,2025-11-23,08:15:00,East,Whitefield,119.5,95,Rainy,47,4.9,Scooter,12.9698,77.75,Morning travel demand increased due to rainy weather
+980,2025-11-23,14:30:00,West,Nagarbhavi,35.6,33,Cloudy,96,0.7,Bike,12.9587,77.5041,Normal afternoon demand under cloudy conditions
+981,2025-11-23,19:15:00,Central,Richmond Town,122.0,115,Sunny,48,3.8,Bus,12.9634,77.6041,Typical evening peak-hour commuter demand
+982,2025-11-24,08:15:00,West,Rajajinagar,63.1,55,Sunny,76,1.6,Bike,12.9915,77.5525,Typical morning peak-hour commuter demand
+983,2025-11-24,14:30:00,Central,MG Road,57.0,45,Windy,89,1.1,Scooter,12.9758,77.6045,Afternoon demand slightly reduced due to windy conditions
+984,2025-11-24,19:15:00,South,Jayanagar,115.2,91,Rainy,42,4.2,Bike,12.9308,77.5838,Evening travel demand increased due to rainy weather
+985,2025-11-25,08:15:00,East,Marathahalli,132.6,114,Cloudy,43,5.1,Scooter,12.9591,77.6974,Typical morning peak-hour commuter demand
+986,2025-11-25,14:30:00,North,Malleshwaram,42.4,35,Windy,92,0.8,Bus,13.0035,77.5709,Afternoon demand slightly reduced due to windy conditions
+987,2025-11-25,19:15:00,East,Indiranagar,114.2,95,Sunny,47,3.6,Metro,12.9719,77.6412,Typical evening peak-hour commuter demand
+988,2025-11-26,08:15:00,Central,Shivajinagar,115.6,108,Cloudy,43,4.4,Metro,12.9857,77.6058,Typical morning peak-hour commuter demand
+989,2025-11-26,14:30:00,West,Rajajinagar,33.8,29,Windy,95,0.7,Bus,12.9915,77.5525,Afternoon demand slightly reduced due to windy conditions
+990,2025-11-26,19:15:00,East,Whitefield,108.0,96,Sunny,50,3.9,Bus,12.9698,77.75,Typical evening peak-hour commuter demand
+991,2025-11-27,08:15:00,Central,Shivajinagar,117.3,94,Sunny,40,5.4,Metro,12.9857,77.6058,Typical morning peak-hour commuter demand
+992,2025-11-27,14:30:00,East,Whitefield,64.9,58,Rainy,81,1.5,Bus,12.9698,77.75,Afternoon travel demand increased due to rainy weather
+993,2025-11-27,19:15:00,North,Yelahanka,89.9,72,Cloudy,57,3.1,Car,13.1007,77.5963,Typical evening peak-hour commuter demand
+994,2025-11-28,08:15:00,East,Indiranagar,122.5,116,Cloudy,39,4.6,Bike,12.9719,77.6412,Typical morning peak-hour commuter demand
+995,2025-11-28,14:30:00,West,Rajajinagar,35.4,29,Cloudy,95,0.6,Car,12.9915,77.5525,Normal afternoon demand under cloudy conditions
+996,2025-11-28,19:15:00,North,Malleshwaram,108.7,101,Rainy,55,3.5,Bike,13.0035,77.5709,Evening travel demand increased due to rainy weather
+997,2025-11-29,08:15:00,East,Whitefield,110.7,102,Sunny,56,3.8,Bike,12.9698,77.75,Typical morning peak-hour commuter demand
+998,2025-11-29,14:30:00,West,Nagarbhavi,34.3,28,Cloudy,97,0.7,Scooter,12.9587,77.5041,Normal afternoon demand under cloudy conditions
+999,2025-11-29,19:15:00,East,Indiranagar,120.8,92,Windy,31,5.6,Bus,12.9719,77.6412,Evening demand slightly reduced due to windy conditions
+1000,2025-11-30,08:15:00,South,Jayanagar,96.7,75,Cloudy,63,2.8,Bike,12.9308,77.5838,Typical morning peak-hour commuter demand
+1001,2025-11-30,14:30:00,Central,MG Road,74.8,59,Rainy,74,2.0,Metro,12.9758,77.6045,Afternoon travel demand increased due to rainy weather
+1002,2025-11-30,19:15:00,South,HSR Layout,97.0,79,Sunny,47,3.3,Bike,12.9121,77.6446,Typical evening peak-hour commuter demand
+1003,2025-12-01,08:15:00,Central,MG Road,117.1,111,Sunny,39,4.3,Metro,12.9758,77.6045,Typical morning peak-hour commuter demand
+1004,2025-12-01,14:30:00,South,HSR Layout,47.0,41,Sunny,89,1.0,Car,12.9121,77.6446,Normal afternoon demand under sunny conditions
+1005,2025-12-01,19:15:00,Central,Richmond Town,120.0,96,Foggy,34,5.0,Metro,12.9634,77.6041,Evening demand slightly reduced due to foggy conditions
+1006,2025-12-02,08:15:00,East,Indiranagar,127.5,118,Rainy,44,5.5,Bike,12.9719,77.6412,Morning travel demand increased due to rainy weather
+1007,2025-12-02,14:30:00,West,Vijayanagar,36.0,28,Sunny,94,0.6,Metro,12.9719,77.529,Normal afternoon demand under sunny conditions
+1008,2025-12-02,19:15:00,Central,Richmond Town,122.1,115,Sunny,42,5.3,Bus,12.9634,77.6041,Typical evening peak-hour commuter demand
+1009,2025-12-03,08:15:00,North,Malleshwaram,101.4,90,Rainy,53,3.4,Bus,13.0035,77.5709,Morning travel demand increased due to rainy weather
+1010,2025-12-03,14:30:00,South,HSR Layout,53.6,45,Cloudy,82,1.3,Car,12.9121,77.6446,Normal afternoon demand under cloudy conditions
+1011,2025-12-03,19:15:00,East,Marathahalli,150.0,118,Rainy,23,10.1,Bike,12.9591,77.6974,Evening travel demand increased due to rainy weather
+1012,2025-12-04,08:15:00,West,Vijayanagar,63.5,54,Foggy,82,1.4,Metro,12.9719,77.529,Morning demand slightly reduced due to foggy conditions
+1013,2025-12-04,14:30:00,East,Whitefield,50.7,41,Foggy,89,0.8,Metro,12.9698,77.75,Afternoon demand slightly reduced due to foggy conditions
+1014,2025-12-04,19:15:00,West,Vijayanagar,65.0,52,Sunny,82,1.5,Bike,12.9719,77.529,Typical evening peak-hour commuter demand
+1015,2025-12-05,08:15:00,North,Hebbal,72.6,55,Sunny,70,1.6,Metro,13.0358,77.597,Typical morning peak-hour commuter demand
+1016,2025-12-05,14:30:00,West,Vijayanagar,36.8,29,Sunny,97,0.7,Scooter,12.9719,77.529,Normal afternoon demand under sunny conditions
+1017,2025-12-05,19:15:00,Central,MG Road,118.2,89,Windy,45,3.7,Car,12.9758,77.6045,Evening demand slightly reduced due to windy conditions
+1018,2025-12-06,08:15:00,East,Whitefield,125.9,99,Rainy,33,6.9,Bike,12.9698,77.75,Morning travel demand increased due to rainy weather
+1019,2025-12-06,14:30:00,North,Hebbal,44.5,36,Cloudy,94,0.9,Bus,13.0358,77.597,Normal afternoon demand under cloudy conditions
+1020,2025-12-06,19:15:00,West,Rajajinagar,66.0,60,Sunny,81,1.3,Bus,12.9915,77.5525,Typical evening peak-hour commuter demand
+1021,2025-12-07,08:15:00,Central,Shivajinagar,108.9,102,Sunny,53,3.7,Car,12.9857,77.6058,Typical morning peak-hour commuter demand
+1022,2025-12-07,14:30:00,Central,Shivajinagar,71.2,61,Rainy,75,1.7,Car,12.9857,77.6058,Afternoon travel demand increased due to rainy weather
+1023,2025-12-07,19:15:00,South,Jayanagar,95.7,89,Cloudy,65,2.8,Scooter,12.9308,77.5838,Typical evening peak-hour commuter demand
+1024,2025-12-08,08:15:00,North,Malleshwaram,100.2,85,Rainy,61,3.1,Metro,13.0035,77.5709,Morning travel demand increased due to rainy weather
+1025,2025-12-08,14:30:00,East,Indiranagar,62.6,55,Cloudy,84,1.2,Car,12.9719,77.6412,Normal afternoon demand under cloudy conditions
+1026,2025-12-08,19:15:00,East,Whitefield,114.0,101,Sunny,37,5.4,Car,12.9698,77.75,Typical evening peak-hour commuter demand
+1027,2025-12-09,08:15:00,South,Jayanagar,94.5,88,Sunny,57,2.8,Metro,12.9308,77.5838,Typical morning peak-hour commuter demand
+1028,2025-12-09,14:30:00,East,Indiranagar,64.0,58,Sunny,79,1.3,Scooter,12.9719,77.6412,Normal afternoon demand under sunny conditions
+1029,2025-12-09,19:15:00,South,HSR Layout,118.1,94,Rainy,40,5.9,Bike,12.9121,77.6446,Evening travel demand increased due to rainy weather
+1030,2025-12-10,08:15:00,Central,Shivajinagar,123.7,97,Cloudy,39,5.6,Bike,12.9857,77.6058,Typical morning peak-hour commuter demand
+1031,2025-12-10,14:30:00,Central,Richmond Town,59.2,52,Windy,80,1.4,Bus,12.9634,77.6041,Afternoon demand slightly reduced due to windy conditions
+1032,2025-12-10,19:15:00,Central,Richmond Town,126.3,106,Windy,41,5.0,Metro,12.9634,77.6041,Evening demand slightly reduced due to windy conditions
+1033,2025-12-11,08:15:00,Central,Shivajinagar,121.7,92,Cloudy,46,4.9,Bus,12.9857,77.6058,Typical morning peak-hour commuter demand
+1034,2025-12-11,14:30:00,Central,Shivajinagar,59.0,54,Windy,78,1.1,Car,12.9857,77.6058,Afternoon demand slightly reduced due to windy conditions
+1035,2025-12-11,19:15:00,Central,Richmond Town,143.3,117,Cloudy,24,9.7,Bike,12.9634,77.6041,Typical evening peak-hour commuter demand
+1036,2025-12-12,08:15:00,Central,MG Road,114.0,88,Sunny,43,4.5,Metro,12.9758,77.6045,Typical morning peak-hour commuter demand
+1037,2025-12-12,14:30:00,Central,Shivajinagar,59.5,54,Sunny,76,1.3,Bike,12.9857,77.6058,Normal afternoon demand under sunny conditions
+1038,2025-12-12,19:15:00,North,Yelahanka,99.4,83,Rainy,60,2.4,Bus,13.1007,77.5963,Evening travel demand increased due to rainy weather
+1039,2025-12-13,08:15:00,South,Jayanagar,98.7,87,Rainy,49,3.4,Bus,12.9308,77.5838,Morning travel demand increased due to rainy weather
+1040,2025-12-13,14:30:00,West,Rajajinagar,34.4,30,Sunny,98,0.7,Metro,12.9915,77.5525,Normal afternoon demand under sunny conditions
+1041,2025-12-13,19:15:00,South,HSR Layout,102.7,84,Sunny,49,3.4,Metro,12.9121,77.6446,Typical evening peak-hour commuter demand
+1042,2025-12-14,08:15:00,East,Marathahalli,126.7,112,Rainy,38,5.6,Bus,12.9591,77.6974,Morning travel demand increased due to rainy weather
+1043,2025-12-14,14:30:00,North,Yelahanka,37.4,30,Windy,94,0.7,Bus,13.1007,77.5963,Afternoon demand slightly reduced due to windy conditions
+1044,2025-12-14,19:15:00,North,Malleshwaram,96.8,76,Cloudy,56,2.6,Metro,13.0035,77.5709,Typical evening peak-hour commuter demand
+1045,2025-12-15,08:15:00,East,Whitefield,111.6,103,Cloudy,41,4.7,Car,12.9698,77.75,Typical morning peak-hour commuter demand
+1046,2025-12-15,14:30:00,North,Hebbal,44.6,35,Cloudy,93,0.8,Bike,13.0358,77.597,Normal afternoon demand under cloudy conditions
+1047,2025-12-15,19:15:00,North,Yelahanka,83.2,66,Sunny,72,2.3,Bus,13.1007,77.5963,Typical evening peak-hour commuter demand
+1048,2025-12-16,08:15:00,South,HSR Layout,88.3,67,Foggy,61,2.5,Bike,12.9121,77.6446,Morning demand slightly reduced due to foggy conditions
+1049,2025-12-16,14:30:00,North,Hebbal,48.6,41,Rainy,87,0.9,Car,13.0358,77.597,Afternoon travel demand increased due to rainy weather
+1050,2025-12-16,19:15:00,West,Vijayanagar,69.0,53,Cloudy,73,1.9,Car,12.9719,77.529,Typical evening peak-hour commuter demand
+1051,2025-12-17,08:15:00,North,Yelahanka,73.2,60,Foggy,71,1.5,Scooter,13.1007,77.5963,Morning demand slightly reduced due to foggy conditions
+1052,2025-12-17,14:30:00,North,Yelahanka,40.2,38,Cloudy,90,0.7,Bus,13.1007,77.5963,Normal afternoon demand under cloudy conditions
+1053,2025-12-17,19:15:00,South,Koramangala,99.1,79,Sunny,59,2.6,Bike,12.9352,77.6245,Typical evening peak-hour commuter demand
+1054,2025-12-18,08:15:00,South,Koramangala,102.1,78,Sunny,57,3.1,Metro,12.9352,77.6245,Typical morning peak-hour commuter demand
+1055,2025-12-18,14:30:00,East,Whitefield,58.1,50,Sunny,80,1.3,Metro,12.9698,77.75,Normal afternoon demand under sunny conditions
+1056,2025-12-18,19:15:00,South,HSR Layout,97.6,83,Sunny,66,2.4,Bus,12.9121,77.6446,Typical evening peak-hour commuter demand
+1057,2025-12-19,08:15:00,West,Nagarbhavi,64.7,54,Sunny,74,1.7,Car,12.9587,77.5041,Typical morning peak-hour commuter demand
+1058,2025-12-19,14:30:00,Central,Shivajinagar,62.5,54,Cloudy,78,1.4,Scooter,12.9857,77.6058,Normal afternoon demand under cloudy conditions
+1059,2025-12-19,19:15:00,West,Nagarbhavi,63.4,49,Sunny,73,1.2,Bus,12.9587,77.5041,Typical evening peak-hour commuter demand
+1060,2025-12-20,08:15:00,Central,MG Road,109.9,94,Foggy,44,4.0,Metro,12.9758,77.6045,Morning demand slightly reduced due to foggy conditions
+1061,2025-12-20,14:30:00,North,Hebbal,49.1,47,Rainy,89,1.0,Bus,13.0358,77.597,Afternoon travel demand increased due to rainy weather
+1062,2025-12-20,19:15:00,West,Vijayanagar,83.1,75,Rainy,60,2.2,Bus,12.9719,77.529,Evening travel demand increased due to rainy weather
+1063,2025-12-21,08:15:00,Central,Shivajinagar,129.2,117,Cloudy,38,5.8,Scooter,12.9857,77.6058,Typical morning peak-hour commuter demand
+1064,2025-12-21,14:30:00,East,Whitefield,54.6,51,Sunny,87,1.2,Scooter,12.9698,77.75,Normal afternoon demand under sunny conditions
+1065,2025-12-21,19:15:00,South,Koramangala,110.3,97,Cloudy,44,4.9,Metro,12.9352,77.6245,Typical evening peak-hour commuter demand
+1066,2025-12-22,08:15:00,North,Yelahanka,74.1,66,Sunny,72,1.8,Bus,13.1007,77.5963,Typical morning peak-hour commuter demand
+1067,2025-12-22,14:30:00,West,Nagarbhavi,39.4,35,Rainy,93,0.8,Bus,12.9587,77.5041,Afternoon travel demand increased due to rainy weather
+1068,2025-12-22,19:15:00,East,Marathahalli,108.9,95,Foggy,44,4.2,Scooter,12.9591,77.6974,Evening demand slightly reduced due to foggy conditions
+1069,2025-12-23,08:15:00,West,Nagarbhavi,67.4,55,Sunny,81,1.5,Metro,12.9587,77.5041,Typical morning peak-hour commuter demand
+1070,2025-12-23,14:30:00,South,Jayanagar,46.8,40,Sunny,93,0.9,Metro,12.9308,77.5838,Normal afternoon demand under sunny conditions
+1071,2025-12-23,19:15:00,North,Malleshwaram,85.0,80,Sunny,64,1.9,Car,13.0035,77.5709,Typical evening peak-hour commuter demand
+1072,2025-12-24,08:15:00,North,Malleshwaram,87.2,78,Sunny,55,3.1,Scooter,13.0035,77.5709,Typical morning peak-hour commuter demand
+1073,2025-12-24,14:30:00,East,Marathahalli,63.5,55,Sunny,84,1.1,Bike,12.9591,77.6974,Normal afternoon demand under sunny conditions
+1074,2025-12-24,19:15:00,North,Malleshwaram,85.1,79,Sunny,64,2.5,Car,13.0035,77.5709,Typical evening peak-hour commuter demand
+1075,2025-12-25,08:15:00,West,Rajajinagar,71.6,64,Sunny,70,2.0,Bus,12.9915,77.5525,Typical morning peak-hour commuter demand
+1076,2025-12-25,14:30:00,North,Malleshwaram,48.7,41,Cloudy,85,0.8,Bike,13.0035,77.5709,Normal afternoon demand under cloudy conditions
+1077,2025-12-25,19:15:00,South,Jayanagar,101.3,76,Sunny,50,3.1,Car,12.9308,77.5838,Typical evening peak-hour commuter demand
+1078,2025-12-26,08:15:00,South,HSR Layout,89.1,67,Sunny,61,2.9,Car,12.9121,77.6446,Typical morning peak-hour commuter demand
+1079,2025-12-26,14:30:00,West,Vijayanagar,33.7,29,Cloudy,97,0.5,Bus,12.9719,77.529,Normal afternoon demand under cloudy conditions
+1080,2025-12-26,19:15:00,East,Marathahalli,110.4,88,Windy,55,3.0,Bike,12.9591,77.6974,Evening demand slightly reduced due to windy conditions
+1081,2025-12-27,08:15:00,South,HSR Layout,100.1,93,Sunny,46,3.9,Scooter,12.9121,77.6446,Typical morning peak-hour commuter demand
+1082,2025-12-27,14:30:00,North,Hebbal,39.0,37,Sunny,91,0.7,Scooter,13.0358,77.597,Normal afternoon demand under sunny conditions
+1083,2025-12-27,19:15:00,South,Koramangala,109.9,87,Sunny,51,3.6,Bike,12.9352,77.6245,Typical evening peak-hour commuter demand
+1084,2025-12-28,08:15:00,South,HSR Layout,101.9,79,Sunny,52,3.2,Bike,12.9121,77.6446,Typical morning peak-hour commuter demand
+1085,2025-12-28,14:30:00,West,Rajajinagar,33.0,27,Sunny,97,0.6,Car,12.9915,77.5525,Normal afternoon demand under sunny conditions
+1086,2025-12-28,19:15:00,Central,MG Road,141.1,125,Cloudy,36,6.2,Metro,12.9758,77.6045,Typical evening peak-hour commuter demand
+1087,2025-12-29,08:15:00,East,Indiranagar,116.3,110,Cloudy,53,4.3,Bus,12.9719,77.6412,Typical morning peak-hour commuter demand
+1088,2025-12-29,14:30:00,North,Malleshwaram,43.5,34,Windy,91,0.9,Bus,13.0035,77.5709,Afternoon demand slightly reduced due to windy conditions
+1089,2025-12-29,19:15:00,East,Indiranagar,119.5,101,Sunny,41,5.5,Bus,12.9719,77.6412,Typical evening peak-hour commuter demand
+1090,2025-12-30,08:15:00,East,Whitefield,120.4,102,Rainy,46,4.0,Bike,12.9698,77.75,Morning travel demand increased due to rainy weather
+1091,2025-12-30,14:30:00,West,Vijayanagar,34.8,27,Sunny,99,0.5,Bus,12.9719,77.529,Normal afternoon demand under sunny conditions
+1092,2025-12-30,19:15:00,East,Marathahalli,129.3,101,Cloudy,24,9.4,Bus,12.9591,77.6974,Typical evening peak-hour commuter demand
+1093,2025-12-31,08:15:00,Central,MG Road,123.8,102,Windy,35,5.4,Bus,12.9758,77.6045,Morning demand slightly reduced due to windy conditions
+1094,2025-12-31,14:30:00,South,HSR Layout,46.5,44,Sunny,86,0.9,Car,12.9121,77.6446,Normal afternoon demand under sunny conditions
+1095,2025-12-31,19:15:00,West,Rajajinagar,79.8,65,Cloudy,69,2.1,Bike,12.9915,77.5525,Typical evening peak-hour commuter demand

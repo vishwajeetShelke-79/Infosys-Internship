@@ -1,0 +1,1001 @@
+TransitID,Date,City,RouteID,RouteName,TransportMode,SourceStop,DestinationStop,Latitude,Longitude,Distance_km,PassengerCount,TripDuration_min,Frequency_per_day,Fare_INR,VehicleCapacity,OccupancyRate,Delay_min,Status
+58,2025-11-30, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Banashankari,Shivajinagar,12.944186,77.615634,17.81,134,106,42,15.98,50,54.5,34,Cancelled
+31,2025-08-14, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Whitefield,Yeshwanthpur,12.955641,77.774511,27.72,1193,55,52,47.33,30,71.8,29,Completed
+305,2025-02-26, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Dasarahalli,Majestic,13.053719,77.510381,28.83,1690,45,20,46.18,100,47.9,16,Delayed
+667,2025-02-06, Bengaluru ,R101, Yelahanka - Majestic ,Bus,KR Market,Dasarahalli,13.103228,77.453213,28.62,1120,110,9,38.18,150,86.4,41,Delayed
+675,2025-01-06, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Whitefield,Majestic,13.076719,77.618026,10.92,712,18,5,52.97,30,58.5,4,Cancelled
+166,2025-05-24, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Whitefield,Dasarahalli,13.117465,77.638781,7.49,1006,51,44,49.27,150,124.7,27,Cancelled
+542,2025-09-30, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Yelahanka,Silk Board,12.855015,77.473992,17.98,1655,28,42,66.86,100,32.6,41,Cancelled
+495,2025-04-28, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Shivajinagar,Majestic,13.175736,77.736667,29.24,340,117,49,70.62,150,45.9,13,Delayed
+101,2025-01-02, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,KR Market,Electronic City,12.852191,77.799399,13.93,324,23,32,64.5,30,96.0,1,Completed
+625,2025-01-14, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Bommanahalli,Dasarahalli,12.921686,77.684472,9.46,1380,21,23,50.46,50,45.2,19,On Time
+133,2025-06-30, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Dasarahalli,Banashankari,12.885407,77.696801,9.38,1474,34,51,29.66,60,84.3,43,
+327,2025-12-19, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Shivajinagar,Yelahanka,12.969035,77.544029,5.8,1689,118,43,61.94,100,95.6,43,Completed
+690,2025-04-23,,R105, RR Nagar - Banashankari ,Metro,Electronic City,Banashankari,12.90842,77.738334,6.01,1390,36,33,90.61,150,59.6,38,Delayed
+723,2025-10-29, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Dasarahalli,Silk Board,12.909396,77.646142,10.55,430,113,24,13.8,30,85.3,31,Cancelled
+258,2025-01-06, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Majestic,Shivajinagar,13.127765,77.789285,3.32,1168,64,14,37.96,40,80.5,8,Completed
+123,2025-02-01, Bengaluru ,R109,CV Raman Nagar - Shivajinagar,Bus,Bommanahalli,Yelahanka,13.166163,77.587444,22.54,303,16,46,78.36,100,85.8,15,On Time
+103,2025-12-13, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Mahadevapura,Bommanahalli,13.149001,77.547053,17.63,1697,53,52,51.17,100,58.8,41,Completed
+149,2025-12-20, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Hebbal,Bommanahalli,13.111303,77.783002,2.53,1182,15,15,72.57,60,1.9,34,Completed
+798,2025-03-17, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,CV Raman Nagar,Shivajinagar,12.907056,77.739401,22.7,1105,164,48,57.41,60,28.0,37,Delayed
+738,2025-05-10, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Yeshwanthpur,Hebbal,13.163937,77.6706,9.05,923,60,33,53.24,30,84.6,5,Cancelled
+823,2025-06-19, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Mahadevapura,Yelahanka,12.932264,77.767881,8.35,634,69,54,41.75,40,47.2,12,Delayed
+361,2025-03-09, Bengaluru ,R104,Bommanahalli - Majestic,Bus,KR Market,Dasarahalli,13.187403,77.495483,18.55,872,116,35,62.68,40,66.7,44,On Time
+227,2025-08-26, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Dasarahalli,RR Nagar,13.199816,77.579838,19.92,345,42,57,68.83,100,62.8,20,Cancelled
+259,2025-12-23, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,KR Market,Banashankari,12.867101,77.773632,14.9,1426,55,42,61.68,60,60.6,3,Cancelled
+418,2025-06-20, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,CV Raman Nagar,Banashankari,12.906053,77.733096,2.06,1446,98,40,65.2,60,-4.9,28,Cancelled
+460,2025-10-02, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,KR Market,Silk Board,12.95382,77.693612,17.93,1469,60,51,23.75,40,10.8,4,Delayed
+61,2025-12-01, Bengaluru ,R103,Mahadevapura - KR Market,Bus,RR Nagar,Electronic City,12.949861,77.710431,8.33,1731,116,55,62.91,50,97.6,17,
+249,2025-05-06, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,RR Nagar,Bommanahalli,13.16986,77.715159,8.75,185,89,23,14.73,40,25.3,0,Completed
+481,2025-02-03, Bengaluru ,R107, Electronic City - Majestic ,Bus,KR Market,Mahadevapura,12.926045,77.636504,14.69,1624,78,18,78.67,30,33.6,16,Completed
+81,2025-10-10, Bengaluru ,R107, Electronic City - Majestic ,Bus,Banashankari,RR Nagar,13.039122,77.780842,24.75,523,29,23,66.97,40,82.0,23,Completed
+536,2025-10-05, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,CV Raman Nagar,Silk Board,13.022739,77.700316,24.46,200,14,32,20.66,40,70.5,11,On Time
+432,2025-12-29, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Banashankari,Bommanahalli,12.862634,77.795956,27.62,1756,101,19,72.47,30,36.4,40,Cancelled
+151,2025-09-20, Bengaluru ,R103,Mahadevapura - KR Market,Bus,Bommanahalli,Yelahanka,12.95756,77.699607,17.42,1752,116,20,17.45,50,50.3,35,Completed
+545,2025-03-01,,R101, Yelahanka - Majestic ,Bus,Silk Board,Shivajinagar,13.175291,77.561397,29.78,967,112,38,66.54,150,86.1,8,
+999,2025-01-24, Bengaluru ,R107,Electronic City - Majestic,Metro,Banashankari,Shivajinagar,12.952805,77.476809,25.52,883,60,22,63.92,30,38.7,12,On Time
+757,2025-05-21, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Shivajinagar,Electronic City,12.969682,77.739839,14.91,967,48,31,65.08,150,89.4,13,On Time
+661,2025-09-14, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Yeshwanthpur,Silk Board,13.085062,77.775262,10.2,83,42,30,37.3,40,94.8,20,On Time
+642,2025-10-30, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Shivajinagar,Hebbal,13.107149,77.746299,27.62,277,109,42,21.01,50,36.3,29,Delayed
+78,2025-05-14, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Silk Board,Yeshwanthpur,13.110045,77.772862,5.54,1004,176,57,72.58,40,84.6,5,Cancelled
+534,2025-08-23, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Yelahanka,CV Raman Nagar,12.98747,77.734136,7.06,207,44,55,26.1,50,39.2,16,Completed
+440,2025-11-10, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Yeshwanthpur,Yelahanka,13.059923,77.762844,25.63,345,21,56,67.97,60,72.0,27,Completed
+248,2025-10-10, Bengaluru ,R108, Dasarahalli - Majestic ,,Silk Board,Dasarahalli,12.938252,77.604902,12.12,230,46,34,39.69,30,59.3,24,Cancelled
+46,2025-06-03, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Yelahanka,CV Raman Nagar,12.910713,77.715084,14.51,1757,102,6,58.65,60,76.0,39,Cancelled
+592,2025-11-02, Bengaluru ,R107, Electronic City - Majestic ,Bus,RR Nagar,Mahadevapura,12.989157,77.769329,4.82,849,29,35,54.97,150,78.8,35,Completed
+290,2025-06-14, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,CV Raman Nagar,RR Nagar,13.05136,77.52628,17.17,1655,18,40,70.34,100,87.0,7,On Time
+598,2025-05-07, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Hebbal,Dasarahalli,13.161556,77.519102,15.85,963,30,15,39.66,30,65.2,12,Delayed
+507,2025-07-13, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Majestic,Yeshwanthpur,13.179381,77.753888,6.66,1689,14,5,41.23,50,63.1,20,Cancelled
+342,2025-01-03, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Yeshwanthpur,Yelahanka,13.185317,77.502726,5.93,1451,37,58,51.86,60,25.3,4,Completed
+615,2025-09-10, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Hebbal,Whitefield,12.866853,77.48632,15.75,319,76,44,44.65,100,82.2,3,Completed
+310,2025-09-13, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Bommanahalli,Majestic,12.851744,77.611944,2.05,786,58,27,48.47,50,70.4,55,Cancelled
+3,2025-07-29, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Yeshwanthpur,Majestic,13.198195,77.585308,1.45,1065,7,52,50.01,50,70.5,10,Completed
+368,2025-10-07, Bengaluru ,R110, Hebbal - Yeshwanthpur ,,Yeshwanthpur,Silk Board,12.916207,77.557198,26.8,1365,86,7,52.15,100,64.8,6,Completed
+202,2025-03-09, Bengaluru ,R103,Mahadevapura - KR Market,Bus,Bommanahalli,Silk Board,13.06422,77.563739,24.32,1172,88,40,36.44,40,55.6,0,Cancelled
+888,2025-04-25, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Shivajinagar,Electronic City,12.993091,77.601838,3.12,551,59,32,17.22,30,63.2,33,Cancelled
+454,2025-05-11, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,KR Market,Shivajinagar,13.105865,77.570438,15.58,1332,78,6,46.51,40,-4.1,14,Delayed
+618,2025-02-21, Bengaluru ,R107, Electronic City - Majestic ,Metro,Whitefield,Shivajinagar,12.87636,77.459014,29.57,275,70,52,35.0,150,63.5,36,On Time
+490,2025-07-20, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Majestic,Yeshwanthpur,13.051359,77.513173,15.66,416,70,15,24.81,150,66.1,13,Completed
+994,2025-02-23, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Hebbal,Mahadevapura,13.14609,77.483014,5.29,1664,102,23,16.24,150,97.9,16,On Time
+945,2025-09-05, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Whitefield,Silk Board,13.117519,77.726724,4.46,398,84,10,60.86,150,72.1,40,On Time
+268,2025-08-10, Bengaluru ,R103,Mahadevapura - KR Market,Metro,Banashankari,KR Market,12.892559,77.612547,11.35,837,46,59,55.86,60,92.7,89,Delayed
+840,2025-06-02, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Mahadevapura,Dasarahalli,13.190976,77.695431,14.74,870,46,9,23.57,100,68.8,29,Delayed
+733,2025-04-11, Bengaluru ,R106, Whitefield - Silk Board ,Metro,KR Market,Banashankari,13.000407,77.779442,16.03,199,85,11,35.17,30,61.6,31,Cancelled
+63,2025-02-15, Bengaluru ,R101, Yelahanka - Majestic ,Metro,CV Raman Nagar,Hebbal,13.151432,77.696253,12.66,1619,27,27,22.01,40,48.5,10,Completed
+13,2025-06-02, Bengaluru ,R110,Hebbal - Yeshwanthpur,Bus,Silk Board,Electronic City,12.860612,77.784128,9.38,1223,46,42,41.0,100,49.5,19,Delayed
+99,2025-07-18, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,RR Nagar,Whitefield,13.050731,77.723635,26.41,277,52,11,13.94,100,88.9,20,Cancelled
+162,2025-06-27,,R109, CV Raman Nagar - Shivajinagar ,Metro,Dasarahalli,Electronic City,13.127491,77.458464,10.38,1489,91,49,32.99,40,29.3,39,
+796,2025-08-09, Bengaluru ,R106,Whitefield - Silk Board,Bus,Yeshwanthpur,Electronic City,13.178268,77.702879,27.47,151,53,30,58.19,40,81.6,28,
+314,2025-05-13, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,CV Raman Nagar,Majestic,12.918363,77.664432,29.61,1631,68,59,55.9,100,32.2,44,On Time
+182,2025-05-25, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Whitefield,Yeshwanthpur,13.148267,77.589555,7.88,957,90,50,38.81,50,75.1,28,On Time
+673,2025-02-20, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Shivajinagar,CV Raman Nagar,12.959382,77.617306,13.02,653,79,34,31.61,60,53.2,26,Delayed
+560,2025-02-13, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Whitefield,Hebbal,13.056364,77.608614,24.67,1225,17,12,28.73,60,29.0,9,Delayed
+724,2025-09-05, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,CV Raman Nagar,Bommanahalli,13.096289,77.762716,27.48,697,71,5,31.23,30,71.7,43,Delayed
+562,2025-02-16, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Yelahanka,KR Market,13.058873,77.735123,20.57,786,119,57,140.88,100,101.4,28,Cancelled
+55,2025-02-05,,R107, Electronic City - Majestic ,Metro,KR Market,Yelahanka,13.023679,77.655556,22.66,561,52,10,19.32,40,30.3,3,Completed
+434,2025-03-07, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Hebbal,Electronic City,12.921702,77.735466,28.37,527,57,5,69.02,100,33.8,41,Completed
+28,2025-05-16, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Silk Board,KR Market,12.921692,77.506353,24.24,747,78,37,116.53,40,74.9,8,Delayed
+916,2025-08-02, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Silk Board,Mahadevapura,12.971502,77.693493,12.24,1325,15,12,49.57,40,43.3,44,Completed
+785,2025-11-10, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Electronic City,Silk Board,13.09616,77.608315,28.77,324,82,7,32.91,40,73.0,8,Delayed
+406,2025-12-28, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Yeshwanthpur,Yelahanka,12.996934,77.756233,7.3,981,120,56,74.11,50,92.9,31,
+736,2025-10-01, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,RR Nagar,Yelahanka,13.030884,77.635291,14.88,1802,12,31,27.6,100,30.4,35,On Time
+835,2025-03-29, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Whitefield,CV Raman Nagar,12.904977,77.742279,7.35,522,71,10,60.32,40,42.2,33,On Time
+643,2025-04-11, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Dasarahalli,Banashankari,13.056941,77.799771,16.07,348,16,19,34.57,60,41.3,17,Cancelled
+446,2025-02-26, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Mahadevapura,Shivajinagar,13.079651,77.530463,20.02,1695,119,21,61.77,60,30.0,11,Delayed
+575,2025-01-06, Bengaluru ,R107,Electronic City - Majestic,Bus,Bommanahalli,Silk Board,12.873762,77.502681,4.83,1083,86,42,62.95,50,77.7,37,Cancelled
+617,2025-10-09,,R109, CV Raman Nagar - Shivajinagar ,Bus,Bommanahalli,Banashankari,13.179427,77.577435,13.15,1724,18,29,56.47,40,51.4,9,Completed
+800,2025-01-31, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Bommanahalli,Banashankari,12.884427,77.581702,12.37,981,64,1,11.21,40,114.4,29,
+352,2025-10-14, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Shivajinagar,Hebbal,13.036065,77.458612,12.88,883,85,15,65.81,30,32.8,19,Completed
+135,2025-08-16, Bengaluru ,R105, RR Nagar - Banashankari ,,Shivajinagar,KR Market,13.122291,77.754046,9.4,1484,16,44,6.43,150,79.9,7,On Time
+889,2025-11-21, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Hebbal,Yelahanka,13.178929,77.730503,10.1,690,21,21,40.66,150,37.1,21,On Time
+930,2025-11-24, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Yeshwanthpur,Mahadevapura,12.937879,77.667298,29.21,240,118,46,50.85,30,60.9,23,Cancelled
+181,2025-12-24, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Hebbal,Shivajinagar,13.168018,77.629747,15.84,1287,99,34,25.56,30,29.9,19,Cancelled
+727,2025-07-05, Bengaluru ,R110, Hebbal - Yeshwanthpur ,,RR Nagar,Hebbal,13.044354,77.472614,24.11,331,62,34,141.19,50,41.1,38,
+261,2025-09-23, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Shivajinagar,Yeshwanthpur,12.869142,77.507338,6.23,980,50,51,33.23,60,74.6,27,Completed
+831,2025-02-22, Bengaluru ,R107, Electronic City - Majestic ,Bus,Bommanahalli,Electronic City,13.139946,77.645514,12.56,1683,81,52,34.61,100,87.6,21,
+301,2025-02-09, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Mahadevapura,Banashankari,12.976381,77.47398,3.11,1019,34,14,51.49,100,95.3,43,Completed
+160,2025-08-17, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Whitefield,Mahadevapura,13.030908,77.711992,19.76,1165,47,14,21.59,40,62.2,7,On Time
+112,2025-02-28, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Shivajinagar,Bommanahalli,13.081301,77.67758,12.85,1371,92,6,72.81,60,92.2,24,Completed
+382,2025-05-29, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Hebbal,Shivajinagar,12.986739,77.78955,4.4,1621,74,49,38.81,50,58.3,45,Cancelled
+336,2025-09-19, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Shivajinagar,RR Nagar,13.075127,77.473952,5.2,805,47,33,40.01,40,73.2,44,Delayed
+513,2025-12-05, Bengaluru ,R104,Bommanahalli - Majestic,Metro,KR Market,Yelahanka,12.98305,77.559014,7.41,1490,81,21,71.95,40,31.4,41,
+149,2025-12-20, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Hebbal,Bommanahalli,13.111303,77.783002,2.53,1182,15,15,72.57,60,1.9,34,Completed
+110,2025-08-22, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Shivajinagar,Yelahanka,13.069535,77.458596,23.11,1370,38,52,72.14,50,80.5,11,Cancelled
+228,2025-06-21, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,CV Raman Nagar,Hebbal,12.981007,77.509082,8.61,1563,47,29,108.99,30,31.1,17,Delayed
+805,2025-04-04, Bengaluru ,R107, Electronic City - Majestic ,Bus,Electronic City,KR Market,13.057761,77.546179,2.06,516,73,51,17.09,150,68.1,39,Completed
+497,2025-02-09, Bengaluru ,R106,Whitefield - Silk Board,Bus,Mahadevapura,KR Market,13.08605,77.615119,23.58,1575,72,26,41.08,50,95.9,45,On Time
+473,2025-10-10, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Hebbal,Bommanahalli,12.984189,77.777897,29.19,1360,31,45,76.5,100,97.1,20,Cancelled
+659,2025-05-14, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Silk Board,Electronic City,12.970699,77.766772,7.54,264,111,41,81.97,30,59.1,37,Completed
+691,2025-08-25, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Bommanahalli,Whitefield,12.970525,77.725887,24.6,1790,116,43,59.2,30,32.5,30,Completed
+442,2025-02-17, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Banashankari,Shivajinagar,13.16384,77.792299,13.58,1765,10,19,16.59,150,49.1,9,On Time
+322,2025-08-14, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,RR Nagar,Whitefield,13.133453,77.46081,6.41,660,13,51,17.24,60,67.0,37,Delayed
+874,2025-08-18, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,KR Market,Yeshwanthpur,12.970786,77.699636,25.85,597,34,56,49.53,150,63.8,38,On Time
+136,2025-04-20, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Whitefield,Yeshwanthpur,13.024751,77.477793,3.93,831,15,39,35.08,100,43.3,80,On Time
+804,2025-07-02, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Dasarahalli,KR Market,13.028857,77.543276,13.45,1607,110,54,59.26,150,96.9,60,Delayed
+847,2025-10-12,,R109, CV Raman Nagar - Shivajinagar ,,Hebbal,Majestic,12.896623,77.480651,16.1,188,103,12,14.86,100,48.4,77,Completed
+22,2025-03-20, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Yelahanka,Silk Board,13.069984,77.4928,21.61,86,41,41,24.26,100,92.8,0,Completed
+692,2025-08-14, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Yeshwanthpur,CV Raman Nagar,13.10732,77.466352,7.01,1496,10,29,45.19,150,65.3,12,On Time
+337,2025-04-22, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,CV Raman Nagar,Shivajinagar,13.03275,77.544844,26.63,1582,91,55,24.11,100,40.6,6,Delayed
+541,2025-12-02, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Bommanahalli,Majestic,13.05343,77.563865,27.46,953,147,37,37.35,150,30.9,13,Completed
+112,2025-12-01, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Dasarahalli,Mahadevapura,13.121723,77.474037,18.41,747,112,60,66.92,30,86.6,2,Cancelled
+931,2025-06-13, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Yelahanka,Yeshwanthpur,12.876662,77.777609,17.84,1565,83,9,62.48,40,94.1,12,On Time
+463,2025-05-26, Bengaluru ,R106,Whitefield - Silk Board,Metro,Mahadevapura,Yelahanka,12.943108,77.690329,26.65,84,74,25,32.07,100,38.2,2,Cancelled
+811,2025-11-19, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Shivajinagar,Bommanahalli,12.912732,77.795234,27.61,1286,41,42,77.07,30,46.1,7,Delayed
+132,2025-12-03, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Hebbal,Yelahanka,12.911224,77.549632,10.26,991,76,58,41.49,60,50.0,75,Completed
+861,2025-02-02, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,CV Raman Nagar,Yelahanka,13.013418,77.59294,20.09,607,78,33,63.2,60,50.1,38,Completed
+443,2025-12-13, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,KR Market,Yelahanka,13.057748,77.663801,13.88,817,40,37,19.34,150,36.6,37,Cancelled
+569,2025-11-05, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Shivajinagar,Hebbal,12.954399,77.67236,13.74,960,30,11,62.34,60,31.1,45,Cancelled
+553,2025-04-22, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Banashankari,Electronic City,13.068288,77.573833,24.58,857,67,9,47.99,40,25.2,19,On Time
+380,2025-10-25, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Shivajinagar,CV Raman Nagar,13.15317,77.472606,17.06,1590,43,15,78.84,100,74.3,31,On Time
+121,2025-03-01, Bengaluru ,R108, Dasarahalli - Majestic ,,Whitefield,Dasarahalli,13.030413,77.778306,6.83,828,105,41,32.16,100,65.2,44,Delayed
+412,2025-10-23, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Bommanahalli,Yelahanka,13.110031,77.784392,7.38,155,101,22,76.13,30,91.4,23,Completed
+993,2025-09-07, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Shivajinagar,Yeshwanthpur,12.870667,77.478993,21.96,1344,38,21,41.66,50,50.6,35,Delayed
+459,2025-04-07, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Yelahanka,Bommanahalli,13.048842,77.452563,26.33,1467,70,52,34.98,150,72.9,26,Cancelled
+668,2025-04-12, Bengaluru ,R101, Yelahanka - Majestic ,Metro,KR Market,Silk Board,12.971494,77.535156,25.9,526,105,26,10.49,150,68.5,5,Delayed
+259,2025-12-23, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,KR Market,Banashankari,12.867101,77.773632,14.9,1426,55,42,61.68,60,60.6,3,Cancelled
+743,2025-07-17, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Whitefield,Mahadevapura,13.074195,77.57744,14.68,509,87,34,12.58,40,118.4,27,Completed
+272,2025-02-17, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Bommanahalli,Hebbal,13.140556,77.695898,20.42,514,119,58,34.72,30,61.7,18,Cancelled
+300,2025-06-11,,R101, Yelahanka - Majestic ,Metro,KR Market,Hebbal,12.863883,77.587483,14.89,1381,16,37,25.47,40,41.5,5,On Time
+232,2025-02-14, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,RR Nagar,KR Market,13.189022,77.60978,7.78,1355,110,59,32.86,60,82.6,39,Cancelled
+359,2025-02-04, Bengaluru ,R105,RR Nagar - Banashankari,Bus,RR Nagar,Mahadevapura,13.131242,77.620915,16.75,787,63,36,61.06,50,47.6,31,Delayed
+910,2025-10-17, Bengaluru ,R104,Bommanahalli - Majestic,Metro,Electronic City,Yelahanka,13.014117,77.52527,21.49,726,106,5,10.09,30,80.9,30,On Time
+530,2025-06-03, Bengaluru ,R106, Whitefield - Silk Board ,,CV Raman Nagar,Yelahanka,13.055263,77.589002,20.52,458,8,57,43.47,40,73.0,49,Cancelled
+606,2025-11-26, Bengaluru ,R107, Electronic City - Majestic ,Metro,Banashankari,Yelahanka,13.179101,77.612841,24.0,507,114,49,35.49,40,26.9,13,Delayed
+505,2025-09-18, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Banashankari,KR Market,13.111468,77.735685,19.24,375,87,43,80.0,100,26.6,9,
+338,2025-01-31, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Mahadevapura,Dasarahalli,13.177296,77.717891,11.82,376,117,6,128.94,60,63.7,27,On Time
+250,2025-03-24, Bengaluru ,R107, Electronic City - Majestic ,Metro,CV Raman Nagar,Whitefield,13.03413,77.719557,10.95,914,21,9,26.64,60,106.1,41,Completed
+30,2025-01-26, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Electronic City,Whitefield,13.020282,77.768226,17.37,1697,-3,38,54.48,150,88.6,28,Cancelled
+325,2025-10-27, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Yeshwanthpur,Silk Board,13.042636,77.487466,15.24,511,24,42,48.97,30,75.8,4,Cancelled
+991,2025-03-09, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Hebbal,Whitefield,12.93178,77.797008,22.44,1780,73,58,77.18,150,32.1,-3,Delayed
+819,2025-08-18, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Banashankari,Shivajinagar,13.002861,77.774448,14.32,160,76,7,11.82,60,40.3,30,On Time
+942,2025-09-15, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Yelahanka,Yeshwanthpur,13.175685,77.51103,11.06,1157,48,34,25.55,50,67.9,41,Delayed
+438,2025-05-01, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,CV Raman Nagar,Banashankari,13.115185,77.6819,11.39,1773,50,47,19.01,150,32.6,31,Cancelled
+41,2025-03-24, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Yelahanka,Yeshwanthpur,12.940696,77.692922,24.23,1021,42,45,33.81,100,40.9,30,Cancelled
+17,2025-12-10, Bengaluru ,R107, Electronic City - Majestic ,Bus,Whitefield,Majestic,13.16909,77.784117,29.56,1569,78,37,21.28,150,71.8,12,Completed
+385,2025-03-01, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Majestic,Silk Board,13.187826,77.465338,11.18,1151,110,51,31.66,30,121.9,44,Completed
+103,2025-01-14, Bengaluru ,R107, Electronic City - Majestic ,Metro,RR Nagar,Silk Board,12.920322,77.458481,20.67,551,110,51,18.25,30,69.5,26,Cancelled
+212,2025-03-13, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,RR Nagar,Whitefield,12.948397,77.534726,8.23,972,12,-2,77.74,40,52.3,-6,Completed
+772,2025-05-17, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Banashankari,Dasarahalli,13.093419,77.757125,28.06,478,51,59,60.2,40,86.1,33,Delayed
+61,2025-12-01, Bengaluru ,R103,Mahadevapura - KR Market,Bus,RR Nagar,Electronic City,12.949861,77.710431,8.33,1731,116,55,62.91,50,97.6,17,
+863,2025-06-04, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Dasarahalli,Majestic,13.019759,77.722365,12.16,779,35,15,26.55,50,80.5,30,Delayed
+515,2025-03-13, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Mahadevapura,CV Raman Nagar,13.134327,77.739622,28.83,1047,22,39,45.26,40,94.8,15,Delayed
+157,2025-03-19, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Bommanahalli,Hebbal,13.133458,77.672348,26.17,1513,34,48,79.83,100,68.5,4,On Time
+197,2025-01-27, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Whitefield,Yeshwanthpur,12.927045,77.762856,26.05,1362,84,51,67.13,60,92.6,16,On Time
+11,2025-07-20, Bengaluru ,R103,Mahadevapura - KR Market,Metro,KR Market,Shivajinagar,12.955911,77.780234,14.95,390,36,28,57.71,50,27.1,9,Delayed
+764,2025-07-24, Bengaluru ,R101,Yelahanka - Majestic,Bus,RR Nagar,Mahadevapura,12.890846,77.703914,14.33,799,113,31,14.06,150,29.8,45,
+676,2025-05-17, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Banashankari,CV Raman Nagar,12.917899,77.692808,11.21,273,29,21,28.84,150,42.5,17,Completed
+66,2025-04-13, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Silk Board,Shivajinagar,13.04987,77.668941,5.52,381,36,29,34.06,30,84.9,6,Cancelled
+812,2025-08-23, Bengaluru ,R104,Bommanahalli - Majestic,Bus,Banashankari,RR Nagar,12.9579,77.78548,18.82,532,100,24,43.48,50,50.5,7,Completed
+962,2025-02-21, Bengaluru ,R107, Electronic City - Majestic ,Bus,Dasarahalli,Shivajinagar,12.9168,77.504923,4.41,634,93,38,-10.74,100,44.8,2,Delayed
+140,2025-05-26, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Electronic City,Yelahanka,12.856621,77.724993,12.41,1698,79,59,75.0,100,48.4,12,Delayed
+281,2025-04-24, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Mahadevapura,Yeshwanthpur,13.154792,77.715318,15.24,771,25,26,60.19,100,27.4,24,On Time
+724,2025-09-05, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,CV Raman Nagar,Bommanahalli,13.096289,77.762716,27.48,697,71,5,31.23,30,71.7,43,Delayed
+951,2025-01-21, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Whitefield,RR Nagar,13.046981,77.60308,9.85,1492,108,54,48.74,30,51.0,5,Completed
+169,2025-03-04, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Shivajinagar,CV Raman Nagar,13.151157,77.668166,2.64,1448,68,56,32.75,60,43.2,10,On Time
+118,2025-09-11, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yelahanka,Mahadevapura,12.970135,77.76366,24.94,1183,31,58,13.93,50,93.5,30,Cancelled
+124,2025-03-09, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Yelahanka,CV Raman Nagar,13.079031,77.722563,18.07,796,62,12,38.22,150,77.3,21,Cancelled
+304,2025-10-20, Bengaluru ,R108,Dasarahalli - Majestic,Bus,Bommanahalli,Dasarahalli,13.077644,77.638327,17.07,1051,57,33,77.91,40,43.9,34,Cancelled
+996,2025-12-21, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Bommanahalli,Electronic City,12.935873,77.639229,25.97,841,29,29,29.14,30,61.7,5,Cancelled
+201,2025-03-31, Bengaluru ,R106, Whitefield - Silk Board ,Metro,KR Market,Yeshwanthpur,13.114375,77.691415,24.93,348,37,12,13.39,60,94.5,41,Cancelled
+34,2025-12-10, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Bommanahalli,RR Nagar,13.02208,77.655315,3.67,816,77,8,21.24,40,32.5,14,Delayed
+40,2025-12-01, Bengaluru ,R106,Whitefield - Silk Board,Bus,Yelahanka,Bommanahalli,13.189054,77.643114,10.82,1504,20,22,58.05,50,47.4,8,Delayed
+486,2025-08-16, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Banashankari,Yeshwanthpur,13.172915,77.735078,29.42,791,106,24,50.55,50,38.0,29,Delayed
+882,2025-01-08, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,CV Raman Nagar,KR Market,13.070427,77.460133,10.52,161,102,14,51.45,60,26.8,7,Delayed
+474,2025-05-06, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Dasarahalli,Majestic,13.075423,77.78464,29.9,457,45,50,78.71,30,65.9,10,On Time
+333,2025-03-12, Bengaluru ,R105,RR Nagar - Banashankari,Metro,CV Raman Nagar,Majestic,13.069974,77.777569,29.64,630,35,6,30.26,100,59.9,19,On Time
+109,2025-02-28, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Banashankari,Silk Board,12.942412,77.453221,4.94,1424,71,28,41.83,50,77.8,35,Cancelled
+199,2025-03-25, Bengaluru ,R103, Mahadevapura - KR Market ,,Dasarahalli,Yelahanka,12.996925,77.624249,7.38,508,114,21,24.77,50,76.8,35,Completed
+323,2025-10-16, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,RR Nagar,Banashankari,12.988373,77.47021,12.85,1340,55,10,22.42,100,34.0,20,Completed
+520,2025-10-23, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Yelahanka,Bommanahalli,13.048399,77.477205,6.23,1368,77,29,26.85,150,110.2,35,Completed
+998,2025-11-11, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Whitefield,Dasarahalli,12.933655,77.796868,16.06,691,90,16,77.62,60,39.4,1,
+648,2025-04-27, Bengaluru ,R101, Yelahanka - Majestic ,Bus,KR Market,Hebbal,13.018399,77.495839,10.59,33,47,20,139.64,40,51.8,32,Completed
+144,2025-04-09, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Silk Board,Mahadevapura,12.876149,77.586623,25.36,1536,110,25,12.32,60,42.9,38,Cancelled
+933,2025-06-08, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,RR Nagar,KR Market,13.071733,77.53024,21.81,1533,69,18,56.83,40,45.0,23,Completed
+944,2025-11-29, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Hebbal,Bommanahalli,13.1735,77.566509,8.22,1668,27,28,55.08,30,118.8,26,Cancelled
+472,2025-02-16, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Whitefield,Yelahanka,12.959468,77.469808,29.28,860,84,50,19.47,150,90.2,26,Cancelled
+35,2025-12-12, Bengaluru ,R106,Whitefield - Silk Board,Bus,Whitefield,Banashankari,13.13918,77.648917,28.89,669,15,14,51.02,150,37.0,24,Delayed
+449,2025-11-25, Bengaluru ,R107, Electronic City - Majestic ,Metro,Majestic,Whitefield,13.052584,77.46839,12.8,332,68,6,79.82,150,70.4,32,Completed
+694,2025-09-16, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Majestic,Shivajinagar,12.908553,77.672336,5.93,1555,65,57,48.12,60,60.0,16,Cancelled
+247,2025-06-15, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yeshwanthpur,KR Market,13.042684,77.561606,17.96,360,116,44,74.15,30,76.1,40,Completed
+579,2025-07-20, Bengaluru ,R107, Electronic City - Majestic ,Metro,Silk Board,KR Market,13.124065,77.511375,4.3,703,101,20,47.57,50,48.1,21,
+923,2025-01-02, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,,Hebbal,Bommanahalli,13.033722,77.518948,10.66,393,100,44,34.99,30,79.1,3,Delayed
+753,2025-05-06, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,RR Nagar,Yelahanka,13.054425,77.604882,10.05,1297,82,44,61.14,40,36.9,36,Cancelled
+178,2025-07-31, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Hebbal,Banashankari,12.891403,77.699626,7.24,2155,43,50,25.31,100,64.1,31,On Time
+120,2025-02-01, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,RR Nagar,Dasarahalli,13.179092,77.459104,27.41,321,115,27,65.17,40,81.1,7,Completed
+371,2025-02-12, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,KR Market,Silk Board,12.945268,77.610929,19.43,206,65,26,35.24,150,52.3,74,Cancelled
+490,2025-07-20, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Majestic,Yeshwanthpur,13.051359,77.513173,15.66,416,70,15,24.81,150,66.1,13,Completed
+902,2025-10-14, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Banashankari,Shivajinagar,12.887817,77.656746,18.86,1185,87,34,14.78,50,43.3,8,Delayed
+231,2025-08-05, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Mahadevapura,Silk Board,13.161891,77.769037,6.3,78,86,10,61.18,30,43.1,24,On Time
+701,2025-02-02, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Hebbal,Whitefield,12.897734,77.532715,16.71,1235,53,58,46.36,150,77.8,35,Cancelled
+789,2025-04-16, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,RR Nagar,Dasarahalli,13.084129,77.684245,17.52,1682,82,26,41.65,50,66.2,18,
+65,2025-08-18, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Silk Board,Shivajinagar,13.14407,77.574079,12.02,1645,118,43,19.07,100,68.6,20,Cancelled
+166,2025-05-24, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Whitefield,Dasarahalli,13.117465,77.638781,7.49,1006,51,44,49.27,150,124.7,27,Cancelled
+229,2025-01-27, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yeshwanthpur,Whitefield,13.17616,77.791858,16.51,1310,24,32,35.99,30,55.3,19,On Time
+310,2025-09-13, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Bommanahalli,Majestic,12.851744,77.611944,2.05,786,58,27,48.47,50,70.4,55,Cancelled
+377,2025-12-23, Bengaluru ,R101, Yelahanka - Majestic ,Bus,RR Nagar,Whitefield,12.920247,77.578488,20.59,283,76,30,59.98,100,80.4,41,Completed
+224,2025-01-15, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,,Whitefield,KR Market,13.080321,77.764035,23.95,709,21,52,40.08,150,6.6,34,Cancelled
+903,2025-09-25,,R105,RR Nagar - Banashankari,,Bommanahalli,Majestic,12.997974,77.74007,7.98,1155,120,21,90.36,150,44.5,21,Delayed
+167,2025-01-06, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,CV Raman Nagar,Hebbal,12.992023,77.546843,18.41,807,108,28,41.73,60,84.8,35,On Time
+373,2025-06-22, Bengaluru ,R105,RR Nagar - Banashankari,Bus,CV Raman Nagar,Majestic,13.132059,77.548669,17.88,324,78,35,24.3,60,64.5,27,On Time
+582,2025-03-20, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Shivajinagar,CV Raman Nagar,13.025362,77.669259,29.92,422,60,17,65.3,100,47.4,17,Cancelled
+257,2025-11-05, Bengaluru ,R102,Hebbal - Shivajinagar,Bus,Silk Board,Electronic City,13.008055,77.674809,15.35,1139,108,17,29.25,100,72.4,37,Completed
+73,2025-03-14, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Electronic City,Yelahanka,12.893917,77.607841,11.45,1016,116,45,61.95,30,80.9,29,On Time
+393,2025-05-17, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Hebbal,CV Raman Nagar,12.993515,77.753066,14.29,648,20,20,22.78,40,65.5,5,Cancelled
+89,2025-03-03, Bengaluru ,R107, Electronic City - Majestic ,Bus,Shivajinagar,CV Raman Nagar,12.9006,77.488053,16.34,293,66,18,61.4,150,71.6,38,Delayed
+395,2025-12-07, Bengaluru ,R102,Hebbal - Shivajinagar,Metro,Silk Board,Shivajinagar,13.182472,77.487971,23.24,57,72,12,10.97,50,27.0,26,Cancelled
+73,2025-03-21, Bengaluru ,R101,Yelahanka - Majestic,Metro,KR Market,Silk Board,12.85788,77.767724,6.98,753,11,25,51.74,40,80.1,11,Delayed
+188,2025-04-11, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Yeshwanthpur,Silk Board,13.11277,77.711815,27.21,1651,17,9,15.12,50,57.9,1,
+603,2025-01-23, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Dasarahalli,Whitefield,12.857058,77.770775,26.74,657,27,13,14.56,60,84.7,23,Cancelled
+725,2025-07-29, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Whitefield,Mahadevapura,12.979666,77.461206,18.34,1635,103,11,48.49,30,66.0,78,On Time
+194,2025-05-24, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Whitefield,RR Nagar,12.859754,77.639132,26.82,1003,77,55,76.71,100,50.9,8,Delayed
+165,2025-01-31, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Hebbal,RR Nagar,12.873932,77.501822,22.81,932,48,34,36.68,100,65.2,11,Delayed
+487,2025-01-25, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Mahadevapura,RR Nagar,13.180837,77.555573,10.37,658,19,16,77.05,50,26.4,29,Cancelled
+593,2025-12-17, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Electronic City,Dasarahalli,13.153539,77.705017,8.38,1041,43,30,41.6,150,76.3,22,Cancelled
+465,2025-08-22, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,RR Nagar,KR Market,13.036214,77.780986,4.12,1379,178,53,58.3,60,51.1,1,Cancelled
+713,2025-08-16, Bengaluru ,R103,Mahadevapura - KR Market,Metro,Whitefield,Banashankari,12.951517,77.502574,27.03,1038,24,30,69.86,150,55.6,15,Delayed
+155,2025-04-21, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Electronic City,Mahadevapura,13.014762,77.669973,21.36,256,38,6,51.68,50,69.7,44,Cancelled
+965,2025-09-23,,R103, Mahadevapura - KR Market ,Bus,Mahadevapura,Yelahanka,13.162181,77.567702,12.91,1318,37,40,93.69,30,45.5,17,Cancelled
+758,2025-12-17, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Bommanahalli,Shivajinagar,13.129553,77.519237,4.95,1538,107,33,20.47,100,52.4,35,Cancelled
+229,2025-01-27, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yeshwanthpur,Whitefield,13.17616,77.791858,16.51,1310,24,32,35.99,30,55.3,19,On Time
+280,2025-07-09, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Banashankari,RR Nagar,12.882248,77.544945,13.79,1709,98,50,21.66,30,62.0,9,Completed
+955,2025-12-25, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Mahadevapura,Majestic,13.012936,77.513228,0.06,896,5,76,55.85,50,57.3,35,
+721,2025-04-08, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Silk Board,Majestic,12.855254,77.562341,5.32,537,43,31,70.03,30,53.6,31,On Time
+296,2025-12-25, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Mahadevapura,Bommanahalli,13.180388,77.591548,3.33,713,104,39,22.61,50,54.6,26,Completed
+607,2025-04-07, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Mahadevapura,Whitefield,13.078505,77.793709,21.3,1371,114,37,46.62,30,93.7,26,Delayed
+829,2025-02-26, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Electronic City,Yelahanka,12.869872,77.473982,14.66,1515,40,12,45.31,100,29.8,34,Delayed
+909,2025-02-17, Bengaluru ,R106, Whitefield - Silk Board ,Metro,RR Nagar,Yeshwanthpur,13.108898,77.668179,9.33,616,88,10,23.68,30,45.7,28,Delayed
+351,2025-10-23, Bengaluru ,R107, Electronic City - Majestic ,Bus,CV Raman Nagar,Bommanahalli,13.004359,77.580041,24.61,1111,40,33,16.14,150,54.0,41,On Time
+332,2025-07-04, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Bommanahalli,RR Nagar,13.168027,77.673321,5.73,61,50,40,12.45,30,74.5,18,Delayed
+256,2025-05-04, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Yeshwanthpur,Mahadevapura,12.861001,77.469874,21.8,299,25,15,39.06,30,34.2,35,On Time
+760,2025-08-31, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,RR Nagar,Hebbal,13.138579,77.539505,18.39,1154,86,50,10.11,150,66.2,55,Completed
+781,2025-09-04, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Yelahanka,Whitefield,13.03927,77.686182,21.97,1434,80,29,77.73,60,96.5,23,Completed
+838,2025-01-12, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Majestic,Yelahanka,13.117053,77.547717,14.67,1292,13,14,27.07,30,69.9,9,
+802,2025-01-09, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,KR Market,Yelahanka,13.165802,77.676517,10.55,267,90,16,49.28,100,41.6,22,Delayed
+603,2025-01-23, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Dasarahalli,Whitefield,12.857058,77.770775,26.74,657,27,13,14.56,60,84.7,23,Cancelled
+55,2025-09-09,,R103, Mahadevapura - KR Market ,Bus,Electronic City,Yelahanka,12.978277,77.660001,25.3,1701,119,31,22.31,100,41.4,5,Completed
+746,2025-04-07, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,CV Raman Nagar,Silk Board,12.901637,77.748997,23.19,1564,81,12,13.45,50,43.8,32,Completed
+878,2025-10-05, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Hebbal,Majestic,12.893389,77.487738,25.6,286,45,41,44.78,150,39.0,7,Completed
+612,2025-12-05, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Mahadevapura,Bommanahalli,13.165552,77.609739,12.34,981,55,45,66.01,50,65.8,5,Delayed
+784,2025-12-21, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Hebbal,Shivajinagar,13.033228,77.457033,9.83,1260,81,56,77.99,100,43.0,40,On Time
+984,2025-03-29, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Yeshwanthpur,Yelahanka,12.951359,77.573563,27.43,178,96,58,28.83,60,47.1,19,Delayed
+13,2025-06-08, Bengaluru ,R101, Yelahanka - Majestic ,,Banashankari,Majestic,12.908171,77.649774,14.1,682,61,20,66.17,100,89.5,64,Cancelled
+145,2025-07-18, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Hebbal,Dasarahalli,12.986434,77.573031,19.31,320,63,59,40.82,60,38.3,11,Cancelled
+925,2025-06-17, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Bommanahalli,CV Raman Nagar,13.021547,77.461653,17.52,1619,106,20,56.41,50,89.7,3,Delayed
+987,2025-02-04, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Bommanahalli,Yeshwanthpur,12.871016,77.588173,9.06,1030,92,31,59.55,150,93.1,27,On Time
+688,2025-09-20, Bengaluru ,R107, Electronic City - Majestic ,Bus,Electronic City,RR Nagar,13.021633,77.455639,15.36,1174,21,21,52.86,40,85.7,9,Delayed
+202,2025-03-09, Bengaluru ,R103,Mahadevapura - KR Market,Bus,Bommanahalli,Silk Board,13.06422,77.563739,24.32,1172,88,40,36.44,40,55.6,0,Cancelled
+950,2025-01-17, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Majestic,Yeshwanthpur,13.10496,77.699657,4.55,167,88,30,25.2,30,76.0,22,Completed
+225,2025-10-02, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Silk Board,Banashankari,12.884781,77.692812,18.64,1365,99,44,32.4,30,27.4,38,Delayed
+129,2025-06-01, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Whitefield,Dasarahalli,12.909467,77.632353,11.6,152,20,49,19.73,30,35.9,4,Delayed
+117,2025-01-16, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Mahadevapura,Whitefield,12.927071,77.641747,18.91,559,76,53,47.42,40,35.0,26,Cancelled
+771,2025-06-02, Bengaluru ,R106,Whitefield - Silk Board,Bus,Silk Board,Mahadevapura,13.139603,77.720096,25.18,564,44,19,13.16,50,95.6,28,On Time
+219,2025-11-07, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Banashankari,Yeshwanthpur,12.973504,77.747851,27.75,1128,10,9,25.35,100,32.8,7,Completed
+323,2025-10-16, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,RR Nagar,Banashankari,12.988373,77.47021,12.85,1340,55,10,22.42,100,34.0,20,Completed
+754,2025-08-19, Bengaluru ,R110,Hebbal - Yeshwanthpur,Metro,Dasarahalli,Yelahanka,13.012994,77.799654,3.56,1652,11,32,74.84,50,55.0,5,On Time
+107,2025-01-28, Bengaluru ,R105,RR Nagar - Banashankari,Bus,Shivajinagar,Banashankari,12.92723,77.610557,27.65,563,114,47,68.92,60,75.2,2,Completed
+903,2025-09-25,,R105,RR Nagar - Banashankari,,Bommanahalli,Majestic,12.997974,77.74007,7.98,1155,120,21,90.36,150,44.5,21,Delayed
+992,2025-09-01, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Silk Board,Mahadevapura,13.008603,77.68635,9.65,453,26,33,65.67,50,35.7,6,Delayed
+345,2025-03-22, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Mahadevapura,Electronic City,13.159794,77.535219,11.45,973,90,43,73.4,30,58.2,19,On Time
+806,2025-02-25, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Shivajinagar,Yelahanka,13.082964,77.589679,4.48,338,17,39,41.54,60,60.4,6,Delayed
+156,2025-08-13, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Mahadevapura,RR Nagar,13.000202,77.799831,29.42,822,159,43,15.81,30,54.2,14,Cancelled
+741,2025-07-24, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Dasarahalli,Shivajinagar,12.851131,77.593834,20.98,715,93,20,84.29,100,74.4,44,Cancelled
+699,2025-10-22, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Yelahanka,Hebbal,13.036866,77.657778,20.6,145,93,29,15.83,50,96.2,37,On Time
+456,2025-09-19, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Whitefield,Shivajinagar,12.928847,77.4835,14.16,477,68,44,28.78,150,40.6,42,On Time
+612,2025-12-05, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Mahadevapura,Bommanahalli,13.165552,77.609739,12.34,981,55,45,66.01,50,65.8,5,Delayed
+409,2025-03-26, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Mahadevapura,Shivajinagar,12.909524,77.734348,33.95,1161,23,13,55.43,50,90.0,33,Cancelled
+344,2025-10-28, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Majestic,Shivajinagar,13.109092,77.450279,5.19,891,10,58,59.92,100,85.5,3,On Time
+25,2025-06-22,,R103, Mahadevapura - KR Market ,Bus,Yelahanka,Mahadevapura,12.937042,77.574126,7.31,1753,57,26,73.19,150,74.6,43,On Time
+124,2025-11-11, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Whitefield,Yeshwanthpur,13.105883,77.464173,4.05,1804,55,15,15.8,50,58.7,4,Completed
+571,2025-10-29, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Majestic,CV Raman Nagar,12.991245,77.729119,2.66,1665,13,37,23.44,50,43.5,4,Cancelled
+830,2025-09-03, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Shivajinagar,RR Nagar,13.032121,77.68046,16.33,816,46,47,13.49,40,62.6,0,Completed
+550,2025-08-16, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Mahadevapura,Hebbal,13.087498,77.619389,8.08,1051,25,20,55.01,150,70.6,28,Completed
+948,2025-01-02, Bengaluru ,R107, Electronic City - Majestic ,Bus,RR Nagar,Yelahanka,12.879624,77.451589,10.26,303,82,60,16.21,40,45.0,21,Completed
+80,2025-02-13, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Yeshwanthpur,Hebbal,13.012915,77.481512,30.15,452,69,42,53.45,40,26.8,1,Cancelled
+53,2025-03-13, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Shivajinagar,Majestic,13.047626,77.750314,2.83,1793,82,33,21.39,60,61.5,37,Cancelled
+910,2025-10-17, Bengaluru ,R104,Bommanahalli - Majestic,Metro,Electronic City,Yelahanka,13.014117,77.52527,21.49,726,106,5,10.09,30,80.9,30,On Time
+585,2025-11-22, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Yeshwanthpur,CV Raman Nagar,12.9287,77.793789,24.37,816,35,8,15.01,30,93.8,9,Cancelled
+205,2025-03-09, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Hebbal,Mahadevapura,13.03992,77.648378,4.12,652,93,22,26.54,40,63.5,7,Delayed
+554,2025-02-01, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Bommanahalli,Yeshwanthpur,13.032773,77.696621,17.8,492,101,17,47.52,30,73.9,20,Cancelled
+932,2025-10-22,,R101, Yelahanka - Majestic ,Bus,CV Raman Nagar,Mahadevapura,13.132447,77.646233,18.11,1021,107,23,45.81,150,46.0,7,On Time
+76,2025-12-09, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Bommanahalli,RR Nagar,13.095906,77.453797,25.71,1220,66,56,42.01,40,76.9,44,On Time
+462,2025-08-12, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,KR Market,Banashankari,13.052754,77.626174,28.1,87,71,29,43.65,60,66.9,22,Completed
+353,2025-08-23, Bengaluru ,R102,Hebbal - Shivajinagar,Bus,Mahadevapura,RR Nagar,13.056186,77.780216,14.52,1550,80,28,59.89,50,86.9,3,Cancelled
+600,2025-01-01, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Shivajinagar,Mahadevapura,12.974801,77.475611,28.49,1726,46,11,77.45,150,124.1,41,
+790,2025-04-03, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Banashankari,Dasarahalli,13.110124,77.550738,17.16,638,38,14,46.11,60,58.1,2,Completed
+357,2025-03-12, Bengaluru ,R107,Electronic City - Majestic,Bus,KR Market,Hebbal,12.905046,77.543406,21.59,57,25,6,50.39,60,87.4,27,
+511,2025-03-26, Bengaluru ,R107, Electronic City - Majestic ,Bus,RR Nagar,Electronic City,13.102187,77.494931,19.1,1283,38,58,44.63,30,55.9,27,Completed
+554,2025-02-01, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Bommanahalli,Yeshwanthpur,13.032773,77.696621,17.8,492,101,17,47.52,30,73.9,20,Cancelled
+196,2025-10-30, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,CV Raman Nagar,Hebbal,13.127491,77.494321,27.14,340,26,51,34.44,30,93.0,11,
+844,2025-07-13, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Majestic,Silk Board,12.873291,77.458652,8.73,160,96,38,36.49,50,85.4,34,Completed
+451,2025-07-11, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Electronic City,CV Raman Nagar,12.943827,77.599218,8.51,849,48,26,18.48,50,39.9,38,Delayed
+971,2025-11-09, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,RR Nagar,Yelahanka,12.994246,77.794134,14.87,125,89,20,56.06,150,68.8,10,Delayed
+949,2025-09-27, Bengaluru ,R104,Bommanahalli - Majestic,Metro,Majestic,Banashankari,13.033265,77.647261,27.54,899,92,35,43.02,50,57.3,17,Delayed
+904,2025-10-28, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Hebbal,Mahadevapura,12.922759,77.742208,14.43,690,110,9,26.08,150,79.1,43,On Time
+125,2025-01-26, Bengaluru ,R107, Electronic City - Majestic ,Bus,CV Raman Nagar,Bommanahalli,12.859076,77.560279,10.25,1750,69,57,28.85,40,93.3,30,Delayed
+862,2025-06-20, Bengaluru ,R109,CV Raman Nagar - Shivajinagar,Metro,Mahadevapura,Dasarahalli,12.873668,77.713531,20.15,162,65,13,26.62,150,83.7,38,Completed
+56,2025-02-16, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Shivajinagar,Whitefield,12.861645,77.475134,12.52,900,97,55,20.87,30,70.6,34,On Time
+662,2025-03-15, Bengaluru ,R106,Whitefield - Silk Board,Metro,Hebbal,Bommanahalli,12.993783,77.583504,16.83,1368,70,33,50.8,60,25.0,-4,On Time
+399,2025-06-24, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Silk Board,KR Market,13.074487,77.549897,14.98,1641,23,12,41.63,50,59.2,2,Cancelled
+503,2025-09-02, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,KR Market,Bommanahalli,12.85505,77.510641,24.77,219,20,80,13.86,40,84.5,5,Cancelled
+324,2025-01-02, Bengaluru ,R109,CV Raman Nagar - Shivajinagar,Metro,Yeshwanthpur,Banashankari,13.183543,77.495207,6.82,768,105,28,41.44,100,44.4,29,On Time
+763,2025-09-18, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Mahadevapura,KR Market,12.910655,77.700911,9.0,118,32,14,77.61,30,40.1,27,Completed
+793,2025-04-21, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Mahadevapura,CV Raman Nagar,13.080817,77.74081,27.11,498,66,11,42.24,100,97.9,0,Cancelled
+297,2025-08-01, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Dasarahalli,KR Market,12.984274,77.594498,11.26,874,69,60,22.42,100,45.1,28,On Time
+803,2025-06-13, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Silk Board,Bommanahalli,13.097916,77.648072,2.71,190,15,40,11.19,60,89.8,25,Completed
+552,2025-08-01, Bengaluru ,R102,Hebbal - Shivajinagar,Metro,Yeshwanthpur,Banashankari,12.936272,77.575929,4.69,1669,25,17,73.69,100,34.7,23,Completed
+97,2025-12-09, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Dasarahalli,Yeshwanthpur,13.166299,77.529377,11.06,1468,86,50,38.32,60,53.5,23,Completed
+312,2025-01-24, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Whitefield,Majestic,12.98797,77.605786,16.35,1228,96,45,58.56,40,48.3,13,Delayed
+335,2025-01-14, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Shivajinagar,KR Market,13.099103,77.797885,26.02,129,10,16,32.85,60,63.8,-2,On Time
+630,2025-01-28, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Majestic,Mahadevapura,12.944979,77.786843,17.75,116,62,42,12.78,40,75.2,25,Delayed
+375,2025-03-20, Bengaluru ,R107, Electronic City - Majestic ,Metro,KR Market,CV Raman Nagar,12.872556,77.564153,12.04,827,108,14,54.46,40,47.9,19,Cancelled
+273,2025-09-10, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Banashankari,Yeshwanthpur,13.012967,77.70004,17.23,845,180,27,77.07,60,44.0,25,Delayed
+849,2025-01-19, Bengaluru ,R105, RR Nagar - Banashankari ,,Whitefield,Shivajinagar,13.149021,77.675009,18.34,823,105,36,46.0,50,84.7,3,Delayed
+220,2025-04-30, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,KR Market,Bommanahalli,12.935503,77.714119,3.81,1664,36,17,67.4,100,27.3,30,
+328,2025-02-15, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Banashankari,Hebbal,12.893591,77.479455,24.82,217,25,19,70.98,40,37.4,37,
+913,2025-04-11, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Banashankari,Dasarahalli,13.154296,77.670863,21.74,1767,56,60,57.59,150,41.3,34,On Time
+24,2025-03-18, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,KR Market,Yeshwanthpur,13.167301,77.467175,25.17,267,70,28,13.27,150,49.1,1,Delayed
+706,2025-03-08, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Shivajinagar,Bommanahalli,12.953658,77.585723,3.58,1433,69,35,32.44,100,67.5,10,
+39,2025-03-05, Bengaluru ,R101,Yelahanka - Majestic,Bus,CV Raman Nagar,Shivajinagar,12.912917,77.727303,9.72,1684,50,49,20.16,50,47.5,17,On Time
+769,2025-11-23, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Hebbal,Yelahanka,12.870851,77.642332,19.74,1236,58,37,45.75,30,66.1,35,On Time
+928,2025-02-28, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Silk Board,Banashankari,12.860292,77.708569,14.24,648,35,6,46.11,30,76.3,22,Cancelled
+104,2025-10-29, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Electronic City,CV Raman Nagar,12.85736,77.488907,21.17,2354,58,10,11.97,150,31.8,30,On Time
+19,2025-03-09, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Yelahanka,Bommanahalli,13.059472,77.692562,23.04,562,68,17,33.32,30,43.2,16,Completed
+754,2025-08-19, Bengaluru ,R110,Hebbal - Yeshwanthpur,Metro,Dasarahalli,Yelahanka,13.012994,77.799654,3.56,1652,11,32,74.84,50,55.0,5,On Time
+583,2025-12-14, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Mahadevapura,Bommanahalli,12.978821,77.548276,14.04,1487,23,42,67.66,40,31.2,36,Completed
+471,2025-05-05, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Bommanahalli,RR Nagar,13.138077,77.633713,21.62,1536,36,43,17.68,60,52.2,41,Completed
+539,2025-11-12, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Shivajinagar,KR Market,13.035865,77.510343,14.79,258,22,45,57.16,30,55.1,45,Delayed
+767,2025-11-25, Bengaluru ,R101,Yelahanka - Majestic,Metro,Majestic,Bommanahalli,12.950779,77.691095,18.06,1492,30,14,49.17,50,56.3,43,Cancelled
+959,2025-07-02, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Yelahanka,CV Raman Nagar,13.068998,77.603482,29.41,328,50,51,32.04,50,56.2,34,On Time
+127,2025-03-26, Bengaluru ,R105,RR Nagar - Banashankari,Bus,CV Raman Nagar,Electronic City,12.96033,77.535794,27.16,1633,25,18,23.45,150,82.3,30,Cancelled
+413,2025-09-20, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,RR Nagar,Dasarahalli,12.885227,77.505236,23.58,565,118,55,60.43,40,54.5,10,Delayed
+494,2025-10-14, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Majestic,KR Market,12.927581,77.496342,24.66,582,53,21,22.36,40,47.4,40,Completed
+419,2025-09-01, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,RR Nagar,Whitefield,12.886228,77.727182,20.31,1396,38,19,68.83,30,51.4,2,Cancelled
+146,2025-11-27, Bengaluru ,R101, Yelahanka - Majestic ,,Silk Board,Yeshwanthpur,13.147806,77.660319,22.01,1776,115,35,44.6,40,40.3,30,Completed
+45,2025-04-24, Bengaluru ,R107, Electronic City - Majestic ,Metro,KR Market,Dasarahalli,13.102579,77.62161,12.55,357,108,23,79.62,60,48.0,19,Delayed
+856,2025-08-07, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Shivajinagar,CV Raman Nagar,13.150902,77.700156,23.67,669,103,40,76.37,40,37.8,45,On Time
+994,2025-02-23, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Hebbal,Mahadevapura,13.14609,77.483014,5.29,1664,102,23,16.24,150,97.9,16,On Time
+901,2025-11-27, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Whitefield,Majestic,12.90078,77.778212,27.11,861,33,11,68.61,50,85.3,3,Cancelled
+317,2025-02-12, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,RR Nagar,Whitefield,13.029218,77.56312,29.61,2059,75,12,57.64,60,45.2,13,Delayed
+167,2025-01-06, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,CV Raman Nagar,Hebbal,12.992023,77.546843,18.41,807,108,28,41.73,60,84.8,35,On Time
+619,2025-10-24, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,KR Market,Banashankari,13.149217,77.666237,19.46,2299,88,15,71.26,40,57.1,43,
+391,2025-02-26, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Yeshwanthpur,KR Market,12.920899,77.664869,14.19,224,85,36,58.15,30,81.3,44,Delayed
+590,2025-04-26, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Dasarahalli,Banashankari,13.12669,77.623659,12.39,1568,18,20,35.55,40,53.3,33,Completed
+941,2025-04-23, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,KR Market,Whitefield,12.980762,77.726004,20.22,1242,63,32,42.54,30,83.0,16,On Time
+980,2025-07-03,,R110, Hebbal - Yeshwanthpur ,Bus,Banashankari,Yeshwanthpur,13.06682,77.675752,19.69,1071,40,5,104.63,30,82.2,36,On Time
+18,2025-09-08, Bengaluru ,R103,Mahadevapura - KR Market,Metro,Bommanahalli,Yeshwanthpur,12.862443,77.738014,24.48,1546,30,30,112.19,100,85.8,31,Cancelled
+517,2025-08-25,,R102, Hebbal - Shivajinagar ,Metro,KR Market,Banashankari,13.051215,77.508226,12.7,862,38,6,49.72,100,26.7,20,Delayed
+766,2025-12-27, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Mahadevapura,Shivajinagar,13.083499,77.649991,11.81,1425,131,24,-8.23,30,61.8,9,Delayed
+55,2025-06-01, Bengaluru ,R108, Dasarahalli - Majestic ,,KR Market,Hebbal,13.030248,77.613575,8.2,107,8,53,76.28,60,54.5,10,On Time
+774,2025-06-07, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Yelahanka,Hebbal,13.1529,77.713669,6.72,935,18,40,20.61,150,78.7,25,Completed
+795,2025-08-26, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Electronic City,KR Market,13.152461,77.459633,16.57,1716,52,23,16.31,40,29.0,21,Delayed
+367,2025-10-28, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Bommanahalli,KR Market,12.980612,77.755378,29.98,1194,78,40,18.37,30,96.3,40,Delayed
+252,2025-11-14, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Silk Board,Hebbal,13.179204,77.749992,10.98,1106,94,10,32.15,100,31.1,1,Completed
+69,2025-06-25, Bengaluru ,R110,Hebbal - Yeshwanthpur,Metro,Banashankari,Yelahanka,13.042093,77.49663,22.36,1119,100,56,51.05,50,13.6,21,Completed
+496,2025-07-03,,R103, Mahadevapura - KR Market ,,Silk Board,Electronic City,12.867059,77.601602,14.19,380,99,30,63.39,150,46.3,70,Completed
+832,2025-01-05, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Hebbal,Shivajinagar,12.903935,77.460092,29.82,1664,47,40,78.4,100,61.1,25,Completed
+500,2025-05-13, Bengaluru ,R104, Bommanahalli - Majestic ,,CV Raman Nagar,Whitefield,13.174035,77.557704,21.19,472,75,36,57.73,100,35.2,22,Cancelled
+7,2025-03-06, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,CV Raman Nagar,Hebbal,13.06742,77.513551,7.65,1600,171,52,65.35,30,88.1,36,Delayed
+544,2025-12-28, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Banashankari,Majestic,13.023006,77.791032,8.85,413,120,25,55.66,60,71.8,5,Completed
+820,2025-08-21, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Hebbal,Majestic,12.880996,77.502924,19.95,906,71,22,4.83,60,61.3,12,
+841,2025-10-01, Bengaluru ,R107, Electronic City - Majestic ,Bus,Silk Board,Mahadevapura,13.042686,77.65008,6.95,1265,117,11,42.33,50,79.9,20,Completed
+929,2025-05-11, Bengaluru ,R107, Electronic City - Majestic ,Bus,Majestic,KR Market,12.874719,77.59751,23.55,1297,63,60,60.88,30,74.6,9,On Time
+985,2025-09-09, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Silk Board,Whitefield,13.12071,77.720341,23.64,341,74,24,32.67,50,82.5,19,Cancelled
+845,2025-11-03, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Bommanahalli,Banashankari,12.912562,77.535216,28.03,511,44,56,54.5,30,37.7,-9,Cancelled
+33,2025-11-26, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Mahadevapura,Hebbal,13.188841,77.521133,21.5,1185,112,20,58.9,150,54.0,11,On Time
+557,2025-11-04, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Silk Board,CV Raman Nagar,12.940033,77.717698,6.38,1623,54,43,36.85,50,66.5,70,Completed
+214,2025-04-08, Bengaluru ,R102,Hebbal - Shivajinagar,Bus,Dasarahalli,Whitefield,13.025054,77.589025,12.35,346,114,7,73.52,100,50.4,34,Delayed
+326,2025-05-06, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Shivajinagar,Hebbal,12.980989,77.695375,18.0,911,47,23,54.11,60,92.4,19,Completed
+804,2025-07-02, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Dasarahalli,KR Market,13.028857,77.543276,13.45,1607,110,54,59.26,150,96.9,60,Delayed
+48,2025-10-14, Bengaluru ,R107, Electronic City - Majestic ,Bus,Hebbal,Dasarahalli,13.001918,77.792859,27.17,990,47,56,36.89,150,31.6,19,Completed
+748,2025-10-19, Bengaluru ,R104,Bommanahalli - Majestic,Metro,Majestic,KR Market,13.040029,77.721092,24.13,394,95,12,43.71,60,39.6,21,On Time
+99,2025-05-06,,R107, Electronic City - Majestic ,Metro,Bommanahalli,Dasarahalli,13.160931,77.531744,9.58,1477,17,8,33.2,30,27.7,24,Completed
+282,2025-03-31, Bengaluru ,R108, Dasarahalli - Majestic ,,Shivajinagar,Silk Board,13.199317,77.582626,24.28,1418,81,56,23.63,150,74.0,4,Completed
+516,2025-08-21, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Majestic,Bommanahalli,13.053428,77.767688,22.95,1278,120,38,70.89,60,76.0,36,On Time
+425,2025-09-16, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,RR Nagar,Yeshwanthpur,12.896291,77.522961,25.06,1160,62,26,44.24,60,58.8,28,On Time
+705,2025-09-05, Bengaluru ,R101, Yelahanka - Majestic ,Metro,RR Nagar,Majestic,13.131492,77.696852,13.28,1223,57,60,60.29,60,92.1,24,Delayed
+698,2025-09-06, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Yelahanka,Mahadevapura,13.1673,77.555498,17.03,271,85,29,49.65,60,91.3,29,On Time
+510,2025-04-14, Bengaluru ,R107, Electronic City - Majestic ,Metro,Whitefield,Yelahanka,12.899844,77.755374,19.01,2075,90,8,53.44,150,48.0,9,Cancelled
+858,2025-01-28, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Yelahanka,Dasarahalli,13.196081,77.519015,12.2,945,53,50,36.07,60,63.1,14,On Time
+478,2025-01-27, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Yeshwanthpur,Shivajinagar,12.955571,77.578132,16.58,311,24,37,75.25,30,33.1,38,Cancelled
+894,2025-02-14, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Hebbal,Shivajinagar,12.934382,77.573649,3.36,642,16,42,70.07,60,80.8,7,Completed
+954,2025-04-19, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Silk Board,Mahadevapura,13.179735,77.585478,15.58,506,1,55,12.01,40,63.8,9,Delayed
+649,2025-07-31,,R101, Yelahanka - Majestic ,Metro,Whitefield,Yelahanka,12.949896,77.553166,6.95,353,113,48,52.61,100,62.0,14,Delayed
+672,2025-04-14, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Shivajinagar,Majestic,12.927417,77.788737,15.06,498,43,17,77.04,50,58.9,30,Delayed
+480,2025-12-21, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Bommanahalli,RR Nagar,13.064956,77.614341,29.76,697,71,68,79.55,100,71.9,40,On Time
+936,2025-05-11, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Dasarahalli,Electronic City,12.929828,77.498959,23.25,747,64,47,78.69,150,48.2,15,Cancelled
+208,2025-07-01, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,CV Raman Nagar,Bommanahalli,12.901448,77.748088,10.63,1514,86,9,64.06,60,91.9,23,Completed
+426,2025-02-24, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yeshwanthpur,Mahadevapura,13.166851,77.739166,2.84,1282,20,31,15.78,40,75.5,8,On Time
+347,2025-05-30, Bengaluru ,R108,Dasarahalli - Majestic,Bus,CV Raman Nagar,RR Nagar,13.155094,77.692923,2.89,1726,62,12,68.73,40,84.0,24,Completed
+970,2025-07-10, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Yelahanka,KR Market,12.908898,77.727934,10.55,1736,28,53,42.62,40,95.2,20,
+600,2025-01-01, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Shivajinagar,Mahadevapura,12.974801,77.475611,28.49,1726,46,11,77.45,150,124.1,41,
+896,2025-09-05, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Shivajinagar,Yelahanka,12.94065,77.780988,3.81,1737,146,49,54.5,150,91.5,33,Cancelled
+98,2025-10-05, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yelahanka,Whitefield,13.188816,77.64328,11.35,699,107,25,45.25,40,50.3,15,Delayed
+814,2025-02-06, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Majestic,Silk Board,12.973308,77.694951,3.49,587,118,53,13.3,50,61.7,25,On Time
+654,2025-04-14,,R109, CV Raman Nagar - Shivajinagar ,Bus,KR Market,Hebbal,12.859506,77.490753,16.76,1460,59,48,37.49,100,25.7,43,Completed
+394,2025-10-30, Bengaluru ,R107, Electronic City - Majestic ,Metro,Yeshwanthpur,Dasarahalli,13.16153,77.452277,26.8,720,117,39,36.72,150,62.0,59,Delayed
+602,2025-09-07, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Majestic,RR Nagar,12.981744,77.671705,25.77,1139,31,40,22.24,30,55.8,3,Cancelled
+364,2025-06-21, Bengaluru ,R107, Electronic City - Majestic ,Bus,Whitefield,Yelahanka,12.9419,77.612226,22.22,1152,92,39,26.96,50,81.2,19,Cancelled
+551,2025-01-24, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Hebbal,Dasarahalli,13.037669,77.777959,3.08,311,67,49,76.24,100,95.9,0,Completed
+369,2025-06-02, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Hebbal,Shivajinagar,12.973987,77.567245,9.22,188,37,36,69.92,150,27.4,11,Cancelled
+416,2025-10-13, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,KR Market,Silk Board,13.160521,77.702175,19.92,1788,94,12,23.15,30,99.2,27,On Time
+237,2025-05-30, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Majestic,Hebbal,13.193168,77.518665,17.8,1474,71,53,18.13,60,80.3,19,
+974,2025-02-06, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Majestic,Bommanahalli,13.166589,77.494745,25.44,1014,69,33,15.85,40,97.7,36,Cancelled
+879,2025-12-21,,R110, Hebbal - Yeshwanthpur ,Metro,Majestic,Yeshwanthpur,12.983673,77.711,5.13,935,21,8,50.2,30,67.7,17,On Time
+566,2025-02-03, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Electronic City,Mahadevapura,13.019046,77.675957,4.02,371,99,53,13.39,30,96.6,4,Completed
+872,2025-01-22, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Shivajinagar,Yelahanka,13.040543,77.67088,17.02,1202,50,33,46.26,40,54.2,3,Cancelled
+682,2025-05-13, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,RR Nagar,Banashankari,13.177941,77.698464,19.8,1271,75,34,63.44,40,44.6,11,Cancelled
+915,2025-04-27, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Shivajinagar,Yeshwanthpur,13.093065,77.614613,7.67,776,115,30,60.47,30,77.1,7,Cancelled
+370,2025-08-31, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Shivajinagar,Mahadevapura,13.113546,77.709945,5.3,360,116,30,71.12,100,96.6,39,Completed
+284,2025-07-10, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Banashankari,Hebbal,12.993106,77.648414,10.64,334,171,26,23.64,150,51.0,1,Cancelled
+82,2025-11-20, Bengaluru ,R107, Electronic City - Majestic ,Bus,Electronic City,RR Nagar,12.929458,77.52673,6.82,465,41,59,70.56,100,65.5,35,
+558,2025-10-05, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Dasarahalli,Yelahanka,13.131474,77.759505,16.38,1567,53,44,30.62,50,45.1,42,Completed
+101,2025-01-25, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Banashankari,RR Nagar,13.126101,77.603448,12.95,555,34,17,34.17,40,75.9,32,On Time
+483,2025-05-18, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Bommanahalli,Yeshwanthpur,12.858909,77.560223,3.46,629,79,21,38.83,150,65.1,1,Cancelled
+610,2025-08-15, Bengaluru ,R107,Electronic City - Majestic,Bus,Whitefield,Shivajinagar,13.07663,77.50884,9.99,496,79,14,33.6,30,69.2,22,Cancelled
+285,2025-05-17, Bengaluru ,R102, Hebbal - Shivajinagar ,,Mahadevapura,Dasarahalli,13.090847,77.759585,7.97,1164,114,39,53.92,30,34.4,40,Completed
+623,2025-05-07, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yeshwanthpur,Bommanahalli,13.173964,77.503399,22.45,751,102,5,64.99,30,75.4,12,On Time
+604,2025-10-26, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Shivajinagar,Yelahanka,13.197263,77.492644,7.87,1230,44,28,24.31,30,54.2,34,On Time
+439,2025-06-09, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Mahadevapura,Majestic,12.963122,77.525029,27.16,1444,114,34,12.86,100,64.8,15,Delayed
+627,2025-12-14,,R103, Mahadevapura - KR Market ,Bus,CV Raman Nagar,Hebbal,12.902123,77.733462,21.01,675,85,59,13.31,100,77.6,6,Completed
+295,2025-03-16, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Bommanahalli,CV Raman Nagar,13.04545,77.484002,10.2,1025,91,29,71.87,40,81.4,77,
+707,2025-08-14, Bengaluru ,R101, Yelahanka - Majestic ,Metro,RR Nagar,Mahadevapura,12.920002,77.791647,28.21,745,135,17,68.01,100,67.0,0,Completed
+566,2025-02-03, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Electronic City,Mahadevapura,13.019046,77.675957,4.02,371,99,53,13.39,30,96.6,4,Completed
+238,2025-06-10, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Silk Board,Yelahanka,12.995617,77.783567,10.63,1268,51,52,47.51,30,45.9,5,Completed
+211,2025-02-20,,R109, CV Raman Nagar - Shivajinagar ,Bus,Mahadevapura,Whitefield,12.923438,77.509418,14.62,936,20,19,51.91,150,51.2,23,Completed
+853,2025-01-23, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Electronic City,Dasarahalli,13.184187,77.635661,26.57,1714,85,14,74.02,40,82.6,14,On Time
+504,2025-04-28, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Banashankari,Hebbal,13.170886,77.745207,10.13,863,26,24,10.11,30,28.5,21,Delayed
+780,2025-05-25, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Silk Board,Whitefield,12.853689,77.743431,24.7,263,98,58,70.25,100,67.5,33,Delayed
+343,2025-05-26, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,KR Market,Majestic,12.976915,77.7368,19.49,1453,104,31,79.58,50,65.1,6,Completed
+160,2025-08-17, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Whitefield,Mahadevapura,13.030908,77.711992,19.76,1165,47,14,21.59,40,62.2,7,On Time
+142,2025-10-26, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Dasarahalli,Silk Board,13.078761,77.45947,9.69,957,29,52,31.48,150,76.1,12,On Time
+508,2025-08-22, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Electronic City,Majestic,13.063448,77.779262,16.19,547,50,57,79.86,50,64.9,17,Cancelled
+331,2025-08-12, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Whitefield,Bommanahalli,13.029973,77.545361,26.49,437,80,26,15.81,60,60.4,42,Completed
+595,2025-04-25, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Yeshwanthpur,RR Nagar,13.196838,77.622209,5.24,1416,71,37,34.94,150,74.6,10,On Time
+834,2025-02-20, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Shivajinagar,Majestic,12.890633,77.736033,10.03,136,35,39,18.41,60,29.9,25,Completed
+645,2025-09-23,,R105,RR Nagar - Banashankari,Metro,Majestic,Banashankari,12.909443,77.487297,18.29,1142,70,10,43.36,100,93.3,23,On Time
+674,2025-05-19, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Hebbal,Yeshwanthpur,13.165457,77.552127,27.07,1226,112,59,12.68,50,35.3,19,On Time
+270,2025-01-26, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Yelahanka,CV Raman Nagar,12.895392,77.457691,7.62,1739,72,44,65.9,60,109.0,5,Completed
+155,2025-01-17, Bengaluru ,R107, Electronic City - Majestic ,Bus,KR Market,Yeshwanthpur,12.885667,77.455235,2.35,161,33,47,65.23,30,45.0,64,
+685,2025-05-02, Bengaluru ,R106, Whitefield - Silk Board ,Metro,CV Raman Nagar,KR Market,12.884127,77.488225,15.08,1248,58,42,15.49,40,84.5,18,On Time
+366,2025-09-16, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Hebbal,CV Raman Nagar,12.999676,77.659334,22.33,1090,89,-2,63.29,100,90.1,14,Delayed
+732,2025-12-04, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,RR Nagar,Hebbal,12.965881,77.510559,25.01,1566,66,8,23.17,60,71.5,6,Completed
+589,2025-07-05, Bengaluru ,R101, Yelahanka - Majestic ,Metro,KR Market,Majestic,12.978755,77.479469,9.42,478,60,43,73.24,30,58.8,37,Cancelled
+15,2025-07-03, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Yelahanka,Majestic,12.998217,77.563609,16.08,1292,90,6,44.57,40,57.2,25,Delayed
+60,2025-05-04, Bengaluru ,R104,Bommanahalli - Majestic,Bus,KR Market,Bommanahalli,12.917015,77.665779,5.27,1480,55,34,73.02,40,45.8,23,
+818,2025-06-11, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Banashankari,Electronic City,13.074886,77.519142,26.8,553,60,19,34.18,150,124.1,6,Cancelled
+371,2025-02-12, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,KR Market,Silk Board,12.945268,77.610929,19.43,206,65,26,35.24,150,52.3,74,Cancelled
+744,2025-12-30, Bengaluru ,R107, Electronic City - Majestic ,Metro,KR Market,Whitefield,13.076667,77.636173,1.18,1070,42,17,29.7,100,88.9,19,Delayed
+447,2025-12-08, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Yeshwanthpur,Dasarahalli,13.008564,77.705669,14.28,932,100,49,24.97,150,82.5,9,Cancelled
+855,2025-12-20, Bengaluru ,R107, Electronic City - Majestic ,Metro,RR Nagar,Banashankari,13.091424,77.606051,27.29,972,57,22,71.78,100,86.0,39,Cancelled
+501,2025-03-10, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Mahadevapura,CV Raman Nagar,13.154213,77.769394,28.09,611,40,24,60.76,40,40.8,29,Delayed
+717,2025-02-06, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Bommanahalli,Mahadevapura,13.146218,77.694741,9.21,393,34,43,68.85,50,73.8,1,Delayed
+452,2025-02-15, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Hebbal,Banashankari,13.095269,77.461487,14.91,887,92,60,71.11,50,59.6,31,Delayed
+131,2025-07-29, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,CV Raman Nagar,Yeshwanthpur,13.010049,77.640308,29.63,601,110,59,79.02,100,43.1,34,Delayed
+436,2025-10-16, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Majestic,Yeshwanthpur,13.004123,77.572643,6.75,711,119,36,50.94,100,79.9,41,Delayed
+563,2025-06-18,,R102, Hebbal - Shivajinagar ,Bus,Hebbal,Mahadevapura,12.951149,77.51289,12.14,1410,36,18,62.51,40,117.3,24,On Time
+890,2025-01-26, Bengaluru ,R109,CV Raman Nagar - Shivajinagar,Bus,Shivajinagar,KR Market,13.123666,77.454812,9.34,1528,113,54,76.54,40,44.4,31,Delayed
+200,2025-08-14, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,CV Raman Nagar,Yelahanka,12.906211,77.528435,1.3,550,65,24,33.64,30,34.4,2,Delayed
+905,2025-02-12, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Hebbal,KR Market,13.182409,77.639042,3.36,1511,31,36,47.75,100,38.4,23,On Time
+864,2025-07-19,,R110, Hebbal - Yeshwanthpur ,Bus,Electronic City,CV Raman Nagar,12.904398,77.592112,27.68,297,101,40,21.3,100,74.7,27,On Time
+525,2025-06-06, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Banashankari,CV Raman Nagar,12.966141,77.797211,14.07,616,92,29,67.78,40,82.3,34,Completed
+26,2025-06-17, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Shivajinagar,Dasarahalli,12.859725,77.652261,7.93,1620,111,6,67.64,40,76.2,10,Cancelled
+100,2025-01-22, Bengaluru ,R106,Whitefield - Silk Board,Metro,KR Market,CV Raman Nagar,12.871171,77.676388,11.76,695,41,28,11.55,30,81.9,21,Completed
+113,2025-05-12, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,CV Raman Nagar,Yeshwanthpur,13.013222,77.533641,24.11,1187,106,37,66.37,50,84.1,45,Delayed
+5,2025-05-28,,R107, Electronic City - Majestic ,Bus,Dasarahalli,Electronic City,12.937008,77.588084,20.07,359,71,12,46.79,150,94.6,23,Completed
+752,2025-09-04, Bengaluru ,R105,RR Nagar - Banashankari,Bus,Silk Board,Yelahanka,12.961303,77.506687,16.21,455,37,21,27.14,60,70.2,14,Completed
+42,2025-09-03, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Majestic,Yelahanka,12.941199,77.464133,20.42,1357,35,28,31.97,40,50.4,17,Cancelled
+52,2025-10-10, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Yeshwanthpur,RR Nagar,13.143474,77.555076,24.33,2437,119,13,79.52,40,88.6,12,Delayed
+363,2025-09-28, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Dasarahalli,Yeshwanthpur,12.94042,77.731703,4.56,366,77,29,47.33,30,65.2,21,On Time
+677,2025-05-24, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,CV Raman Nagar,Hebbal,13.11482,77.796101,11.61,1041,27,27,37.05,50,40.3,37,Cancelled
+680,2025-02-18, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Shivajinagar,Electronic City,13.195121,77.581631,16.24,130,54,57,31.27,150,76.0,43,Cancelled
+4,2025-05-06, Bengaluru ,R106,Whitefield - Silk Board,Bus,Dasarahalli,Whitefield,12.981206,77.689173,27.16,883,30,42,38.92,100,43.0,10,Cancelled
+926,2025-06-04, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Dasarahalli,Silk Board,12.86836,77.527292,11.05,99,116,56,22.06,30,69.7,14,Completed
+573,2025-02-19, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,RR Nagar,Yelahanka,13.018525,77.473761,20.18,1649,72,33,25.43,60,26.1,25,Completed
+153,2025-02-14, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,RR Nagar,Yelahanka,12.856533,77.501573,6.73,1044,37,13,68.39,60,40.0,10,Delayed
+592,2025-11-02, Bengaluru ,R107, Electronic City - Majestic ,Bus,RR Nagar,Mahadevapura,12.989157,77.769329,4.82,849,29,35,54.97,150,78.8,35,Completed
+568,2025-02-19, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Silk Board,RR Nagar,12.954726,77.476431,14.04,830,52,27,36.52,40,36.1,3,Delayed
+147,2025-05-03, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Silk Board,Dasarahalli,12.863569,77.530921,29.01,473,94,13,26.09,30,59.1,36,Delayed
+4,2025-05-06, Bengaluru ,R106,Whitefield - Silk Board,Bus,Dasarahalli,Whitefield,12.981206,77.689173,27.16,883,30,42,38.92,100,43.0,10,Cancelled
+91,2025-09-20, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,CV Raman Nagar,Bommanahalli,13.18517,77.658986,5.79,1020,120,38,52.31,30,51.4,37,On Time
+596,2025-04-09, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Dasarahalli,Whitefield,12.863503,77.681197,24.2,1571,116,39,76.91,40,78.5,9,Completed
+195,2025-10-08, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Whitefield,Hebbal,12.970617,77.45159,12.26,1386,27,58,76.03,40,25.3,42,Cancelled
+177,2025-11-13, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Mahadevapura,Shivajinagar,12.904007,77.522779,20.08,1358,109,46,44.95,50,61.8,5,Cancelled
+666,2025-09-01, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Majestic,Bommanahalli,12.996369,77.493992,13.58,290,64,11,48.82,60,60.0,14,Cancelled
+975,2025-10-04, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Majestic,Banashankari,12.859916,77.714756,28.48,645,102,55,48.17,100,26.3,26,
+635,2025-10-06, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Yelahanka,Majestic,13.00474,77.618295,11.06,557,44,51,25.58,100,79.2,-2,Cancelled
+450,2025-01-05, Bengaluru ,R106, Whitefield - Silk Board ,,CV Raman Nagar,Dasarahalli,13.047825,77.481622,16.25,1587,66,17,74.67,30,85.9,42,Completed
+977,2025-02-17, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Hebbal,Electronic City,13.112019,77.537087,31.35,1069,119,25,41.88,60,38.0,45,Completed
+346,2025-08-25, Bengaluru ,R107, Electronic City - Majestic ,Bus,Yeshwanthpur,Electronic City,12.883707,77.73773,22.27,420,51,19,17.52,40,40.8,37,Completed
+38,2025-09-12, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Mahadevapura,Hebbal,12.965314,77.529617,23.91,1169,19,45,48.41,100,32.8,9,Cancelled
+88,2025-03-14, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Majestic,Banashankari,13.134425,77.692924,29.6,139,41,8,65.45,30,47.2,84,On Time
+986,2025-04-11, Bengaluru ,R107, Electronic City - Majestic ,Bus,Dasarahalli,CV Raman Nagar,12.966746,77.72855,19.69,1345,23,21,28.4,50,56.5,18,Cancelled
+911,2025-02-13, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Whitefield,Shivajinagar,12.872045,77.693692,26.92,619,86,50,43.57,30,58.8,16,Cancelled
+808,2025-06-23, Bengaluru ,R107, Electronic City - Majestic ,Metro,Yelahanka,Bommanahalli,12.992869,77.623081,8.87,1266,77,32,29.46,60,32.9,9,Delayed
+757,2025-05-21, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Shivajinagar,Electronic City,12.969682,77.739839,14.91,967,48,31,65.08,150,89.4,13,On Time
+255,2025-10-20, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Silk Board,Majestic,13.191511,77.521952,2.0,250,45,9,38.9,100,65.8,14,Cancelled
+521,2025-10-23, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,RR Nagar,Whitefield,12.872031,77.795636,6.59,410,118,42,59.02,30,59.2,29,
+646,2025-03-22, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Banashankari,Electronic City,12.939344,77.576322,29.97,613,27,39,35.46,40,28.3,1,On Time
+427,2025-07-05,,R105, RR Nagar - Banashankari ,Bus,Shivajinagar,KR Market,12.909953,77.624707,9.84,1700,37,47,74.86,60,26.0,-6,Completed
+591,2025-04-01, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Yelahanka,Whitefield,13.187587,77.643111,21.22,473,47,14,43.28,100,38.7,23,On Time
+567,2025-02-25, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Shivajinagar,Bommanahalli,13.068146,77.702102,23.85,889,117,51,19.12,100,58.4,2,Completed
+658,2025-11-17, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Whitefield,Dasarahalli,13.12211,77.52036,11.0,1730,55,22,41.96,50,32.2,2,Delayed
+445,2025-11-23, Bengaluru ,R101, Yelahanka - Majestic ,Metro,RR Nagar,Hebbal,13.150134,77.744522,15.48,869,98,53,47.77,150,64.4,80,Delayed
+268,2025-08-10, Bengaluru ,R103,Mahadevapura - KR Market,Metro,Banashankari,KR Market,12.892559,77.612547,11.35,837,46,59,55.86,60,92.7,89,Delayed
+708,2025-02-25, Bengaluru ,R107, Electronic City - Majestic ,,Majestic,Banashankari,13.044606,77.704057,27.96,1584,86,18,26.67,100,-4.9,21,Cancelled
+192,2025-06-24, Bengaluru ,R101,Yelahanka - Majestic,Bus,Silk Board,Whitefield,12.888316,77.755918,12.68,843,69,31,36.09,100,44.7,7,Cancelled
+499,2025-05-01, Bengaluru ,R103, Mahadevapura - KR Market ,,Bommanahalli,KR Market,12.997504,77.461767,20.63,1051,113,56,53.25,50,91.2,39,On Time
+565,2025-04-14, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,CV Raman Nagar,Banashankari,12.869391,77.511505,25.97,983,63,22,74.6,150,50.3,57,Cancelled
+127,2025-03-26, Bengaluru ,R105,RR Nagar - Banashankari,Bus,CV Raman Nagar,Electronic City,12.96033,77.535794,27.16,1633,25,18,23.45,150,82.3,30,Cancelled
+313,2025-07-29, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Dasarahalli,Hebbal,13.147695,77.601297,20.3,605,60,41,67.36,150,70.2,17,Completed
+833,2025-12-01, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Silk Board,Dasarahalli,12.961034,77.664728,5.63,1296,39,23,46.7,30,29.6,18,Completed
+629,2025-03-12, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Mahadevapura,Hebbal,12.857376,77.643027,24.94,1321,81,54,16.45,50,53.5,34,Cancelled
+47,2025-12-14, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Whitefield,Hebbal,13.165379,77.519269,25.76,1208,103,54,64.4,150,88.0,19,Completed
+638,2025-05-21, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Banashankari,Hebbal,12.895046,77.693496,5.52,1287,27,9,15.51,100,63.9,12,Completed
+354,2025-05-28, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Electronic City,Yeshwanthpur,13.073004,77.567793,19.39,622,72,22,67.84,50,68.7,-7,Completed
+622,2025-04-28, Bengaluru ,R107,Electronic City - Majestic,Bus,Electronic City,CV Raman Nagar,13.121754,77.666139,12.38,1664,56,48,57.31,100,88.6,5,Completed
+850,2025-08-18, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Majestic,Whitefield,12.981183,77.511859,2.02,679,28,25,68.19,60,40.0,33,Cancelled
+90,2025-06-25, Bengaluru ,R108,Dasarahalli - Majestic,Bus,Silk Board,Dasarahalli,13.169275,77.639477,19.0,812,119,10,44.82,50,34.6,43,Cancelled
+809,2025-07-26, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Yeshwanthpur,Mahadevapura,13.108278,77.607512,7.2,910,11,11,37.35,60,58.7,11,Completed
+276,2025-01-10, Bengaluru ,R106, Whitefield - Silk Board ,Bus,KR Market,CV Raman Nagar,13.178255,77.787542,12.66,829,37,45,59.59,50,44.9,26,On Time
+477,2025-10-11, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Hebbal,Dasarahalli,12.92737,77.534786,4.38,1076,17,19,34.92,50,95.9,33,Cancelled
+288,2025-08-11, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,KR Market,Majestic,13.007372,77.670024,14.78,661,111,30,21.28,60,44.3,6,Delayed
+519,2025-06-24, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yelahanka,RR Nagar,13.190064,77.726238,3.74,898,68,5,27.78,40,53.4,44,Cancelled
+501,2025-03-10, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Mahadevapura,CV Raman Nagar,13.154213,77.769394,28.09,611,40,24,60.76,40,40.8,29,Delayed
+194,2025-05-24, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Whitefield,RR Nagar,12.859754,77.639132,26.82,1003,77,55,76.71,100,50.9,8,Delayed
+687,2025-04-15, Bengaluru ,R107, Electronic City - Majestic ,Bus,Whitefield,Banashankari,13.121569,77.593051,25.84,997,68,5,41.46,50,36.0,9,Delayed
+384,2025-04-07, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Majestic,KR Market,12.930961,77.656039,3.66,308,85,11,75.47,100,72.8,24,Completed
+360,2025-01-19, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Yelahanka,KR Market,13.099665,77.706404,29.74,1796,54,23,64.82,60,70.9,42,Delayed
+276,2025-01-10, Bengaluru ,R106, Whitefield - Silk Board ,Bus,KR Market,CV Raman Nagar,13.178255,77.787542,12.66,829,37,45,59.59,50,44.9,26,On Time
+871,2025-12-19, Bengaluru ,R101, Yelahanka - Majestic ,Bus,RR Nagar,Electronic City,12.909844,77.547963,9.44,1244,81,47,54.26,50,81.4,31,Cancelled
+581,2025-05-19, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Banashankari,RR Nagar,12.89024,77.755812,7.56,360,109,36,38.58,60,75.0,10,Cancelled
+12,2025-07-14, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Whitefield,Dasarahalli,13.065982,77.54822,12.77,435,37,75,59.32,30,71.2,28,Delayed
+123,2025-06-12, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Mahadevapura,Yeshwanthpur,13.162083,77.492226,12.16,1577,77,60,40.51,30,78.3,21,Cancelled
+193,2025-02-09, Bengaluru ,R107,Electronic City - Majestic,Bus,Dasarahalli,KR Market,13.032184,77.504242,17.58,560,100,78,40.0,30,35.2,16,Cancelled
+177,2025-11-13, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Mahadevapura,Shivajinagar,12.904007,77.522779,20.08,1358,109,46,44.95,50,61.8,5,Cancelled
+826,2025-05-23, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Mahadevapura,CV Raman Nagar,13.093318,77.563585,23.94,1259,41,44,3.55,40,59.0,5,On Time
+71,2025-05-19, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Bommanahalli,Banashankari,12.890721,77.51396,5.99,84,100,44,54.58,60,93.0,14,Delayed
+722,2025-08-15, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Bommanahalli,Majestic,12.91327,77.774427,23.21,998,82,58,41.01,50,67.7,24,Delayed
+103,2025-12-23, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Whitefield,Yeshwanthpur,13.185359,77.538959,2.81,513,14,59,31.07,30,-0.0,17,On Time
+700,2025-10-17, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Shivajinagar,Whitefield,12.999917,77.759899,8.05,1276,100,20,70.52,50,92.9,1,Completed
+864,2025-07-19,,R110, Hebbal - Yeshwanthpur ,Bus,Electronic City,CV Raman Nagar,12.904398,77.592112,27.68,297,101,40,21.3,100,74.7,27,On Time
+440,2025-11-10, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Yeshwanthpur,Yelahanka,13.059923,77.762844,25.63,345,21,56,67.97,60,72.0,27,Completed
+527,2025-09-10, Bengaluru ,R107, Electronic City - Majestic ,Bus,Hebbal,Dasarahalli,12.872657,77.783625,23.23,1057,38,25,39.41,150,27.3,42,On Time
+96,2025-02-11, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Dasarahalli,Yelahanka,13.048469,77.677678,22.25,1597,73,46,65.73,100,35.4,44,On Time
+859,2025-05-07,,R106,Whitefield - Silk Board,Bus,Whitefield,Majestic,13.182235,77.591073,26.1,869,67,27,66.43,40,81.0,11,Completed
+185,2025-09-27, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Whitefield,Banashankari,13.012387,77.574605,11.72,1541,42,25,20.51,40,78.5,43,Completed
+470,2025-09-02, Bengaluru ,R105, RR Nagar - Banashankari ,,Shivajinagar,Yeshwanthpur,12.945013,77.647096,-1.48,1400,93,11,56.46,40,90.2,23,Completed
+640,2025-09-30,,R102,Hebbal - Shivajinagar,Metro,Mahadevapura,Bommanahalli,13.096224,77.731981,19.22,389,12,30,35.91,30,78.3,26,On Time
+21,2025-08-16, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Majestic,Bommanahalli,13.00369,77.531365,27.13,1636,84,27,21.56,50,49.0,3,Delayed
+560,2025-02-13, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Whitefield,Hebbal,13.056364,77.608614,24.67,1225,17,12,28.73,60,29.0,9,Delayed
+801,2025-05-13, Bengaluru ,R103, Mahadevapura - KR Market ,,KR Market,Hebbal,13.167925,77.590409,29.28,774,24,21,39.12,40,70.9,37,Cancelled
+300,2025-06-11,,R101, Yelahanka - Majestic ,Metro,KR Market,Hebbal,12.863883,77.587483,14.89,1381,16,37,25.47,40,41.5,5,On Time
+196,2025-10-30, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,CV Raman Nagar,Hebbal,13.127491,77.494321,27.14,340,26,51,34.44,30,93.0,11,
+556,2025-01-18, Bengaluru ,R105, RR Nagar - Banashankari ,,Silk Board,RR Nagar,13.021463,77.566739,10.54,1157,55,23,17.52,50,70.0,54,Delayed
+179,2025-01-09, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Bommanahalli,Shivajinagar,13.035854,77.644363,4.65,1510,57,13,16.53,40,75.6,17,Completed
+176,2025-05-12, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Dasarahalli,Majestic,13.129605,77.589221,6.11,386,99,60,19.13,150,83.8,44,
+786,2025-03-08, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Mahadevapura,RR Nagar,12.869576,77.775301,23.32,615,87,12,33.98,100,95.4,27,On Time
+138,2025-10-10, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Hebbal,KR Market,12.984755,77.73203,12.76,60,44,5,43.89,60,57.1,10,Cancelled
+559,2025-01-19, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Silk Board,Dasarahalli,12.980829,77.764352,13.07,1271,44,38,21.44,40,81.0,9,Completed
+152,2025-02-02, Bengaluru ,R108, Dasarahalli - Majestic ,,Yelahanka,Mahadevapura,12.930565,77.758883,14.83,171,111,54,55.82,50,31.0,21,Completed
+381,2025-10-24, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Shivajinagar,Silk Board,12.851444,77.532656,5.26,1799,52,9,14.44,50,80.8,32,Cancelled
+526,2025-04-23, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Yelahanka,Mahadevapura,13.062811,77.545426,28.28,259,22,56,26.06,100,73.5,4,Cancelled
+761,2025-05-08, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Mahadevapura,Majestic,13.150253,77.733038,8.54,1772,24,35,79.46,30,38.2,17,On Time
+615,2025-09-10, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Hebbal,Whitefield,12.866853,77.48632,15.75,319,76,44,44.65,100,82.2,3,Completed
+222,2025-05-24, Bengaluru ,R104,Bommanahalli - Majestic,Bus,Bommanahalli,Mahadevapura,13.017064,77.7546,26.65,1561,115,18,21.17,150,67.7,5,On Time
+411,2025-10-19, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Shivajinagar,CV Raman Nagar,12.925015,77.765579,18.57,900,84,51,65.4,50,54.6,23,Completed
+72,2025-06-06, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Hebbal,Whitefield,13.099235,77.491854,7.81,919,57,28,50.48,150,77.6,1,Completed
+20,2025-09-11, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Banashankari,Shivajinagar,12.978865,77.51764,3.62,897,106,46,79.75,40,57.4,35,On Time
+278,2025-01-21, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Silk Board,RR Nagar,13.146611,77.500612,10.75,679,95,27,45.37,100,48.3,5,Completed
+289,2025-03-05, Bengaluru ,R107, Electronic City - Majestic ,Metro,RR Nagar,Electronic City,13.1582,77.789842,11.96,650,54,49,50.09,30,66.7,42,Delayed
+467,2025-07-05, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yeshwanthpur,Majestic,13.187917,77.72816,7.14,1493,26,16,62.24,50,62.5,25,Completed
+943,2025-10-14, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Majestic,KR Market,12.88929,77.660297,15.19,616,21,60,59.01,60,36.0,11,Cancelled
+650,2025-04-24, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Shivajinagar,Yeshwanthpur,12.857159,77.764868,6.96,190,92,9,60.51,100,90.6,13,Delayed
+665,2025-03-02, Bengaluru ,R101, Yelahanka - Majestic ,Bus,CV Raman Nagar,Silk Board,12.927864,77.537592,13.33,1024,53,13,47.52,40,41.3,6,
+37,2025-01-30, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Dasarahalli,Mahadevapura,12.94285,77.615295,24.26,1649,104,29,72.33,40,86.4,18,On Time
+731,2025-05-15, Bengaluru ,R108, Dasarahalli - Majestic ,,Shivajinagar,Yeshwanthpur,12.927698,77.613166,24.3,340,81,44,43.64,40,77.0,39,Completed
+367,2025-10-28, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Bommanahalli,KR Market,12.980612,77.755378,29.98,1194,78,40,18.37,30,96.3,40,Delayed
+95,2025-08-11, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,CV Raman Nagar,Dasarahalli,13.115214,77.61548,6.92,1348,96,14,46.23,150,59.8,26,Cancelled
+848,2025-09-15, Bengaluru ,R105, RR Nagar - Banashankari ,,Dasarahalli,Banashankari,13.163413,77.702127,15.84,1079,90,52,70.38,40,81.8,43,Completed
+584,2025-06-25, Bengaluru ,R105, RR Nagar - Banashankari ,,CV Raman Nagar,Silk Board,13.162793,77.454372,11.98,1017,59,51,26.33,30,56.5,28,Delayed
+952,2025-03-27, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Whitefield,RR Nagar,12.882516,77.466479,11.51,99,36,24,78.14,100,85.5,1,On Time
+678,2025-11-09, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Majestic,Hebbal,13.091682,77.740896,20.03,644,54,34,75.05,60,62.6,34,Completed
+287,2025-01-06, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Hebbal,Silk Board,12.855788,77.527373,29.41,1407,117,51,12.77,100,39.0,42,Delayed
+105,2025-12-28,,R105, RR Nagar - Banashankari ,Bus,Majestic,RR Nagar,13.026552,77.773715,14.42,1136,91,45,12.08,150,80.8,8,On Time
+422,2025-05-18, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Hebbal,CV Raman Nagar,13.193143,77.679685,6.95,578,83,8,78.4,40,52.5,0,
+794,2025-10-31, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Silk Board,Mahadevapura,13.123549,77.741324,3.75,142,39,8,73.49,100,45.4,4,Completed
+806,2025-02-25, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Shivajinagar,Yelahanka,13.082964,77.589679,4.48,338,17,39,41.54,60,60.4,6,Delayed
+321,2025-12-28, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Yelahanka,CV Raman Nagar,12.967461,77.506979,12.24,1078,71,33,59.68,60,35.6,5,Cancelled
+64,2025-12-18, Bengaluru ,R101, Yelahanka - Majestic ,Bus,CV Raman Nagar,Whitefield,13.180184,77.598389,22.86,451,13,53,60.25,150,37.1,12,Delayed
+280,2025-07-09, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Banashankari,RR Nagar,12.882248,77.544945,13.79,1709,98,50,21.66,30,62.0,9,Completed
+198,2025-06-28, Bengaluru ,R107, Electronic City - Majestic ,Bus,Mahadevapura,KR Market,13.182285,77.785428,21.77,1592,48,6,53.29,50,35.5,36,On Time
+535,2025-06-01, Bengaluru ,R106, Whitefield - Silk Board ,Bus,KR Market,Yeshwanthpur,12.913168,77.658155,18.53,1045,98,31,17.27,50,89.5,8,Cancelled
+656,2025-11-16, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Banashankari,Hebbal,12.954262,77.726105,9.89,1652,55,42,73.17,100,38.3,3,Completed
+139,2025-07-23, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,CV Raman Nagar,Silk Board,12.990608,77.590673,8.33,97,14,43,27.58,50,29.5,37,On Time
+897,2025-03-11, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,KR Market,Bommanahalli,12.88288,77.755989,15.33,646,101,20,13.72,30,27.6,14,Completed
+124,2025-12-30, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Whitefield,Mahadevapura,13.005481,77.667112,24.42,721,99,22,12.86,100,54.9,21,Delayed
+266,2025-11-13,,R103, Mahadevapura - KR Market ,Metro,CV Raman Nagar,Electronic City,13.107663,77.564637,12.87,1049,117,26,56.51,50,27.9,11,
+374,2025-07-30, Bengaluru ,R103, Mahadevapura - KR Market ,,Yelahanka,Silk Board,12.98015,77.667842,17.02,370,89,59,36.16,50,58.1,36,Completed
+139,2025-07-23, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,CV Raman Nagar,Silk Board,12.990608,77.590673,8.33,97,14,43,27.58,50,29.5,37,On Time
+814,2025-02-06, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Majestic,Silk Board,12.973308,77.694951,3.49,587,118,53,13.3,50,61.7,25,On Time
+455,2025-01-03, Bengaluru ,R107,Electronic City - Majestic,Metro,Whitefield,CV Raman Nagar,13.175271,77.608698,29.96,1483,69,48,56.02,50,67.2,31,Completed
+660,2025-01-21, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Mahadevapura,Shivajinagar,12.902446,77.48451,25.67,197,90,47,52.82,150,75.0,-1,Cancelled
+770,2025-06-08, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Mahadevapura,Yeshwanthpur,13.165271,77.778553,29.77,522,135,20,21.16,50,37.1,11,Cancelled
+601,2025-05-24, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Mahadevapura,Dasarahalli,13.034234,77.553545,10.1,1128,36,15,-6.04,50,30.2,13,Cancelled
+577,2025-11-05, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Hebbal,Mahadevapura,13.062478,77.763599,28.47,966,45,52,18.79,100,64.0,12,On Time
+788,2025-06-01, Bengaluru ,R108, Dasarahalli - Majestic ,,Silk Board,Whitefield,12.926596,77.540864,17.66,1336,88,45,36.98,50,86.9,13,Delayed
+561,2025-05-21,,R106,Whitefield - Silk Board,Bus,Yeshwanthpur,KR Market,12.86031,77.636658,8.09,760,85,52,20.11,100,34.3,26,Cancelled
+43,2025-04-04, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Shivajinagar,Yeshwanthpur,13.156805,77.543334,19.81,884,86,14,62.01,30,83.4,43,Delayed
+174,2025-08-17,,R107, Electronic City - Majestic ,Bus,Silk Board,Dasarahalli,13.088597,77.535924,32.36,717,35,22,12.96,30,95.7,4,Cancelled
+108,2025-08-02,,R109,CV Raman Nagar - Shivajinagar,Bus,Bommanahalli,KR Market,13.071347,77.673184,15.05,1116,117,18,45.68,50,35.0,5,On Time
+253,2025-01-04, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Shivajinagar,Yeshwanthpur,13.122042,77.744134,3.83,926,130,34,74.73,30,44.2,32,On Time
+51,2025-08-13, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Bommanahalli,Silk Board,12.880123,77.729453,22.2,1207,113,44,24.26,150,32.3,41,Completed
+234,2025-12-29, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Electronic City,Yeshwanthpur,13.148277,77.558025,13.44,883,57,52,34.92,40,77.6,3,Completed
+269,2025-11-23, Bengaluru ,R101,Yelahanka - Majestic,Bus,Mahadevapura,Whitefield,13.162389,77.778046,2.14,307,39,14,24.06,100,96.8,20,Cancelled
+403,2025-08-11,,R102, Hebbal - Shivajinagar ,Bus,Bommanahalli,Shivajinagar,12.922102,77.577359,25.29,1489,168,46,47.78,30,63.4,26,Cancelled
+832,2025-01-05, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Hebbal,Shivajinagar,12.903935,77.460092,29.82,1664,47,40,78.4,100,61.1,25,Completed
+549,2025-06-20, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Mahadevapura,KR Market,12.950947,77.576123,20.85,321,86,37,52.08,100,47.1,13,Cancelled
+398,2025-11-01, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,,KR Market,Whitefield,12.882781,77.609362,11.06,385,45,60,75.52,100,33.9,23,Cancelled
+274,2025-11-05, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Shivajinagar,Bommanahalli,13.176866,77.766431,14.5,1614,92,17,55.75,30,-3.7,18,On Time
+940,2025-01-09, Bengaluru ,R110,Hebbal - Yeshwanthpur,Bus,KR Market,Bommanahalli,13.013727,77.781812,13.66,1409,11,45,29.61,50,90.3,24,Completed
+362,2025-05-22, Bengaluru ,R106,Whitefield - Silk Board,Metro,CV Raman Nagar,Dasarahalli,12.901906,77.571395,17.63,498,69,50,53.41,30,83.5,32,Cancelled
+891,2025-10-16, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Mahadevapura,Silk Board,13.160043,77.553876,22.46,74,52,31,10.6,50,32.6,18,Cancelled
+36,2025-06-22,,R109, CV Raman Nagar - Shivajinagar ,Bus,CV Raman Nagar,Majestic,13.04219,77.728471,4.35,873,108,38,20.29,100,48.3,25,Cancelled
+768,2025-07-21, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Majestic,Banashankari,12.901141,77.590468,2.73,152,110,10,31.74,60,31.3,6,Completed
+251,2025-01-01, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Shivajinagar,Banashankari,13.089292,77.769159,20.04,220,102,40,23.56,50,40.7,26,On Time
+415,2025-07-15, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Shivajinagar,Dasarahalli,13.099258,77.795139,24.1,1284,95,51,16.96,60,95.8,43,Delayed
+483,2025-05-18, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Bommanahalli,Yeshwanthpur,12.858909,77.560223,3.46,629,79,21,38.83,150,65.1,1,Cancelled
+564,2025-11-04, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Hebbal,Mahadevapura,12.875605,77.710788,25.91,625,86,7,55.39,50,34.8,8,Completed
+396,2025-11-24, Bengaluru ,R107, Electronic City - Majestic ,Bus,Yeshwanthpur,Silk Board,13.01002,77.725682,26.83,1025,88,15,44.3,100,67.7,8,On Time
+366,2025-09-16, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Hebbal,CV Raman Nagar,12.999676,77.659334,22.33,1090,89,-2,63.29,100,90.1,14,Delayed
+980,2025-07-03,,R110, Hebbal - Yeshwanthpur ,Bus,Banashankari,Yeshwanthpur,13.06682,77.675752,19.69,1071,40,5,104.63,30,82.2,36,On Time
+303,2025-02-02, Bengaluru ,R107, Electronic City - Majestic ,Bus,Silk Board,Shivajinagar,12.957176,77.671685,9.56,1752,1,21,78.68,100,36.7,15,Completed
+344,2025-10-28, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Majestic,Shivajinagar,13.109092,77.450279,5.19,891,10,58,59.92,100,85.5,3,On Time
+948,2025-01-02, Bengaluru ,R107, Electronic City - Majestic ,Bus,RR Nagar,Yelahanka,12.879624,77.451589,10.26,303,82,60,16.21,40,45.0,21,Completed
+579,2025-07-20, Bengaluru ,R107, Electronic City - Majestic ,Metro,Silk Board,KR Market,13.124065,77.511375,4.3,703,101,20,47.57,50,48.1,21,
+39,2025-04-27, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Shivajinagar,RR Nagar,12.867973,77.659571,22.6,872,21,22,63.37,30,85.9,31,Cancelled
+609,2025-12-23,,R105, RR Nagar - Banashankari ,Metro,RR Nagar,CV Raman Nagar,13.087519,77.695526,10.19,107,15,59,78.72,30,39.2,34,Completed
+380,2025-10-25, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Shivajinagar,CV Raman Nagar,13.15317,77.472606,17.06,1590,43,15,78.84,100,74.3,31,On Time
+491,2025-03-12, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Electronic City,Dasarahalli,12.98283,77.487109,13.0,1480,15,39,56.61,40,75.1,22,On Time
+636,2025-11-24,,R108, Dasarahalli - Majestic ,Bus,Yeshwanthpur,Whitefield,13.06294,77.545772,4.94,1850,82,14,34.66,40,48.1,16,Delayed
+908,2025-03-03, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Dasarahalli,CV Raman Nagar,12.955913,77.547947,19.45,1155,28,45,24.59,30,92.8,8,Completed
+49,2025-07-08,,R107, Electronic City - Majestic ,Bus,Yeshwanthpur,Hebbal,12.855782,77.763169,5.99,304,23,8,61.19,40,71.7,32,Cancelled
+973,2025-03-31, Bengaluru ,R101, Yelahanka - Majestic ,Metro,RR Nagar,Yeshwanthpur,12.887996,77.607073,22.52,1530,12,11,72.48,60,94.2,15,On Time
+938,2025-03-31, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Mahadevapura,Whitefield,13.06278,77.670461,4.6,748,84,49,69.95,100,53.2,1,On Time
+528,2025-09-06, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Shivajinagar,Whitefield,12.885805,77.675463,28.91,1377,59,52,73.36,150,55.1,17,Completed
+648,2025-04-27, Bengaluru ,R101, Yelahanka - Majestic ,Bus,KR Market,Hebbal,13.018399,77.495839,10.59,33,47,20,139.64,40,51.8,32,Completed
+397,2025-02-21, Bengaluru ,R107, Electronic City - Majestic ,Bus,Yeshwanthpur,Dasarahalli,12.870269,77.707804,24.38,1161,32,36,52.61,150,40.5,14,
+74,2025-02-08, Bengaluru ,R101,Yelahanka - Majestic,Metro,Mahadevapura,Silk Board,12.964669,77.695733,4.91,201,47,37,13.43,100,28.4,38,Cancelled
+251,2025-01-01, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Shivajinagar,Banashankari,13.089292,77.769159,20.04,220,102,40,23.56,50,40.7,26,On Time
+628,2025-02-13, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Yelahanka,KR Market,13.068382,77.563462,6.72,714,97,14,14.84,100,11.0,15,Completed
+118,2025-09-11, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yelahanka,Mahadevapura,12.970135,77.76366,24.94,1183,31,58,13.93,50,93.5,30,Cancelled
+284,2025-07-10, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Banashankari,Hebbal,12.993106,77.648414,10.64,334,171,26,23.64,150,51.0,1,Cancelled
+14,2025-09-27, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Majestic,Yelahanka,12.903447,77.503715,19.92,190,33,48,35.21,50,-4.8,43,Cancelled
+98,2025-10-05, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yelahanka,Whitefield,13.188816,77.64328,11.35,699,107,25,45.25,40,50.3,15,Delayed
+857,2025-10-07, Bengaluru ,R106, Whitefield - Silk Board ,Bus,RR Nagar,Dasarahalli,13.034947,77.634257,28.58,125,79,18,59.44,30,30.2,12,Cancelled
+703,2025-12-06, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,CV Raman Nagar,Electronic City,12.978222,77.487275,24.84,1363,33,60,26.77,50,110.4,26,Delayed
+979,2025-10-05, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Shivajinagar,Banashankari,12.962735,77.645064,6.82,220,30,21,62.17,150,44.4,29,On Time
+717,2025-02-06, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Bommanahalli,Mahadevapura,13.146218,77.694741,9.21,393,34,43,68.85,50,73.8,1,Delayed
+778,2025-07-07, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Electronic City,Whitefield,12.971056,77.757097,22.26,9,115,33,48.85,50,43.1,41,On Time
+861,2025-02-02, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,CV Raman Nagar,Yelahanka,13.013418,77.59294,20.09,607,78,33,63.2,60,50.1,38,Completed
+309,2025-09-15, Bengaluru ,R108,Dasarahalli - Majestic,Bus,Dasarahalli,Electronic City,12.985977,77.512581,16.89,1666,120,52,58.8,150,77.4,2,Cancelled
+932,2025-10-22,,R101, Yelahanka - Majestic ,Bus,CV Raman Nagar,Mahadevapura,13.132447,77.646233,18.11,1021,107,23,45.81,150,46.0,7,On Time
+694,2025-09-16, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Majestic,Shivajinagar,12.908553,77.672336,5.93,1555,65,57,48.12,60,60.0,16,Cancelled
+313,2025-07-29, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Dasarahalli,Hebbal,13.147695,77.601297,20.3,605,60,41,67.36,150,70.2,17,Completed
+651,2025-11-18, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Bommanahalli,Electronic City,13.078778,77.450298,9.41,1543,110,33,57.06,100,61.7,19,Completed
+580,2025-05-06, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Mahadevapura,Yeshwanthpur,12.865032,77.611611,29.17,811,82,34,51.43,60,91.9,29,Completed
+576,2025-11-16, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Electronic City,Hebbal,12.923256,77.652633,24.16,461,61,54,41.52,30,37.7,28,Completed
+777,2025-11-19, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,CV Raman Nagar,KR Market,12.862081,77.707722,14.79,260,10,34,60.6,150,66.0,6,Delayed
+828,2025-09-24, Bengaluru ,R107, Electronic City - Majestic ,,Dasarahalli,Majestic,12.944458,77.558971,7.77,495,81,25,20.52,150,103.8,46,Delayed
+186,2025-03-10, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Yeshwanthpur,Mahadevapura,12.889295,77.700703,8.23,1408,46,53,119.22,40,67.9,3,Completed
+85,2025-12-10, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,RR Nagar,Yelahanka,12.96511,77.656376,14.11,1080,46,10,13.63,100,72.7,6,Completed
+148,2025-04-12, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Yelahanka,Banashankari,12.904762,77.577379,12.39,993,20,55,46.0,60,30.9,32,Completed
+620,2025-09-12, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Dasarahalli,Yeshwanthpur,13.091391,77.782108,8.09,1543,55,59,94.13,60,31.5,1,Completed
+362,2025-05-22, Bengaluru ,R106,Whitefield - Silk Board,Metro,CV Raman Nagar,Dasarahalli,12.901906,77.571395,17.63,498,69,50,53.41,30,83.5,32,Cancelled
+918,2025-05-26, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yeshwanthpur,Mahadevapura,12.973676,77.712579,13.96,613,75,28,39.36,30,54.6,4,On Time
+702,2025-12-25, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,CV Raman Nagar,Mahadevapura,13.114498,77.555339,23.24,248,100,21,71.3,30,65.5,0,On Time
+407,2025-01-03, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Electronic City,KR Market,12.86706,77.779636,13.57,181,37,13,74.82,50,52.3,20,Delayed
+652,2025-11-26,,R109, CV Raman Nagar - Shivajinagar ,Bus,CV Raman Nagar,RR Nagar,12.936675,77.509103,24.38,2095,42,22,30.29,50,70.8,32,Completed
+587,2025-07-03, Bengaluru ,R102, Hebbal - Shivajinagar ,,KR Market,Banashankari,12.850593,77.489409,23.72,821,74,24,73.48,150,78.6,3,Completed
+679,2025-05-04,,R102, Hebbal - Shivajinagar ,Bus,RR Nagar,Yelahanka,12.991101,77.605857,10.52,1649,77,15,49.14,60,58.0,24,On Time
+488,2025-08-03, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Hebbal,Yeshwanthpur,12.939725,77.57121,21.74,1719,90,54,63.57,30,51.4,16,Delayed
+880,2025-03-25, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Bommanahalli,Shivajinagar,12.907805,77.663599,22.73,1359,112,42,77.73,30,16.9,12,Delayed
+217,2025-03-22, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Majestic,Yeshwanthpur,13.195843,77.676862,8.26,1672,62,48,19.01,40,28.5,34,Cancelled
+821,2025-10-23, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Majestic,Hebbal,12.880298,77.549004,19.68,583,25,26,41.13,150,42.6,2,Completed
+156,2025-07-07, Bengaluru ,R101, Yelahanka - Majestic ,Bus,CV Raman Nagar,RR Nagar,12.857218,77.593747,25.66,556,117,28,54.35,150,66.0,1,On Time
+614,2025-10-25, Bengaluru ,R110, Hebbal - Yeshwanthpur ,,Shivajinagar,Yeshwanthpur,13.00636,77.67838,10.99,1478,100,56,68.84,60,96.1,87,Completed
+538,2025-01-18, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Yelahanka,Mahadevapura,13.003699,77.625484,24.25,694,44,28,44.18,60,32.3,38,Completed
+298,2025-09-14, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,CV Raman Nagar,Yelahanka,13.067079,77.666852,16.3,77,37,31,47.93,60,49.2,23,Delayed
+393,2025-05-17, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Hebbal,CV Raman Nagar,12.993515,77.753066,14.29,648,20,20,22.78,40,65.5,5,Cancelled
+756,2025-07-31, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,RR Nagar,Mahadevapura,12.894832,77.683541,21.69,995,81,8,60.75,150,96.1,24,On Time
+235,2025-09-04, Bengaluru ,R106, Whitefield - Silk Board ,Metro,CV Raman Nagar,Banashankari,13.195096,77.769583,11.45,805,28,55,12.72,40,68.0,-2,Delayed
+794,2025-10-31, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Silk Board,Mahadevapura,13.123549,77.741324,3.75,142,39,8,73.49,100,45.4,4,Completed
+318,2025-03-08, Bengaluru ,R101,Yelahanka - Majestic,Bus,Banashankari,KR Market,13.006083,77.692209,4.67,948,102,5,64.32,60,85.3,15,
+428,2025-12-15, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Shivajinagar,Hebbal,13.167039,77.638614,7.34,210,31,30,13.3,60,87.8,38,Completed
+570,2025-04-10, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Electronic City,Shivajinagar,12.9509,77.528487,4.69,953,61,6,11.95,30,26.0,11,Delayed
+59,2025-09-06, Bengaluru ,R107, Electronic City - Majestic ,Bus,Electronic City,Silk Board,13.197313,77.553743,26.04,1389,40,-1,59.12,50,61.2,41,Completed
+68,2025-09-27, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,CV Raman Nagar,Whitefield,13.096396,77.783416,8.68,1586,106,21,43.16,30,92.1,44,Cancelled
+751,2025-06-30, Bengaluru ,R106,Whitefield - Silk Board,Bus,Dasarahalli,Silk Board,12.863523,77.555792,5.43,357,46,41,15.4,50,39.2,28,Cancelled
+27,2025-09-23, Bengaluru ,R107, Electronic City - Majestic ,,Silk Board,Mahadevapura,12.882387,77.609023,3.36,277,84,33,30.39,60,65.5,0,Completed
+115,2025-03-13, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Mahadevapura,Dasarahalli,12.869552,77.504261,17.75,1793,46,29,61.56,60,71.8,12,On Time
+15,2025-02-13, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Whitefield,Banashankari,12.920958,77.657618,28.91,1202,136,13,31.57,40,47.2,28,On Time
+895,2025-09-27, Bengaluru ,R106,Whitefield - Silk Board,Bus,RR Nagar,Dasarahalli,13.197384,77.774681,28.46,1249,100,24,45.48,40,25.4,14,Cancelled
+204,2025-06-06, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,CV Raman Nagar,Majestic,12.878224,77.617894,27.26,1443,112,54,21.87,40,88.1,1,Completed
+865,2025-10-23,,R101, Yelahanka - Majestic ,,Yeshwanthpur,Yelahanka,12.938878,77.691514,22.69,342,115,36,60.44,30,30.8,11,On Time
+546,2025-04-19, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Dasarahalli,Mahadevapura,12.980475,77.479874,25.41,343,86,18,43.69,50,28.3,0,Cancelled
+161,2025-07-14, Bengaluru ,R101,Yelahanka - Majestic,Metro,Dasarahalli,Mahadevapura,13.104143,77.606906,6.92,1358,38,37,65.87,50,26.0,1,Delayed
+350,2025-10-28, Bengaluru ,R108, Dasarahalli - Majestic ,,Bommanahalli,Mahadevapura,13.052048,77.599945,2.39,280,20,24,15.76,150,79.5,3,Completed
+216,2025-10-16, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Dasarahalli,Whitefield,13.009648,77.470811,13.07,237,57,60,52.35,60,85.2,22,Cancelled
+868,2025-07-01, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Dasarahalli,Hebbal,13.177707,77.540526,12.79,345,104,31,50.84,50,69.4,6,Completed
+106,2025-05-04, Bengaluru ,R108,Dasarahalli - Majestic,Bus,Shivajinagar,RR Nagar,13.067668,77.538799,18.48,1418,98,18,44.74,40,49.2,-7,Delayed
+768,2025-07-21, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Majestic,Banashankari,12.901141,77.590468,2.73,152,110,10,31.74,60,31.3,6,Completed
+696,2025-09-07, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Bommanahalli,Hebbal,13.04205,77.588424,24.67,341,114,36,40.21,100,53.7,8,Delayed
+245,2025-03-13, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Mahadevapura,Electronic City,13.173128,77.723659,20.16,564,38,36,65.47,30,38.6,30,On Time
+982,2025-09-19, Bengaluru ,R109,CV Raman Nagar - Shivajinagar,Bus,Hebbal,Banashankari,12.859816,77.618327,7.23,915,44,37,50.07,30,84.8,38,Cancelled
+330,2025-08-27, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Yelahanka,Banashankari,13.136907,77.461573,20.35,1583,68,42,62.19,60,58.3,44,Cancelled
+144,2025-10-12, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Yeshwanthpur,KR Market,12.875939,77.725543,20.6,322,79,40,49.19,100,57.0,17,Cancelled
+94,2025-12-08, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Majestic,Electronic City,13.141398,77.799119,23.04,1662,12,6,72.93,100,44.8,4,On Time
+514,2025-07-02, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Majestic,Banashankari,13.108506,77.669822,2.79,323,42,39,63.91,150,26.1,44,Cancelled
+29,2025-06-07, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Dasarahalli,Shivajinagar,13.127037,77.749212,22.42,707,115,60,76.93,100,92.0,44,Delayed
+191,2025-03-11, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Yeshwanthpur,Whitefield,12.854409,77.607598,25.35,1377,74,32,58.17,150,44.2,6,Cancelled
+388,2025-12-01, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Bommanahalli,CV Raman Nagar,12.860745,77.708716,0.31,818,27,50,17.47,100,64.5,8,Cancelled
+332,2025-07-04, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Bommanahalli,RR Nagar,13.168027,77.673321,5.73,61,50,40,12.45,30,74.5,18,Delayed
+293,2025-07-05,,R103, Mahadevapura - KR Market ,Bus,Whitefield,CV Raman Nagar,12.924369,77.453172,27.34,245,10,53,59.75,150,34.3,21,Delayed
+107,2025-01-28, Bengaluru ,R105,RR Nagar - Banashankari,Bus,Shivajinagar,Banashankari,12.92723,77.610557,27.65,563,114,47,68.92,60,75.2,2,Completed
+531,2025-12-17, Bengaluru ,R110, Hebbal - Yeshwanthpur ,,Dasarahalli,Bommanahalli,12.989755,77.545694,23.67,617,71,26,73.89,30,55.3,10,On Time
+792,2025-12-11, Bengaluru ,R107, Electronic City - Majestic ,Bus,Yelahanka,Silk Board,12.853519,77.47304,26.66,1552,49,18,33.39,30,68.0,32,On Time
+165,2025-11-07, Bengaluru ,R107, Electronic City - Majestic ,Metro,CV Raman Nagar,Mahadevapura,12.969935,77.500637,10.26,154,104,27,43.08,60,44.2,29,Cancelled
+84,2025-01-17, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Banashankari,Mahadevapura,12.94356,77.722536,19.52,734,51,27,19.99,60,63.7,19,Delayed
+605,2025-08-06, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Yelahanka,Electronic City,13.163649,77.685104,9.14,659,17,22,10.37,40,67.6,11,Cancelled
+475,2025-08-12, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Yelahanka,Banashankari,13.118624,77.644137,20.66,515,33,34,49.47,150,96.2,42,Delayed
+547,2025-10-30, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Silk Board,Majestic,13.027609,77.726849,5.15,1124,68,30,53.83,30,61.9,32,Cancelled
+461,2025-09-20, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Whitefield,Dasarahalli,12.97776,77.547417,6.58,1688,90,31,21.52,30,85.5,17,Delayed
+96,2025-10-19, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Yelahanka,Dasarahalli,13.008364,77.552907,7.9,1202,105,47,58.37,60,72.8,35,Delayed
+213,2025-07-17, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Dasarahalli,Shivajinagar,13.025499,77.547437,22.74,1324,17,33,33.85,40,93.2,42,On Time
+601,2025-05-24, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Mahadevapura,Dasarahalli,13.034234,77.553545,10.1,1128,36,15,-6.04,50,30.2,13,Cancelled
+429,2025-10-07, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Yeshwanthpur,Bommanahalli,13.131293,77.715599,5.51,1316,23,9,20.35,60,58.4,-8,Completed
+765,2025-12-09, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Whitefield,Banashankari,12.927876,77.473391,20.52,1175,92,53,77.64,30,32.1,30,Cancelled
+16,2025-06-08, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Banashankari,Silk Board,12.853936,77.573171,19.0,1374,33,39,38.88,40,65.5,23,Delayed
+935,2025-01-21, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,KR Market,Electronic City,12.95709,77.59287,17.57,1645,13,30,13.71,40,64.5,43,Delayed
+644,2025-12-08, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Silk Board,Hebbal,12.977673,77.607046,19.88,813,20,20,67.26,30,86.6,20,Completed
+172,2025-04-12, Bengaluru ,R106,Whitefield - Silk Board,Metro,Bommanahalli,Dasarahalli,12.880186,77.486252,22.35,54,69,23,31.01,30,55.3,1,Completed
+867,2025-07-21, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Hebbal,Dasarahalli,13.13309,77.794779,21.83,980,102,47,56.19,150,94.4,31,Cancelled
+24,2025-03-18, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,KR Market,Yeshwanthpur,13.167301,77.467175,25.17,267,70,28,13.27,150,49.1,1,Delayed
+969,2025-05-30, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,CV Raman Nagar,Dasarahalli,13.087925,77.604582,29.01,1676,46,44,36.33,100,81.2,43,Delayed
+425,2025-09-16, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,RR Nagar,Yeshwanthpur,12.896291,77.522961,25.06,1160,62,26,44.24,60,58.8,28,On Time
+852,2025-08-12, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Yelahanka,KR Market,12.989291,77.649302,5.49,213,65,60,74.31,30,69.5,21,On Time
+799,2025-07-17, Bengaluru ,R102,Hebbal - Shivajinagar,Bus,Silk Board,Electronic City,13.014266,77.649258,29.02,2425,22,16,12.19,30,27.1,10,Completed
+776,2025-06-21, Bengaluru ,R106, Whitefield - Silk Board ,Bus,KR Market,RR Nagar,13.114322,77.676543,27.78,575,101,20,25.42,50,44.7,32,Completed
+21,2025-10-01, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Yeshwanthpur,KR Market,13.008025,77.682898,21.18,301,56,37,56.19,100,92.7,42,Delayed
+956,2025-02-09, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Banashankari,Majestic,13.13895,77.521837,17.76,1648,76,40,48.63,100,14.1,41,Cancelled
+168,2025-02-26, Bengaluru ,R110,Hebbal - Yeshwanthpur,Metro,Whitefield,Yeshwanthpur,12.986419,77.759602,4.23,326,105,13,32.01,60,95.8,1,Delayed
+421,2025-08-17, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,KR Market,Banashankari,13.032276,77.68672,26.95,1230,32,33,51.07,150,49.3,2,On Time
+730,2025-02-15, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Dasarahalli,Yelahanka,13.046203,77.792022,13.63,172,32,37,8.6,30,79.4,29,Delayed
+489,2025-08-05, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Mahadevapura,Bommanahalli,13.044995,77.549976,21.79,2387,92,44,65.97,60,55.4,24,Cancelled
+271,2025-04-06, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Bommanahalli,Dasarahalli,12.875975,77.490475,11.24,781,63,69,30.12,30,25.7,34,
+950,2025-01-17, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Majestic,Yeshwanthpur,13.10496,77.699657,4.55,167,88,30,25.2,30,76.0,22,Completed
+486,2025-08-16, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Banashankari,Yeshwanthpur,13.172915,77.735078,29.42,791,106,24,50.55,50,38.0,29,Delayed
+468,2025-09-07, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Electronic City,Yeshwanthpur,13.198823,77.795886,28.19,1044,18,57,67.65,50,50.7,40,Completed
+890,2025-01-26, Bengaluru ,R109,CV Raman Nagar - Shivajinagar,Bus,Shivajinagar,KR Market,13.123666,77.454812,9.34,1528,113,54,76.54,40,44.4,31,Delayed
+337,2025-04-22, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,CV Raman Nagar,Shivajinagar,13.03275,77.544844,26.63,1582,91,55,24.11,100,40.6,6,Delayed
+77,2025-07-09, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,KR Market,RR Nagar,13.013068,77.5056,13.18,1148,70,6,23.55,30,26.5,40,Cancelled
+718,2025-04-13, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,RR Nagar,Silk Board,13.125974,77.508552,12.46,1299,109,22,25.8,40,90.0,39,On Time
+897,2025-03-11, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,KR Market,Bommanahalli,12.88288,77.755989,15.33,646,101,20,13.72,30,27.6,14,Completed
+816,2025-02-12, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Bommanahalli,RR Nagar,12.969756,77.680694,23.8,1032,25,25,69.21,60,56.1,24,Completed
+750,2025-05-05, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,CV Raman Nagar,RR Nagar,12.880472,77.6971,4.25,1570,34,39,31.11,40,75.4,26,Delayed
+76,2025-07-30, Bengaluru ,R107, Electronic City - Majestic ,Bus,Yeshwanthpur,Whitefield,13.133213,77.600343,29.06,2085,97,12,43.8,30,72.0,15,Delayed
+822,2025-04-26, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,CV Raman Nagar,Dasarahalli,12.919198,77.786439,14.94,286,110,24,64.5,100,88.0,37,Completed
+670,2025-11-02, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Dasarahalli,Electronic City,13.15304,77.520478,7.7,1411,83,59,31.06,60,48.6,14,Completed
+405,2025-04-17, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Bommanahalli,CV Raman Nagar,12.973476,77.540964,5.64,82,44,40,71.89,100,74.9,0,On Time
+141,2025-03-13,,R103, Mahadevapura - KR Market ,Bus,Silk Board,CV Raman Nagar,13.073807,77.697528,26.6,1367,94,12,58.64,40,55.2,40,
+111,2025-10-28, Bengaluru ,R107, Electronic City - Majestic ,Bus,Silk Board,CV Raman Nagar,13.056055,77.512428,5.66,1269,46,24,40.31,150,80.4,35,Completed
+236,2025-09-17, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Majestic,Silk Board,12.978836,77.681694,15.96,285,81,31,73.85,150,57.6,37,On Time
+537,2025-08-13, Bengaluru ,R107, Electronic City - Majestic ,Bus,Whitefield,KR Market,13.146986,77.450946,11.92,1678,83,54,24.77,40,56.9,7,Completed
+797,2025-03-15, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Yeshwanthpur,Dasarahalli,13.166026,77.696266,20.18,968,82,46,67.86,100,62.2,3,Delayed
+308,2025-12-16, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Yeshwanthpur,Yelahanka,13.037561,77.782055,8.45,1639,77,29,78.98,30,34.0,30,On Time
+379,2025-10-09, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Bommanahalli,Whitefield,13.031014,77.560793,14.67,1298,93,59,43.26,60,30.6,38,Completed
+596,2025-04-09, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Dasarahalli,Whitefield,12.863503,77.681197,24.2,1571,116,39,76.91,40,78.5,9,Completed
+10,2025-11-20, Bengaluru ,R107, Electronic City - Majestic ,,Bommanahalli,KR Market,12.910497,77.58056,8.05,1345,95,43,57.81,40,61.4,24,On Time
+961,2025-08-10, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Yelahanka,Hebbal,13.040902,77.798831,19.23,1030,101,60,56.12,100,41.8,32,Cancelled
+718,2025-04-13, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,RR Nagar,Silk Board,13.125974,77.508552,12.46,1299,109,22,25.8,40,90.0,39,On Time
+209,2025-07-15,,R101, Yelahanka - Majestic ,Bus,RR Nagar,Dasarahalli,12.97324,77.49189,27.09,681,111,56,64.47,150,76.1,23,Completed
+448,2025-06-15, Bengaluru ,R110, Hebbal - Yeshwanthpur ,,Banashankari,CV Raman Nagar,13.058034,77.48822,28.15,301,93,27,56.73,100,34.4,14,Delayed
+574,2025-06-02, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Yeshwanthpur,Whitefield,13.144417,77.653802,13.19,176,37,17,14.56,40,47.1,40,Delayed
+32,2025-08-31, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,CV Raman Nagar,Shivajinagar,13.065561,77.710906,23.07,590,32,38,21.58,150,85.8,38,Delayed
+357,2025-03-12, Bengaluru ,R107,Electronic City - Majestic,Bus,KR Market,Hebbal,12.905046,77.543406,21.59,57,25,6,50.39,60,87.4,27,
+424,2025-03-12, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,CV Raman Nagar,Electronic City,12.853245,77.568853,20.22,517,60,23,24.51,40,92.9,42,Delayed
+457,2025-04-28, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,KR Market,Whitefield,13.169098,77.741861,12.31,643,24,35,77.75,150,27.5,44,Cancelled
+365,2025-06-11, Bengaluru ,R107, Electronic City - Majestic ,Bus,KR Market,Silk Board,12.870813,77.529162,20.16,367,51,13,26.73,60,47.1,10,Cancelled
+952,2025-03-27, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Whitefield,RR Nagar,12.882516,77.466479,11.51,99,36,24,78.14,100,85.5,1,On Time
+218,2025-03-29, Bengaluru ,R107, Electronic City - Majestic ,Metro,Whitefield,CV Raman Nagar,12.956605,77.776759,15.08,129,58,51,68.5,150,78.8,10,Cancelled
+924,2025-11-21, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Whitefield,Dasarahalli,13.079717,77.527617,27.65,623,66,32,77.88,150,37.6,3,On Time
+993,2025-09-07, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Shivajinagar,Yeshwanthpur,12.870667,77.478993,21.96,1344,38,21,41.66,50,50.6,35,Delayed
+978,2025-01-29, Bengaluru ,R107, Electronic City - Majestic ,Bus,Yeshwanthpur,RR Nagar,13.151724,77.69412,18.47,1031,116,53,29.62,60,51.6,35,Cancelled
+704,2025-08-29, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Shivajinagar,Banashankari,12.941013,77.653322,20.23,1736,85,41,71.8,150,69.9,40,Completed
+102,2025-08-06, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Whitefield,Dasarahalli,12.905783,77.606958,13.14,919,43,11,36.01,100,46.5,0,On Time
+555,2025-12-25, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Hebbal,Yelahanka,12.917504,77.528502,15.2,998,23,58,49.58,100,66.8,7,Cancelled
+709,2025-04-18,,R105, RR Nagar - Banashankari ,Metro,CV Raman Nagar,Yeshwanthpur,13.005994,77.743406,24.79,1254,94,6,22.7,150,56.9,37,Delayed
+846,2025-09-07, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Dasarahalli,RR Nagar,13.042043,77.512228,2.03,1441,30,26,21.52,150,81.8,8,On Time
+782,2025-08-31, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Banashankari,Mahadevapura,12.906099,77.766533,9.11,1621,41,20,48.5,100,28.9,43,Cancelled
+221,2025-02-26,,R103, Mahadevapura - KR Market ,Bus,Electronic City,KR Market,13.018284,77.538946,25.92,438,97,33,25.98,150,57.2,29,Delayed
+64,2025-04-07, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Hebbal,Mahadevapura,13.181225,77.722848,22.79,1257,84,25,49.49,100,95.5,11,Delayed
+626,2025-12-19, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Dasarahalli,Whitefield,13.114209,77.742572,23.68,1435,103,11,54.19,30,52.5,54,On Time
+632,2025-06-28, Bengaluru ,R110, Hebbal - Yeshwanthpur ,,Yeshwanthpur,Dasarahalli,12.981402,77.649323,17.19,849,27,42,40.79,60,10.7,42,On Time
+981,2025-07-24, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Yelahanka,Mahadevapura,12.944515,77.740092,9.84,776,83,21,20.08,30,31.4,46,On Time
+760,2025-08-31, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,RR Nagar,Hebbal,13.138579,77.539505,18.39,1154,86,50,10.11,150,66.2,55,Completed
+70,2025-07-12, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Yeshwanthpur,Mahadevapura,13.129822,77.638251,26.14,1497,29,41,31.82,30,57.5,45,Completed
+881,2025-10-15, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Silk Board,Dasarahalli,13.134538,77.576816,10.13,971,17,22,68.57,150,46.5,31,Completed
+173,2025-07-15, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Yeshwanthpur,Dasarahalli,13.047677,77.570336,24.35,1383,74,37,29.09,60,28.5,5,Delayed
+433,2025-07-29, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Hebbal,Shivajinagar,13.115534,77.590783,2.27,250,26,56,48.77,30,35.9,35,Delayed
+150,2025-07-31, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Electronic City,Silk Board,13.12111,77.461921,23.15,540,25,26,64.67,40,38.9,-4,Cancelled
+237,2025-05-30, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Majestic,Hebbal,13.193168,77.518665,17.8,1474,71,53,18.13,60,80.3,19,
+482,2025-08-06, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Shivajinagar,Banashankari,13.029587,77.573995,2.47,1635,108,-2,75.65,50,26.4,40,On Time
+921,2025-02-15, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Bommanahalli,Majestic,12.997341,77.495147,20.38,718,12,57,27.09,100,61.2,29,
+386,2025-10-14, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Bommanahalli,Whitefield,13.199759,77.674109,23.11,422,114,41,55.66,100,35.7,40,Delayed
+506,2025-12-30, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Majestic,Yelahanka,13.055376,77.780452,25.99,1197,98,19,55.97,50,41.3,11,Completed
+210,2025-04-14, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Whitefield,RR Nagar,12.879713,77.649397,13.42,1674,61,9,54.7,60,57.3,38,On Time
+341,2025-07-29, Bengaluru ,R106, Whitefield - Silk Board ,,Electronic City,Dasarahalli,12.934846,77.462051,14.08,920,20,15,73.01,100,94.3,12,Completed
+693,2025-01-28, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Bommanahalli,Hebbal,12.853569,77.476424,2.52,551,67,23,6.09,60,73.6,63,On Time
+613,2025-02-09, Bengaluru ,R103,Mahadevapura - KR Market,Bus,Mahadevapura,RR Nagar,13.13349,77.634051,11.51,598,50,44,33.22,50,38.1,42,Delayed
+599,2025-12-19, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,KR Market,Banashankari,12.901394,77.721863,12.8,1104,31,7,38.86,30,76.4,29,Completed
+128,2025-05-28, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Dasarahalli,RR Nagar,12.962912,77.679269,27.79,1775,98,14,42.12,40,86.8,8,On Time
+317,2025-02-12, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,RR Nagar,Whitefield,13.029218,77.56312,29.61,2059,75,12,57.64,60,45.2,13,Delayed
+966,2025-02-22, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Dasarahalli,Hebbal,13.024695,77.735502,16.87,284,40,40,30.54,100,86.6,43,On Time
+339,2025-07-21, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,KR Market,Yelahanka,12.918224,77.791173,28.42,1145,47,46,21.31,40,49.9,21,Completed
+67,2025-05-29, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Mahadevapura,Silk Board,13.005827,77.768301,28.83,714,107,49,72.75,30,40.0,45,Cancelled
+616,2025-01-06, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,CV Raman Nagar,KR Market,13.073372,77.65622,11.37,1179,41,57,24.52,60,45.8,14,Delayed
+813,2025-02-27, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,RR Nagar,Hebbal,13.104693,77.706144,27.3,903,45,59,74.57,50,47.2,12,Delayed
+875,2025-10-05, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Electronic City,Shivajinagar,12.932141,77.695893,12.76,1266,95,14,74.34,30,51.2,25,Completed
+842,2025-01-22, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Mahadevapura,Bommanahalli,12.866246,77.544041,13.96,428,56,15,56.93,150,83.1,43,Completed
+759,2025-06-26, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Majestic,Mahadevapura,13.186592,77.675619,6.66,1017,93,45,33.01,40,62.1,38,Cancelled
+531,2025-12-17, Bengaluru ,R110, Hebbal - Yeshwanthpur ,,Dasarahalli,Bommanahalli,12.989755,77.545694,23.67,617,71,26,73.89,30,55.3,10,On Time
+940,2025-01-09, Bengaluru ,R110,Hebbal - Yeshwanthpur,Bus,KR Market,Bommanahalli,13.013727,77.781812,13.66,1409,11,45,29.61,50,90.3,24,Completed
+589,2025-07-05, Bengaluru ,R101, Yelahanka - Majestic ,Metro,KR Market,Majestic,12.978755,77.479469,9.42,478,60,43,73.24,30,58.8,37,Cancelled
+390,2025-06-07, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Electronic City,Hebbal,13.042047,77.689974,8.61,1366,41,8,25.3,30,84.3,3,Delayed
+12,2025-07-16, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Hebbal,Bommanahalli,13.080619,77.79322,9.55,1160,28,56,29.38,150,63.2,38,Cancelled
+230,2025-12-27, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,KR Market,Dasarahalli,13.005064,77.467265,7.44,1134,130,7,19.51,150,92.9,28,Cancelled
+36,2025-06-22,,R109, CV Raman Nagar - Shivajinagar ,Bus,CV Raman Nagar,Majestic,13.04219,77.728471,4.35,873,108,38,20.29,100,48.3,25,Cancelled
+917,2025-07-06, Bengaluru ,R106, Whitefield - Silk Board ,Bus,CV Raman Nagar,Electronic City,12.971743,77.686274,13.24,513,84,11,43.48,50,76.6,11,Delayed
+623,2025-05-07, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yeshwanthpur,Bommanahalli,13.173964,77.503399,22.45,751,102,5,64.99,30,75.4,12,On Time
+315,2025-05-04, Bengaluru ,R107, Electronic City - Majestic ,Metro,KR Market,Whitefield,13.115197,77.736734,10.43,1732,37,37,79.35,50,79.0,24,Completed
+8,2025-01-22, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Electronic City,Whitefield,13.136161,77.731076,18.04,172,104,38,58.96,100,38.8,20,Completed
+538,2025-01-18, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Yelahanka,Mahadevapura,13.003699,77.625484,24.25,694,44,28,44.18,60,32.3,38,Completed
+873,2025-03-20, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Bommanahalli,Shivajinagar,12.993122,77.53447,19.24,97,86,64,37.79,100,49.1,22,Delayed
+421,2025-08-17, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,KR Market,Banashankari,13.032276,77.68672,26.95,1230,32,33,51.07,150,49.3,2,On Time
+319,2025-06-12, Bengaluru ,R107, Electronic City - Majestic ,Bus,Majestic,Yelahanka,13.102682,77.740586,26.25,143,115,24,11.48,30,49.9,12,On Time
+775,2025-08-21, Bengaluru ,R110,Hebbal - Yeshwanthpur,Bus,Bommanahalli,KR Market,13.167858,77.779531,25.97,1662,87,17,21.42,100,41.3,9,On Time
+311,2025-04-18, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,Yelahanka,Banashankari,13.106027,77.497488,23.34,169,110,22,45.35,150,36.3,36,On Time
+973,2025-03-31, Bengaluru ,R101, Yelahanka - Majestic ,Metro,RR Nagar,Yeshwanthpur,12.887996,77.607073,22.52,1530,12,11,72.48,60,94.2,15,On Time
+302,2025-06-09, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Mahadevapura,Silk Board,13.095098,77.68082,14.04,1318,53,14,50.26,40,73.4,10,Cancelled
+405,2025-04-17, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Bommanahalli,CV Raman Nagar,12.973476,77.540964,5.64,82,44,40,71.89,100,74.9,0,On Time
+958,2025-09-11, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Majestic,RR Nagar,12.930898,77.700071,22.62,1393,57,16,30.92,60,93.5,32,On Time
+720,2025-07-22, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Silk Board,Electronic City,13.18479,77.744009,13.57,1353,49,51,11.12,60,66.1,41,Cancelled
+442,2025-02-17, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Banashankari,Shivajinagar,13.16384,77.792299,13.58,1765,10,19,16.59,150,49.1,9,On Time
+533,2025-07-11, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Shivajinagar,RR Nagar,12.966245,77.708495,29.33,246,96,6,61.14,40,91.2,31,Cancelled
+716,2025-03-16, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Banashankari,Silk Board,13.173739,77.703184,26.72,543,64,33,37.82,100,25.9,6,On Time
+85,2025-03-19, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Bommanahalli,KR Market,12.937906,77.473576,5.38,473,115,35,69.34,30,62.2,10,Completed
+522,2025-10-28, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,KR Market,Dasarahalli,13.196687,77.673087,26.35,1461,20,58,54.51,60,71.1,17,Cancelled
+87,2025-03-20, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Yeshwanthpur,Mahadevapura,13.116864,77.747273,26.79,409,90,19,64.34,40,77.8,42,Cancelled
+966,2025-02-22, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Dasarahalli,Hebbal,13.024695,77.735502,16.87,284,40,40,30.54,100,86.6,43,On Time
+112,2025-01-29,,R105, RR Nagar - Banashankari ,Bus,Silk Board,RR Nagar,12.935114,77.5077,5.47,1620,102,52,19.89,150,62.4,20,
+62,2025-01-27, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Hebbal,Whitefield,12.998906,77.717915,14.46,1008,106,27,42.58,150,74.3,40,On Time
+453,2025-06-20, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Yeshwanthpur,CV Raman Nagar,13.07478,77.557844,12.0,681,-5,8,67.14,30,35.6,6,Completed
+969,2025-05-30, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,CV Raman Nagar,Dasarahalli,13.087925,77.604582,29.01,1676,46,44,36.33,100,81.2,43,Delayed
+512,2025-04-22, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Hebbal,Banashankari,13.0248,77.609362,3.68,1348,93,44,36.62,40,91.1,18,Cancelled
+631,2025-01-24, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Banashankari,Dasarahalli,13.078541,77.728163,4.73,1635,26,55,55.38,50,54.6,81,Delayed
+189,2025-02-28, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,CV Raman Nagar,Shivajinagar,12.900698,77.515753,14.16,102,14,45,36.61,150,30.4,25,Completed
+163,2025-07-23, Bengaluru ,R106,Whitefield - Silk Board,Bus,Mahadevapura,Hebbal,12.903607,77.511809,24.1,655,78,60,26.99,100,85.3,1,Delayed
+243,2025-12-17, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,CV Raman Nagar,Shivajinagar,12.864825,77.593147,25.78,629,115,57,79.88,150,38.2,27,Delayed
+722,2025-08-15, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Bommanahalli,Majestic,12.91327,77.774427,23.21,998,82,58,41.01,50,67.7,24,Delayed
+729,2025-09-29, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Mahadevapura,KR Market,12.927816,77.681104,18.58,932,94,37,56.88,50,75.9,10,Cancelled
+532,2025-05-18, Bengaluru ,R109,CV Raman Nagar - Shivajinagar,,Shivajinagar,Hebbal,13.033922,77.55624,9.11,1122,39,59,79.62,50,97.9,32,Cancelled
+372,2025-01-20, Bengaluru ,R107, Electronic City - Majestic ,Bus,Whitefield,Silk Board,12.85305,77.480799,23.26,871,117,14,73.57,150,43.5,41,Delayed
+876,2025-07-26, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Bommanahalli,Electronic City,13.132444,77.463227,29.41,557,41,7,56.91,150,47.5,25,Delayed
+939,2025-04-22, Bengaluru ,R104,Bommanahalli - Majestic,Metro,Dasarahalli,Silk Board,12.953483,77.603515,26.84,999,19,41,27.9,30,44.2,2,Cancelled
+358,2025-09-19, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,RR Nagar,KR Market,13.021717,77.67281,18.87,140,37,23,61.88,150,57.6,50,Completed
+254,2025-09-07, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Metro,Yelahanka,Electronic City,13.00851,77.473429,16.0,543,33,18,35.59,50,74.6,44,
+815,2025-08-19, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Mahadevapura,CV Raman Nagar,12.929014,77.456698,3.66,1184,86,39,43.19,40,25.3,18,Completed
+97,2025-02-11,,R104, Bommanahalli - Majestic ,Metro,Electronic City,Hebbal,12.866303,77.726315,25.84,565,94,40,48.35,30,40.4,30,Cancelled
+245,2025-03-13, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Mahadevapura,Electronic City,13.173128,77.723659,20.16,564,38,36,65.47,30,38.6,30,On Time
+114,2025-01-01, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Shivajinagar,Dasarahalli,13.056023,77.759066,29.24,277,36,28,18.62,50,92.5,2,On Time
+350,2025-10-28, Bengaluru ,R108, Dasarahalli - Majestic ,,Bommanahalli,Mahadevapura,13.052048,77.599945,2.39,280,20,24,15.76,150,79.5,3,Completed
+755,2025-09-07, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Dasarahalli,Hebbal,12.864173,77.711925,26.71,1506,31,18,48.13,50,36.0,3,Delayed
+248,2025-10-10, Bengaluru ,R108, Dasarahalli - Majestic ,,Silk Board,Dasarahalli,12.938252,77.604902,12.12,230,46,34,39.69,30,59.3,24,Cancelled
+427,2025-07-05,,R105, RR Nagar - Banashankari ,Bus,Shivajinagar,KR Market,12.909953,77.624707,9.84,1700,37,47,74.86,60,26.0,-6,Completed
+907,2025-04-27,,R110, Hebbal - Yeshwanthpur ,Metro,Mahadevapura,Yelahanka,13.120345,77.561958,4.42,451,4,39,79.82,50,44.1,33,Delayed
+745,2025-06-07,,R106, Whitefield - Silk Board ,Bus,Electronic City,Majestic,13.185554,77.766759,2.14,1519,71,33,22.71,50,48.8,7,Cancelled
+73,2025-03-14, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Electronic City,Yelahanka,12.893917,77.607841,11.45,1016,116,45,61.95,30,80.9,29,On Time
+137,2025-12-10, Bengaluru ,R101, Yelahanka - Majestic ,Metro,KR Market,Mahadevapura,13.015278,77.546471,10.11,1335,67,33,29.54,50,60.0,18,On Time
+417,2025-06-14, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Whitefield,RR Nagar,13.126917,77.73069,19.46,773,56,40,15.16,60,96.3,9,Delayed
+13,2025-06-08, Bengaluru ,R101, Yelahanka - Majestic ,,Banashankari,Majestic,12.908171,77.649774,14.1,682,61,20,66.17,100,89.5,64,Cancelled
+914,2025-05-13, Bengaluru ,R104,Bommanahalli - Majestic,Bus,Majestic,CV Raman Nagar,13.084291,77.492147,24.24,1780,109,47,40.23,30,52.9,12,Completed
+851,2025-08-05, Bengaluru ,R103, Mahadevapura - KR Market ,,RR Nagar,Dasarahalli,13.015303,77.576755,7.54,655,53,10,27.5,60,77.1,43,
+853,2025-01-23, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Electronic City,Dasarahalli,13.184187,77.635661,26.57,1714,85,14,74.02,40,82.6,14,On Time
+962,2025-02-21, Bengaluru ,R107, Electronic City - Majestic ,Bus,Dasarahalli,Shivajinagar,12.9168,77.504923,4.41,634,93,38,-10.74,100,44.8,2,Delayed
+164,2025-05-06, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Yelahanka,Banashankari,12.877453,77.463107,20.27,624,11,43,41.41,50,92.5,44,On Time
+392,2025-02-23, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Bommanahalli,Yeshwanthpur,13.169391,77.604065,8.45,269,88,73,24.54,40,44.4,6,Delayed
+556,2025-01-18, Bengaluru ,R105, RR Nagar - Banashankari ,,Silk Board,RR Nagar,13.021463,77.566739,10.54,1157,55,23,17.52,50,70.0,54,Delayed
+930,2025-11-24, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Yeshwanthpur,Mahadevapura,12.937879,77.667298,29.21,240,118,46,50.85,30,60.9,23,Cancelled
+287,2025-01-06, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Hebbal,Silk Board,12.855788,77.527373,29.41,1407,117,51,12.77,100,39.0,42,Delayed
+762,2025-01-05, Bengaluru ,R101, Yelahanka - Majestic ,Metro,CV Raman Nagar,Bommanahalli,13.115495,77.627791,3.58,1530,112,42,20.45,150,28.9,34,Completed
+506,2025-12-30, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Majestic,Yelahanka,13.055376,77.780452,25.99,1197,98,19,55.97,50,41.3,11,Completed
+265,2025-11-26, Bengaluru ,R107,Electronic City - Majestic,Bus,RR Nagar,Electronic City,13.060593,77.688831,2.28,794,113,23,9.81,30,88.8,34,Delayed
+283,2025-09-09, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Hebbal,Dasarahalli,12.995697,77.645057,20.78,415,63,11,49.7,40,82.7,20,Completed
+493,2025-04-04, Bengaluru ,R107, Electronic City - Majestic ,Bus,Electronic City,Silk Board,13.051477,77.779897,17.51,1259,32,5,72.84,40,45.6,35,On Time
+294,2025-09-10,,R110, Hebbal - Yeshwanthpur ,Metro,Electronic City,Banashankari,12.923486,77.781172,6.48,626,72,9,43.45,40,46.2,20,Completed
+839,2025-02-06, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,,Yelahanka,Silk Board,13.107982,77.551338,5.07,393,95,36,57.07,30,6.3,33,Completed
+207,2025-01-02, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Whitefield,Bommanahalli,13.114883,77.74738,13.84,243,131,47,75.58,30,76.6,14,Completed
+807,2025-09-25, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Mahadevapura,Electronic City,13.012909,77.68476,5.36,1534,79,28,63.98,40,42.0,15,Completed
+75,2025-03-30, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Banashankari,Electronic City,13.052993,77.791557,24.19,1644,51,60,62.58,40,25.0,48,
+99,2025-05-06,,R107, Electronic City - Majestic ,Metro,Bommanahalli,Dasarahalli,13.160931,77.531744,9.58,1477,17,8,33.2,30,27.7,24,Completed
+72,2025-12-12, Bengaluru ,R106, Whitefield - Silk Board ,Metro,KR Market,Majestic,12.930148,77.475852,17.55,1794,76,18,23.02,40,69.5,42,
+817,2025-08-05, Bengaluru ,R106, Whitefield - Silk Board ,Bus,Yelahanka,CV Raman Nagar,13.187767,77.550564,29.54,1066,16,18,30.62,30,37.0,45,Completed
+892,2025-03-07, Bengaluru ,R106, Whitefield - Silk Board ,,KR Market,Yeshwanthpur,13.189307,77.719142,21.93,179,96,30,35.13,40,91.0,21,Cancelled
+80,2025-09-27, Bengaluru ,R104,Bommanahalli - Majestic,Metro,RR Nagar,Dasarahalli,12.902961,77.478435,2.89,1095,47,18,49.72,60,85.8,2,Completed
+990,2025-09-08, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Shivajinagar,Silk Board,13.125864,77.518946,7.19,1392,71,13,31.29,40,39.2,6,Completed
+912,2025-11-09, Bengaluru ,R101,Yelahanka - Majestic,Metro,Electronic City,Whitefield,13.193615,77.664899,4.76,1181,29,48,74.98,50,89.5,6,Delayed
+636,2025-11-24,,R108, Dasarahalli - Majestic ,Bus,Yeshwanthpur,Whitefield,13.06294,77.545772,4.94,1850,82,14,34.66,40,48.1,16,Delayed
+401,2025-06-04, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Whitefield,Bommanahalli,12.982928,77.775447,23.01,1588,66,59,49.6,30,36.0,25,Completed
+498,2025-01-27, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Whitefield,Dasarahalli,12.885025,77.687241,24.36,190,103,33,59.11,60,93.9,30,On Time
+684,2025-11-02, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,RR Nagar,Majestic,13.189339,77.712582,18.45,390,24,25,31.91,50,82.9,1,Delayed
+466,2025-08-13, Bengaluru ,R107, Electronic City - Majestic ,Metro,Bommanahalli,Shivajinagar,12.856861,77.480898,12.68,927,45,48,61.17,150,42.3,14,On Time
+158,2025-08-18, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Electronic City,Bommanahalli,13.199646,77.57838,27.92,1136,87,15,-14.42,30,31.7,26,
+509,2025-09-19, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Shivajinagar,Banashankari,13.149614,77.656598,29.22,641,54,53,22.45,150,52.0,5,On Time
+655,2025-10-02, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Bommanahalli,Electronic City,13.134738,77.785618,23.37,852,66,30,48.85,100,25.4,34,Cancelled
+492,2025-07-02, Bengaluru ,R103, Mahadevapura - KR Market ,Metro,Shivajinagar,Yeshwanthpur,12.988418,77.566845,9.92,1666,24,13,44.44,40,79.0,30,Completed
+820,2025-08-21, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Hebbal,Majestic,12.880996,77.502924,19.95,906,71,22,4.83,60,61.3,12,
+289,2025-03-05, Bengaluru ,R107, Electronic City - Majestic ,Metro,RR Nagar,Electronic City,13.1582,77.789842,11.96,650,54,49,50.09,30,66.7,42,Delayed
+122,2025-09-10, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Dasarahalli,RR Nagar,13.053268,77.793964,4.5,237,90,46,24.07,150,87.9,16,On Time
+12,2025-07-14, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Whitefield,Dasarahalli,13.065982,77.54822,12.77,435,37,75,59.32,30,71.2,28,Delayed
+340,2025-03-06, Bengaluru ,R107, Electronic City - Majestic ,Bus,Bommanahalli,CV Raman Nagar,13.020694,77.770683,8.61,350,17,13,39.39,30,50.2,44,
+726,2025-05-31, Bengaluru ,R110,Hebbal - Yeshwanthpur,Metro,Electronic City,Whitefield,13.143977,77.641416,10.74,224,37,22,72.44,50,87.7,1,On Time
+545,2025-03-01,,R101, Yelahanka - Majestic ,Bus,Silk Board,Shivajinagar,13.175291,77.561397,29.78,967,112,38,66.54,150,86.1,8,
+204,2025-06-06, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,CV Raman Nagar,Majestic,12.878224,77.617894,27.26,1443,112,54,21.87,40,88.1,1,Completed
+378,2025-02-18, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Yeshwanthpur,Mahadevapura,13.190617,77.459147,24.6,1163,115,12,17.44,30,3.1,13,Cancelled
+402,2025-11-08, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Whitefield,RR Nagar,12.905339,77.577391,23.05,2283,107,55,76.27,50,78.5,19,Delayed
+448,2025-06-15, Bengaluru ,R110, Hebbal - Yeshwanthpur ,,Banashankari,CV Raman Nagar,13.058034,77.48822,28.15,301,93,27,56.73,100,34.4,14,Delayed
+446,2025-02-26, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Mahadevapura,Shivajinagar,13.079651,77.530463,20.02,1695,119,21,61.77,60,30.0,11,Delayed
+157,2025-08-16, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,KR Market,Silk Board,12.974683,77.768177,21.53,938,24,52,37.83,100,92.8,34,Delayed
+387,2025-03-21, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Whitefield,CV Raman Nagar,13.016274,77.646388,26.74,480,10,7,137.28,30,31.9,11,Completed
+180,2025-03-22, Bengaluru ,R107,Electronic City - Majestic,Bus,Yelahanka,Yeshwanthpur,13.062637,77.64456,12.67,948,119,7,61.78,40,25.3,22,Delayed
+922,2025-11-06, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Shivajinagar,KR Market,12.985239,77.693576,11.23,283,107,29,23.8,40,86.8,10,Completed
+665,2025-03-02, Bengaluru ,R101, Yelahanka - Majestic ,Bus,CV Raman Nagar,Silk Board,12.927864,77.537592,13.33,1024,53,13,47.52,40,41.3,6,
+664,2025-07-12, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Hebbal,Dasarahalli,13.071838,77.648702,19.06,1281,167,6,25.36,150,38.7,19,Completed
+159,2025-08-02, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Banashankari,Yelahanka,13.113239,77.581038,18.79,923,116,38,62.92,30,91.5,6,Completed
+834,2025-02-20, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Shivajinagar,Majestic,12.890633,77.736033,10.03,136,35,39,18.41,60,29.9,25,Completed
+653,2025-10-23, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Metro,Banashankari,RR Nagar,13.182809,77.713141,10.12,889,78,42,74.1,150,77.1,40,Delayed
+270,2025-01-26, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Yelahanka,CV Raman Nagar,12.895392,77.457691,7.62,1739,72,44,65.9,60,109.0,5,Completed
+676,2025-05-17, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Banashankari,CV Raman Nagar,12.917899,77.692808,11.21,273,29,21,28.84,150,42.5,17,Completed
+548,2025-12-27, Bengaluru ,R102, Hebbal - Shivajinagar ,Bus,CV Raman Nagar,Banashankari,13.177872,77.595361,18.91,862,107,19,27.64,40,41.5,23,Cancelled
+93,2025-11-04, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,RR Nagar,Electronic City,13.04431,77.574949,12.88,392,108,41,57.89,40,39.6,17,On Time
+737,2025-03-26, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Majestic,Yelahanka,13.011967,77.691273,19.39,744,63,34,29.53,100,70.6,2,
+695,2025-03-17,,R110, Hebbal - Yeshwanthpur ,Metro,Mahadevapura,Bommanahalli,13.038254,77.537502,10.31,1439,39,11,46.12,100,47.4,17,Cancelled
+320,2025-05-04, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Whitefield,KR Market,13.084956,77.466122,13.28,1611,53,27,129.55,150,60.8,33,Cancelled
+644,2025-12-08, Bengaluru ,R104, Bommanahalli - Majestic ,Bus,Silk Board,Hebbal,12.977673,77.607046,19.88,813,20,20,67.26,30,86.6,20,Completed
+710,2025-05-19, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Bommanahalli,CV Raman Nagar,13.068527,77.768489,19.7,1422,86,27,76.85,30,92.9,11,Completed
+485,2025-03-02, Bengaluru ,R107, Electronic City - Majestic ,Bus,Whitefield,Dasarahalli,13.075807,77.47678,23.64,844,34,17,70.62,100,45.7,33,Completed
+696,2025-09-07, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Bommanahalli,Hebbal,13.04205,77.588424,24.67,341,114,36,40.21,100,53.7,8,Delayed
+199,2025-03-25, Bengaluru ,R103, Mahadevapura - KR Market ,,Dasarahalli,Yelahanka,12.996925,77.624249,7.38,508,114,21,24.77,50,76.8,35,Completed
+105,2025-12-28,,R105, RR Nagar - Banashankari ,Bus,Majestic,RR Nagar,13.026552,77.773715,14.42,1136,91,45,12.08,150,80.8,8,On Time
+825,2025-12-28, Bengaluru ,R104,Bommanahalli - Majestic,Metro,Mahadevapura,CV Raman Nagar,13.002155,77.79343,24.1,1495,97,15,68.44,30,56.8,38,On Time
+818,2025-06-11, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Banashankari,Electronic City,13.074886,77.519142,26.8,553,60,19,34.18,150,124.1,6,Cancelled
+525,2025-06-06, Bengaluru ,R104, Bommanahalli - Majestic ,Metro,Banashankari,CV Raman Nagar,12.966141,77.797211,14.07,616,92,29,67.78,40,82.3,34,Completed
+712,2025-06-21, Bengaluru ,R108, Dasarahalli - Majestic ,Bus,Mahadevapura,KR Market,12.997158,77.492511,4.16,1306,119,39,32.42,50,76.7,4,On Time
+869,2025-02-11, Bengaluru ,R105, RR Nagar - Banashankari ,Metro,Banashankari,Whitefield,13.081301,77.762373,12.34,706,36,8,14.47,100,96.6,36,Completed
+621,2025-08-06, Bengaluru ,R109, CV Raman Nagar - Shivajinagar ,Bus,Bommanahalli,RR Nagar,13.065323,77.54915,25.98,689,25,5,48.23,40,52.2,21,On Time
+630,2025-01-28, Bengaluru ,R103, Mahadevapura - KR Market ,Bus,Majestic,Mahadevapura,12.944979,77.786843,17.75,116,62,42,12.78,40,75.2,25,Delayed
+578,2025-03-07, Bengaluru ,R108, Dasarahalli - Majestic ,Metro,Banashankari,Whitefield,12.901969,77.724643,22.48,1004,46,59,17.74,50,55.9,7,Completed
+439,2025-06-09, Bengaluru ,R106, Whitefield - Silk Board ,Metro,Mahadevapura,Majestic,12.963122,77.525029,27.16,1444,114,34,12.86,100,64.8,15,Delayed
+513,2025-12-05, Bengaluru ,R104,Bommanahalli - Majestic,Metro,KR Market,Yelahanka,12.98305,77.559014,7.41,1490,81,21,71.95,40,31.4,41,
+21,2025-10-01, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Yeshwanthpur,KR Market,13.008025,77.682898,21.18,301,56,37,56.19,100,92.7,42,Delayed
+119,2025-06-20, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Yelahanka,Dasarahalli,13.160281,77.646468,10.24,765,65,56,74.26,30,70.2,70,Completed
+883,2025-05-18, Bengaluru ,R107, Electronic City - Majestic ,Bus,Hebbal,CV Raman Nagar,13.131451,77.725833,27.61,1077,15,11,33.49,30,69.3,38,Delayed
+815,2025-08-19, Bengaluru ,R102, Hebbal - Shivajinagar ,Metro,Mahadevapura,CV Raman Nagar,12.929014,77.456698,3.66,1184,86,39,43.19,40,25.3,18,Completed
+647,2025-12-03, Bengaluru ,R101, Yelahanka - Majestic ,Bus,Yeshwanthpur,CV Raman Nagar,13.102159,77.686466,9.0,813,70,52,15.6,40,66.4,42,Delayed
+747,2025-04-27, Bengaluru ,R102,Hebbal - Shivajinagar,Bus,Dasarahalli,KR Market,13.164604,77.543642,4.18,824,53,12,14.58,100,-3.9,17,Delayed
+542,2025-09-30, Bengaluru ,R101, Yelahanka - Majestic ,Metro,Yelahanka,Silk Board,12.855015,77.473992,17.98,1655,28,42,66.86,100,32.6,41,Cancelled
+863,2025-06-04, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,Dasarahalli,Majestic,13.019759,77.722365,12.16,779,35,15,26.55,50,80.5,30,Delayed
+900,2025-10-31, Bengaluru ,R107, Electronic City - Majestic ,Bus,Yelahanka,Bommanahalli,13.193653,77.557014,10.48,487,109,31,53.13,40,32.1,27,Cancelled
+408,2025-09-16,,R109, CV Raman Nagar - Shivajinagar ,Bus,Yeshwanthpur,Hebbal,13.008265,77.769375,7.21,1298,28,9,72.27,60,8.6,16,Completed
+155,2025-09-26, Bengaluru ,R105,RR Nagar - Banashankari,Bus,RR Nagar,CV Raman Nagar,13.136753,77.563994,18.62,1777,67,10,17.95,100,47.2,22,Completed
+6,2025-09-02, Bengaluru ,R110, Hebbal - Yeshwanthpur ,Bus,Dasarahalli,Bommanahalli,12.983828,77.494059,9.4,561,84,48,77.11,40,31.9,1,Delayed
+279,2025-06-05, Bengaluru ,R105, RR Nagar - Banashankari ,Bus,CV Raman Nagar,Hebbal,12.915924,77.773345,7.03,166,56,56,25.33,100,56.3,23,On Time
